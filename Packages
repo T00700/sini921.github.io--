@@ -48,3 +48,20 @@ Filename: ./debs/com.hitori.misaki_2.1.7_iphoneos-arm64.deb
 MD5sum: 7e3b1f3bd25e6c1f1ae410e01235517e
 SHA1: 222e5ccca8d9e7c08d1475272e992a2c9cd9aacf
 SHA256: 0e225f5294a12a45de685e330d2c212b9ad567d12cfd750627bc2239f77e5085
+
+
+
+Package: com.sunshinesong.split-view-pro
+Name: split-view-pro
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Description: 分屏，不必太复杂，一切从简即可。
+Maintainer: sunshinesong
+Author: sunshinesong
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Installed-Size: 13792
+Filename: ./debs/split-view-pro.1.1.5.deb
+MD5sum: 07235702c22f2288c44e776b235e6940
+SHA1: 2ca51292fec481501a89816abb86dfc68264ba31
+SHA256: 5593ff630f531ee936383593436322542f175324a75601149988ef4558b589dc
