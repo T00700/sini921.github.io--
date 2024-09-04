@@ -3,5 +3,5 @@ Label: 🇨🇳思念变成海🇨🇳Repo
 Description: This is a self-use software source
 Suite: stable
 Version: 1.0
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Architectures: iphoneos-arm64
 Components: main
