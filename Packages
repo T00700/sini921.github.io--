@@ -31,3 +31,20 @@ Filename: ./debs/PadSwitcher-iPad多任务.1.1.0.deb
 MD5sum: 0aea545f5a882a85d0e247c50c8614f4
 SHA1: 7c2ef70c1c1aec70b17f5036f0c9d4ddb822e320
 SHA256: 2bd3301b2213d3e6303b600446f14d7f206a0c6e93133d707a3a1c903906f036
+
+
+
+Package: com.hitori.misaki
+Version: 2.1.7
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Author: Hitori <mikasa-san@outlook.jp>
+Section: Tweaks
+Installed-Size: 1056
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Name: Misaki
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Filename: ./debs/com.hitori.misaki_2.1.7_iphoneos-arm64.deb
+MD5sum: 7e3b1f3bd25e6c1f1ae410e01235517e
+SHA1: 222e5ccca8d9e7c08d1475272e992a2c9cd9aacf
+SHA256: 0e225f5294a12a45de685e330d2c212b9ad567d12cfd750627bc2239f77e5085
