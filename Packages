@@ -8,7 +8,7 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, co
 TS: sp-sss
 Architecture: iphoneos-arm64
 Version: 1.3.7
-Installed-Size: 5624
+Size: 5624
 Filename: ./debs/com.sunshinesong.split-view-pro_1.3.7_iphoneos-arm64.deb
 MD5sum: 61967870968c15dc26eba579bdae698d
 SHA1: a1db71fc4736be1722db05d98ac736df989f653e
@@ -18,7 +18,7 @@ Package: com.swing.padswitcher
 Name: PadSwitcher - iPad 多任务
 Version: 1.1.0
 Architecture: iphoneos-arm64
-Installed-Size: 368
+Size: 368
 Maintainer: SWING
 Author: SWING
 Section: Tweaks
@@ -36,7 +36,7 @@ Architecture: iphoneos-arm64
 Maintainer: Hitori <mikasa-san@outlook.jp>
 Author: Hitori <mikasa-san@outlook.jp>
 Section: Tweaks
-Installed-Size: 1056
+Size: 1056
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
 Name: Misaki
 Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
@@ -54,7 +54,7 @@ Maintainer: sunshinesong
 Author: sunshinesong
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Installed-Size: 13792
+Size: 13792
 Filename: ./debs/split-view-pro.1.1.5.deb
 MD5sum: 07235702c22f2288c44e776b235e6940
 SHA1: 2ca51292fec481501a89816abb86dfc68264ba31
@@ -70,7 +70,7 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
 TS: sp-sss
 Architecture: iphoneos-arm64
 Version: 1.1.6
-Installed-Size: 13648
+Size: 13648
 Filename: ./debs/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
 MD5sum: 0633f6b017afdbbc2513ea5b24cf19de
 SHA1: 61c37fdc9ef8cc51d962d0cb329e5d99ecd5798c
