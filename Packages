@@ -54,7 +54,7 @@ Maintainer: sunshinesong
 Author: sunshinesong
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Size: 13792
+Size: 3520200
 Filename: ./debs/split-view-pro.1.1.5.deb
 MD5sum: 07235702c22f2288c44e776b235e6940
 SHA1: 2ca51292fec481501a89816abb86dfc68264ba31
