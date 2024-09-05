@@ -530,13 +530,13 @@ Description: 去除广告
 Maintainer: 小果子
 Depends: mobilesubstrate (>= 0.9.5000)
 Section: Tweaks
-Size: 10888892
+Size: 1088892
 Filename: ./debs/酷安FuckAds.5.2.0.deb
 MD5sum: 0a16ee2d962a140c7f9cf2ca69fd4e0e
 SHA1: 8f5578ea4079f364ff3ac15a00899dd1411515ef
 SHA256: 2d0d4f20234f579ae8211b096bd8bea7c50067e2c398bd090da2c59b5c6c2133
 
-Package: com.guozix.weifeng
+Package: com.guozi.weifeng
 Name: 威锋FuckVIP-Ads
 Version: 7.0.3
 Architecture: iphoneos-arm64
