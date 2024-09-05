@@ -216,3 +216,35 @@ Filename: ./debs/com.sini.storeswitcher2.rootless_1.0.4_iphoneos-arm64.deb
 MD5sum: ed9f6c4c7d31e988d3dcce8f21dcf36f
 SHA1: f8fa1edc61617f09bf6afe10b1941840ece7f46b
 SHA256: 7091c65d69924ca7b4ea2fbd6c6411d6e8162c6d4b70ce9ea45b122d984b3cbf
+
+Package: com.sini.atria
+Name: Atria-桌面布局
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: ren7995 <lau7995ren@gmail.com>
+Author: ren7995 <lau7995ren@gmail.com>
+Section: Tweaks
+Description: 桌面布局美化。
+Depiction: https://chariz.com/get/atria
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1),com.sini.atria.cn
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Tag: compatible_min::ios13.0
+Size: 237244
+Filename: ./debs/com.sini.atria_1.4.1_iphoneos-arm64.deb
+MD5sum: 5c8b35c3dc97ae6ff844d723b8628efc
+SHA1: f994887f1019fa1de004ab990226ef3bb3825bdf
+SHA256: 479dbc74690e44586f933871df05a46c1aa457961831f299a0ca79d563c328db
+
+Package: com.sini.atria.cn
+Version: 1.4.1
+Maintainer: 妖刀
+Author: Alucard/妖刀
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Section: Tweaks
+Description: Atria 简体中文包 (搬运自刀刀源)
+Size: 8708
+Filename: ./debs/com.sini.atria.cn_1.4.1_iphoneos-arm64.deb
+MD5sum: a502513726439d96ca59b857f8e17bee
+SHA1: e972bcdb7b96a23349063f81ff0b6ef2014a9f2d
+SHA256: 59efe6bd12645193eeece257a281195ee6a87b648b879d5209267d04026e7895
