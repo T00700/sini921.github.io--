@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "为烧杯群友季伯毅添加支付宝和微信的扫码与收款码模块",
+                    "markdown": "为烧杯群友季伯毅添加支付宝和微信的扫码与付款码模块",
                     "useRawFormat": true
                 },
                 {
