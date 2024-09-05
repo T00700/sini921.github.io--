@@ -438,11 +438,9 @@ Author: iKarwan <ikghd3@gmail.com>
 Section: Tweaks
 Conflicts: com.yourrepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Replaces: com.yourrepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
-Installed-Size: 424
-Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.8
 Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ikset
 Size: 48880
+Filename: ./debs/com.sini.ikghd.ikset_3.3_iphoneos-arm64.deb
 MD5sum: cea31b9a3149639fecca1bc098f8cfb4
 SHA1: 41eb15a023d1aee3b013826780eb92377e8e7cac
 SHA256: 4bd468e5c8c508ebdae9873bb6966561183c936cb7fc5725cc59793911f2f673
