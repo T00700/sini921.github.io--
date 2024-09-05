@@ -67,57 +67,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.1.8",
+                    "title": "1.0-1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "新增 音量/亮度 滑块数字大小选项",
+                    "markdown": "为烧杯群友季伯毅添加支付宝和微信的扫码与收款码模块",
                     "useRawFormat": true
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.1.7",
+                    "title": "1.0",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "插件添加 音量/亮度 滑块数字百分比选项",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.1.6.5",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "去除 音量/亮度 滑块数字百分比，自行解决。",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.1.6",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "模块和滑块圆角分开设置",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.1.5",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "目前只适合 iOS16 宝宝体验，暂不支持 iOS15。",
+                    "markdown": "发布",
                     "useRawFormat": true
                 }
             ]
