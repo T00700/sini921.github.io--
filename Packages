@@ -200,3 +200,19 @@ Filename: ./debs/com.sini.reachplayer-rootless_2.6_iphoneos-arm64.deb
 MD5sum: 204dcd0557016cc9608256df139955e0
 SHA1: 867e9201957bdac7967a34d77f4ba02bd3583a79
 SHA256: b50ef328d64b9f540b845ce4119f8c0cfb0ef63caf47ff14d6d6b623ec36eaba
+
+Package: com.sini.storeswitcher2
+Version: 1.0.4
+Section: Tweaks
+Maintainer: 搬运工
+Depends: firmware (>= 11)
+Architecture: iphoneos-arm64
+Name: StoreSwitcher商店账号切换-Rootless
+size:17828
+Author: 0xkuj
+Sponsor: 搬运工
+Description: 使用先前登录的多个Apple账户直接从Appstore切换！操作方法：打开Appstore，点击个人资料，点击导航栏上的切换账号，选择所需账户！
+Filename: ./debs/com.sini.storeswitcher2.rootless_1.0.4_iphoneos-arm64.deb
+MD5sum: ed9f6c4c7d31e988d3dcce8f21dcf36f
+SHA1: f8fa1edc61617f09bf6afe10b1941840ece7f46b
+SHA256: 7091c65d69924ca7b4ea2fbd6c6411d6e8162c6d4b70ce9ea45b122d984b3cbf
