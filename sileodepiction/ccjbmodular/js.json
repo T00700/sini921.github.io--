@@ -56,32 +56,8 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "p2kdev & 妖刀",
+                    "text": "p2kdev & 妖刀 & 思念变成海",
                     "title": "作者"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "妖刀",
-                    "title": "维护者"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "1.1.8",
-                    "title": "最新版本"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "16.0 - 16.5.1",
-                    "title": "支持系统范围"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "2024 年 07 月 25 日",
-                    "title": "最后更新日期"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
                 }
             ]
         },
