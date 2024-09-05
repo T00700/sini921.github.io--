@@ -249,3 +249,136 @@ Filename: ./debs/com.sini.atria.cn_1.4.1_iphoneos-arm64.deb
 MD5sum: a502513726439d96ca59b857f8e17bee
 SHA1: e972bcdb7b96a23349063f81ff0b6ef2014a9f2d
 SHA256: 59efe6bd12645193eeece257a281195ee6a87b648b879d5209267d04026e7895
+
+Package: com.sini.msgfilt.rootless
+Version: 1.0-5.1
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Description: 微信消息屏蔽
+Section: Wechat-Tweaks
+Priority: optional
+Depends: firmware (>= 5.0)
+Sponsor: admin@25mao.com
+Name: 微信消息屏蔽
+Size: 122240
+Filename: ./debs/com.sini.msgfilt.rootless_1.0-5.1_iphoneos-arm64.deb
+MD5sum: 392fd2d1d97763f563bc77c57dd9aaf5
+SHA1: 7cfcad0cbd61103a6057b2dfd47e1bcb0c275225
+SHA256: c2422f5d08d65da489d83a651ec285fa4e1c6516ae9c7aae4c2cb3b926ba0068
+
+Package: com.sini.MisakaHelpre
+Name: 微信Misaka
+Version: 2.1-0
+Architecture: iphoneos-arm64
+Author: Misaka
+Maintainer: Misaka
+Section: Wechat-Tweaks
+Priority: optional
+Depends: mobilesubstrate
+Conflicts: misakahelper
+Replaces: misakahelper
+Provides: misakahelper
+Description: 微信 Misaka 无需权限版
+Size: 13177528
+Filename: ./debs/com.sini.MisakaHelpre_2.1-0_iphoneos-arm64.deb
+MD5sum: ea20969ebd27cce003dad0519326af1b
+SHA1: c59e439079a111f805d5a80bc9cc4211da92e4b1
+SHA256: c53f99fc762c7ce5fb5cebeb3ea721eb31a9ade8d6fddfac74ee4c424f048eb9
+
+Package: com.sini.hbwechathelper
+Name: 微信黄白
+Version: 1.7.4
+Architecture: iphoneos-arm64
+Maintainer: 思念变成海
+Sponsor: 思念变成海
+Section: Wechat-Tweaks
+Depends: mobilesubstrate
+Description: 微信黄白助手
+Author: HuangBai
+Size: 9274488
+Filename: ./debs/com.sini.hbwechathelper_1.7.4_iphoneos-arm64.deb
+MD5sum: 6fb31dbe2095d5ae075e052830f18368
+SHA1: 84d09da2def1b25a7604717832ff1c4dca918e0d
+SHA256: fc41c792ff02b200d0bd0d6bbcde764f844517cef61646c77cc1e45e8d7aaffa
+
+Package: com.sini.miyou
+Name: 微信助手
+Version: 3.8-0
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Description: 微信助手
+Section: Wechat-Tweaks
+Priority: optional
+Author: Mao
+Sponsor: admin@25mao.com
+Size:10164736
+Filename: ./debs/com.sini.miyou_3.8-0_iphoneos-arm64.deb
+MD5sum: 157dc1aa89460ce143d4f629962efef0
+SHA1: 434f9f67c74c541cc1beb04ac7647d244ce6d599
+SHA256: 3d57f83d9ec864e10169486b27115e7e60a90f303d9d6c050ed6d17abe7f599d
+
+Package: com.sini.dumpapp.wechat-rootless
+Name: 微信锤子
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Author: DumpApp
+Section: WeChat-Tweaks
+Depends: mobilesubstrate, firmware (>= 12.0)
+Description: 微信锤子助手
+Size: 9335928
+Filename: ./debs/com.sini.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64.deb
+MD5sum: 764ba82a0b23b6fa09b5f79fbc26f43b
+SHA1: 1199dfa14b185ca52452a663b4135e7993edf634
+SHA256: c028d95bd66f0b7a33dce234c954f0e702a77c7c2e4bcbd9246e0e8722de0548
+
+Package: com.sini.appku.wechat
+Name: 微信爱锋
+Architecture: iphoneos-arm64
+Description: 抢红包, 推送小助手, 仿装计算器, 备注用户头像, 虚拟视频, 全局长按导航栏快捷功能, 等; 修复转账金额移动复原, 添加文字修改, 语言包, 一键已读, 多端登录设备隐藏, 新增朋友圈转发、修改聊天时间.
+Maintainer: appku
+Author: appku
+Section: WeChat-Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 1.6-2
+Size: 1657924
+Filename: ./debs/com.sini.appku.wechat_1.6-2_iphoneos-arm64.deb
+MD5sum: bc080bccffef72c66fb85899b2c1b790
+SHA1: 5efbd06e0d268451a66eff18df3298f3d383c469
+SHA256: b71eab27d432b3dae8c0bd95e9139786b082d2a4d8adf1cb35fb4fd589a155f7
+
+Package: com.sini.wcplugins.rootless
+Version: 0.1-3
+Section: WeChat-Tweaks
+Priority: optional
+Architecture: iphoneos-arm64
+Essential: no
+Depends: firmware (>= 5.0)
+Maintainer: admin@25mao.com
+Size: 19636
+Author: Mao
+Description: 微信插件收纳
+Sponsor: admin@25mao.com
+Name: 微信插件收纳
+Filename: ./debs/com.sini.wcplugins.rootless_0.1-3_iphoneos-arm64.deb
+MD5sum: f9179ede97c95eac4295d0d6b00fc1ae
+SHA1: 7483c80f25d164ea9087699480197f464cb0604f
+SHA256: 5b83216963f9d7bd87a33262fc6e4c19fca226259c0c32515f37e7f1e22a2b03
+
+Package: com.sini.pingfan.wechat
+Name: 微信虚拟视频
+Version: 2.2-1
+Section: Wechat-Tweaks
+Maintainer: 思念变成海
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: 抢红包, 推送小助手, 伪装计算器, 备注用户头像, 虚拟视频, 右滑快速备注, 全局长按导航栏快捷功能, 证书有效期查询, 语音包, 一键已读消息等. 本笃默认密码113113. 不显示请卸载微信插件收纳!
+Sponsor: 思念变成海
+Author: pingfan
+Size: 1688568
+Filename: ./debs/com.sini.pingfan.wechat_2.2-1_iphoneos-arm64.deb
+MD5sum: a811a367856834129fed068ca662c3b9
+SHA1: ec0f63433ba98923ad032a9165855d2824527765
+SHA256: 61ec0fe8c0dd2d659718135876b3fac27f0cc825d4b4e46e17578d202e0b824e
+
