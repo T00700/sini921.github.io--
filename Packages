@@ -555,7 +555,7 @@ Package: com.sini.CCJBmodular
 Name: CCJBmodular
 Version: 1.0
 Architecture: iphoneos-arm64
-Description: 本插件基于刃刀源的CCBorder16、CCLess++、Netskao的CCPower。由于三个插件整合，删除不用的模块，仅为方便自己用。
+Description: 本插件基于刀刀源的CCBorder16、CCLess++、Netskao的CCPower。由三个插件整合，删除不用的模块，仅为方便自己用。
 Maintainer: 思念变成海
 Author: 妖刀&Netskao&思念变成海
 Section: Tweaks
