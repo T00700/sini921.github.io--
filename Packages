@@ -523,7 +523,7 @@ SHA1: ba19067f0252b2a949c6a389138518654ea6db10
 SHA256: ef204b05e4d8e9eb878088b5158dc6b76dadae9bc9e7a637e30903b98fecf396
 
 Package: com.guozi.kuannoaq
-Name: 酷安 FuckAds
+Name: 酷安FuckAds
 Version: 5.2.0
 Architecture: iphoneos-arm64
 Description: 去除广告
@@ -537,7 +537,7 @@ SHA1: 8f5578ea4079f364ff3ac15a00899dd1411515ef
 SHA256: 2d0d4f20234f579ae8211b096bd8bea7c50067e2c398bd090da2c59b5c6c2133
 
 Package: com.guozix.weifeng
-Name: 威锋 FuckVIP-Ads
+Name: 威锋FuckVIP-Ads
 Version: 7.0.3
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
