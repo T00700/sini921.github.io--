@@ -475,3 +475,49 @@ Filename: ./debs/com.guozi.fuckads_5.2.0_iphoneos-arm64.deb
 MD5sum: 5100a2403af6d305f9ff91b471369fec
 SHA1: 51af2f05df5dcd76065c3b2a9dd0030ea3d82c1c
 SHA256: d6bd19ea142f4c6d0885e94e38d0979d17efa1fbf8c197acb191af3463c7b584
+
+Package: com.82flex.removewidgetbg
+Name: 移除小组件背景
+Description: 移除小组件背景，让桌面更干净。
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Architecture: iphoneos-arm64
+Version: 1.0
+Size: 28872
+Filename: ./debs/com.82flex.removewidgetbg_1.0_iphoneos-arm64.deb
+MD5sum: 14a0d70db969197dadbfd3afac3cbf6d
+SHA1: 572be097fdb7b8e7977e0b401c8a26baef258827
+SHA256: 20a22e16ae930d522b83ff75e8c50ff234b731ba8fd61d7e5f1e33060e524a1c
+
+Package: com.sini.touchvis
+Version: 2.8.1k
+Section: Tweaks
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Name: Touch-Viz 触摸轨迹
+Description: 装上本插件以后，腰不酸了，腿不疼了，心脏也不跳了。
+Depiction: https://repo.cypwn.xyz/depiction/2728
+Author: Lessica
+Size: 708220
+Filename: ./debs/com.sini.touchvis_2.8.1k_iphoneos-arm64.deb
+MD5sum: 7ccbd861a2e6cb217cac15a9dfd8c8de
+SHA1: 61be9e0dc48751fd05f3f2c8897c76860b6e5687
+SHA256: ac925cf86769dabc0c4a88a35baeef58e3bebe5c22ce8947209e6c5b39a81275
+
+Package: com.sini.colorfulwallpaperx
+Name: ColorfulWallpaperX
+Description: 动态光影壁纸免费版
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 2.1
+Size: 958860
+com.sini.colorfulwallpaperx_2.1_iphoneos-arm64.deb
+MD5sum: 1bcb32e9fe7822fd40140556200f4114
+SHA1: ba19067f0252b2a949c6a389138518654ea6db10
+SHA256: ef204b05e4d8e9eb878088b5158dc6b76dadae9bc9e7a637e30903b98fecf396
