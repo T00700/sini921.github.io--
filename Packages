@@ -564,6 +564,7 @@ Filename: ./debs/com.sini.CCJBmodular_1.0_iphoneos-arm64.deb
 MD5sum: d5dc1ecb998ac19c898e366d15188d35
 SHA1: 15d60212f3e290546b903446301730f568fdcac3
 SHA256: 1708faf3ad1b2d1d6bef58a7d45cf7adf858fcb69f157f3157bf3c9728a27c1c
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
 
 Package: com.sini.pkc.rootless
 Name: 微信 PKC
@@ -596,3 +597,4 @@ Filename: ./debs/com.sini.CCJBmodular_1.0-1_iphoneos-arm64.deb
 MD5sum: 91f9c9cd1163780d82d8445a135bf564
 SHA1: 3804b5ea299f0a844271f733d83a6bdcd2d1e9b8
 SHA256: e16cc8f7936696f7ccc43081de10658161ed9ce65dc01ea82b91c3ddd1f5a747
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
