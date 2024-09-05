@@ -151,3 +151,52 @@ Filename: com.netskao.appdata_1.4.2_iphoneos-arm64.deb
 MD5sum: 090451a77622a645950b9eb617ff0075
 SHA1: 080c3f5babb93c1d27ed2a608f3867862a3d6eab
 SHA256: 1b64374f4ab692101d3c1ab6563b73622c569908b29475f17e6b1b17e6f62f33
+
+Package: com.sini.settingsrevamp
+Version: 2.1.1
+Section: Tweaks
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader, com.hk.settingsrevamp.cn.rl
+Architecture: iphoneos-arm64
+Size: 96896
+Name: SettingsRevamp
+Author: SOPPPra
+Sponsor: 思念变成海
+Description: 设置美化，插件归类。
+Filename: ./debs/com.sini.settingsrevamp_2.1.1.deb
+MD5sum: b71c0bc21a7acb51c416585900fe0083
+SHA1: bd1b9d2d3f7534d455347b0b4c4999d15848ae50
+SHA256: ed89b996d96f7d6e11a4a1faf1d77c00b4e06b79589e2cda0843ece83c36c2f6
+
+Package: com.sini.desktoplyrics
+Version: 0.3.9~b1
+Section: Tweaks
+Maintainer: 搬运工
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (>= 15.0), preferenceloader
+Architecture: iphoneos-arm64
+Size: 624116
+Name: DesktopLyrics桌面歌词
+Author: Brend0n
+Sponsor: 搬运工
+Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕。
+Filename: ./debs/com.sini.desktoplyrics_0.3.9~b1_iphoneos-arm64.deb
+MD5sum: f7d3cd3d254ca7e8e9e9695f84a37178
+SHA1: 359a81b86b6a2cbc064ee8728ed653b57db5b219
+SHA256: a151439ba9d234c7dce0014829a5c02d0377264335353ab3fda7bf9d950b25d5
+
+Package: com.sini.reachplayer-rootless
+Version: 2.6
+Section: Tweaks
+Maintainer: 搬运工
+Depends: firmware (>=13.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Name: ReachPlayer 音乐窗口
+Author: ETHN
+Sponsor: 搬运工
+size: 117096
+Description: Now Playing info in Reachability Window! 一个好看的音乐窗口，可能有偶尔失效的bug！
+Filename: ./debs/com.sini.reachplayer-rootless_2.6_iphoneos-arm64.deb
+MD5sum: 204dcd0557016cc9608256df139955e0
+SHA1: 867e9201957bdac7967a34d77f4ba02bd3583a79
+SHA256: b50ef328d64b9f540b845ce4119f8c0cfb0ef63caf47ff14d6d6b623ec36eaba
