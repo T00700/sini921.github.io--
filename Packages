@@ -327,7 +327,7 @@ Author: DumpApp
 Section: Wechat-Tweaks
 Depends: mobilesubstrate, firmware (>= 12.0)
 Description: 微信锤子助手
-Size: 9335928
+Size: 9336424
 Filename: ./debs/com.sini.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64.deb
 MD5sum: b4994ce4edf9e4f745bf4662c45ef2f8
 SHA1: da0dcd5e2397cd72de3676909ae6e20e03483004
@@ -342,7 +342,7 @@ Author: appku
 Section: Wechat-Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Version: 1.6-2
-Size: 1657924
+Size: 1672624
 Filename: ./debs/com.sini.appku.wechat_1.6-2_iphoneos-arm64.deb
 MD5sum: 4c35cff8406f4a3959c5c39ff774dfb9
 SHA1: 16f13b331e61cc979ed9a98eb44206b69bc793b1
@@ -356,7 +356,7 @@ Architecture: iphoneos-arm64
 Essential: no
 Depends: firmware (>= 5.0)
 Maintainer: admin@25mao.com
-Size: 19636
+Size: 19640
 Author: Mao
 Description: 微信插件收纳
 Sponsor: admin@25mao.com
