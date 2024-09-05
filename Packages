@@ -410,3 +410,39 @@ Filename: ./debs/com.sini.siriplus_1.3_iphoneos-arm64.deb
 MD5sum: 7a147a8a8dc69758f796d737a6ac954a
 SHA1: bdd46201f3694852ed3346600e51bdd524154553
 SHA256: f1bb49b2db00ba1698ea158f46a1dae7408879264f31db3dba6895366fb32ef9
+
+Package: com.sini.icleanerprorl
+Version: 7.10.0k
+Section: Utilities
+Architecture: iphoneos-arm64
+Maintainer: MainRepo
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 15.0)
+Conflicts: org.altervista.exilecom.icleaner
+Name: iCleaner Pro
+Depiction: 小扫把
+Size: 1000044
+Filename: ./debs/com.sini.icleanerprorl_7.10.0k_iphoneos-arm64.deb
+MD5sum: 3dad85750261521b6742439f710ad15b
+SHA1: b6e6c4415528940045fb9fc6d63519f7cdac97d1
+SHA256: 5ff21a35c1e42ff44844faccc9d62dec17fff953da260070bc7c1175252f95cb
+
+Package: com.sini.ikghd.ikset
+Version: 3.3
+Architecture: iphoneos-arm64
+Maintainer: iKarwan <ikghd3@gmail.com>
+Description: 美化设置，隐藏设置某些选项等各项功能 (汉化: lans233)
+Name: iKSettings设置美化
+Author: iKarwan <ikghd3@gmail.com>
+Section: Tweaks
+Conflicts: com.yourrepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Replaces: com.yourrepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
+Installed-Size: 424
+Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios16.8
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ikset
+Size: 48880
+MD5sum: cea31b9a3149639fecca1bc098f8cfb4
+SHA1: 41eb15a023d1aee3b013826780eb92377e8e7cac
+SHA256: 4bd468e5c8c508ebdae9873bb6966561183c936cb7fc5725cc59793911f2f673
