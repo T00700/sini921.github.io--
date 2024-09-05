@@ -11,7 +11,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "类iOS18样式的控制中心，可调节控制中心模块形状(37.5左右为圆，根据机型适当微调)，模块边框粗细，音量/亮度图形颜色等；基于p2kdev的开源定制。",
+                    "markdown": "本插件基于刀刀源的CCBorder16、CCLess++，Netskao的CCPower。由三个插件整合，删除不使用的模块，仅为方便自己用。",
                     "useRawFormat": true,
                 },
                 {
