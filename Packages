@@ -236,6 +236,7 @@ SHA1: f994887f1019fa1de004ab990226ef3bb3825bdf
 SHA256: 479dbc74690e44586f933871df05a46c1aa457961831f299a0ca79d563c328db
 
 Package: com.sini.atria.cn
+Name: Atria简体中文包
 Version: 1.4.1
 Maintainer: 妖刀
 Author: Alucard/妖刀
