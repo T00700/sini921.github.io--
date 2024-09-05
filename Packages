@@ -444,3 +444,34 @@ Filename: ./debs/com.sini.ikghd.ikset_3.3_iphoneos-arm64.deb
 MD5sum: cea31b9a3149639fecca1bc098f8cfb4
 SHA1: 41eb15a023d1aee3b013826780eb92377e8e7cac
 SHA256: 4bd468e5c8c508ebdae9873bb6966561183c936cb7fc5725cc59793911f2f673
+
+Package: com.yourepo.b4db1r3r3p0.oleddarkmode
+Section: Tweaks
+Maintainer: @fr0st & b4db1r3 <nfive060@gmail.com>
+Architecture: iphoneos-arm64
+Version: 0.5.1-11
+Depends: mobilesubstrate, firmware (>= 13.0)
+Description: 很季伯黑的模式
+Name: OLED Dark Mode 深色模式
+Author: @fr0st & b4db1r3 <nfive060@gmail.com>
+Size: 9436
+Filename: ./debs/com.yourepo.b4db1r3r3p0.oleddarkmode_0.5.1-11_iphoneos-arm64.deb
+MD5sum: fe730c15a32e5c91bbd0544171d12b08
+SHA1: 2aa47adabb80f40ccf018d6ae34ee9899775bed5
+SHA256: 211e38f559a51f3a94d42c1a4a721ccbff73d83f3b587f59e8dda8a5f968eb0d
+
+Package: com.guozi.fuckads
+Name: 小果子通用去广告
+Description: 通用去广告插件, 拿去看电影去吧, 通杀大部分第三方广告
+Maintainer: 小果子
+Author: 小果子
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Sileodepiction: https://sileo.iosyyds.com/com.guozi.fuckads/js.json
+Architecture: iphoneos-arm64
+Version: 5.2.0
+Size: 1094012
+Filename: ./debs/com.guozi.fuckads_5.2.0_iphoneos-arm64.deb
+MD5sum: 5100a2403af6d305f9ff91b471369fec
+SHA1: 51af2f05df5dcd76065c3b2a9dd0030ea3d82c1c
+SHA256: d6bd19ea142f4c6d0885e94e38d0979d17efa1fbf8c197acb191af3463c7b584
