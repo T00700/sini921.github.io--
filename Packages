@@ -581,3 +581,18 @@ Filename: ./debs/com.sini.pkc.rootless_0.5-8_iphoneos-arm64.deb
 MD5sum: 6742baeb705474fb2bad92de0e379e0f
 SHA1: c2002cc6cfd5b82ac2d1c2f72390105b11d39c1b
 SHA256: d5dbe7e67aa262bd1830475e53c25738be4b6ecf5b91195d9d8b5713c47f0b89
+
+Package: com.sini.CCJBmodular
+Name: CCJBmodular
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: 思念变成海
+Author: 妖刃&Netskao&思念变成海
+Section: Tweaks
+Description: 本插件基于刀刀源的CCBorder16、CCLess++、Netskao的CCPower。由三个插件整合，删除不使用的模块，仅为方便自己用。1.0-1更新:为烧杯群友季伯毅添加支付宝和微信的扫码和付款码模块。
+Depends: mobilesubstrate, firmware (>=16.0), ws.hbang.alderis
+Size: 1091500
+Filename: ./debs/com.sini.CCJBmodular_1.0-1_iphoneos-arm64.deb
+MD5sum: 91f9c9cd1163780d82d8445a135bf564
+SHA1: 3804b5ea299f0a844271f733d83a6bdcd2d1e9b8
+SHA256: e16cc8f7936696f7ccc43081de10658161ed9ce65dc01ea82b91c3ddd1f5a747
