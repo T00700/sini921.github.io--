@@ -382,3 +382,31 @@ MD5sum: a811a367856834129fed068ca662c3b9
 SHA1: ec0f63433ba98923ad032a9165855d2824527765
 SHA256: 61ec0fe8c0dd2d659718135876b3fac27f0cc825d4b4e46e17578d202e0b824e
 
+Package: com.sini.edge.siri
+Version: 3.1.1-9
+Architecture: iphoneos-arm64
+Maintainer: tangerine
+Depends: mobilesubstrate, com.sini.siriplus
+Name: EdgeSiri唤醒特效
+Description: 模仿 iOS 18 唤醒 Siri 边框效果，无设置项。安装即生效------EdgeSiri 是一款为 iOS 设计的越狱插件，它能够在 Siri 激活时在屏幕周围显示彩色边框。这个边框不仅增加了视觉吸引力，还能在 Siri 被使用时提供更加直观的反馈。
+Section: Tweaks
+Size: 15236
+Filename: ./debs/com.sini.edge.siri_3.1.1-9_iphoneos-arm64.deb
+MD5sum: 5676f6953daeb6e3681f00b2dfb23119
+SHA1: 1b7bb1c5874ec9a171626e95323d8d1c4923b86e
+SHA256: 07babe43e1aece68c36885ab115d36733a86fe13fefd0aa9cecabf8414b6e9f8
+
+Package: com.sini.siriplus
+Name: SiriPlus智能Siri
+Maintainer: 夕颜
+Author: 夕颜
+Section: Tweaks
+Version: 1.3
+Architecture: iphoneos-arm64
+Size: 272244
+Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0), com.sini.edge.siri
+Description: SiriPlus 是一款智能 Siri 应用，提供多种增强功能和优化。
+Filename: ./debs/com.sini.siriplus_1.3_iphoneos-arm64.deb
+MD5sum: 7a147a8a8dc69758f796d737a6ac954a
+SHA1: bdd46201f3694852ed3346600e51bdd524154553
+SHA256: f1bb49b2db00ba1698ea158f46a1dae7408879264f31db3dba6895366fb32ef9
