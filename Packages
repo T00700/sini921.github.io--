@@ -522,7 +522,7 @@ MD5sum: 1bcb32e9fe7822fd40140556200f4114
 SHA1: ba19067f0252b2a949c6a389138518654ea6db10
 SHA256: ef204b05e4d8e9eb878088b5158dc6b76dadae9bc9e7a637e30903b98fecf396
 
-Package: com.guozi.kuannoaq
+Package: com.guozi.kuannoad
 Name: 酷安FuckAds
 Version: 5.2.0
 Architecture: iphoneos-arm64
