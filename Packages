@@ -521,3 +521,32 @@ Filename: ./debs/com.sini.colorfulwallpaperx_2.1_iphoneos-arm64.deb
 MD5sum: 1bcb32e9fe7822fd40140556200f4114
 SHA1: ba19067f0252b2a949c6a389138518654ea6db10
 SHA256: ef204b05e4d8e9eb878088b5158dc6b76dadae9bc9e7a637e30903b98fecf396
+
+Package: com.guozi.kuannoaq
+Name: 酷安 FuckAds
+Version: 5.2.0
+Architecture: iphoneos-arm64
+Description: 去除广告
+Maintainer: 小果子
+Depends: mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Size: 10888892
+Filename: ./debs/酷安FuckAds.5.2.0.deb
+MD5sum: 0a16ee2d962a140c7f9cf2ca69fd4e0e
+SHA1: 8f5578ea4079f364ff3ac15a00899dd1411515ef
+SHA256: 2d0d4f20234f579ae8211b096bd8bea7c50067e2c398bd090da2c59b5c6c2133
+
+Package: com.guozix.weifeng
+Name: 威锋 FuckVIP-Ads
+Version: 7.0.3
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Section: Tweaks
+Maintainer: 小果子
+Author: 小果子
+Size: 326548
+Description: 去除你能看到的所有广告，基于威锋7.0开发！干净体验！启用会员功能！点亮会员头像！更新支持7.0.3
+Filename: ./debs/威锋703永久VIP+去广告无根.deb
+MD5sum: 327f8880c6e2b72fc9acf69d28387a24
+SHA1: 0a6efca323683bce0d8d20c944a9fb820c38cc18
+SHA256: fdc41458b749f4d48d2fda11871abf2625c3d765ab33c4e278193a72b1a45d81
