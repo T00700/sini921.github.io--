@@ -1,9 +1,5 @@
-{
-    "class": "DepictionTabView",
-    "headerImage": "https://xiangfeidexiaohuo.github.io/images/ccborder.png",
-    "tintColor": "#1DBBFF",
-    "minVersion": "0.3",
-    "tabs": [
+j{
+    : [
         {
             "class": "DepictionStackView",
             "tabname": "描述",
