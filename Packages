@@ -690,3 +690,18 @@ Filename: ./debs/com.82flex.iconrestore_1.6_iphoneos-arm64.deb
 MD5sum: a95c1d29be04c4ae4cd0eed9bc2dca41
 SHA1: 934f79b76be2d68617e64122a8dc8fbf1081bde3
 SHA256: d2d0896b31e45ae6190a60efdb5522ed8c5ad31f970df165e3545f5809b5a26b
+
+Package: com.82flex.iconrestore
+Name: 图标时光机
+Description: 保存图标布局，随时切换保存的布局。
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.7
+Size: 31922
+Filename: ./debs/com.82flex.iconrestore_1.7_iphoneos-arm64.deb
+MD5sum: 19bfa695ee5b3bf6b1a0c8b0e9480c16
+SHA1: 87744ccdaec5917ece95d27a9eeab2f0300234b0
+SHA256: e127f69ddbe03a6d369de7f8f1e5b94aba5352ec771c8ce082daa8e4cfbbb14c
