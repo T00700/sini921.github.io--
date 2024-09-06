@@ -412,7 +412,7 @@ SHA256: f1bb49b2db00ba1698ea158f46a1dae7408879264f31db3dba6895366fb32ef9
 
 Package: com.sini.icleanerprorl
 Version: 7.10.0k
-Section: Utilities
+Section: Tweaks
 Architecture: iphoneos-arm64
 Maintainer: MainRepo
 Description: The first real iOS system cleaner & optimizer
