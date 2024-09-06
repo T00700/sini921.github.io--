@@ -689,3 +689,19 @@ Filename: ./debs/com.82flex.iconrestore_1.7_iphoneos-arm64.deb
 MD5sum: 19bfa695ee5b3bf6b1a0c8b0e9480c16
 SHA1: 87744ccdaec5917ece95d27a9eeab2f0300234b0
 SHA256: e127f69ddbe03a6d369de7f8f1e5b94aba5352ec771c8ce082daa8e4cfbbb14c
+
+Package: com.sini.leftpan.rootless
+Description: 左滑返回上一页面
+Version: 1.0-6
+Priority: optional
+Section: Tweaks
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
+Architecture: iphoneos-arm64
+Name: 左滑返回
+Author: Mao
+Size: 44228
+Filename: ./debs/com.sini.leftpan.rootless_1.0-6_iphoneos-arm64
+MD5sum: e20930e17d1a0147c666207bad4a60c4
+SHA1: e1f049e85b09850867b5bd8d5d7a7cf1b009d718
+SHA256: 91fb7a3cd46215b60121d3f81aac1eafa50c96e03005dc6555112c135b8beafe
