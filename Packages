@@ -643,3 +643,19 @@ Filename: ./debs/com.sini.kuku_1.5_iphoneos-arm64.deb
 MD5sum: 870ba6f916d16f1ff9eb6dc93c691b3c
 SHA1: a5c1b07c6cf7c7a601d8f52c5a8def5f352c2158
 SHA256: b4dc5562d1dab827239e87add99aa1aa19ac8cfcb9d29e00b8e23ac0ee569797
+
+Package: com.sini.baidunetdiskoutput
+Name: 百度网盘缓存文件导出
+Author: lenglengyu
+Description: 为百度网盘的缓存文件添加导出按钮，免去每次进入路径寻找文件的繁琐方式。
+Depends: mobilesubstrate
+Maintainer: lenglengyu <lenglengyu@126.com>
+Architecture: iphoneos-arm64
+Section: Tweaks
+Depiction: https://repo.lenglengyu.top/packageInfo/baidunetdiskoutput.html
+Version: 1.0.1K
+Size: 142080
+Filename: ./debs/com.sini.baidunetdiskoutput_1.0.1K_iphoneos-arm64.deb
+MD5sum: 2cce02c55a799a8b7b5c6e09e1286461
+SHA1: 63ebf6c9f253ee14c8f18a1df05cfdd5fc88d3c8
+SHA256: e67f338bdc0cdfb0cbebe58b4637ef4f8e2565fbc1729b6869e627c749d83105
