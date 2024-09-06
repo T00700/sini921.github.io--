@@ -1,3 +1,19 @@
+Package: com.sini.chromatic.rootless
+Name: Saily
+Description: 越狱包管理器
+Author: Saily Team <support.0xa1@qaq.wiki>
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Version: 3.0-k
+Section: Tweaks
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Architecture: iphoneos-arm64
+Size: 3412828
+Filename: ./debs/com.sini.chromatic.rootless_3.0-k_iphoneos-arm64.deb
+MD5sum: 8def647a3b03532cb7657831fde4aa3b
+SHA1: f148d55dd488692ef04e854c395f8d2e9d78f6eb
+SHA256: 358e3e975e034ded228b28970ed0425922a9d5e329798f321a8c3b33d3e1924f
+Icon: https://github.com/Sini921/repo/tree/main/icons/Cydia.png
+
 Package: com.sunshinesong.split-view-pro
 Name: split-view-pro
 Description: 分屏，不必太复杂，一切从简即可。
