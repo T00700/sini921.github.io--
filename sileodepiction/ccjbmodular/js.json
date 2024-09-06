@@ -6,7 +6,7 @@
     "tabs": [
         {
             "class": "DepictionStackView",
-            "tabname": "描述",
+            "tabname": "插件介绍",
             "views": [
                 
                 {
