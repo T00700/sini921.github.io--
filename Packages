@@ -664,14 +664,14 @@ Package: com.sini.jiboyang
 Name: 季伯洋-rootless
 Version: 1.0
 Architecture: iphoneos-arm64
-Description: 此为群友季伯洋专用包！其他人不要装！强行安装出现插件冲突自界后果自负！
-Maintainer: 思念变成海
 Author: 思念变成海
-Section: JB-Tweaks
-Depends: mobilesubstrate, firmware, preferenceloader, com.opa334.altlist
+Maintainer: 思念变成海
 Sponsor: 思念变成海
-Size: 4753512
+Section: JB-Tweaks
+Description: 此为群友季伯洋专用包! 其他人不要装! 强行安装出现插件冲突自苹果后果自负！
+Depends: mobilesubstrate, firmware, preferenceloader, com.opa334.altlist
+Size: 4614568
 Filename: ./debs/com.sini.jiboyang_1.0_iphoneos-arm64.deb
-MD5sum: df2f0112d0204c3f9a38bc95597076a0
-SHA1: a09530a89617391242b43de1adb7b713278d9b23
-SHA256: 6896150869600e9ab9abc2d239b49966bc647892ff3c519919c12b455d198201
+MD5sum: 2d2d880bbbec1c1a65f6232e23c0044c
+SHA1: efcee5d1b3e99a062c65f245953c228c0b540088
+SHA256: 618829106f54128be189fd659674e3290103c345187ec53dfd37f42120da35c5
