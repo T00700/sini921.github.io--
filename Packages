@@ -239,7 +239,7 @@ Name: Atria简体中文包
 Version: 1.4.1
 Maintainer: 妖刀
 Author: Alucard/妖刀
-Depends: mobilesubstrate
+Depends: mobilesubstrate, com.sini.atria
 Architecture: iphoneos-arm64
 Section: Tweaks
 Description: Atria 简体中文包 (搬运自刀刀源)
@@ -659,22 +659,6 @@ Filename: ./debs/com.sini.baidunetdiskoutput_1.0.1K_iphoneos-arm64.deb
 MD5sum: 2cce02c55a799a8b7b5c6e09e1286461
 SHA1: 63ebf6c9f253ee14c8f18a1df05cfdd5fc88d3c8
 SHA256: e67f338bdc0cdfb0cbebe58b4637ef4f8e2565fbc1729b6869e627c749d83105
-
-Package: com.sini.jiboyang
-Name: 季伯洋-rootless
-Version: 1.0
-Architecture: iphoneos-arm64
-Author: 思念变成海
-Maintainer: 思念变成海
-Sponsor: 思念变成海
-Section: JB-Tweaks
-Description: 此为群友季伯洋专用包! 其他人不要装! 强行安装出现插件冲突自苹果后果自负！
-Depends: mobilesubstrate, firmware, preferenceloader, com.opa334.altlist
-Size: 4614568
-Filename: ./debs/com.sini.jiboyang_1.0_iphoneos-arm64.deb
-MD5sum: 2d2d880bbbec1c1a65f6232e23c0044c
-SHA1: efcee5d1b3e99a062c65f245953c228c0b540088
-SHA256: 618829106f54128be189fd659674e3290103c345187ec53dfd37f42120da35c5
 
 Package: com.82flex.iconrestore
 Name: 图标时光机
