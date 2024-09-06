@@ -598,3 +598,33 @@ MD5sum: 91f9c9cd1163780d82d8445a135bf564
 SHA1: 3804b5ea299f0a844271f733d83a6bdcd2d1e9b8
 SHA256: e16cc8f7936696f7ccc43081de10658161ed9ce65dc01ea82b91c3ddd1f5a747
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccjbmodular/js.json
+
+Package: com.82flex.iconrestore
+Name: 图标时光机
+Version: 1.0
+Architecture: iphoneos-arm64
+Size: 29508
+Maintainer: Lessica <82flex@gmail.com>
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Description: 保存图标布局，随时切换保存的布局。
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/图标时光机_1.0.deb
+MD5sum: 8192b42a86cb74ec68249c06b4a81c8f
+SHA1: 3392488cb51c6ac544e8897f47e05ee1a2d519f3
+SHA256: 539d9bb59f512b517a74146d569f7a280b34d4c337c570d7f44f09c9fb8db4e8
+
+Package: com.sini.safarix
+Version: 1.4.0
+Section: Tweaks
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Size: 274176
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Description: Safari浏览器增强
+Author: 0xkuj
+Name: SafariX
+Filename: ./debs/com.sini.safarix_1.4.0_iphoneos-arm64.deb
+MD5sum: a2eee96c7a29d821a34fe15b1198ae0b
+SHA1: 4744dac7d50f9fd6147891c8771b38ac3e7c2b40
+SHA256: 90081141d3d8dbfb6c10fc2a767e61fe55d84e9bf00b42e6ee2643cc10ea9bfc
