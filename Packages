@@ -659,3 +659,19 @@ Filename: ./debs/com.sini.baidunetdiskoutput_1.0.1K_iphoneos-arm64.deb
 MD5sum: 2cce02c55a799a8b7b5c6e09e1286461
 SHA1: 63ebf6c9f253ee14c8f18a1df05cfdd5fc88d3c8
 SHA256: e67f338bdc0cdfb0cbebe58b4637ef4f8e2565fbc1729b6869e627c749d83105
+
+Package: com.sini.jiboyang
+Name: 季伯洋-rootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: 此为群友季伯洋专用包！其他人不要装！强行安装出现插件冲突自界后果自负！
+Maintainer: 思念变成海
+Author: 思念变成海
+Section: JB-Tweaks
+Depends: mobilesubstrate, firmware, preferenceloader, com.opa334.altlist
+Sponsor: 思念变成海
+Size: 4753512
+Filename: ./debs/com.sini.jiboyang_1.0_iphoneos-arm64.deb
+MD5sum: df2f0112d0204c3f9a38bc95597076a0
+SHA1: a09530a89617391242b43de1adb7b713278d9b23
+SHA256: 6896150869600e9ab9abc2d239b49966bc647892ff3c519919c12b455d198201
