@@ -691,7 +691,7 @@ SHA1: 87744ccdaec5917ece95d27a9eeab2f0300234b0
 SHA256: e127f69ddbe03a6d369de7f8f1e5b94aba5352ec771c8ce082daa8e4cfbbb14c
 
 Package: com.sini.leftpan.rootless
-Description: 左滑返回上一页面
+Description: 左滑返回上一个页面
 Version: 1.0-6
 Priority: optional
 Section: Tweaks
