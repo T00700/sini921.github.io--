@@ -16,21 +16,20 @@ MD5sum: cbbeb22943eaee661e7089c8e6e5e542
 SHA1: 936d009f93e7b01e43bee9f90e21ce7ca481ce24
 SHA256: 7dadd4a0dc51618945407ae97b4137d9587fdb9615d9fb9e4d9b4539916451f5
 
-Package: com.sini.symbols
-Name: Symbols
-Depends: firmware (>= 14.0)
-Architecture: iphoneos-arm64e
+Author: MTAC
+Architecture: iphoneos-arm64
 Description: Apple的SF符号
 Maintainer: MTAC
-Author: MTAC
-Section: Tweaks
 Version: 3.0
-Size: 174296
-Pre-Depends: rootless-compat(>= 0.1)
-Filename: ./debs/com.sini.symbols_3.0_iphoneos-arm64e.deb
-MD5sum: 49356b2843dae16851d4c877143646c7
-SHA1: 1aa0dd26e6d36dc5df7838525c095e7aaca3802a
-SHA256: dcb6f6330a21523eab4afbfa5f76dd16f31c289798938927b9a9989760496b9e
+Depends: firmware (>= 14.0)
+Name: Symbols
+Section: Tweaks
+Size: 172304
+Package: com.sini.symbols
+Filename: ./debs/com.sini.symbols_3.0_iphoneos-arm64.deb
+MD5sum: 53f2f529a3810282ca0e53c11726ebf7
+SHA1: 82c880746c8d1d56b208241ecf1bc381031623aa
+SHA256: 5b31e4a9bc01c4ed9388c274234b92f19bcddadf8fbea2bb8f7942e15a20c17f
 
 Package: com.sini.wechatnotiavatar
 Name: WeChatNotiAvatar
