@@ -24,7 +24,6 @@ Description: Apple的SF符号
 Maintainer: MTAC
 Author: MTAC
 Section: Tweaks
-SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.symbols.json
 Version: 3.0
 Size: 174296
 Pre-Depends: rootless-compat(>= 0.1)
