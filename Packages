@@ -1,3 +1,33 @@
+Package: com.sini.wechatnotiavatar
+Name: WeChatNotiAvatar
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Description: 微信通知显示头像
+Maintainer: Nets
+Author: Netskao
+Section: Netskao-Tweaks
+Architecture: iphoneos-arm64
+Version: 1.2-5
+Size: 523384
+Filename: ./debs/com.sini.wechatnotiavatar_1.2-5_iphoneos-arm64.deb
+MD5sum: 104766006e9b55c4f2c41e77cdfc0e5d
+SHA1: 36f137ac634e9c637de01ca44a643db34a4b0360
+SHA256: 7584c6eb2992440965e2b60b1f0a495cb5ca1fe786ffcdf54c2d841d54221804
+
+Package: com.sini.qqnotiavatar
+Name: QQNotiAvatar
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Description: QQ通知显示头像
+Maintainer: Nets
+Author: Netskao
+Section: Netskao-Tweaks
+Architecture: iphoneos-arm64
+Version: 1.2-2
+Size: 25412
+Filename: ./debs/com.sini.qqnotiavatar_1.2-2_iphoneos-arm64.deb
+MD5sum: b78383518a9204d2e24fbc9744de67ea
+SHA1: c72420d21466f471df101d022a7c1e00805e5527
+SHA256: 2cb596d5f5f6648cbd047a31b3ee8e9ff851fab7a03927f62d311f554f746366
+
 Author: lclrc(SquidForce)
 Architecture: iphoneos-arm64
 Description: 翻译插件，可以配合snapper3使用，可以单独使用。
