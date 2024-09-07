@@ -1,3 +1,18 @@
+Author: Dcsyhi 
+Architecture: iphoneos-arm64
+Description: Zetsu1.5中文版(简体中文来自刀刀源)，此版本仅有小窗模式，不会提示更新，为不需要原作者后续新出的功能的人上传备份。
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Version: 1.5
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.ccsupport
+Name: Zetsu中文版
+Section: Tweaks
+Package: com.sini.zetsu
+Size: 9658528
+Filename: ./debs/com.sini.zetsu_1.5_iphoneos-arm64.deb
+MD5sum: ba42ad3ccc8238d3aa38471869417d4b
+SHA1: a447ce881703aa3ab3fd8a0f7aa49e899157eb90
+SHA256: a30d456d40193ed6d462708bfce0c94c34b89466e2a9491ed7a5ed5d277bc32b
+
 Package: shaobei
 Name: AAAA此为空包仅用作声明！
 Description: 本源仅为搬运一些自己常用的插件方便自己用以及备份一些插件！
