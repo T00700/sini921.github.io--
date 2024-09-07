@@ -1,3 +1,18 @@
+Package: shaobei
+Name: AAAA此为空包仅用作声明！
+Description: 本源仅为搬运一些自己常用的插件方便自己用以及备份一些插件！
+Maintainer: 季伯工作室
+Author: 季伯工作室
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 16.0)
+Architecture: iphoneos-arm64
+Version: 9.9.9
+Size: 816
+Filename: ./debs/shaobei_9.9.9_iphoneos-arm64.deb
+MD5sum: ffb0b99392a5689d66ecdf1d795bb239
+SHA1: c8fae1df558fb10dcbe1811410391c6aff5272af
+SHA256: 8fe63c78e1b4aead90cdcdb09841573c44d21e62cd6cd6d52946b840eb91a5f4
+
 Package: ws.hbang.newterm3
 Name: NewTerm 3 Beta
 Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds, bzip2, xz-utils
