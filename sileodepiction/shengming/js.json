@@ -58,12 +58,27 @@
                 {
                     "class": "DepictionTableTextView",
                     "text": "季伯奥迪哥(橙子)",
-                    "title": "季伯工作室首席发言人"
+                    "title": "季伯工作室联合创始人"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "季伯宇",
                     "title": "季伯工作室首席执行官"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯欣",
+                    "title": "季伯工作室项目部经理"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯达",
+                    "title": "季伯工作室首席运营官"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯毅",
+                    "title": "季伯工作室首席发言人"
                 }
             ]
         }
