@@ -49,7 +49,7 @@ SHA256: a30d456d40193ed6d462708bfce0c94c34b89466e2a9491ed7a5ed5d277bc32b
 
 Package: shaobei
 Name: AAAA此为空包仅用作声明！
-Description: 本源仅为搬运一些自己常用的插件方便自己用以及备份一些插件！
+Description: 本源仅为搬运一些自己常用的插件方便自己用以及备份一些插件！如有冒犯，请联系我指定下架某个插件！------------------------------------季伯奥迪哥
 Maintainer: 季伯工作室
 Author: 季伯工作室
 Section: Tweaks
@@ -142,7 +142,7 @@ SHA256: af8e0681aaf7aa1d61afe4d667ee315fb66cbbd122e467834b5c7e5a87fbff13
 
 Package: com.sunshinesong.split-view-pro
 Name: split-view-pro
-Description: 分屏，不必太复杂，一切从简即可。
+Description: 已去除联网验证。
 Maintainer: sunshinesong
 Author: sunshinesong
 Section: Tweaks
