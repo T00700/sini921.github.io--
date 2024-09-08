@@ -52,17 +52,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "李开心",
+                    "text": "季伯奔驰姐(李开心)",
+                    "title": "季伯工作室"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯奥迪哥(橙子)",
                     "title": "季伯工作室"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "季伯宇",
-                    "title": "季伯工作室"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "季伯奥迪哥",
                     "title": "季伯工作室"
                 }
             ]
