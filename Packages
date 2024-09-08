@@ -142,7 +142,7 @@ SHA256: af8e0681aaf7aa1d61afe4d667ee315fb66cbbd122e467834b5c7e5a87fbff13
 
 Package: com.sunshinesong.split-view-pro
 Name: split-view-pro
-Description: 已去除联网验证。
+Description: 已去除联网验证(网传删除node方法)，上传仅为自用学习交流测试备份，如安装以后出现异常与季伯工作室无关！
 Maintainer: sunshinesong
 Author: sunshinesong
 Section: Tweaks
