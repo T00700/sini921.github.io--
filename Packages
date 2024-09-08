@@ -1,3 +1,18 @@
+Package: com.sini.appku.wechat
+Name: 微信爱锋
+Architecture: iphoneos-arm64
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间以及修改部分bug。
+Maintainer: appku
+Author: appku
+Section: Wechat-Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 1.6-3
+Size: 1687420
+Filename: ./debs/com.sini.appku.wechat_1.6-3_iphoneos-arm64.deb
+MD5sum: 2710ae7e59b6f719e8395ef371027fd1
+SHA1: 7e83fb0779ffe6d6d5cf1193482b1db2dff3a5af
+SHA256: d8da543823adaad46ab795eeb59f67da1618831f15164c24e3e45d7a67b7db38
+
 Author: Jonathan Winger
 Architecture: iphoneos-arm64
 Description: 快捷打开App，侧面呼出菜单
