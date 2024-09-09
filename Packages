@@ -1,3 +1,33 @@
+Author: opa334 
+Architecture: iphoneos-arm64
+Description: choicy自定义插件注入中文版(简体中文来自刀刀源)
+Maintainer: opa334 <opa334@protonmail.com>
+Version: 1.4.10-3
+Depends: mobilesubstrate, com.opa334.altlist (>= 1.0.4), preferenceloader
+Name: Choicy中文版
+Section: Tweaks
+Size: 107040
+Package: com.sini.choicy
+Filename: ./debs/com.sini.choicy_1.4.10-3_iphoneos-arm64.deb
+MD5sum: 04bd7162a3487d45f3156ce58bf79b92
+SHA1: db248704569474a33547947730bbb96fcea9439f
+SHA256: 09758fa025c8f3f15893b30b25f9d618d5bc4f6cfcdcf3801a2c003b8b916b8d
+
+Package: com.sini.flexlist
+Version: 1.4-2
+Description: FLEX调试工具，由李开心提供完整汉化
+Maintainer: Nets
+Size: 1331108
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Author: Netskao
+Name: FLEXList
+Architecture: iphoneos-arm64
+Section: Netskao-Tweaks
+Filename: ./debs/com.sini.flexlist_1.4-2_iphoneos-arm64.deb
+MD5sum: e79606f51d8b754e2e386b6ae1de4b0a
+SHA1: 2e7f0e91d2fde46bd598948a9374b7af5148b92a
+SHA256: 5bb23cd62fb8eb9ca72d4294b0d447d5b29fbe2a7e2ceb48ba7de21e44236dae
+
 Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
 Architecture: iphoneos-arm64
 Description: 本插件安装包来自苏兔源
