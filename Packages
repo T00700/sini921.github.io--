@@ -1,3 +1,51 @@
+Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
+Architecture: iphoneos-arm64
+Description: 本插件安装包来自苏兔源
+Maintainer: Carby <super.cat.sutuplus@gmail.com>
+Version: 5.8.3-2
+Depends: mobilesubstrate
+Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
+Name: 微信酸果
+Section: Wechat-Tweaks
+Size: 428504
+Package: com.sini.sutuplus
+Filename: ./debs/com.sini.sutuplus_5.8.3-2_iphoneos-arm64.deb
+MD5sum: 67c79f8e0916b69ebd11ca1c5adc91a7
+SHA1: 3ba9412fc744662d5d6e6566ba729eaaf5532ff5
+SHA256: c1f76e0606b1150bc5145782e18bc73e866c8b0c280940d34387e8a9f1d7f143
+
+Author: MustangYM <mm13299079785@gmail.com>
+Architecture: iphoneos-arm64
+Section: Wechat-Tweaks
+Maintainer: MustangYM <MustangYM@yeah.net>
+Version: 3.0.8
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Depends: mobilesubstrate
+Name: 微信ThemePro
+Conflicts: themepro
+Package: com.sini.themepro
+Replaces: themepro
+Size: 6291608
+Filename: ./debs/com.sini.themepro_3.0.8_iphoneos-arm64.deb
+MD5sum: 4075cef032ec9a05245b0e8c02c3fe4b
+SHA1: 1db6f4d8079971446a73dad68d19624b66f3d902
+SHA256: e2bfa324c9106ef7bdd4106630a9121b188201877e78afa3c8a3db9a5201b377
+
+Package: com.sini.themeManager
+Name: 微信猪咪
+Version: 1.6.1
+Description: 微信主题插件
+Section: Wechat-Tweaks
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm64
+Author: zhumi
+Maintainer: zhumi
+Size: 1913980
+Filename: ./debs/ThemeManager_1.6.deb
+MD5sum: 03f77cd9299e8d221c84b25cfda5abd0
+SHA1: a83ebfe8721f7730880363bb0f6c429515cb8fb9
+SHA256: def7738f6a331d652484b526a81b92d3fc2364d026f66548963f026ba7a6401d
+
 Package: com.sini.GameLogin
 Version: 0.1-5
 Author: Mao
@@ -445,7 +493,7 @@ Description: 微信消息屏蔽
 Section: Wechat-Tweaks
 Priority: optional
 Depends: firmware (>= 5.0)
-Sponsor: admin@25mao.com
+Author: mao
 Name: 微信消息屏蔽
 Size: 122240
 Filename: ./debs/com.sini.msgfilt.rootless_1.0-5.1_iphoneos-arm64.deb
