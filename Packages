@@ -1,3 +1,18 @@
+Package: com.sini.GameLogin
+Version: 0.1-5
+Author: Mao
+Description: 微信腾讯游戏扫码登录，入口在"我"页面
+Priority: optional
+Depends: firmware (>= 5.0), mobilesubstrate
+Name: 微信游戏扫码登录
+Section: Wechat-Tweaks
+Architecture: iphoneos-arm64
+Size: 22944
+Filename: ./debs/com.sini.GameLogin_0.1-5_iphoneos-arm64.deb
+MD5sum: 02a637aa4b2be6653ed1818d33c167de
+SHA1: 42454f557f714c9a6b3f67134c6676275a346bc9
+SHA256: 3091e8104832f787224426bce013847fb5ac0532bd101bf3a7e76e25bdb1e883
+
 Author: lordscotland <admin@officialscheduler.com>
 Architecture: iphoneos-arm64
 Description: iOS终端应用程序
