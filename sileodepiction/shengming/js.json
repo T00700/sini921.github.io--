@@ -48,47 +48,47 @@
                 },
                 {
                     "class": "DepictionSpacerView",
-                    "spacing": 3
+                    "spacing": 8
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "季伯奔驰姐(李开心)",
-                    "title": "季伯工作室颜值担当"
+                    "title": "颜值担当"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "季伯奥迪哥(橙子)",
-                    "title": "季伯工作室联合创始人"
+                    "title": "联合创始人"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "季伯宇",
-                    "title": "季伯工作室首席执行官"
+                    "title": "首席执行官"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "季伯欣",
-                    "title": "季伯工作室项目部经理"
+                    "title": "项目部经理"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "季伯达",
-                    "title": "季伯工作室首席运营官"
+                    "title": "首席运营官"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "季伯毅",
-                    "title": "季伯工作室首席发言人"
+                    "title": "外交部发言人"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "季伯政",
-                    "title": "季伯工作室美术总监"
+                    "title": "美术总监"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "季伯洋",
-                    "title": "季伯工作室市场部经理"
+                    "title": "市场部经理"
                 }
             ]
         }
