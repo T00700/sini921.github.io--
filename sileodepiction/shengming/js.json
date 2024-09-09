@@ -89,6 +89,11 @@
                     "class": "DepictionTableTextView",
                     "text": "季伯洋",
                     "title": "市场部经理"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯飞",
+                    "title": "首席人事官"
                 }
             ]
         }
