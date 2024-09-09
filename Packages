@@ -1,3 +1,19 @@
+Author: lordscotland <admin@officialscheduler.com>
+Architecture: iphoneos-arm64
+Description: iOS终端应用程序
+Maintainer: D.F (MTAC) <mtac@mtac.app>
+Version: 1.6
+Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh, bzip2, xz-utils
+Name: MTerminal
+Section: Utilities
+SileoDepiction: https://mtac.app/repo/depiction/native/com.officialscheduler.mterminal.json
+Size: 86472
+Package: mterminal
+Filename: ./debs/MTerminal.1.6.deb
+MD5sum: 765f7794784901690cdb499c7e94e176
+SHA1: f139c1be96eb5e15b7d03e3bcebf748fa6da216c
+SHA256: 8342ce4eab76b2810f479574579b3f4fca5cd129af62fbfdec561f54c2383a82
+
 Package: com.sini.appku.wechat
 Name: 微信爱锋
 Architecture: iphoneos-arm64
