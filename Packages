@@ -3,7 +3,7 @@ Architecture: iphoneos-arm64
 Description: iOS终端应用程序
 Maintainer: D.F (MTAC) <mtac@mtac.app>
 Version: 1.6
-Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh, bzip2, xz-utils
+Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh, bzip2, xz-utils, zsh-autosuggestions, zsh-syntax-highlighting
 Name: MTerminal
 Section: Utilities
 Size: 86472
