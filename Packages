@@ -1,3 +1,19 @@
+Package: com.sini.freepip
+Author: Soh Satoh
+Architecture: iphoneos-arm64
+Description: 解锁画中画的限制，可以放在任意位置和调整到任意大小。长按画中画窗口进入 FreePIP 模式进行调整。
+Maintainer: 思念变成海
+Version: 1.1
+Depends: mobilesubstrate
+Name: FreePIP画中画增强
+Section: Tweaks
+Sponsor: 思念变成海
+Size: 6696
+Filename: ./debs/com.sini.freepip_1.1_iphoneos-arm64.deb
+MD5sum: 1d46a2eaadf479104772861db4967132
+SHA1: 85c2bee7da5696c7096237794530318bb86bb45c
+SHA256: 9873de3e82db97c0494eed7e5d7c037be42438f191f3488645f99044f3200b07
+
 Package: com.sini.customizecc
 Version: 1.4.3
 Description: 自定义控制中心(简体中文来自来了老弟)
