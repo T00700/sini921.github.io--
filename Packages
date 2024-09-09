@@ -6,7 +6,6 @@ Version: 1.6
 Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh, bzip2, xz-utils
 Name: MTerminal
 Section: Utilities
-SileoDepiction: https://mtac.app/repo/depiction/native/com.officialscheduler.mterminal.json
 Size: 86472
 Package: mterminal
 Filename: ./debs/MTerminal.1.6.deb
