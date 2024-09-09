@@ -79,6 +79,16 @@
                     "class": "DepictionTableTextView",
                     "text": "季伯毅",
                     "title": "季伯工作室首席发言人"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯政",
+                    "title": "季伯工作室美术总监"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯洋",
+                    "title": "季伯工作室市场部经理"
                 }
             ]
         }
