@@ -1,3 +1,65 @@
+Package: com.sini.customizecc
+Version: 1.4.3
+Description: 自定义控制中心(简体中文来自来了老弟)
+Maintainer: Miguelaka95 <miguelaka95@gmail.com>
+Size: 137556
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15)
+Author: Miguelaka95 
+Name: CustomizeCC中文版
+Architecture: iphoneos-arm64
+Section: Tweaks
+Filename: ./debs/com.sini.customizecc_1.4.3_iphoneos-arm64.deb
+MD5sum: 55ad5b701bca7bcdb27a358017d6b163
+SHA1: 30ad7f2272992f330c952cdc8f1674a36b072a81
+SHA256: 3122c015c93c7c59d0aa1bb675569c33952673b1bad3cf29dfeccf9911d7ec64
+
+Author: b4db1r3 
+Architecture: iphoneos-arm64
+Description: 角标美化，OCD5中文版(简体中文来自刀刀源)
+Maintainer: b4db1r3 <nfive060@gmail.com>
+Version: 5.4.1.1
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis
+Name: OCD5中文版
+Section: Tweaks
+Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd5lite
+Package: com.sini.ocd5
+Size: 329112
+Filename: ./debs/com.sini.ocd5_5.4.1.1_iphoneos-arm64.deb
+MD5sum: dd2f5213c8abbe274b40831b73fc0f38
+SHA1: 7dc9cab6c856bb04074e30d3cbfb5525506b436d
+SHA256: 895df623ef91a4e7f97ddfd1e62ed866a1cfb06de811c5b98fdb12672473c306
+
+Author: Traurige & neilsardesai 
+Architecture: iphoneos-arm64
+Description: 电池美化，好像是个表情电池，无汉化
+Maintainer: CyPwn
+Version: 1.3.4
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Name: BatteryBuddy
+Conflicts: love.litten.batterybuddy
+Size: 37316
+Package: com.sini.batterybuddy
+Filename: ./debs/com.sini.batterybuddy_1.3.4_iphoneos-arm64.deb
+MD5sum: 05cc53de4ebb161217d837564492fdcc
+SHA1: 6b06c98f57a9f6bafe178abe9cebdcad3db6ab57
+SHA256: b27294a4bf7b4997c3647f2b6082a0a28d3dee8afcd08ca64cdfd14beecf0127
+
+Package: com.sini.colormebadges
+Name: ColorMeBadges(李开心专用)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.mrgcgamer.libgcuniversal (>= 1.7.0)
+Description: 为李开心上传备份
+Maintainer: MrGcGamer
+Author: MrGcGamer
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Size: 83232
+Filename: ./debs/com.sini.colormebadges_1.2.0_iphoneos-arm64.deb
+MD5sum: 4dca2f4cd4e47990c4293db1f4970d12
+SHA1: 271c2497b1d66b112c8cfac00153fa73cd2e349a
+SHA256: d7e8c543ead5b0d6b3319df19989875bb6f7af4ae228cbf6bd75edcaf2b1afe9
+
 Author: opa334 
 Architecture: iphoneos-arm64
 Description: choicy自定义插件注入中文版(简体中文来自刀刀源)
