@@ -1,3 +1,19 @@
+Package: com.sini.77theme
+Version: 0.2.8-1
+Author: 77Theme
+Priority: optional
+Maintainer: 77Theme
+Depends: firmware (>= 5.0), mobilesubstrate
+Name: 微信77Theme
+Architecture: iphoneos-arm64
+Section: Wechat-Tweaks
+Description: 微信主题插件
+Size: 3770444
+Filename: ./debs/com.sini.77theme_0.2.8-1_iphoneos-arm64.deb
+MD5sum: ea8f240f88df88000b4c8554b42330cd
+SHA1: 5bc355ab5ff63494fcbf9673318c8af9e97de264
+SHA256: d66bec02ab9a7a0e877e1029e8011f32c29882ee9cce6745b803ea8f76444f80
+
 Package: com.sini.freepip
 Author: Soh Satoh
 Architecture: iphoneos-arm64
