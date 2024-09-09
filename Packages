@@ -774,18 +774,19 @@ SHA256: 539d9bb59f512b517a74146d569f7a280b34d4c337c570d7f44f09c9fb8db4e8
 
 Package: com.sini.safarix
 Version: 1.4.0
-Section: Tweaks
-Architecture: iphoneos-arm64
+Description: SafariX中文版(简体中文来自刀刀源)
 Maintainer: 0xkuj
-Size: 274176
+Size: 278396
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Description: Safari浏览器增强
 Author: 0xkuj
-Name: SafariX
+Name: SafariX中文版
+Architecture: iphoneos-arm64
+Section: Tweaks
 Filename: ./debs/com.sini.safarix_1.4.0_iphoneos-arm64.deb
-MD5sum: a2eee96c7a29d821a34fe15b1198ae0b
-SHA1: 4744dac7d50f9fd6147891c8771b38ac3e7c2b40
-SHA256: 90081141d3d8dbfb6c10fc2a767e61fe55d84e9bf00b42e6ee2643cc10ea9bfc
+MD5sum: 5d871c2a8c74edec131e4b8b406ade4d
+SHA1: 6233ec1691792aa8ea6c4f19a021c4cb0880182f
+SHA256: 66221b9474a1455812e25c98b5b1d5eec2c60f37807b8513a67434f4b57ccdce
+
 
 Package: com.sini.kuku
 Maintainer: 思念变成海
