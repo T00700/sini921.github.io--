@@ -4,11 +4,22 @@
     "itemCornerRadius":20,
     "banners": [
         {
+            "url": "http://sini921.github.io/repo/images/jiboxin.png",
+            "title": "",
+            "package":"shaobei",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/jiboxin2.png",
+            "title": "",
+            "package":"shaobei",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/shaobei.png",
             "title": "",
             "package":"shaobei",
             "hideShadow": true
         },
-        
     ]
 }
