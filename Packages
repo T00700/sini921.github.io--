@@ -116,7 +116,7 @@ Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Author: Netskao
 Name: FLEXList
 Architecture: iphoneos-arm64
-Section: 越狱插件
+Section: 狗哥插件
 Filename: ./debs/com.sini.flexlist_1.4-2_iphoneos-arm64.deb
 MD5sum: e79606f51d8b754e2e386b6ae1de4b0a
 SHA1: 2e7f0e91d2fde46bd598948a9374b7af5148b92a
