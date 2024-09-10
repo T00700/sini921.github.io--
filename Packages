@@ -1,3 +1,18 @@
+Package: com.sini.trollpad
+Name: TrollPad中文版
+Description: 在iPhone上开启iPad台前调度、分屏、小窗和iPad样式的dock栏以及后台卡片样式，修复默认键盘下不能使用九宫格键盘的问题(思念变成海汉化)
+Maintainer: khanhduytran0
+Author: khanhduytran0
+Section: 越狱插件
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Architecture: iphoneos-arm64
+Version: 1.3
+Size: 40528
+Filename: ./debs/com.sini.trollpad_1.3_iphoneos-arm64.deb
+MD5sum: a5eb35d6c18b0af24655ce34a4f6f630
+SHA1: 23c5a6d986d0991387c87f90d463996f0d15658d
+SHA256: 42f57a09fa3ef6ca38c1a18fe0107d05528c92db93031ebc6edc5131761e44e1
+
 Author: Dhinak G 
 Architecture: iphoneos-arm64
 Description: 由于BigBoss源及其不稳定，特此搬运此依赖，以保证随时可用
