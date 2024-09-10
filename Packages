@@ -1,18 +1,3 @@
-Package: huakangshaonv
-Name: 华康少女字体
-Description: 此包安装完字体的压缩包文件在var/mobile/Documents目录下，自行挂载替换。仅为自用备份，不会的不要装，出现异常与季伯工作室无关。
-Maintainer: 思念变成海
-Author: 思念变成海
-Section: 字体美化
-Depends: mobilesubstrate
-Architecture: iphoneos-arm64
-Version: 1.0
-Size: 17863552
-Filename: ./debs/huakangshaonv_1.0_iphoneos-arm64.deb
-MD5sum: c913fe43a5c1829aa82bed59646f999b
-SHA1: 149752117916d18b5c1e0fdfd8f2a24cc6ac4f0b
-SHA256: b2be5ef858617403d932b68c31c6b1229a4218f3ddd5e3572e3a18b70d950eb1
-
 Package: com.sini.77theme
 Version: 0.2.8-1
 Author: 77Theme
