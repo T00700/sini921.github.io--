@@ -6,7 +6,7 @@ Maintainer: 77Theme
 Depends: firmware (>= 5.0), mobilesubstrate
 Name: 微信77Theme
 Architecture: iphoneos-arm64
-Section: Wechat-Tweaks
+Section: 微信插件
 Description: 微信主题插件
 Size: 3770444
 Filename: ./debs/com.sini.77theme_0.2.8-1_iphoneos-arm64.deb
@@ -22,7 +22,7 @@ Maintainer: 思念变成海
 Version: 1.1
 Depends: mobilesubstrate
 Name: FreePIP画中画增强
-Section: Tweaks
+Section: 越狱插件
 Sponsor: 思念变成海
 Size: 6696
 Filename: ./debs/com.sini.freepip_1.1_iphoneos-arm64.deb
@@ -39,7 +39,7 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15)
 Author: Miguelaka95 
 Name: CustomizeCC中文版
 Architecture: iphoneos-arm64
-Section: Tweaks
+Section: 越狱插件
 Filename: ./debs/com.sini.customizecc_1.4.3_iphoneos-arm64.deb
 MD5sum: 55ad5b701bca7bcdb27a358017d6b163
 SHA1: 30ad7f2272992f330c952cdc8f1674a36b072a81
@@ -52,7 +52,7 @@ Maintainer: b4db1r3 <nfive060@gmail.com>
 Version: 5.4.1.1
 Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis
 Name: OCD5中文版
-Section: Tweaks
+Section: 越狱插件
 Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd5lite
 Package: com.sini.ocd5
 Size: 329112
@@ -67,7 +67,7 @@ Description: 电池美化，好像是个表情电池，无汉化
 Maintainer: CyPwn
 Version: 1.3.4
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Section: Tweaks
+Section: 越狱插件
 Name: BatteryBuddy
 Conflicts: love.litten.batterybuddy
 Size: 37316
@@ -83,7 +83,7 @@ Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.mrgcgamer.li
 Description: 为李开心上传备份
 Maintainer: MrGcGamer
 Author: MrGcGamer
-Section: Tweaks
+Section: 越狱插件
 Architecture: iphoneos-arm64
 Version: 1.2.0
 Size: 83232
@@ -99,7 +99,7 @@ Maintainer: opa334 <opa334@protonmail.com>
 Version: 1.4.10-3
 Depends: mobilesubstrate, com.opa334.altlist (>= 1.0.4), preferenceloader
 Name: Choicy中文版
-Section: Tweaks
+Section: 越狱插件
 Size: 107040
 Package: com.sini.choicy
 Filename: ./debs/com.sini.choicy_1.4.10-3_iphoneos-arm64.deb
@@ -116,7 +116,7 @@ Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Author: Netskao
 Name: FLEXList
 Architecture: iphoneos-arm64
-Section: Netskao-Tweaks
+Section: 越狱插件
 Filename: ./debs/com.sini.flexlist_1.4-2_iphoneos-arm64.deb
 MD5sum: e79606f51d8b754e2e386b6ae1de4b0a
 SHA1: 2e7f0e91d2fde46bd598948a9374b7af5148b92a
@@ -130,7 +130,7 @@ Version: 5.8.3-2
 Depends: mobilesubstrate
 Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
 Name: 微信酸果
-Section: Wechat-Tweaks
+Section: 微信插件
 Size: 428504
 Package: com.sini.sutuplus
 Filename: ./debs/com.sini.sutuplus_5.8.3-2_iphoneos-arm64.deb
@@ -140,7 +140,7 @@ SHA256: c1f76e0606b1150bc5145782e18bc73e866c8b0c280940d34387e8a9f1d7f143
 
 Author: MustangYM <mm13299079785@gmail.com>
 Architecture: iphoneos-arm64
-Section: Wechat-Tweaks
+Section: 微信插件
 Maintainer: MustangYM <MustangYM@yeah.net>
 Version: 3.0.8
 Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
@@ -159,7 +159,7 @@ Package: com.sini.themeManager
 Name: 微信猪咪
 Version: 1.6.1
 Description: 微信主题插件
-Section: Wechat-Tweaks
+Section: 微信插件
 Depends: firmware (>= 13.0), mobilesubstrate
 Architecture: iphoneos-arm64
 Author: zhumi
@@ -177,7 +177,7 @@ Description: 微信腾讯游戏扫码登录，入口在"我"页面
 Priority: optional
 Depends: firmware (>= 5.0), mobilesubstrate
 Name: 微信游戏扫码登录
-Section: Wechat-Tweaks
+Section: 微信插件
 Architecture: iphoneos-arm64
 Size: 22944
 Filename: ./debs/com.sini.GameLogin_0.1-5_iphoneos-arm64.deb
@@ -192,7 +192,7 @@ Maintainer: D.F (MTAC) <mtac@mtac.app>
 Version: 1.6
 Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh, bzip2, xz-utils, zsh-autosuggestions, zsh-syntax-highlighting
 Name: MTerminal
-Section: Tweaks
+Section: 越狱应用
 Size: 86472
 Package: mterminal
 Filename: ./debs/MTerminal.1.6.deb
@@ -206,7 +206,7 @@ Architecture: iphoneos-arm64
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间以及修改部分bug。
 Maintainer: appku
 Author: appku
-Section: Wechat-Tweaks
+Section: 微信插件
 Depends: mobilesubstrate (>= 0.9.5000)
 Version: 1.6-3
 Size: 1687420
@@ -222,7 +222,7 @@ Maintainer: 思念变成海
 Version: 1.11.1
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Name: InstaLauncher 2
-Section: Tweaks
+Section: 越狱插件
 Conflicts: com.jontelang.instalauncher2.beta
 Sponsor: 思念变成海
 Size: 205160
@@ -240,7 +240,7 @@ Version: 3.1-5
 Priority: optional
 Depends: firmware (>= 5.0)
 Name: 微信斗图
-Section: Wechat-Tweaks
+Section: 微信插件
 Sponsor: admin@25mao.com
 Package: com.sini.doutu.rootless
 Size: 1210420
@@ -256,7 +256,7 @@ Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
 Version: 1.5
 Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.ccsupport
 Name: Zetsu中文版
-Section: Tweaks
+Section: 越狱插件
 Package: com.sini.zetsu
 Size: 9658528
 Filename: ./debs/com.sini.zetsu_1.5_iphoneos-arm64.deb
@@ -266,10 +266,10 @@ SHA256: a30d456d40193ed6d462708bfce0c94c34b89466e2a9491ed7a5ed5d277bc32b
 
 Package: shaobei
 Name: AAAA此为空包仅用作声明！
-Description: 本源仅为搬运一些自己常用的插件方便自己用以及备份一些插件！如有冒犯，请联系我指定下架某个插件！------------------------------------季伯奥迪哥
+Description: 本源仅为搬运一些自己常用的插件方便自己用以及备份一些插件！如有冒犯，请联系我指定下架某个插件！-------------------------------------------------季伯奥迪哥
 Maintainer: 季伯工作室
 Author: 季伯工作室
-Section: Tweaks
+Section: 越狱插件
 Depends: mobilesubstrate, firmware (>= 16.0)
 Architecture: iphoneos-arm64
 Version: 9.9.9
@@ -289,7 +289,7 @@ Replaces: ws.hbang.newterm, ws.hbang.newterm2
 Description: iOS终端应用程序
 Maintainer: HASHBANG Productions 
 Author: HASHBANG Productions 
-Section: Tweaks
+Section: 越狱应用
 Architecture: iphoneos-arm64
 Version: 3.0~beta1-3+debug
 Size: 4849520
@@ -305,7 +305,7 @@ Maintainer: MTAC
 Version: 3.0
 Depends: firmware (>= 14.0)
 Name: Symbols
-Section: Tweaks
+Section: 越狱应用
 Size: 172304
 Package: com.sini.symbols
 Filename: ./debs/com.sini.symbols_3.0_iphoneos-arm64.deb
@@ -319,7 +319,7 @@ Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
 Description: 微信通知显示头像
 Maintainer: Nets
 Author: Netskao
-Section: Netskao-Tweaks
+Section: 狗哥插件
 Architecture: iphoneos-arm64
 Version: 1.2-5
 Size: 523384
@@ -334,7 +334,7 @@ Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
 Description: QQ通知显示头像
 Maintainer: Nets
 Author: Netskao
-Section: Netskao-Tweaks
+Section: 狗哥插件
 Architecture: iphoneos-arm64
 Version: 1.2-2
 Size: 25412
@@ -349,7 +349,7 @@ Description: 越狱包管理器
 Author: Saily Team <support.0xa1@qaq.wiki>
 Maintainer: Saily Team <support.0xa1@qaq.wiki>
 Version: 3.0
-Section: Tweaks
+Section: 越狱应用
 Pre-Depends: firmware (>= 13.0), dpkg, uikittools
 Architecture: iphoneos-arm64
 Size: 3411676
@@ -363,7 +363,7 @@ Name: split-view-pro
 Description: 已去除联网验证(网传删除node方法)，上传仅为自用学习交流测试备份，如安装以后出现异常与季伯工作室无关！
 Maintainer: sunshinesong
 Author: sunshinesong
-Section: Tweaks
+Section: 越狱插件
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
 TS: sp-sss
 Architecture: iphoneos-arm64
@@ -381,7 +381,7 @@ Architecture: iphoneos-arm64
 Size: 26416
 Maintainer: SWING
 Author: SWING
-Section: Tweaks
+Section: 越狱插件
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
 Description: 在 iPhone 上启用 iPad 风格的多任务界面和 Dock 栏。
 Depiction: https://repo.abox.plus/
@@ -395,7 +395,7 @@ Version: 2.1.7
 Architecture: iphoneos-arm64
 Maintainer: Hitori <mikasa-san@outlook.jp>
 Author: Hitori <mikasa-san@outlook.jp>
-Section: Tweaks
+Section: 越狱插件
 Size: 302532
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
 Name: Misaki
@@ -412,7 +412,7 @@ Architecture: iphoneos-arm64
 Description: 分屏，不必太复杂，一切从简即可。
 Maintainer: sunshinesong
 Author: sunshinesong
-Section: Tweaks
+Section: 越狱插件
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
 Size: 3520200
 Filename: ./debs/split-view-pro.1.1.5.deb
@@ -425,7 +425,7 @@ Name: split-view-pro
 Description: 分屏，不必太复杂，一切从简即可。
 Maintainer: sunshinesong
 Author: sunshinesong
-Section: Tweaks
+Section: 越狱插件
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
 TS: sp-sss
 Architecture: iphoneos-arm64
@@ -438,7 +438,7 @@ SHA256: 9c6622889ef922038863816b9a947caf5738a520f87f8e12245816faad58e44f
 
 Package: netskao.ccpower-rootless
 Version: 1.9-4
-Section: Netskao-Tweaks
+Section: 狗哥插件
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
 Architecture: iphoneos-arm64
@@ -453,7 +453,7 @@ SHA256: e3e2cce7c2363354366945b756b50877c3cea17aff28989de51496127c1990ce
 
 Package: netskao.deletephotoscompletely-rootless
 Version: 1.2-2
-Section: Netskao-Tweaks
+Section: 狗哥插件
 Maintainer: Nets
 Depends: mobilesubstrate, firmware (>= 15.0)
 Architecture: iphoneos-arm64
@@ -473,7 +473,7 @@ Architecture: iphoneos-arm64
 Size: 233164
 Maintainer: Nets
 Author: Netskao
-Section: Netskao-Tweaks
+Section: 狗哥插件
 Description: 键盘底部高度调整。
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.netskao.classickeyboardxs_1.1-8_iphoneos-arm64.deb
@@ -483,7 +483,7 @@ SHA256: 4f437330a0f82aab9096cc5d9d0fd950ccb0e968623e894e4b373df43543b981
 
 Package: netskao.hidescreenshotpreview-rootless
 Version: 1.2-1
-Section: Netskao-Tweaks
+Section: 狗哥插件
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate
 Architecture: iphoneos-arm64
@@ -502,7 +502,7 @@ Version: 1.4.2
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Author: Fouad Raheb
-Section: Netskao-Tweaks
+Section: 狗哥插件
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Size: 823820
 Description: 桌面图标上滑或下滑或3D长按菜单单选按钮可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化：增加单键降级应用，增加可选向下滑动唤出，增加查看应用加载动态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未自动刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据档案数据大小显示为包括程序组内文件夹共数据, 修改原版重置数据后未同步刷新缓存数据显示和权限/数量问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用下禁止)
@@ -513,7 +513,7 @@ SHA256: 1b64374f4ab692101d3c1ab6563b73622c569908b29475f17e6b1b17e6f62f33
 
 Package: com.sini.settingsrevamp
 Version: 2.1.1
-Section: Tweaks
+Section: 越狱插件
 Maintainer: SOPPPra
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader, com.hk.settingsrevamp.cn.rl
@@ -530,7 +530,7 @@ SHA256: ed89b996d96f7d6e11a4a1faf1d77c00b4e06b79589e2cda0843ece83c36c2f6
 
 Package: com.sini.desktoplyrics
 Version: 0.3.9~b1
-Section: Tweaks
+Section: 越狱插件
 Maintainer: 搬运工
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (>= 15.0), preferenceloader
 Architecture: iphoneos-arm64
@@ -546,7 +546,7 @@ SHA256: a151439ba9d234c7dce0014829a5c02d0377264335353ab3fda7bf9d950b25d5
 
 Package: com.sini.reachplayer-rootless
 Version: 2.6
-Section: Tweaks
+Section: 越狱插件
 Maintainer: 搬运工
 Depends: firmware (>=13.0), mobilesubstrate
 Architecture: iphoneos-arm64
@@ -554,7 +554,7 @@ Name: ReachPlayer 音乐窗口
 Author: ETHN
 Sponsor: 搬运工
 size: 117096
-Description: Now Playing info in Reachability Window! 一个好看的音乐窗口，可能有偶尔失效的bug！
+Description: 屏幕底部下滑或者双击状态栏呼出窗口
 Filename: ./debs/com.sini.reachplayer-rootless_2.6_iphoneos-arm64.deb
 MD5sum: 204dcd0557016cc9608256df139955e0
 SHA1: 867e9201957bdac7967a34d77f4ba02bd3583a79
@@ -562,7 +562,7 @@ SHA256: b50ef328d64b9f540b845ce4119f8c0cfb0ef63caf47ff14d6d6b623ec36eaba
 
 Package: com.sini.storeswitcher2
 Version: 1.0.4
-Section: Tweaks
+Section: 越狱插件
 Maintainer: 搬运工
 Depends: firmware (>= 11)
 Architecture: iphoneos-arm64
@@ -582,7 +582,7 @@ Version: 1.4.1
 Architecture: iphoneos-arm64
 Maintainer: ren7995 <lau7995ren@gmail.com>
 Author: ren7995 <lau7995ren@gmail.com>
-Section: Tweaks
+Section: 越狱插件
 Description: 桌面布局美化。
 Depiction: https://chariz.com/get/atria
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1),com.sini.atria.cn
@@ -601,7 +601,7 @@ Maintainer: 妖刀
 Author: Alucard/妖刀
 Depends: mobilesubstrate, com.sini.atria
 Architecture: iphoneos-arm64
-Section: Tweaks
+Section: 越狱插件
 Description: Atria 简体中文包 (搬运自刀刀源)
 Size: 8708
 Filename: ./debs/com.sini.atria.cn_1.4.1_iphoneos-arm64.deb
@@ -614,7 +614,7 @@ Version: 1.0-5.1
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Description: 微信消息屏蔽
-Section: Wechat-Tweaks
+Section: 微信插件
 Priority: optional
 Depends: firmware (>= 5.0)
 Author: mao
@@ -631,7 +631,7 @@ Version: 2.1-0
 Architecture: iphoneos-arm64
 Author: Misaka
 Maintainer: Misaka
-Section: Wechat-Tweaks
+Section: 微信插件
 Priority: optional
 Depends: mobilesubstrate
 Conflicts: misakahelper
@@ -650,7 +650,7 @@ Version: 1.7.4
 Architecture: iphoneos-arm64
 Maintainer: 思念变成海
 Sponsor: 思念变成海
-Section: Wechat-Tweaks
+Section: 微信插件
 Depends: mobilesubstrate
 Description: 微信黄白助手
 Author: HuangBai
@@ -667,7 +667,7 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Description: 微信助手
-Section: Wechat-Tweaks
+Section: 微信插件
 Priority: optional
 Author: Mao
 Sponsor: admin@25mao.com
@@ -683,7 +683,7 @@ Version: 2.0.1
 Architecture: iphoneos-arm64
 Maintainer: WeChat
 Author: DumpApp
-Section: Wechat-Tweaks
+Section:微信插件
 Depends: mobilesubstrate, firmware (>= 12.0)
 Description: 微信锤子助手
 Size: 9336424
@@ -698,7 +698,7 @@ Architecture: iphoneos-arm64
 Description: 抢红包, 推送小助手, 仿装计算器, 备注用户头像, 虚拟视频, 全局长按导航栏快捷功能, 等; 修复转账金额移动复原, 添加文字修改, 语言包, 一键已读, 多端登录设备隐藏, 新增朋友圈转发、修改聊天时间.
 Maintainer: appku
 Author: appku
-Section: Wechat-Tweaks
+Section: 微信插件
 Depends: mobilesubstrate (>= 0.9.5000)
 Version: 1.6-2
 Size: 1672624
@@ -709,7 +709,7 @@ SHA256: 776e9b5329fb1d118f681634683a1092f6f00fe845d0b39a94862c32d27f5cd8
 
 Package: com.sini.wcplugins.rootless
 Version: 0.1-3
-Section: Wechat-Tweaks
+Section: 微信插件
 Priority: optional
 Architecture: iphoneos-arm64
 Essential: no
@@ -728,7 +728,7 @@ SHA256: 3682df7fdaab7bcc6339b09e5b0a3fd9ce8cc9bff238c9bf48d24dc46d6aa25c
 Package: com.sini.pingfan.wechat
 Name: 微信虚拟视频
 Version: 2.2-1
-Section: Wechat-Tweaks
+Section: 微信插件
 Maintainer: 思念变成海
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -748,7 +748,7 @@ Maintainer: tangerine
 Depends: mobilesubstrate, com.sini.siriplus
 Name: EdgeSiri唤醒特效
 Description: 模仿 iOS 18 唤醒 Siri 边框效果，无设置项。安装即生效------EdgeSiri 是一款为 iOS 设计的越狱插件，它能够在 Siri 激活时在屏幕周围显示彩色边框。这个边框不仅增加了视觉吸引力，还能在 Siri 被使用时提供更加直观的反馈。
-Section: Tweaks
+Section: 越狱插件
 Size: 15236
 Filename: ./debs/com.sini.edge.siri_3.1.1-9_iphoneos-arm64.deb
 MD5sum: 5676f6953daeb6e3681f00b2dfb23119
@@ -759,7 +759,7 @@ Package: com.sini.siriplus
 Name: SiriPlus智能Siri
 Maintainer: 夕颜
 Author: 夕颜
-Section: Tweaks
+Section: 越狱插件
 Version: 1.3
 Architecture: iphoneos-arm64
 Size: 272244
@@ -772,7 +772,7 @@ SHA256: f1bb49b2db00ba1698ea158f46a1dae7408879264f31db3dba6895366fb32ef9
 
 Package: com.sini.icleanerprorl
 Version: 7.10.0k
-Section: Tweaks
+Section: 越狱应用
 Architecture: iphoneos-arm64
 Maintainer: MainRepo
 Description: The first real iOS system cleaner & optimizer
@@ -794,7 +794,7 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Description: 美化设置，隐藏设置某些选项等各项功能 (汉化: lans233)
 Name: iKSettings设置美化
 Author: iKarwan <ikghd3@gmail.com>
-Section: Tweaks
+Section: 越狱插件
 Conflicts: com.yourrepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ikset
@@ -805,7 +805,7 @@ SHA1: 41eb15a023d1aee3b013826780eb92377e8e7cac
 SHA256: 4bd468e5c8c508ebdae9873bb6966561183c936cb7fc5725cc59793911f2f673
 
 Package: com.yourepo.b4db1r3r3p0.oleddarkmode
-Section: Tweaks
+Section: 越狱插件
 Maintainer: @fr0st & b4db1r3 <nfive060@gmail.com>
 Architecture: iphoneos-arm64
 Version: 0.5.1-11
@@ -824,7 +824,7 @@ Name: 小果子通用去广告
 Description: 通用去广告插件, 拿去看电影去吧, 通杀大部分第三方广告
 Maintainer: 小果子
 Author: 小果子
-Section: Tweaks
+Section: 越狱插件
 Depends: mobilesubstrate (>= 0.9.5000)
 Sileodepiction: https://sileo.iosyyds.com/com.guozi.fuckads/js.json
 Architecture: iphoneos-arm64
@@ -840,7 +840,7 @@ Name: 移除小组件背景
 Description: 移除小组件背景，让桌面更干净。
 Maintainer: Lessica <82flex@gmail.com>
 Author: Lessica <82flex@gmail.com>
-Section: Tweaks
+Section: 越狱插件
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -852,7 +852,7 @@ SHA256: 20a22e16ae930d522b83ff75e8c50ff234b731ba8fd61d7e5f1e33060e524a1c
 
 Package: com.sini.touchvis
 Version: 2.8.1k
-Section: Tweaks
+Section: 越狱插件
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
@@ -871,7 +871,7 @@ Name: ColorfulWallpaperX
 Description: 动态光影壁纸免费版
 Maintainer: Lessica <82flex@gmail.com>
 Author: Lessica <82flex@gmail.com>
-Section: Tweaks
+Section: 越狱插件
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 2.1
@@ -888,7 +888,7 @@ Architecture: iphoneos-arm64
 Description: 去除广告
 Maintainer: 小果子
 Depends: mobilesubstrate (>= 0.9.5000)
-Section: Tweaks
+Section: 越狱插件
 Size: 1088892
 Filename: ./debs/酷安FuckAds.5.2.0.deb
 MD5sum: 0a16ee2d962a140c7f9cf2ca69fd4e0e
@@ -900,7 +900,7 @@ Name: 威锋FuckVIP-Ads
 Version: 7.0.3
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Section: Tweaks
+Section: 越狱插件
 Maintainer: 小果子
 Author: 小果子
 Size: 326548
@@ -917,7 +917,7 @@ Architecture: iphoneos-arm64
 Description: 本插件基于刀刀源的CCBorder16、CCLess++、Netskao的CCPower。由三个插件整合，删除不用的模块，仅为方便自己用。
 Maintainer: 思念变成海
 Author: 妖刀&Netskao&思念变成海
-Section: Tweaks
+Section: 越狱插件
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Size: 1054576
 Filename: ./debs/com.sini.CCJBmodular_1.0_iphoneos-arm64.deb
@@ -930,7 +930,7 @@ Package: com.sini.pkc.rootless
 Name: 微信 PKC
 Version: 0.5-8
 Description: 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API（图、文本、视频）、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、群会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特特别表置顶群管理、按群员查找列表置顶群管理、群统计统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友申请、自动互删好友、拉加好友、皆含艾特等【提示：本项目旨在专为 iOS 逆向的同仁实验，不得用于商业和个人其他意图。若使用不当，均由个人承担。若有侵权，请联系我本人删除。】
-Section: Wechat-Tweaks
+Section: 微信插件
 Depends: firmware (>= 5.0)
 Priority: optional
 Architecture: iphoneos-arm64
@@ -949,7 +949,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm64
 Maintainer: 思念变成海
 Author: 妖刃&Netskao&思念变成海
-Section: Tweaks
+Section: 越狱插件
 Description: 本插件基于刀刀源的CCBorder16、CCLess++、Netskao的CCPower。由三个插件整合，删除不使用的模块，仅为方便自己用。1.0-1更新:为烧杯群友季伯毅添加支付宝和微信的扫码和付款码模块。
 Depends: mobilesubstrate, firmware (>=16.0), ws.hbang.alderis
 Size: 1091500
@@ -966,7 +966,7 @@ Architecture: iphoneos-arm64
 Size: 29508
 Maintainer: Lessica <82flex@gmail.com>
 Author: Lessica <82flex@gmail.com>
-Section: Tweaks
+Section: 越狱插件
 Description: 保存图标布局，随时切换保存的布局。
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/图标时光机_1.0.deb
@@ -983,7 +983,7 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Author: 0xkuj
 Name: SafariX中文版
 Architecture: iphoneos-arm64
-Section: Tweaks
+Section: 越狱插件
 Filename: ./debs/com.sini.safarix_1.4.0_iphoneos-arm64.deb
 MD5sum: 5d871c2a8c74edec131e4b8b406ade4d
 SHA1: 6233ec1691792aa8ea6c4f19a021c4cb0880182f
@@ -997,7 +997,7 @@ Name: KuKu Reborn
 Version: 1.5
 Description: 进度条样式的通知，源主最爱，上架备份。
 Author: b4db1r3
-Section: Tweaks
+Section: 越狱插件
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 1.17)
 Size: 254444
 Filename: ./debs/com.sini.kuku_1.5_iphoneos-arm64.deb
@@ -1012,7 +1012,7 @@ Description: 为百度网盘的缓存文件添加导出按钮，免去每次进�
 Depends: mobilesubstrate
 Maintainer: lenglengyu <lenglengyu@126.com>
 Architecture: iphoneos-arm64
-Section: Tweaks
+Section: 越狱插件
 Depiction: https://repo.lenglengyu.top/packageInfo/baidunetdiskoutput.html
 Version: 1.0.1K
 Size: 142080
@@ -1026,7 +1026,7 @@ Name: 图标时光机
 Description: 保存图标布局，随时切换保存的布局。
 Maintainer: Lessica <82flex@gmail.com>
 Author: Lessica <82flex@gmail.com>
-Section: Tweaks
+Section: 越狱插件
 Depends: firmware (>= 15.0), mobilesubstrate
 Architecture: iphoneos-arm64
 Version: 1.6
@@ -1041,7 +1041,7 @@ Name: 图标时光机
 Description: 保存图标布局，随时切换保存的布局。
 Maintainer: Lessica <82flex@gmail.com>
 Author: Lessica <82flex@gmail.com>
-Section: Tweaks
+Section: 越狱插件
 Depends: firmware (>= 15.0), mobilesubstrate
 Architecture: iphoneos-arm64
 Version: 1.7
@@ -1059,7 +1059,7 @@ Version: 1.0-6
 Priority: optional
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4)
 Name: 左滑返回
-Section: Tweaks
+Section: 越狱插件
 Sponsor: 思念变成海
 Package: com.sini.leftpan.rootless
 Size: 44240
