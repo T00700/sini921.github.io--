@@ -715,23 +715,21 @@ MD5sum: ed9f6c4c7d31e988d3dcce8f21dcf36f
 SHA1: f8fa1edc61617f09bf6afe10b1941840ece7f46b
 SHA256: 7091c65d69924ca7b4ea2fbd6c6411d6e8162c6d4b70ce9ea45b122d984b3cbf
 
-Package: com.sini.atria
-Name: Atria-桌面布局
-Version: 1.4.1
+Author: ren7995 
 Architecture: iphoneos-arm64
-Maintainer: ren7995 <lau7995ren@gmail.com>
-Author: ren7995 <lau7995ren@gmail.com>
+Description: 桌面布局美化完整汉化版(简体中文来自刀刀源)
+Maintainer: ren7995 
+Version: 1.4.1
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Name: Atria中文版
 Section: 越狱插件
-Description: 桌面布局美化。
-Depiction: https://chariz.com/get/atria
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1),com.sini.atria.cn
 Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
-Tag: compatible_min::ios13.0
-Size: 236928
+Size: 243204
+Package: com.sini.atria
 Filename: ./debs/com.sini.atria_1.4.1_iphoneos-arm64.deb
-MD5sum: 5c8b35c3dc97ae6ff844d723b8628efc
-SHA1: f994887f1019fa1de004ab990226ef3bb3825bdf
-SHA256: 479dbc74690e44586f933871df05a46c1aa457961831f299a0ca79d563c328db
+MD5sum: 795fcd24feef1fa3c7be0877952f75c7
+SHA1: 4d318df6d5a4adccd89c466dd803561c70c7017e
+SHA256: 38170a1b50104cbeb0c02364fe6c5c465249015b86a59d56c273479abc024cb9
 
 Package: com.sini.atria.cn
 Name: Atria简体中文包
