@@ -1114,20 +1114,20 @@ SHA1: 3392488cb51c6ac544e8897f47e05ee1a2d519f3
 SHA256: 539d9bb59f512b517a74146d569f7a280b34d4c337c570d7f44f09c9fb8db4e8
 
 Package: com.sini.safarix
-Version: 1.4.0
-Description: SafariX中文版(简体中文来自刀刀源)
+Version: 1.3.0
+Description: Safari浏览器增强中文版(简体中文来自刀刀源)
 Maintainer: 0xkuj
-Size: 278396
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Author: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Name: SafariX中文版
+Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix
 Architecture: iphoneos-arm64
 Section: 越狱插件
-Filename: ./debs/com.sini.safarix_1.4.0_iphoneos-arm64.deb
-MD5sum: 5d871c2a8c74edec131e4b8b406ade4d
-SHA1: 6233ec1691792aa8ea6c4f19a021c4cb0880182f
-SHA256: 66221b9474a1455812e25c98b5b1d5eec2c60f37807b8513a67434f4b57ccdce
-
+Size: 276568
+Filename: ./debs/com.sini.safarix_1.3.0_iphoneos-arm64.deb
+MD5sum: 113e9ead5fa26c40d040b1e49a518551
+SHA1: 3970c9aa1004db349910c85db91d029e898e5e0b
+SHA256: 5459d50c5ecb904ace41f0cfd0f3de029f55b55011eb04d6fb43654d83296357
 
 Package: com.sini.kuku
 Maintainer: 思念变成海
