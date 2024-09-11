@@ -717,7 +717,7 @@ SHA256: 7091c65d69924ca7b4ea2fbd6c6411d6e8162c6d4b70ce9ea45b122d984b3cbf
 
 Author: ren7995 
 Architecture: iphoneos-arm64
-Description: 桌面布局美化完整汉化版(简体中文来自刀刀源)
+Description: 桌面布局美化(简体中文来自刀刀源)
 Maintainer: ren7995 
 Version: 1.4.1
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
@@ -730,21 +730,6 @@ Filename: ./debs/com.sini.atria_1.4.1_iphoneos-arm64.deb
 MD5sum: 795fcd24feef1fa3c7be0877952f75c7
 SHA1: 4d318df6d5a4adccd89c466dd803561c70c7017e
 SHA256: 38170a1b50104cbeb0c02364fe6c5c465249015b86a59d56c273479abc024cb9
-
-Package: com.sini.atria.cn
-Name: Atria简体中文包
-Version: 1.4.1
-Maintainer: 妖刀
-Author: Alucard/妖刀
-Depends: mobilesubstrate, com.sini.atria
-Architecture: iphoneos-arm64
-Section: 越狱插件
-Description: Atria 简体中文包 (搬运自刀刀源)
-Size: 8708
-Filename: ./debs/com.sini.atria.cn_1.4.1_iphoneos-arm64.deb
-MD5sum: a502513726439d96ca59b857f8e17bee
-SHA1: e972bcdb7b96a23349063f81ff0b6ef2014a9f2d
-SHA256: 59efe6bd12645193eeece257a281195ee6a87b648b879d5209267d04026e7895
 
 Package: com.sini.msgfilt.rootless
 Version: 1.0-5.1
