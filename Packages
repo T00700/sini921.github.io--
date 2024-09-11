@@ -1,3 +1,33 @@
+Package: com.sini.qqhook
+Version: 1.1.1-1
+Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
+Maintainer: x✨
+Size: 578148
+Depends: mobilesubstrate (>= 0.9.5000)
+Author: x✨
+Name: QQ图层
+Architecture: iphoneos-arm64
+Section: 应用破解
+Filename: ./debs/com.sini.qqhook_1.1.1-1_iphoneos-arm64.deb
+MD5sum: fabf029d71287edef0dcfe339cd6bdd7
+SHA1: 72e5cc21e60317832bd9b010cc61519758fa33f8
+SHA256: bacf44fe690c1444f71e9b0bfe3aa10f34288213ff5f79c66e98d37d6df0039b
+
+Author: x✨
+Architecture: iphoneos-arm64
+Description: 首页双指双击，或者设置里打开菜单
+Maintainer: x✨
+Version: 2.0.3-6
+Depends: mobilesubstrate (>= 0.9.5000)
+Name: 抖音图层
+Section: 应用破解
+Size: 1919312
+Package: com.sini.dyhook
+Filename: ./debs/com.sini.dyhook_2.0.3-6_iphoneos-arm64.deb
+MD5sum: 0923b07389018ba663a25972584fd52a
+SHA1: 2f955dd63d1cb06c89cefbdf253d4d4ac5962ffe
+SHA256: 0e745bd1a144ace73e78be1e51043dd147e96b0907ca536393982944d30568a3
+
 Author: yan
 Architecture: iphoneos-arm64
 Description: 2002年的第一场雪，比季伯以往来的稍晚了亿些
@@ -933,7 +963,7 @@ Name: 小果子通用去广告
 Description: 通用去广告插件, 拿去看电影去吧, 通杀大部分第三方广告
 Maintainer: 小果子
 Author: 小果子
-Section: 越狱插件
+Section: 应用破解
 Depends: mobilesubstrate (>= 0.9.5000)
 Sileodepiction: https://sileo.iosyyds.com/com.guozi.fuckads/js.json
 Architecture: iphoneos-arm64
@@ -997,7 +1027,7 @@ Architecture: iphoneos-arm64
 Description: 去除广告
 Maintainer: 小果子
 Depends: mobilesubstrate (>= 0.9.5000)
-Section: 越狱插件
+Section: 应用破解
 Size: 1088892
 Filename: ./debs/酷安FuckAds.5.2.0.deb
 MD5sum: 0a16ee2d962a140c7f9cf2ca69fd4e0e
@@ -1009,7 +1039,7 @@ Name: 威锋FuckVIP-Ads
 Version: 7.0.3
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Section: 越狱插件
+Section: 应用破解
 Maintainer: 小果子
 Author: 小果子
 Size: 326548
@@ -1121,7 +1151,7 @@ Description: 为百度网盘的缓存文件添加导出按钮，免去每次进�
 Depends: mobilesubstrate
 Maintainer: lenglengyu <lenglengyu@126.com>
 Architecture: iphoneos-arm64
-Section: 越狱插件
+Section: 应用破解
 Depiction: https://repo.lenglengyu.top/packageInfo/baidunetdiskoutput.html
 Version: 1.0.1K
 Size: 142080
