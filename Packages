@@ -1,5 +1,6 @@
 Package: com.sini.eneko
 Author: Traurige
+Section: 越狱插件
 Architecture: iphoneos-arm64
 Description: 壁纸插件，把你喜欢的视频设置成壁纸
 Maintainer: 思念变成海
