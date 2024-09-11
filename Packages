@@ -1,3 +1,18 @@
+Author: yan
+Architecture: iphoneos-arm64
+Description: 2002年的第一场雪，比季伯以往来的稍晚了亿些
+Maintainer: 思念变成海
+Version: 1.0.4
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 13.0), ws.hbang.common (>= 1.2)
+Name: Stella
+Section: 越狱插件
+Package: com.sini.stella
+Size: 664564
+Filename: ./debs/com.sini.stella_1.0.4_iphoneos-arm64.deb
+MD5sum: e5aee8678de68c1a6761723f94fa13da
+SHA1: 4f68a28b5e23a12e347f26c9b22c244ce3b50c72
+SHA256: 5a78f11ba3a9a317cdecd39f5a04b4b87fab75d9b45914e8489a6460548ccec7
+
 Author: Traurige 
 Architecture: iphoneos-arm64
 Description: 壁纸插件，将你喜欢的视频设置成桌面或者锁屏壁纸(思念变成海汉化)
