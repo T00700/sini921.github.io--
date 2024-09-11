@@ -1,18 +1,18 @@
-Package: com.sini.eneko
-Author: Traurige
-Section: 越狱插件
+Author: Traurige 
 Architecture: iphoneos-arm64
-Description: 壁纸插件，把你喜欢的视频设置成壁纸
-Maintainer: 思念变成海
+Description: 壁纸插件，将你喜欢的视频设置成桌面或者锁屏壁纸(思念变成海汉化)
+Maintainer: Traurige 
 Version: 1.4.2
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Name: Eneko
+Name: Eneko中文版
+Section: 越狱插件
 Conflicts: love.litten.eneko
-Size: 28428
+Size: 28552
+Package: com.sini.eneko
 Filename: ./debs/com.sini.eneko_1.4.2_iphoneos-arm64.deb
-MD5sum: 4ca910c1fa1f79bc5e392895416a1770
-SHA1: fff400ad3d9fcc039647ff4b2bd005ccba35281b
-SHA256: db56c8b49c100f6f18c8c23db541b19094c3fd25cf78e490c7e62bfe8c3761c4
+MD5sum: ed29996a18cf1c265b188fd9b0880d18
+SHA1: da95eb14ab0f680d50bfaa752533d94bc0ba3b1a
+SHA256: fc11c2e979eae44105c0aa4f101c02a129db662f2684c7527f0d3e48a89c877f
 
 Package: com.sini.trollpad
 Name: TrollPad中文版
