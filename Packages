@@ -1,3 +1,18 @@
+Package: com.sini.eneko
+Author: Traurige
+Architecture: iphoneos-arm64
+Description: 壁纸插件，把你喜欢的视频设置成壁纸
+Maintainer: 思念变成海
+Version: 1.4.2
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Name: Eneko
+Conflicts: love.litten.eneko
+Size: 28428
+Filename: ./debs/com.sini.eneko_1.4.2_iphoneos-arm64.deb
+MD5sum: 4ca910c1fa1f79bc5e392895416a1770
+SHA1: fff400ad3d9fcc039647ff4b2bd005ccba35281b
+SHA256: db56c8b49c100f6f18c8c23db541b19094c3fd25cf78e490c7e62bfe8c3761c4
+
 Package: com.sini.trollpad
 Name: TrollPad中文版
 Description: 在iPhone上开启iPad台前调度、分屏、小窗和iPad样式的dock栏以及后台卡片样式，修复默认键盘下不能使用九宫格键盘的问题(思念变成海汉化)
