@@ -94,6 +94,21 @@
                     "class": "DepictionTableTextView",
                     "text": "季伯飞",
                     "title": "首席人事官"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯磊",
+                    "title": "扫地工"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯辉",
+                    "title": "技术部经理"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯常",
+                    "title": "季伯创始人"
                 }
             ]
         }
