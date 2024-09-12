@@ -56,11 +56,6 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "季伯飞",
-                    "title": "季伯工作室"
-                },
-                {
-                    "class": "DepictionTableTextView",
                     "text": "16.0-16.6.1",
                     "title": "支持的系统范围"
                 }
