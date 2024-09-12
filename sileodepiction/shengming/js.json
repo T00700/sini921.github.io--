@@ -73,7 +73,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "text": "季伯达",
-                    "title": "首席运营官"
+                    "title": "人力资源部"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -97,8 +97,8 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "季伯磊",
-                    "title": "扫地工"
+                    "text": "玛莎拉蒂哥(季伯磊)",
+                    "title": "首席运营官"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -113,7 +113,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "text": "季伯福",
-                    "title": "保安队长"
+                    "title": "保安部部长"
                 }
             ]
         }
