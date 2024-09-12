@@ -109,6 +109,11 @@
                     "class": "DepictionTableTextView",
                     "text": "季伯常",
                     "title": "季伯创始人"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯福",
+                    "title": "保安队长"
                 }
             ]
         }
