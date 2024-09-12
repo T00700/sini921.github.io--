@@ -2,7 +2,7 @@ Package: com.sini.Telegrammask
 Name: Telegrammask
 Version: 0.1-3
 Description: TG伪装计算器插件，密码为当前时间，如13:14密码为1314，00：56密码为56，24小时制为准。三指双击可自定义密码。
-Section: System
+Section: 应用破解
 Depends: firmware (>= 5.0), mobilesubstrate
 Priority: optional
 Author: iosrxwy
