@@ -1,3 +1,33 @@
+Package: com.sini.qqhook
+Version: 1.1.1-2
+Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
+Maintainer: x✨
+Size: 785624
+Depends: mobilesubstrate (>= 0.9.5000)
+Author: x✨
+Name: QQ图层
+Architecture: iphoneos-arm64
+Section: 应用破解
+Filename: ./debs/com.sini.qqhook_1.1.1-2_iphoneos-arm64.deb
+MD5sum: bc336415448cfd06254839a6098fdb22
+SHA1: 02a568007745ce0735608873741eb7bbccec9941
+SHA256: cb0078c8894a1876c90d08b9296751a7f5f9c8196b3b85ef4856912115e4a654
+
+Package: com.sini.dyhook
+Name: 抖音图层
+Description: 自用，仅支持越狱食用，首页双指双击，或者设置里打开菜单
+Maintainer: x✨
+Author: x✨
+Section: 应用破解
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 2.0.3-8
+Size: 3031244
+Filename: ./debs/com.sini.dyhook_2.0.3-8_iphoneos-arm64.deb
+MD5sum: cdfa6c85644560f89933214ae736c260
+SHA1: c3c42f44ab98b52310e7a68cfc32dad103aecbf4
+SHA256: 7bcd0985dcf4fa81507a691d8f6198dd9477aa2261b52c56eba2032bc77dd04f
+
 Package: com.sini.dumpdecrypter
 Version: 1.4-4
 Description: 全权限砸壳
