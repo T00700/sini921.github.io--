@@ -1,6 +1,6 @@
 Package: com.sini.themepro
 Version: 3.1.0
-Section: custom
+Section: 微信插件
 Priority: optional
 Architecture: iphoneos-arm64
 Replaces: ThemePro
