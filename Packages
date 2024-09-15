@@ -1,3 +1,19 @@
+Author: Curtin 
+Architecture: iphoneos-arm64
+Maintainer: Curtin 
+Section: 微信插件
+Version: 0.5-9
+Priority: optional
+Depends: firmware (>= 5.0)
+Name: 微信PKC
+Package: com.sini.pkc.rootless
+Description: 微信PKC插件
+Size: 571796
+Filename: ./debs/com.sini.pkc.rootless_0.5-9_iphoneos-arm64.deb
+MD5sum: 5c9efea650397299460410029b5f6b3f
+SHA1: bf589c701a95076c8a340814bab4d8ca2bd5eb38
+SHA256: 59916b913166897d8ab9d674f1b985652ac14b0168ad6d0a658587e562818075
+
 Author: PoomSmart
 Architecture: iphoneos-arm64
 Description: Office2013风格的光标动画，无设置项，安装即生效
