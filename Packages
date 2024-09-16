@@ -1,3 +1,34 @@
+Author: PoomSmart
+Architecture: iphoneos-arm64
+Description: 用系统自带的相机拍摄视频时增加一个"暂停/恢复"按钮
+Maintainer: PoomSmart
+Version: 2.0.1
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Name: RecordPause
+Section: 越狱插件
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Size: 9900
+Package: com.sini.recordpause
+Filename: ./debs/com.sini.recordpause_2.0.1_iphoneos-arm64.deb
+MD5sum: 4a3e08a682a75b20e1afde7da99ddc04
+SHA1: c6b60640191929af94c20e2cc16d962b3f868abf
+SHA256: 25144917c94dabfdec3672822e6697214d36212e030c7662b1e4a7f7568c6462
+
+Package: com.sini.dyhook
+Name: 抖音图层
+Description: 自用 越狱食用
+Maintainer: x✨
+Author: x✨
+Section: 应用破解
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 2.0.5
+Size: 3165912
+Filename: ./debs/com.sini.dyhook_2.0.5_iphoneos-arm64.deb
+MD5sum: 8d2396b43a38a8d52b4589a04f56018c
+SHA1: 19f58e764cbd8bf146a0830cc10cb060a64cd153
+SHA256: ac3ea55d914b5f1094e4cdbce13b9bc55bc0d2b94575fbe26dc0f6fb34251f0f
+
 Author: Curtin 
 Architecture: iphoneos-arm64
 Maintainer: Curtin 
