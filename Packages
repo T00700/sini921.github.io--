@@ -1,3 +1,19 @@
+Package: com.sini.iboxhook
+Version: 1.0.9
+Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除VPN检测 移除开屏Ads | 仅越狱使用 更新支持216版本
+Maintainer: x✨
+Size: 89364
+Depends: mobilesubstrate (>= 0.9.5000)
+Author: x✨
+Name: iBoxNoAds
+Architecture: iphoneos-arm64
+Section: 应用破解
+icon: https://sini921.github.io/repo/sileodepiction/icon/ibox.png
+Filename: ./debs/com.sini.iboxhook_1.0.9_iphoneos-arm64.deb
+MD5sum: 10b1618f09887f664b2d76aa43cefef5
+SHA1: 44c3946159a6c82d742e4f1073f9ba21e378d6f4
+SHA256: 5c6765ae1570f24a881ffdc00bb91404084d012a596815e5fffa2feefb582269
+
 Package: com.sini.dyhook
 Name: 抖音图层
 Description: 自用 越狱食用
@@ -1165,40 +1181,6 @@ MD5sum: 3dad85750261521b6742439f710ad15b
 SHA1: b6e6c4415528940045fb9fc6d63519f7cdac97d1
 SHA256: 5ff21a35c1e42ff44844faccc9d62dec17fff953da260070bc7c1175252f95cb
 icon: https://sini921.github.io/repo/sileodepiction/icon/icleanerpro.png
-
-Package: com.sini.ikghd.ikset
-Version: 3.3
-Architecture: iphoneos-arm64
-Maintainer: iKarwan <ikghd3@gmail.com>
-Description: 美化设置，隐藏设置某些选项等各项功能 (汉化: lans233)
-Name: iKSettings设置美化
-Author: iKarwan <ikghd3@gmail.com>
-Section: 越狱插件
-Conflicts: com.yourrepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ikset
-Size: 48880
-Filename: ./debs/com.sini.ikghd.ikset_3.3_iphoneos-arm64.deb
-MD5sum: cea31b9a3149639fecca1bc098f8cfb4
-SHA1: 41eb15a023d1aee3b013826780eb92377e8e7cac
-SHA256: 4bd468e5c8c508ebdae9873bb6966561183c936cb7fc5725cc59793911f2f673
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
-
-Package: com.yourepo.b4db1r3r3p0.oleddarkmode
-Section: 越狱插件
-Maintainer: @fr0st & b4db1r3 <nfive060@gmail.com>
-Architecture: iphoneos-arm64
-Version: 0.5.1-11
-Depends: mobilesubstrate, firmware (>= 13.0)
-Description: 很季伯黑的模式
-Name: OLED Dark Mode 深色模式
-Author: @fr0st & b4db1r3 <nfive060@gmail.com>
-Size: 9436
-Filename: ./debs/com.yourepo.b4db1r3r3p0.oleddarkmode_0.5.1-11_iphoneos-arm64.deb
-MD5sum: fe730c15a32e5c91bbd0544171d12b08
-SHA1: 2aa47adabb80f40ccf018d6ae34ee9899775bed5
-SHA256: 211e38f559a51f3a94d42c1a4a721ccbff73d83f3b587f59e8dda8a5f968eb0d
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.guozi.fuckads
 Name: 小果子通用去广告
