@@ -611,7 +611,7 @@ Filename: ./debs/com.sini.zetsu_1.5_iphoneos-arm64.deb
 MD5sum: ba42ad3ccc8238d3aa38471869417d4b
 SHA1: a447ce881703aa3ab3fd8a0f7aa49e899157eb90
 SHA256: a30d456d40193ed6d462708bfce0c94c34b89466e2a9491ed7a5ed5d277bc32b
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
 
 Package: shaobei
 Name: AAAA此为空包仅用作声明！
@@ -826,7 +826,7 @@ Filename: ./debs/netskao.deletephotoscompletely-rootless_1.2-2_iphoneos-arm64.de
 MD5sum: 2462a16668bce692cae56d8272835cc5
 SHA1: e39efa4b086b75aaabd3d87d717a83177cf13d6e
 SHA256: f9a95af91aa14281e2b4b6ef76e7e4bdee2a88994b8d5f96ea7192f4d12031ed
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/xiangce.png
 
 Package: com.netskao.classickeyboardxs
 Name: ClassicKeyboardXS
@@ -960,7 +960,7 @@ Filename: ./debs/com.sini.atria_1.4.1_iphoneos-arm64.deb
 MD5sum: 795fcd24feef1fa3c7be0877952f75c7
 SHA1: 4d318df6d5a4adccd89c466dd803561c70c7017e
 SHA256: 38170a1b50104cbeb0c02364fe6c5c465249015b86a59d56c273479abc024cb9
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
 
 Package: com.sini.msgfilt.rootless
 Version: 1.0-5.1
@@ -1384,4 +1384,4 @@ Filename: ./debs/com.sini.leftpan.rootless_1.0-6_iphoneos-arm64.deb
 MD5sum: c9519e3b8147fd8395a26d0ba3707921
 SHA1: ec213ce1232d4c98280a56f04ba46cb38eaf8cd0
 SHA256: ea58a8d03711dbad3bf40a66edc6d7cb562a1be5a71878c5c4c5d776088542fc
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/zhfh.png
