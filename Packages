@@ -96,6 +96,7 @@ Filename: ./debs/com.sini.themepro_3.1.0_iphoneos-arm64.deb
 MD5sum: 81054ebaabff610a91be82afdd82554d
 SHA1: 790c11914ef2fc1fef29d5cb7691d1e0aff04cd9
 SHA256: f6e2f392fca9d99437f6f33276b3d7fdaa82576ed8422ad037e1f7fff0625052
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Author: ETHN 
 Architecture: iphoneos-arm64
