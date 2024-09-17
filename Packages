@@ -1,3 +1,19 @@
+Package: com.sini.dyhook
+Name: 抖音图层
+Description: 自用 越狱食用
+Maintainer: x✨
+Author: x✨
+Section: 应用破解
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 2.0.5-1
+Size: 3208264
+icon: https://sini921.github.io/repo/sileodepiction/icon/dy.png
+Filename: ./debs/com.sini.dyhook_2.0.5-1_iphoneos-arm64.deb
+MD5sum: c12766fcd1798d7aae34bbf42abfd3bf
+SHA1: e67fd06a56f2d52baf6298733423e32dae2f2b4e
+SHA256: 23401c8db855d771d6dadd26ee6c2db27d1d54626d2da5ba9225ba771ef2cffb
+
 Author: PoomSmart
 Architecture: iphoneos-arm64
 Description: 用系统自带的相机拍摄视频时增加一个"暂停/恢复"按钮
