@@ -13,7 +13,7 @@ Filename: ./debs/com.sini.recordpause_2.0.2_iphoneos-arm64.deb
 MD5sum: 406dbfa24ce4ea56d12d302c03c5fa03
 SHA1: 5696e017b20767e7e3130a1e5ddb9dad67bbed64
 SHA256: 57530185a29e5b7b12f995b25aab3a7dc864230aa41e1053d6c76e5d0e670155
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/xiangji.png
 
 Author: PoomSmart
 Architecture: iphoneos-arm64
@@ -30,7 +30,7 @@ Filename: ./debs/com.sini.recordpause_2.0.1_iphoneos-arm64.deb
 MD5sum: 4a3e08a682a75b20e1afde7da99ddc04
 SHA1: c6b60640191929af94c20e2cc16d962b3f868abf
 SHA256: 25144917c94dabfdec3672822e6697214d36212e030c7662b1e4a7f7568c6462
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/xiangji.png
 
 Package: com.sini.dyhook
 Name: 抖音图层
@@ -628,7 +628,7 @@ MD5sum: ffb0b99392a5689d66ecdf1d795bb239
 SHA1: c8fae1df558fb10dcbe1811410391c6aff5272af
 SHA256: 8fe63c78e1b4aead90cdcdb09841573c44d21e62cd6cd6d52946b840eb91a5f4
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/shengming/js.json
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/shengming.png
 
 Package: ws.hbang.newterm3
 Name: NewTerm 3 Beta
@@ -728,7 +728,7 @@ Filename: ./debs/com.sunshinesong.split-view-pro_1.3.7_iphoneos-arm64.deb
 MD5sum: 61967870968c15dc26eba579bdae698d
 SHA1: a1db71fc4736be1722db05d98ac736df989f653e
 SHA256: ced887176c83735f568fa3ab80f2604534a97acd9f86bad9f6c85c205f637ae1
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
 
 Package: com.swing.padswitcher
 Name: PadSwitcher - iPad 多任务
@@ -777,7 +777,7 @@ Filename: ./debs/split-view-pro.1.1.5.deb
 MD5sum: 07235702c22f2288c44e776b235e6940
 SHA1: 2ca51292fec481501a89816abb86dfc68264ba31
 SHA256: 5593ff630f531ee936383593436322542f175324a75601149988ef4558b589dc
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
 
 Package: com.sunshinesong.split-view-pro
 Name: split-view-pro
@@ -794,7 +794,7 @@ Filename: ./debs/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
 MD5sum: 0633f6b017afdbbc2513ea5b24cf19de
 SHA1: 61c37fdc9ef8cc51d962d0cb329e5d99ecd5798c
 SHA256: 9c6622889ef922038863816b9a947caf5738a520f87f8e12245816faad58e44f
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
 
 Package: netskao.ccpower-rootless
 Version: 1.9-4
