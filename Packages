@@ -245,7 +245,7 @@ Filename: ./debs/com.sini.eneko_1.4.2_iphoneos-arm64.deb
 MD5sum: ed29996a18cf1c265b188fd9b0880d18
 SHA1: da95eb14ab0f680d50bfaa752533d94bc0ba3b1a
 SHA256: fc11c2e979eae44105c0aa4f101c02a129db662f2684c7527f0d3e48a89c877f
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/eneko.png
 
 Package: com.sini.trollpad
 Name: TrollPad中文版
@@ -577,7 +577,7 @@ Filename: ./debs/com.sini.instalauncher2_1.11.1_iphoneos-arm64.deb
 MD5sum: 92b87212285f1a76a8651e44dbbb2815
 SHA1: b3e0666df605e087f5362a622505b32c9e6d2bdb
 SHA256: 1227daf233b93a21ebac5a14fc9edc041547dc96fa06b2f3a6b4a56c729a97eb
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/cebian.png
 
 Author: Mao
 Architecture: iphoneos-arm64
@@ -761,7 +761,7 @@ Filename: ./debs/com.hitori.misaki_2.1.7_iphoneos-arm64.deb
 MD5sum: 7e3b1f3bd25e6c1f1ae410e01235517e
 SHA1: 222e5ccca8d9e7c08d1475272e992a2c9cd9aacf
 SHA256: 0e225f5294a12a45de685e330d2c212b9ad567d12cfd750627bc2239f77e5085
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
 
 Package: com.sunshinesong.split-view-pro
 Name: split-view-pro
