@@ -157,6 +157,7 @@ Filename: ./debs/com.sini.dumpdecrypter_1.4-4_iphoneos-arm64.deb
 MD5sum: 4ef300eeafcf14e10e155e865bb97d61
 SHA1: 3441673d73220c65d4b3288a69272c1494f051e9
 SHA256: 5226ea43ea319d6a8a70583af5d81d4866819ba1d0e67fd4ce59b76581c89406
+icon: https://sini921.github.io/repo/sileodepiction/icon/dump.png
 
 Package: com.sini.Telegrammask
 Name: Telegrammask
@@ -635,6 +636,7 @@ Filename: ./debs/com.sini.symbols_3.0_iphoneos-arm64.deb
 MD5sum: 53f2f529a3810282ca0e53c11726ebf7
 SHA1: 82c880746c8d1d56b208241ecf1bc381031623aa
 SHA256: 5b31e4a9bc01c4ed9388c274234b92f19bcddadf8fbea2bb8f7942e15a20c17f
+icon: https://sini921.github.io/repo/sileodepiction/icon/sf.png
 
 Package: com.sini.wechatnotiavatar
 Name: WeChatNotiAvatar
