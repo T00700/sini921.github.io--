@@ -180,7 +180,7 @@ Filename: ./debs/com.sini.Telegrammask_0.1-3_iphoneos-arm64.deb
 MD5sum: c02f9e6b45696f45dedb67fb5073fa9b
 SHA1: 06b91d52ca97cf1d041a5dc507963bca7d3423b3
 SHA256: 95f7a64b59dddc64f93a43b7a1ba6b34d6f4ef3468d5ad856fe65f102722b03b
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/tg.png
 
 Package: com.sini.qqhook
 Version: 1.1.1-1
@@ -228,7 +228,7 @@ Filename: ./debs/com.sini.stella_1.0.4_iphoneos-arm64.deb
 MD5sum: e5aee8678de68c1a6761723f94fa13da
 SHA1: 4f68a28b5e23a12e347f26c9b22c244ce3b50c72
 SHA256: 5a78f11ba3a9a317cdecd39f5a04b4b87fab75d9b45914e8489a6460548ccec7
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/stella.png
 
 Author: Traurige 
 Architecture: iphoneos-arm64
@@ -261,7 +261,7 @@ Filename: ./debs/com.sini.trollpad_1.3_iphoneos-arm64.deb
 MD5sum: a5eb35d6c18b0af24655ce34a4f6f630
 SHA1: 23c5a6d986d0991387c87f90d463996f0d15658d
 SHA256: 42f57a09fa3ef6ca38c1a18fe0107d05528c92db93031ebc6edc5131761e44e1
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/trollpad.png
 
 Author: Dhinak G 
 Architecture: iphoneos-arm64
@@ -277,7 +277,7 @@ Filename: ./debs/PreferenceLoader.2.2.7.deb
 MD5sum: 2495248c78c1d3e717a40d134cb996a9
 SHA1: a88b3c935dc250e24bf239e959783152945627a8
 SHA256: bd64aded99d15c25197f57df2ac27535c387ac6b71b4339462c648f3699ff565
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 
 Author: opa334 
 Architecture: iphoneos-arm64
@@ -295,7 +295,7 @@ Filename: ./debs/CCSupport.1.3.13-2.deb
 MD5sum: 80627c4e3df28302aedea1ef59bb6f6f
 SHA1: 656041ff3b9567336882d6aab5505c6ef760e6f4
 SHA256: 8df97600c7839a64c2f037ed7410473284c59e188b7cb0c03655189b1abb4cc9
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 
 Author: opa334 
 Architecture: iphoneos-arm64
@@ -312,7 +312,7 @@ Filename: ./debs/libSandy.1.1.4.deb
 MD5sum: 539fb86aa82a5a07bddc6ba8f8459f24
 SHA1: d2c94744e6c6784d96efe695666d2d8b72b6ea85
 SHA256: 2c4cadf8d22d83f08a6e073ee49be49770b18f96b9b034b2d1202370352235bd
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 
 Author: opa334 
 Architecture: iphoneos-arm64
@@ -328,7 +328,7 @@ Filename: ./debs/AltList.1.0.11.deb
 MD5sum: cbb3046771a8fb8cd9340e1be67ba24e
 SHA1: 94f812c43d6feaee1c88556c9488c67914079b35
 SHA256: b0c625f27050fc67ad3aee8474af359610df66bba786aa75df9e3564aeb3c097
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 
 Package: com.sini.77theme
 Version: 0.2.8-1
@@ -892,7 +892,7 @@ Filename: ./debs/com.sini.settingsrevamp_2.1.1.deb
 MD5sum: b71c0bc21a7acb51c416585900fe0083
 SHA1: bd1b9d2d3f7534d455347b0b4c4999d15848ae50
 SHA256: ed89b996d96f7d6e11a4a1faf1d77c00b4e06b79589e2cda0843ece83c36c2f6
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/sett.png
 
 Package: com.sini.desktoplyrics
 Version: 0.3.9~b1
