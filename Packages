@@ -518,6 +518,7 @@ Filename: ./debs/MTerminal.1.6.deb
 MD5sum: 765f7794784901690cdb499c7e94e176
 SHA1: f139c1be96eb5e15b7d03e3bcebf748fa6da216c
 SHA256: 8342ce4eab76b2810f479574579b3f4fca5cd129af62fbfdec561f54c2383a82
+icon: https://sini921.github.io/repo/sileodepiction/icon/terminal.png
 
 Package: com.sini.appku.wechat
 Name: 微信爱锋
@@ -618,6 +619,7 @@ Filename: ./debs/ws.hbang.newterm3_3.0~beta1-3+debug_iphoneos-arm64.deb
 MD5sum: cbbeb22943eaee661e7089c8e6e5e542
 SHA1: 936d009f93e7b01e43bee9f90e21ce7ca481ce24
 SHA256: 7dadd4a0dc51618945407ae97b4137d9587fdb9615d9fb9e4d9b4539916451f5
+icon: https://sini921.github.io/repo/sileodepiction/icon/newterm.png
 
 Author: MTAC
 Architecture: iphoneos-arm64
@@ -678,6 +680,7 @@ Filename: ./debs/com.sini.chromatic.rootless_3.0_iphoneos-arm64.deb
 MD5sum: 218a4f389e8150c6672d3f25741aa579
 SHA1: da63ae84e6ace08ab0c68aa7093e571006998a27
 SHA256: af8e0681aaf7aa1d61afe4d667ee315fb66cbbd122e467834b5c7e5a87fbff13
+icon: https://sini921.github.io/repo/sileodepiction/icon/saily.png
 
 Package: com.sunshinesong.split-view-pro
 Name: split-view-pro
@@ -1098,6 +1101,7 @@ Filename: ./debs/com.sini.icleanerprorl_7.10.0k_iphoneos-arm64.deb
 MD5sum: 3dad85750261521b6742439f710ad15b
 SHA1: b6e6c4415528940045fb9fc6d63519f7cdac97d1
 SHA256: 5ff21a35c1e42ff44844faccc9d62dec17fff953da260070bc7c1175252f95cb
+icon: https://sini921.github.io/repo/sileodepiction/icon/icleanerpro.png
 
 Package: com.sini.ikghd.ikset
 Version: 3.3
