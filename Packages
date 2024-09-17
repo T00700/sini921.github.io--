@@ -364,21 +364,20 @@ SHA256: d66bec02ab9a7a0e877e1029e8011f32c29882ee9cce6745b803ea8f76444f80
 icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 
 Package: com.sini.freepip
-Author: Soh Satoh
-Architecture: iphoneos-arm64
+Version: 0.0.3-1
 Description: 解锁画中画的限制，可以放在任意位置和调整到任意大小。长按画中画窗口进入 FreePIP 模式进行调整。
-Maintainer: 思念变成海
-Version: 1.1
-Depends: mobilesubstrate
-Name: FreePIP画中画增强
+Maintainer: Soh Satoh
+Size: 6388
+Depends: mobilesubstrate (>= 0.9.5000)
+Author: Soh Satoh
+Name: FreePIP
+Architecture: iphoneos-arm64
 Section: 越狱插件
-Sponsor: 思念变成海
-Size: 6696
-Filename: ./debs/com.sini.freepip_1.1_iphoneos-arm64.deb
-MD5sum: 1d46a2eaadf479104772861db4967132
-SHA1: 85c2bee7da5696c7096237794530318bb86bb45c
-SHA256: 9873de3e82db97c0494eed7e5d7c037be42438f191f3488645f99044f3200b07
 icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+Filename: ./debs/com.sini.freepip_0.0.3-1_iphoneos-arm64.deb
+MD5sum: 7339b5050d5e5f9def1ebb38321d27f3
+SHA1: 5a4567be587334215dd0b50e641b7cf1e18a2aa9
+SHA256: d98def359b1fadd7737988dd2bdae131e145229f0ddee626353eb93db0b74018
 
 Package: com.sini.customizecc
 Version: 1.4.3
