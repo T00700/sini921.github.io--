@@ -1,3 +1,19 @@
+Package: com.sini.airpodscompanion
+Version: 1.3
+Description: airpods耳机伴侣
+Maintainer: Ethan Whited
+Size: 10252060
+Depends: preferenceloader
+Author: Ethan Whited
+Name: AirpodsCompanion
+Architecture: iphoneos-arm64
+Section: 越狱插件
+icon: https://sini921.github.io/repo/sileodepiction/icon/airpods.png
+Filename: ./debs/com.sini.airpodscompanion_1.3_iphoneos-arm64.deb
+MD5sum: 9a3cdea4eada1cce839d2bee0a097ffd
+SHA1: 73ca25b06a8968fb128da8895ef70c10500170d2
+SHA256: 15cb4f8eb24991e6ab60f1f4e2caf8ed31a4cda2b9e1988b07d6ad91eb2c9205
+
 Author: CoolStar & Lizynz
 Architecture: iphoneos-arm64
 Description: CoolStar的经典文件夹3
