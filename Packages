@@ -444,7 +444,7 @@ Filename: ./debs/com.sini.choicy_1.4.10-3_iphoneos-arm64.deb
 MD5sum: 04bd7162a3487d45f3156ce58bf79b92
 SHA1: db248704569474a33547947730bbb96fcea9439f
 SHA256: 09758fa025c8f3f15893b30b25f9d618d5bc4f6cfcdcf3801a2c003b8b916b8d
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/choicy.png
 
 Package: com.sini.flexlist
 Version: 1.4-2
@@ -874,7 +874,7 @@ Filename: ./debs/com.netskao.appdata_1.4.2_iphoneos-arm64.deb
 MD5sum: 090451a77622a645950b9eb617ff0075
 SHA1: 080c3f5babb93c1d27ed2a608f3867862a3d6eab
 SHA256: 1b64374f4ab692101d3c1ab6563b73622c569908b29475f17e6b1b17e6f62f33
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/appdata.png
 
 Package: com.sini.settingsrevamp
 Version: 2.1.1
@@ -1217,7 +1217,7 @@ Filename: ./debs/com.sini.touchvis_2.8.1k_iphoneos-arm64.deb
 MD5sum: 7ccbd861a2e6cb217cac15a9dfd8c8de
 SHA1: 61be9e0dc48751fd05f3f2c8897c76860b6e5687
 SHA256: ac925cf86769dabc0c4a88a35baeef58e3bebe5c22ce8947209e6c5b39a81275
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/touch.png
 
 Package: com.sini.colorfulwallpaperx
 Name: ColorfulWallpaperX
@@ -1333,7 +1333,7 @@ Filename: ./debs/com.sini.safarix_1.3.0_iphoneos-arm64.deb
 MD5sum: 113e9ead5fa26c40d040b1e49a518551
 SHA1: 3970c9aa1004db349910c85db91d029e898e5e0b
 SHA256: 5459d50c5ecb904ace41f0cfd0f3de029f55b55011eb04d6fb43654d83296357
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
 
 Package: com.sini.kuku
 Maintainer: 思念变成海
