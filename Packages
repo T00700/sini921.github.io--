@@ -13,6 +13,7 @@ Filename: ./debs/com.sini.recordpause_2.0.2_iphoneos-arm64.deb
 MD5sum: 406dbfa24ce4ea56d12d302c03c5fa03
 SHA1: 5696e017b20767e7e3130a1e5ddb9dad67bbed64
 SHA256: 57530185a29e5b7b12f995b25aab3a7dc864230aa41e1053d6c76e5d0e670155
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Author: PoomSmart
 Architecture: iphoneos-arm64
@@ -29,6 +30,7 @@ Filename: ./debs/com.sini.recordpause_2.0.1_iphoneos-arm64.deb
 MD5sum: 4a3e08a682a75b20e1afde7da99ddc04
 SHA1: c6b60640191929af94c20e2cc16d962b3f868abf
 SHA256: 25144917c94dabfdec3672822e6697214d36212e030c7662b1e4a7f7568c6462
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.dyhook
 Name: 抖音图层
@@ -78,6 +80,7 @@ Filename: ./debs/com.sini.smoothcursorios13_0.0.1_iphoneos-arm64.deb
 MD5sum: df3ded1c5da67cf42e4efd9eec335008
 SHA1: 85867b30ef828fd068800472276d152dccc3794e
 SHA256: 322eb373e4a06f517bd28b1b01efe62652ed8542887678b3b943c466c13c82c1
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.themepro
 Version: 3.1.0
@@ -113,6 +116,7 @@ Filename: ./debs/com.sini.stepup_1.2_iphoneos-arm64.deb
 MD5sum: 7bde96c1573d77c433fd675959bee844
 SHA1: 263d206e0695f1e28698d53e810328e9f66582fa
 SHA256: 62d3204dd449b534644de0175dffa1d607d9a93ca5d03da2683f1a26c9892085
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.qqhook
 Version: 1.1.1-2
@@ -176,6 +180,7 @@ Filename: ./debs/com.sini.Telegrammask_0.1-3_iphoneos-arm64.deb
 MD5sum: c02f9e6b45696f45dedb67fb5073fa9b
 SHA1: 06b91d52ca97cf1d041a5dc507963bca7d3423b3
 SHA256: 95f7a64b59dddc64f93a43b7a1ba6b34d6f4ef3468d5ad856fe65f102722b03b
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.qqhook
 Version: 1.1.1-1
@@ -223,6 +228,7 @@ Filename: ./debs/com.sini.stella_1.0.4_iphoneos-arm64.deb
 MD5sum: e5aee8678de68c1a6761723f94fa13da
 SHA1: 4f68a28b5e23a12e347f26c9b22c244ce3b50c72
 SHA256: 5a78f11ba3a9a317cdecd39f5a04b4b87fab75d9b45914e8489a6460548ccec7
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Author: Traurige 
 Architecture: iphoneos-arm64
@@ -239,6 +245,7 @@ Filename: ./debs/com.sini.eneko_1.4.2_iphoneos-arm64.deb
 MD5sum: ed29996a18cf1c265b188fd9b0880d18
 SHA1: da95eb14ab0f680d50bfaa752533d94bc0ba3b1a
 SHA256: fc11c2e979eae44105c0aa4f101c02a129db662f2684c7527f0d3e48a89c877f
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.trollpad
 Name: TrollPad中文版
@@ -254,6 +261,7 @@ Filename: ./debs/com.sini.trollpad_1.3_iphoneos-arm64.deb
 MD5sum: a5eb35d6c18b0af24655ce34a4f6f630
 SHA1: 23c5a6d986d0991387c87f90d463996f0d15658d
 SHA256: 42f57a09fa3ef6ca38c1a18fe0107d05528c92db93031ebc6edc5131761e44e1
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Author: Dhinak G 
 Architecture: iphoneos-arm64
@@ -269,6 +277,7 @@ Filename: ./debs/PreferenceLoader.2.2.7.deb
 MD5sum: 2495248c78c1d3e717a40d134cb996a9
 SHA1: a88b3c935dc250e24bf239e959783152945627a8
 SHA256: bd64aded99d15c25197f57df2ac27535c387ac6b71b4339462c648f3699ff565
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Author: opa334 
 Architecture: iphoneos-arm64
@@ -286,6 +295,7 @@ Filename: ./debs/CCSupport.1.3.13-2.deb
 MD5sum: 80627c4e3df28302aedea1ef59bb6f6f
 SHA1: 656041ff3b9567336882d6aab5505c6ef760e6f4
 SHA256: 8df97600c7839a64c2f037ed7410473284c59e188b7cb0c03655189b1abb4cc9
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Author: opa334 
 Architecture: iphoneos-arm64
@@ -302,6 +312,7 @@ Filename: ./debs/libSandy.1.1.4.deb
 MD5sum: 539fb86aa82a5a07bddc6ba8f8459f24
 SHA1: d2c94744e6c6784d96efe695666d2d8b72b6ea85
 SHA256: 2c4cadf8d22d83f08a6e073ee49be49770b18f96b9b034b2d1202370352235bd
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Author: opa334 
 Architecture: iphoneos-arm64
@@ -317,6 +328,7 @@ Filename: ./debs/AltList.1.0.11.deb
 MD5sum: cbb3046771a8fb8cd9340e1be67ba24e
 SHA1: 94f812c43d6feaee1c88556c9488c67914079b35
 SHA256: b0c625f27050fc67ad3aee8474af359610df66bba786aa75df9e3564aeb3c097
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.77theme
 Version: 0.2.8-1
@@ -350,6 +362,7 @@ Filename: ./debs/com.sini.freepip_1.1_iphoneos-arm64.deb
 MD5sum: 1d46a2eaadf479104772861db4967132
 SHA1: 85c2bee7da5696c7096237794530318bb86bb45c
 SHA256: 9873de3e82db97c0494eed7e5d7c037be42438f191f3488645f99044f3200b07
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.customizecc
 Version: 1.4.3
@@ -365,6 +378,7 @@ Filename: ./debs/com.sini.customizecc_1.4.3_iphoneos-arm64.deb
 MD5sum: 55ad5b701bca7bcdb27a358017d6b163
 SHA1: 30ad7f2272992f330c952cdc8f1674a36b072a81
 SHA256: 3122c015c93c7c59d0aa1bb675569c33952673b1bad3cf29dfeccf9911d7ec64
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Author: b4db1r3 
 Architecture: iphoneos-arm64
@@ -381,6 +395,7 @@ Filename: ./debs/com.sini.ocd5_5.4.1.1_iphoneos-arm64.deb
 MD5sum: dd2f5213c8abbe274b40831b73fc0f38
 SHA1: 7dc9cab6c856bb04074e30d3cbfb5525506b436d
 SHA256: 895df623ef91a4e7f97ddfd1e62ed866a1cfb06de811c5b98fdb12672473c306
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Author: Traurige & neilsardesai 
 Architecture: iphoneos-arm64
@@ -397,6 +412,7 @@ Filename: ./debs/com.sini.batterybuddy_1.3.4_iphoneos-arm64.deb
 MD5sum: 05cc53de4ebb161217d837564492fdcc
 SHA1: 6b06c98f57a9f6bafe178abe9cebdcad3db6ab57
 SHA256: b27294a4bf7b4997c3647f2b6082a0a28d3dee8afcd08ca64cdfd14beecf0127
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.colormebadges
 Name: ColorMeBadges(李开心专用)
@@ -412,6 +428,7 @@ Filename: ./debs/com.sini.colormebadges_1.2.0_iphoneos-arm64.deb
 MD5sum: 4dca2f4cd4e47990c4293db1f4970d12
 SHA1: 271c2497b1d66b112c8cfac00153fa73cd2e349a
 SHA256: d7e8c543ead5b0d6b3319df19989875bb6f7af4ae228cbf6bd75edcaf2b1afe9
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Author: opa334 
 Architecture: iphoneos-arm64
@@ -427,6 +444,7 @@ Filename: ./debs/com.sini.choicy_1.4.10-3_iphoneos-arm64.deb
 MD5sum: 04bd7162a3487d45f3156ce58bf79b92
 SHA1: db248704569474a33547947730bbb96fcea9439f
 SHA256: 09758fa025c8f3f15893b30b25f9d618d5bc4f6cfcdcf3801a2c003b8b916b8d
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.flexlist
 Version: 1.4-2
@@ -442,6 +460,7 @@ Filename: ./debs/com.sini.flexlist_1.4-2_iphoneos-arm64.deb
 MD5sum: e79606f51d8b754e2e386b6ae1de4b0a
 SHA1: 2e7f0e91d2fde46bd598948a9374b7af5148b92a
 SHA256: 5bb23cd62fb8eb9ca72d4294b0d447d5b29fbe2a7e2ceb48ba7de21e44236dae
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
 Architecture: iphoneos-arm64
@@ -558,6 +577,7 @@ Filename: ./debs/com.sini.instalauncher2_1.11.1_iphoneos-arm64.deb
 MD5sum: 92b87212285f1a76a8651e44dbbb2815
 SHA1: b3e0666df605e087f5362a622505b32c9e6d2bdb
 SHA256: 1227daf233b93a21ebac5a14fc9edc041547dc96fa06b2f3a6b4a56c729a97eb
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Author: Mao
 Architecture: iphoneos-arm64
@@ -591,6 +611,7 @@ Filename: ./debs/com.sini.zetsu_1.5_iphoneos-arm64.deb
 MD5sum: ba42ad3ccc8238d3aa38471869417d4b
 SHA1: a447ce881703aa3ab3fd8a0f7aa49e899157eb90
 SHA256: a30d456d40193ed6d462708bfce0c94c34b89466e2a9491ed7a5ed5d277bc32b
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: shaobei
 Name: AAAA此为空包仅用作声明！
@@ -607,6 +628,7 @@ MD5sum: ffb0b99392a5689d66ecdf1d795bb239
 SHA1: c8fae1df558fb10dcbe1811410391c6aff5272af
 SHA256: 8fe63c78e1b4aead90cdcdb09841573c44d21e62cd6cd6d52946b840eb91a5f4
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/shengming/js.json
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: ws.hbang.newterm3
 Name: NewTerm 3 Beta
@@ -657,6 +679,7 @@ Filename: ./debs/com.sini.wechatnotiavatar_1.2-5_iphoneos-arm64.deb
 MD5sum: 104766006e9b55c4f2c41e77cdfc0e5d
 SHA1: 36f137ac634e9c637de01ca44a643db34a4b0360
 SHA256: 7584c6eb2992440965e2b60b1f0a495cb5ca1fe786ffcdf54c2d841d54221804
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.qqnotiavatar
 Name: QQNotiAvatar
@@ -672,6 +695,7 @@ Filename: ./debs/com.sini.qqnotiavatar_1.2-2_iphoneos-arm64.deb
 MD5sum: b78383518a9204d2e24fbc9744de67ea
 SHA1: c72420d21466f471df101d022a7c1e00805e5527
 SHA256: 2cb596d5f5f6648cbd047a31b3ee8e9ff851fab7a03927f62d311f554f746366
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.chromatic.rootless
 Name: Saily
@@ -704,6 +728,7 @@ Filename: ./debs/com.sunshinesong.split-view-pro_1.3.7_iphoneos-arm64.deb
 MD5sum: 61967870968c15dc26eba579bdae698d
 SHA1: a1db71fc4736be1722db05d98ac736df989f653e
 SHA256: ced887176c83735f568fa3ab80f2604534a97acd9f86bad9f6c85c205f637ae1
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.swing.padswitcher
 Name: PadSwitcher - iPad 多任务
@@ -720,6 +745,7 @@ Filename: ./debs/PadSwitcher-iPad多任务.1.1.0.deb
 MD5sum: 0aea545f5a882a85d0e247c50c8614f4
 SHA1: 7c2ef70c1c1aec70b17f5036f0c9d4ddb822e320
 SHA256: 2bd3301b2213d3e6303b600446f14d7f206a0c6e93133d707a3a1c903906f036
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.hitori.misaki
 Version: 2.1.7
@@ -735,6 +761,7 @@ Filename: ./debs/com.hitori.misaki_2.1.7_iphoneos-arm64.deb
 MD5sum: 7e3b1f3bd25e6c1f1ae410e01235517e
 SHA1: 222e5ccca8d9e7c08d1475272e992a2c9cd9aacf
 SHA256: 0e225f5294a12a45de685e330d2c212b9ad567d12cfd750627bc2239f77e5085
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sunshinesong.split-view-pro
 Name: split-view-pro
@@ -750,6 +777,7 @@ Filename: ./debs/split-view-pro.1.1.5.deb
 MD5sum: 07235702c22f2288c44e776b235e6940
 SHA1: 2ca51292fec481501a89816abb86dfc68264ba31
 SHA256: 5593ff630f531ee936383593436322542f175324a75601149988ef4558b589dc
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sunshinesong.split-view-pro
 Name: split-view-pro
@@ -766,6 +794,7 @@ Filename: ./debs/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
 MD5sum: 0633f6b017afdbbc2513ea5b24cf19de
 SHA1: 61c37fdc9ef8cc51d962d0cb329e5d99ecd5798c
 SHA256: 9c6622889ef922038863816b9a947caf5738a520f87f8e12245816faad58e44f
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: netskao.ccpower-rootless
 Version: 1.9-4
@@ -781,6 +810,7 @@ Filename: ./debs/netskao.ccpower-rootless_1.9-4_iphoneos-arm64.deb
 MD5sum: 7db69ec8af2e3553ab3bdf161c7d71d0
 SHA1: 1ac5989d144a078b8e54aa9a769a7884f0cbcf5d
 SHA256: e3e2cce7c2363354366945b756b50877c3cea17aff28989de51496127c1990ce
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: netskao.deletephotoscompletely-rootless
 Version: 1.2-2
@@ -796,6 +826,7 @@ Filename: ./debs/netskao.deletephotoscompletely-rootless_1.2-2_iphoneos-arm64.de
 MD5sum: 2462a16668bce692cae56d8272835cc5
 SHA1: e39efa4b086b75aaabd3d87d717a83177cf13d6e
 SHA256: f9a95af91aa14281e2b4b6ef76e7e4bdee2a88994b8d5f96ea7192f4d12031ed
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.netskao.classickeyboardxs
 Name: ClassicKeyboardXS
@@ -811,6 +842,7 @@ Filename: ./debs/com.netskao.classickeyboardxs_1.1-8_iphoneos-arm64.deb
 MD5sum: d456fe07144a27bad44415124392c2ba
 SHA1: 5b33803538ed004a2b6b918b5471131670b4cfbd
 SHA256: 4f437330a0f82aab9096cc5d9d0fd950ccb0e968623e894e4b373df43543b981
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: netskao.hidescreenshotpreview-rootless
 Version: 1.2-1
@@ -826,6 +858,7 @@ Filename: ./debs/netskao.hidescreenshotpreview-rootless_1.2-1_iphoneos-arm64.deb
 MD5sum: a9e3081541e5561041844f09f454acc1
 SHA1: 84a607335b56ed7fc1f6a9d82aa67e7b15e42208
 SHA256: acb753b0ba354483b01ef09276512ee0642dca8c9d211f05c3d7c603303cc8f8
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.netskao.appdata
 Name: AppData
@@ -841,6 +874,7 @@ Filename: ./debs/com.netskao.appdata_1.4.2_iphoneos-arm64.deb
 MD5sum: 090451a77622a645950b9eb617ff0075
 SHA1: 080c3f5babb93c1d27ed2a608f3867862a3d6eab
 SHA256: 1b64374f4ab692101d3c1ab6563b73622c569908b29475f17e6b1b17e6f62f33
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.settingsrevamp
 Version: 2.1.1
@@ -858,6 +892,7 @@ Filename: ./debs/com.sini.settingsrevamp_2.1.1.deb
 MD5sum: b71c0bc21a7acb51c416585900fe0083
 SHA1: bd1b9d2d3f7534d455347b0b4c4999d15848ae50
 SHA256: ed89b996d96f7d6e11a4a1faf1d77c00b4e06b79589e2cda0843ece83c36c2f6
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.desktoplyrics
 Version: 0.3.9~b1
@@ -874,6 +909,7 @@ Filename: ./debs/com.sini.desktoplyrics_0.3.9~b1_iphoneos-arm64.deb
 MD5sum: f7d3cd3d254ca7e8e9e9695f84a37178
 SHA1: 359a81b86b6a2cbc064ee8728ed653b57db5b219
 SHA256: a151439ba9d234c7dce0014829a5c02d0377264335353ab3fda7bf9d950b25d5
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.reachplayer-rootless
 Version: 2.6
@@ -890,6 +926,7 @@ Filename: ./debs/com.sini.reachplayer-rootless_2.6_iphoneos-arm64.deb
 MD5sum: 204dcd0557016cc9608256df139955e0
 SHA1: 867e9201957bdac7967a34d77f4ba02bd3583a79
 SHA256: b50ef328d64b9f540b845ce4119f8c0cfb0ef63caf47ff14d6d6b623ec36eaba
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.storeswitcher2
 Version: 1.0.4
@@ -906,6 +943,7 @@ Filename: ./debs/com.sini.storeswitcher2.rootless_1.0.4_iphoneos-arm64.deb
 MD5sum: ed9f6c4c7d31e988d3dcce8f21dcf36f
 SHA1: f8fa1edc61617f09bf6afe10b1941840ece7f46b
 SHA256: 7091c65d69924ca7b4ea2fbd6c6411d6e8162c6d4b70ce9ea45b122d984b3cbf
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Author: ren7995 
 Architecture: iphoneos-arm64
@@ -922,6 +960,7 @@ Filename: ./debs/com.sini.atria_1.4.1_iphoneos-arm64.deb
 MD5sum: 795fcd24feef1fa3c7be0877952f75c7
 SHA1: 4d318df6d5a4adccd89c466dd803561c70c7017e
 SHA256: 38170a1b50104cbeb0c02364fe6c5c465249015b86a59d56c273479abc024cb9
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.msgfilt.rootless
 Version: 1.0-5.1
@@ -1076,6 +1115,7 @@ Filename: ./debs/com.sini.edge.siri_3.1.1-9_iphoneos-arm64.deb
 MD5sum: 5676f6953daeb6e3681f00b2dfb23119
 SHA1: 1b7bb1c5874ec9a171626e95323d8d1c4923b86e
 SHA256: 07babe43e1aece68c36885ab115d36733a86fe13fefd0aa9cecabf8414b6e9f8
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.siriplus
 Name: SiriPlus智能Siri
@@ -1091,6 +1131,7 @@ Filename: ./debs/com.sini.siriplus_1.3_iphoneos-arm64.deb
 MD5sum: 7a147a8a8dc69758f796d737a6ac954a
 SHA1: bdd46201f3694852ed3346600e51bdd524154553
 SHA256: f1bb49b2db00ba1698ea158f46a1dae7408879264f31db3dba6895366fb32ef9
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.icleanerprorl
 Version: 7.10.0k
@@ -1126,6 +1167,7 @@ Filename: ./debs/com.sini.ikghd.ikset_3.3_iphoneos-arm64.deb
 MD5sum: cea31b9a3149639fecca1bc098f8cfb4
 SHA1: 41eb15a023d1aee3b013826780eb92377e8e7cac
 SHA256: 4bd468e5c8c508ebdae9873bb6966561183c936cb7fc5725cc59793911f2f673
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.yourepo.b4db1r3r3p0.oleddarkmode
 Section: 越狱插件
@@ -1141,6 +1183,7 @@ Filename: ./debs/com.yourepo.b4db1r3r3p0.oleddarkmode_0.5.1-11_iphoneos-arm64.de
 MD5sum: fe730c15a32e5c91bbd0544171d12b08
 SHA1: 2aa47adabb80f40ccf018d6ae34ee9899775bed5
 SHA256: 211e38f559a51f3a94d42c1a4a721ccbff73d83f3b587f59e8dda8a5f968eb0d
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.guozi.fuckads
 Name: 小果子通用去广告
@@ -1157,6 +1200,7 @@ Filename: ./debs/com.guozi.fuckads_5.2.0_iphoneos-arm64.deb
 MD5sum: 5100a2403af6d305f9ff91b471369fec
 SHA1: 51af2f05df5dcd76065c3b2a9dd0030ea3d82c1c
 SHA256: d6bd19ea142f4c6d0885e94e38d0979d17efa1fbf8c197acb191af3463c7b584
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.touchvis
 Version: 2.8.1k
@@ -1173,6 +1217,7 @@ Filename: ./debs/com.sini.touchvis_2.8.1k_iphoneos-arm64.deb
 MD5sum: 7ccbd861a2e6cb217cac15a9dfd8c8de
 SHA1: 61be9e0dc48751fd05f3f2c8897c76860b6e5687
 SHA256: ac925cf86769dabc0c4a88a35baeef58e3bebe5c22ce8947209e6c5b39a81275
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.colorfulwallpaperx
 Name: ColorfulWallpaperX
@@ -1188,6 +1233,7 @@ Filename: ./debs/com.sini.colorfulwallpaperx_2.1_iphoneos-arm64.deb
 MD5sum: 1bcb32e9fe7822fd40140556200f4114
 SHA1: ba19067f0252b2a949c6a389138518654ea6db10
 SHA256: ef204b05e4d8e9eb878088b5158dc6b76dadae9bc9e7a637e30903b98fecf396
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.guozi.kuannoad
 Name: 酷安FuckAds
@@ -1202,6 +1248,7 @@ Filename: ./debs/酷安FuckAds.5.2.0.deb
 MD5sum: 0a16ee2d962a140c7f9cf2ca69fd4e0e
 SHA1: 8f5578ea4079f364ff3ac15a00899dd1411515ef
 SHA256: 2d0d4f20234f579ae8211b096bd8bea7c50067e2c398bd090da2c59b5c6c2133
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.guozi.weifeng
 Name: 威锋FuckVIP-Ads
@@ -1217,6 +1264,7 @@ Filename: ./debs/威锋703永久VIP+去广告无根.deb
 MD5sum: 327f8880c6e2b72fc9acf69d28387a24
 SHA1: 0a6efca323683bce0d8d20c944a9fb820c38cc18
 SHA256: fdc41458b749f4d48d2fda11871abf2625c3d765ab33c4e278193a72b1a45d81
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.CCJBmodular
 Name: CCJBmodular
@@ -1233,6 +1281,7 @@ MD5sum: d5dc1ecb998ac19c898e366d15188d35
 SHA1: 15d60212f3e290546b903446301730f568fdcac3
 SHA256: 1708faf3ad1b2d1d6bef58a7d45cf7adf858fcb69f157f3157bf3c9728a27c1c
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccjbmodular/js.json
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.pkc.rootless
 Name: 微信 PKC
@@ -1267,6 +1316,7 @@ MD5sum: 91f9c9cd1163780d82d8445a135bf564
 SHA1: 3804b5ea299f0a844271f733d83a6bdcd2d1e9b8
 SHA256: e16cc8f7936696f7ccc43081de10658161ed9ce65dc01ea82b91c3ddd1f5a747
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccjbmodular/js.json
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.safarix
 Version: 1.3.0
@@ -1283,6 +1333,7 @@ Filename: ./debs/com.sini.safarix_1.3.0_iphoneos-arm64.deb
 MD5sum: 113e9ead5fa26c40d040b1e49a518551
 SHA1: 3970c9aa1004db349910c85db91d029e898e5e0b
 SHA256: 5459d50c5ecb904ace41f0cfd0f3de029f55b55011eb04d6fb43654d83296357
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.kuku
 Maintainer: 思念变成海
@@ -1298,6 +1349,7 @@ Filename: ./debs/com.sini.kuku_1.5_iphoneos-arm64.deb
 MD5sum: 870ba6f916d16f1ff9eb6dc93c691b3c
 SHA1: a5c1b07c6cf7c7a601d8f52c5a8def5f352c2158
 SHA256: b4dc5562d1dab827239e87add99aa1aa19ac8cfcb9d29e00b8e23ac0ee569797
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.baidunetdiskoutput
 Name: 百度网盘缓存文件导出
@@ -1314,6 +1366,7 @@ Filename: ./debs/com.sini.baidunetdiskoutput_1.0.1K_iphoneos-arm64.deb
 MD5sum: 2cce02c55a799a8b7b5c6e09e1286461
 SHA1: 63ebf6c9f253ee14c8f18a1df05cfdd5fc88d3c8
 SHA256: e67f338bdc0cdfb0cbebe58b4637ef4f8e2565fbc1729b6869e627c749d83105
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Author: Mao
 Architecture: iphoneos-arm64
@@ -1331,3 +1384,4 @@ Filename: ./debs/com.sini.leftpan.rootless_1.0-6_iphoneos-arm64.deb
 MD5sum: c9519e3b8147fd8395a26d0ba3707921
 SHA1: ec213ce1232d4c98280a56f04ba46cb38eaf8cd0
 SHA256: ea58a8d03711dbad3bf40a66edc6d7cb562a1be5a71878c5c4c5d776088542fc
+icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
