@@ -60,6 +60,7 @@ Filename: ./debs/com.sini.pkc.rootless_0.5-9_iphoneos-arm64.deb
 MD5sum: 5c9efea650397299460410029b5f6b3f
 SHA1: bf589c701a95076c8a340814bab4d8ca2bd5eb38
 SHA256: 59916b913166897d8ab9d674f1b985652ac14b0168ad6d0a658587e562818075
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Author: PoomSmart
 Architecture: iphoneos-arm64
@@ -326,6 +327,7 @@ Filename: ./debs/com.sini.77theme_0.2.8-1_iphoneos-arm64.deb
 MD5sum: ea8f240f88df88000b4c8554b42330cd
 SHA1: 5bc355ab5ff63494fcbf9673318c8af9e97de264
 SHA256: d66bec02ab9a7a0e877e1029e8011f32c29882ee9cce6745b803ea8f76444f80
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Package: com.sini.freepip
 Author: Soh Satoh
@@ -450,6 +452,7 @@ Filename: ./debs/com.sini.sutuplus_5.8.3-2_iphoneos-arm64.deb
 MD5sum: 67c79f8e0916b69ebd11ca1c5adc91a7
 SHA1: 3ba9412fc744662d5d6e6566ba729eaaf5532ff5
 SHA256: c1f76e0606b1150bc5145782e18bc73e866c8b0c280940d34387e8a9f1d7f143
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Author: MustangYM <mm13299079785@gmail.com>
 Architecture: iphoneos-arm64
@@ -467,6 +470,7 @@ Filename: ./debs/com.sini.themepro_3.0.8_iphoneos-arm64.deb
 MD5sum: 4075cef032ec9a05245b0e8c02c3fe4b
 SHA1: 1db6f4d8079971446a73dad68d19624b66f3d902
 SHA256: e2bfa324c9106ef7bdd4106630a9121b188201877e78afa3c8a3db9a5201b377
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Package: com.sini.themeManager
 Name: 微信猪咪
@@ -482,6 +486,7 @@ Filename: ./debs/ThemeManager_1.6.deb
 MD5sum: 03f77cd9299e8d221c84b25cfda5abd0
 SHA1: a83ebfe8721f7730880363bb0f6c429515cb8fb9
 SHA256: def7738f6a331d652484b526a81b92d3fc2364d026f66548963f026ba7a6401d
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Package: com.sini.GameLogin
 Version: 0.1-5
@@ -497,6 +502,7 @@ Filename: ./debs/com.sini.GameLogin_0.1-5_iphoneos-arm64.deb
 MD5sum: 02a637aa4b2be6653ed1818d33c167de
 SHA1: 42454f557f714c9a6b3f67134c6676275a346bc9
 SHA256: 3091e8104832f787224426bce013847fb5ac0532bd101bf3a7e76e25bdb1e883
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Author: lordscotland <admin@officialscheduler.com>
 Architecture: iphoneos-arm64
@@ -527,6 +533,7 @@ Filename: ./debs/com.sini.appku.wechat_1.6-3_iphoneos-arm64.deb
 MD5sum: 2710ae7e59b6f719e8395ef371027fd1
 SHA1: 7e83fb0779ffe6d6d5cf1193482b1db2dff3a5af
 SHA256: d8da543823adaad46ab795eeb59f67da1618831f15164c24e3e45d7a67b7db38
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Author: Jonathan Winger
 Architecture: iphoneos-arm64
@@ -561,6 +568,7 @@ Filename: ./debs/com.sini.doutu.rootless_3.1-5_iphoneos-arm64.deb
 MD5sum: 47c1441564c72d2292a8b588b67ead6e
 SHA1: 35b906b4a95d5c1f8b09427da3478789cb8873f0
 SHA256: 7dfa9fa9d4e711ec6e9238127bbef0fc946e655266283363f97f41614ef53c9f
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Author: Dcsyhi 
 Architecture: iphoneos-arm64
@@ -920,6 +928,7 @@ Filename: ./debs/com.sini.msgfilt.rootless_1.0-5.1_iphoneos-arm64.deb
 MD5sum: 392fd2d1d97763f563bc77c57dd9aaf5
 SHA1: 7cfcad0cbd61103a6057b2dfd47e1bcb0c275225
 SHA256: c2422f5d08d65da489d83a651ec285fa4e1c6516ae9c7aae4c2cb3b926ba0068
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Package: com.sini.MisakaHelpre
 Name: 微信Misaka
@@ -939,6 +948,7 @@ Filename: ./debs/com.sini.MisakaHelpre_2.1-0_iphoneos-arm64.deb
 MD5sum: ea20969ebd27cce003dad0519326af1b
 SHA1: c59e439079a111f805d5a80bc9cc4211da92e4b1
 SHA256: c53f99fc762c7ce5fb5cebeb3ea721eb31a9ade8d6fddfac74ee4c424f048eb9
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Package: com.sini.hbwechathelper
 Name: 微信黄白
@@ -955,6 +965,7 @@ Filename: ./debs/com.sini.hbwechathelper_1.7.4_iphoneos-arm64.deb
 MD5sum: 6fb31dbe2095d5ae075e052830f18368
 SHA1: 84d09da2def1b25a7604717832ff1c4dca918e0d
 SHA256: fc41c792ff02b200d0bd0d6bbcde764f844517cef61646c77cc1e45e8d7aaffa
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Package: com.sini.miyou
 Name: 微信助手
@@ -972,6 +983,7 @@ Filename: ./debs/com.sini.miyou_3.8-0_iphoneos-arm64.deb
 MD5sum: 157dc1aa89460ce143d4f629962efef0
 SHA1: 434f9f67c74c541cc1beb04ac7647d244ce6d599
 SHA256: 3d57f83d9ec864e10169486b27115e7e60a90f303d9d6c050ed6d17abe7f599d
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Package: com.sini.dumpapp.wechat-rootless
 Name: 微信锤子
@@ -987,6 +999,7 @@ Filename: ./debs/com.sini.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64.deb
 MD5sum: b4994ce4edf9e4f745bf4662c45ef2f8
 SHA1: da0dcd5e2397cd72de3676909ae6e20e03483004
 SHA256: bc7ff40976e216112b562783804f15dd4b16f2d3705ed8b2a487558bfdd01907
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Package: com.sini.appku.wechat
 Name: 微信爱锋
@@ -1002,6 +1015,7 @@ Filename: ./debs/com.sini.appku.wechat_1.6-2_iphoneos-arm64.deb
 MD5sum: 4c35cff8406f4a3959c5c39ff774dfb9
 SHA1: 16f13b331e61cc979ed9a98eb44206b69bc793b1
 SHA256: 776e9b5329fb1d118f681634683a1092f6f00fe845d0b39a94862c32d27f5cd8
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Package: com.sini.wcplugins.rootless
 Version: 0.1-3
@@ -1020,6 +1034,7 @@ Filename: ./debs/com.sini.wcplugins.rootless_0.1-3_iphoneos-arm64.deb
 MD5sum: 3d3833c1c3bed82157aeeeee5a6d7ff3
 SHA1: 698bc3bfa4a4e2a6d87c3c47bdfb932fa3e1f097
 SHA256: 3682df7fdaab7bcc6339b09e5b0a3fd9ce8cc9bff238c9bf48d24dc46d6aa25c
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Package: com.sini.pingfan.wechat
 Name: 微信虚拟视频
@@ -1036,6 +1051,7 @@ Filename: ./debs/com.sini.pingfan.wechat_2.2-1_iphoneos-arm64.deb
 MD5sum: a811a367856834129fed068ca662c3b9
 SHA1: ec0f63433ba98923ad032a9165855d2824527765
 SHA256: 61ec0fe8c0dd2d659718135876b3fac27f0cc825d4b4e46e17578d202e0b824e
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Package: com.sini.edge.siri
 Version: 3.1.1-9
@@ -1223,6 +1239,7 @@ Filename: ./debs/com.sini.pkc.rootless_0.5-8_iphoneos-arm64.deb
 MD5sum: 6742baeb705474fb2bad92de0e379e0f
 SHA1: c2002cc6cfd5b82ac2d1c2f72390105b11d39c1b
 SHA256: d5dbe7e67aa262bd1830475e53c25738be4b6ecf5b91195d9d8b5713c47f0b89
+icon: https://sini921.github.io/repo/sileodepiction/wechat/wechat.png
 
 Package: com.sini.CCJBmodular
 Name: CCJBmodular
