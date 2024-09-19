@@ -1,3 +1,22 @@
+Author: Spark & Dennis D. Bednarz
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Version: 1.5.26-Beta4-rootless
+Depends: mobilesubstrate, preferenceloader
+Description: 此版本不会提示更新，为需要旧版的人上传备份
+Section: 越狱插件
+Name: SnowBoard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Size: 1115192
+Package: com.sini.snowboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+icon: https://sini921.github.io/repo/sileodepiction/icon/snowboard.png
+Filename: ./debs/com.sini.snowboard_1.5.26-Beta4-rootless_iphoneos-arm64.deb
+MD5sum: ceddb7c73cafa4c63c5b2dc51e4e8e31
+SHA1: 0c61b33a61dae205bad9cae6f7ca946dd18f25d7
+SHA256: 9a91715a5396c8114fc2d128b0e839d1bd1f4a1cc30125ce4291039f7baf478f
+
 Package: com.sini.airpodscompanion
 Version: 1.3
 Description: airpods耳机伴侣
