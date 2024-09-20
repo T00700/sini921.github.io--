@@ -215,7 +215,7 @@ Filename: ./rootless/com.sini.stepup_1.2_iphoneos-arm64.deb
 MD5sum: 7bde96c1573d77c433fd675959bee844
 SHA1: 263d206e0695f1e28698d53e810328e9f66582fa
 SHA256: 62d3204dd449b534644de0175dffa1d607d9a93ca5d03da2683f1a26c9892085
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/yinliang.png
 
 Package: com.sini.qqhook
 Version: 1.1.1-2
@@ -1041,7 +1041,7 @@ Filename: ./rootless/com.sini.storeswitcher2.rootless_1.0.4_iphoneos-arm64.deb
 MD5sum: ed9f6c4c7d31e988d3dcce8f21dcf36f
 SHA1: f8fa1edc61617f09bf6afe10b1941840ece7f46b
 SHA256: 7091c65d69924ca7b4ea2fbd6c6411d6e8162c6d4b70ce9ea45b122d984b3cbf
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/appstore.png
 
 Author: ren7995 
 Architecture: iphoneos-arm64
@@ -1213,7 +1213,7 @@ Filename: ./rootless/com.sini.edge.siri_3.1.1-9_iphoneos-arm64.deb
 MD5sum: 5676f6953daeb6e3681f00b2dfb23119
 SHA1: 1b7bb1c5874ec9a171626e95323d8d1c4923b86e
 SHA256: 07babe43e1aece68c36885ab115d36733a86fe13fefd0aa9cecabf8414b6e9f8
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/siri.png
 
 Package: com.sini.siriplus
 Name: SiriPlus【rootless】
@@ -1229,7 +1229,7 @@ Filename: ./rootless/com.sini.siriplus_1.3_iphoneos-arm64.deb
 MD5sum: 7a147a8a8dc69758f796d737a6ac954a
 SHA1: bdd46201f3694852ed3346600e51bdd524154553
 SHA256: f1bb49b2db00ba1698ea158f46a1dae7408879264f31db3dba6895366fb32ef9
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/siri.png
 
 Package: com.sini.icleanerprorl
 Version: 7.10.0k
