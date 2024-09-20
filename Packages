@@ -5,12 +5,12 @@ Maintainer: sini921
 Version: 3.1.0
 Depends: mobilesubstrate, firmware (>= 15.0)
 Depiction: sini921
-Name: Jumper
+Name: Jumper【rootless】
 Section: 越狱插件
 Package: com.sini.jumper
 Icon: https://sini921.github.io/repo/sileodepiction/icon/suoping.png
 Size: 256088
-Filename: ./debs/com.sini.jumper_3.1.0_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.jumper_3.1.0_iphoneos-arm64.deb
 MD5sum: 75bc428a0538ca1cea2613c4f4cfb748
 SHA1: 5b6a77236218d3588be0cbe37811015dd7dbb24a
 SHA256: 6b9c9737e9c95520338d86db9dc2e63dd48b197791f137e976a5c28f94711f1b
@@ -22,11 +22,11 @@ Maintainer: Ethan Whited
 Size: 10252060
 Depends: preferenceloader
 Author: Ethan Whited
-Name: AirpodsCompanion
+Name: AirpodsCompanion【rootless】
 Architecture: iphoneos-arm64
 Section: 越狱插件
 icon: https://sini921.github.io/repo/sileodepiction/icon/airpods.png
-Filename: ./debs/com.sini.airpodscompanion_1.3_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.airpodscompanion_1.3_iphoneos-arm64.deb
 MD5sum: 9a3cdea4eada1cce839d2bee0a097ffd
 SHA1: 73ca25b06a8968fb128da8895ef70c10500170d2
 SHA256: 15cb4f8eb24991e6ab60f1f4e2caf8ed31a4cda2b9e1988b07d6ad91eb2c9205
@@ -37,13 +37,13 @@ Description: CoolStar的经典文件夹3
 Maintainer: CoolStar & Lizynz & 妖刀
 Version: 3.0.5.7
 Depends: mobilesubstrate, preferenceloader
-Name: ClassicFolders 3
+Name: ClassicFolders 3【rootless】
 Section: 越狱插件
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
 Size: 3282952
 Package: com.sini.classicfolders3
 icon: https://sini921.github.io/repo/sileodepiction/icon/class.png
-Filename: ./debs/com.sini.classicfolders3_3.0.5.7_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.classicfolders3_3.0.5.7_iphoneos-arm64.deb
 MD5sum: 6ba43ddd952bfa940f43c5e0406665dd
 SHA1: 46968d9fc862ae2db7cc8382ae23992efee96424
 SHA256: fbb745214a82f7603b24e977d914529b292dd69a373d79f9aea49bfaa9629371
@@ -54,13 +54,13 @@ Description: 注意：此插件需要搭配split-view-pro 1.1.5/1.3.7版本，�
 Maintainer: 思念变成海
 Version: 2.0.7
 Depends: mobilesubstrate, preferenceloader, oldabi
-Name: SneakyCam隐私相机
+Name: SneakyCam隐私相机【rootless】
 Section: 越狱插件
 Sponsor: 思念变成海
 Size: 104496
 Package: com.sini.sneakycam
 icon: https://sini921.github.io/repo/sileodepiction/icon/yinsixiangji.png
-Filename: ./debs/com.sini.sneakycam_2.0.7_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.sneakycam_2.0.7_iphoneos-arm64.deb
 MD5sum: 7cf91c91c0a4deae034781937c7703b1
 SHA1: 2cc0fbf9a5c03082f98511a23906dfdd24296e92
 SHA256: 705ce9ac000f43b2c724a1eafe458a76a2476673933926c4aa399c47e906a1be
@@ -72,17 +72,17 @@ Maintainer: x✨
 Size: 89364
 Depends: mobilesubstrate (>= 0.9.5000)
 Author: x✨
-Name: iBoxNoAds
+Name: iBoxNoAds【rootless】
 Architecture: iphoneos-arm64
 Section: 应用破解
 icon: https://sini921.github.io/repo/sileodepiction/icon/ibox.png
-Filename: ./debs/com.sini.iboxhook_1.0.9_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.iboxhook_1.0.9_iphoneos-arm64.deb
 MD5sum: 10b1618f09887f664b2d76aa43cefef5
 SHA1: 44c3946159a6c82d742e4f1073f9ba21e378d6f4
 SHA256: 5c6765ae1570f24a881ffdc00bb91404084d012a596815e5fffa2feefb582269
 
 Package: com.sini.dyhook
-Name: 抖音图层
+Name: 抖音图层【rootless】
 Description: 自用 越狱食用
 Maintainer: x✨
 Author: x✨
@@ -92,7 +92,7 @@ Architecture: iphoneos-arm64
 Version: 2.0.5-1
 Size: 3208264
 icon: https://sini921.github.io/repo/sileodepiction/icon/dy.png
-Filename: ./debs/com.sini.dyhook_2.0.5-1_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.dyhook_2.0.5-1_iphoneos-arm64.deb
 MD5sum: c12766fcd1798d7aae34bbf42abfd3bf
 SHA1: e67fd06a56f2d52baf6298733423e32dae2f2b4e
 SHA256: 23401c8db855d771d6dadd26ee6c2db27d1d54626d2da5ba9225ba771ef2cffb
@@ -103,12 +103,12 @@ Description: 用系统自带的相机拍摄视频时增加一个"暂停/恢复"�
 Maintainer: PoomSmart
 Version: 2.0.2
 Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
-Name: RecordPause
+Name: RecordPause【rootless】
 Section: 越狱插件
 Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
 Size: 10068
 Package: com.sini.recordpause
-Filename: ./debs/com.sini.recordpause_2.0.2_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.recordpause_2.0.2_iphoneos-arm64.deb
 MD5sum: 406dbfa24ce4ea56d12d302c03c5fa03
 SHA1: 5696e017b20767e7e3130a1e5ddb9dad67bbed64
 SHA256: 57530185a29e5b7b12f995b25aab3a7dc864230aa41e1053d6c76e5d0e670155
@@ -120,19 +120,19 @@ Description: 用系统自带的相机拍摄视频时增加一个"暂停/恢复"�
 Maintainer: PoomSmart
 Version: 2.0.1
 Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
-Name: RecordPause
+Name: RecordPause【rootless】
 Section: 越狱插件
 Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
 Size: 9900
 Package: com.sini.recordpause
-Filename: ./debs/com.sini.recordpause_2.0.1_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.recordpause_2.0.1_iphoneos-arm64.deb
 MD5sum: 4a3e08a682a75b20e1afde7da99ddc04
 SHA1: c6b60640191929af94c20e2cc16d962b3f868abf
 SHA256: 25144917c94dabfdec3672822e6697214d36212e030c7662b1e4a7f7568c6462
 icon: https://sini921.github.io/repo/sileodepiction/icon/xiangji.png
 
 Package: com.sini.dyhook
-Name: 抖音图层
+Name: 抖音图层【rootless】
 Description: 自用 越狱食用
 Maintainer: x✨
 Author: x✨
@@ -141,7 +141,7 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 2.0.5
 Size: 3165912
-Filename: ./debs/com.sini.dyhook_2.0.5_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.dyhook_2.0.5_iphoneos-arm64.deb
 MD5sum: 8d2396b43a38a8d52b4589a04f56018c
 SHA1: 19f58e764cbd8bf146a0830cc10cb060a64cd153
 SHA256: ac3ea55d914b5f1094e4cdbce13b9bc55bc0d2b94575fbe26dc0f6fb34251f0f
@@ -154,11 +154,11 @@ Section: 微信插件
 Version: 0.5-9
 Priority: optional
 Depends: firmware (>= 5.0)
-Name: 微信PKC
+Name: 微信PKC【rootless】
 Package: com.sini.pkc.rootless
 Description: 微信PKC插件
 Size: 571796
-Filename: ./debs/com.sini.pkc.rootless_0.5-9_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.pkc.rootless_0.5-9_iphoneos-arm64.deb
 MD5sum: 5c9efea650397299460410029b5f6b3f
 SHA1: bf589c701a95076c8a340814bab4d8ca2bd5eb38
 SHA256: 59916b913166897d8ab9d674f1b985652ac14b0168ad6d0a658587e562818075
@@ -170,12 +170,12 @@ Description: Office2013风格的光标动画，无设置项，安装即生效
 Maintainer: PoomSmart
 Version: 0.0.1
 Depends: mobilesubstrate, firmware (>= 6.0)
-Name: SmoothCursor (iOS 13+)
+Name: SmoothCursor【rootless】
 Section: 越狱插件
 Conflicts: org.thebigboss.smoothcursor
 Size: 3116
 Package: com.sini.smoothcursorios13
-Filename: ./debs/com.sini.smoothcursorios13_0.0.1_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.smoothcursorios13_0.0.1_iphoneos-arm64.deb
 MD5sum: df3ded1c5da67cf42e4efd9eec335008
 SHA1: 85867b30ef828fd068800472276d152dccc3794e
 SHA256: 322eb373e4a06f517bd28b1b01efe62652ed8542887678b3b943c466c13c82c1
@@ -193,10 +193,10 @@ Essential: no
 Maintainer: MustangYM 
 Depends: mobilesubstrate
 Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
-Name: 微信ThemePro
+Name: 微信ThemePro【rootless】
 Author: MustangYM
 Size: 6270448
-Filename: ./debs/com.sini.themepro_3.1.0_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.themepro_3.1.0_iphoneos-arm64.deb
 MD5sum: 81054ebaabff610a91be82afdd82554d
 SHA1: 790c11914ef2fc1fef29d5cb7691d1e0aff04cd9
 SHA256: f6e2f392fca9d99437f6f33276b3d7fdaa82576ed8422ad037e1f7fff0625052
@@ -207,11 +207,11 @@ Architecture: iphoneos-arm64
 Section: 越狱插件
 Maintainer: ETHN 
 Version: 1.2
-Name: StepUp
+Name: StepUp【rootless】
 Description: 音量实体按键步进数量设置
 Package: com.sini.stepup
 Size: 43104
-Filename: ./debs/com.sini.stepup_1.2_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.stepup_1.2_iphoneos-arm64.deb
 MD5sum: 7bde96c1573d77c433fd675959bee844
 SHA1: 263d206e0695f1e28698d53e810328e9f66582fa
 SHA256: 62d3204dd449b534644de0175dffa1d607d9a93ca5d03da2683f1a26c9892085
@@ -224,17 +224,17 @@ Maintainer: x✨
 Size: 785624
 Depends: mobilesubstrate (>= 0.9.5000)
 Author: x✨
-Name: QQ图层
+Name: QQ图层【rootless】
 Architecture: iphoneos-arm64
 Section: 应用破解
-Filename: ./debs/com.sini.qqhook_1.1.1-2_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.qqhook_1.1.1-2_iphoneos-arm64.deb
 MD5sum: bc336415448cfd06254839a6098fdb22
 SHA1: 02a568007745ce0735608873741eb7bbccec9941
 SHA256: cb0078c8894a1876c90d08b9296751a7f5f9c8196b3b85ef4856912115e4a654
 icon: https://sini921.github.io/repo/sileodepiction/icon/qq.png
 
 Package: com.sini.dyhook
-Name: 抖音图层
+Name: 抖音图层【rootless】
 Description: 自用，仅支持越狱食用，首页双指双击，或者设置里打开菜单
 Maintainer: x✨
 Author: x✨
@@ -243,7 +243,7 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 2.0.3-8
 Size: 3031244
-Filename: ./debs/com.sini.dyhook_2.0.3-8_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.dyhook_2.0.3-8_iphoneos-arm64.deb
 MD5sum: cdfa6c85644560f89933214ae736c260
 SHA1: c3c42f44ab98b52310e7a68cfc32dad103aecbf4
 SHA256: 7bcd0985dcf4fa81507a691d8f6198dd9477aa2261b52c56eba2032bc77dd04f
@@ -256,17 +256,17 @@ Maintainer: Nets
 Size: 1295804
 Depends: firmware (>= 15.0), mobilesubstrate
 Author: Netskao
-Name: DumpDecrypter
+Name: DumpDecrypter【rootless】
 Architecture: iphoneos-arm64
 Section: 狗哥插件
-Filename: ./debs/com.sini.dumpdecrypter_1.4-4_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.dumpdecrypter_1.4-4_iphoneos-arm64.deb
 MD5sum: 4ef300eeafcf14e10e155e865bb97d61
 SHA1: 3441673d73220c65d4b3288a69272c1494f051e9
 SHA256: 5226ea43ea319d6a8a70583af5d81d4866819ba1d0e67fd4ce59b76581c89406
 icon: https://sini921.github.io/repo/sileodepiction/icon/dump.png
 
 Package: com.sini.Telegrammask
-Name: Telegrammask
+Name: Telegrammask【rootless】
 Version: 0.1-3
 Description: TG伪装计算器插件，密码为当前时间，如13:14密码为1314，00：56密码为56，24小时制为准。三指双击可自定义密码。
 Section: 应用破解
@@ -275,7 +275,7 @@ Priority: optional
 Author: iosrxwy
 Architecture: iphoneos-arm64
 Size: 497736
-Filename: ./debs/com.sini.Telegrammask_0.1-3_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.Telegrammask_0.1-3_iphoneos-arm64.deb
 MD5sum: c02f9e6b45696f45dedb67fb5073fa9b
 SHA1: 06b91d52ca97cf1d041a5dc507963bca7d3423b3
 SHA256: 95f7a64b59dddc64f93a43b7a1ba6b34d6f4ef3468d5ad856fe65f102722b03b
@@ -288,10 +288,10 @@ Maintainer: x✨
 Size: 578148
 Depends: mobilesubstrate (>= 0.9.5000)
 Author: x✨
-Name: QQ图层
+Name: QQ图层【rootless】
 Architecture: iphoneos-arm64
 Section: 应用破解
-Filename: ./debs/com.sini.qqhook_1.1.1-1_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.qqhook_1.1.1-1_iphoneos-arm64.deb
 MD5sum: fabf029d71287edef0dcfe339cd6bdd7
 SHA1: 72e5cc21e60317832bd9b010cc61519758fa33f8
 SHA256: bacf44fe690c1444f71e9b0bfe3aa10f34288213ff5f79c66e98d37d6df0039b
@@ -303,11 +303,11 @@ Description: 首页双指双击，或者设置里打开菜单
 Maintainer: x✨
 Version: 2.0.3-6
 Depends: mobilesubstrate (>= 0.9.5000)
-Name: 抖音图层
+Name: 抖音图层【rootless】
 Section: 应用破解
 Size: 1919312
 Package: com.sini.dyhook
-Filename: ./debs/com.sini.dyhook_2.0.3-6_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.dyhook_2.0.3-6_iphoneos-arm64.deb
 MD5sum: 0923b07389018ba663a25972584fd52a
 SHA1: 2f955dd63d1cb06c89cefbdf253d4d4ac5962ffe
 SHA256: 0e745bd1a144ace73e78be1e51043dd147e96b0907ca536393982944d30568a3
@@ -319,11 +319,11 @@ Description: 2002年的第一场雪，比季伯以往来的稍晚了亿些
 Maintainer: 思念变成海
 Version: 1.0.4
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 13.0), ws.hbang.common (>= 1.2)
-Name: Stella
+Name: Stella【rootless】
 Section: 越狱插件
 Package: com.sini.stella
 Size: 664564
-Filename: ./debs/com.sini.stella_1.0.4_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.stella_1.0.4_iphoneos-arm64.deb
 MD5sum: e5aee8678de68c1a6761723f94fa13da
 SHA1: 4f68a28b5e23a12e347f26c9b22c244ce3b50c72
 SHA256: 5a78f11ba3a9a317cdecd39f5a04b4b87fab75d9b45914e8489a6460548ccec7
@@ -335,19 +335,19 @@ Description: 壁纸插件，将你喜欢的视频设置成桌面或者锁屏壁�
 Maintainer: Traurige 
 Version: 1.4.2
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Name: Eneko中文版
+Name: Eneko中文版【rootless】
 Section: 越狱插件
 Conflicts: love.litten.eneko
 Size: 28552
 Package: com.sini.eneko
-Filename: ./debs/com.sini.eneko_1.4.2_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.eneko_1.4.2_iphoneos-arm64.deb
 MD5sum: ed29996a18cf1c265b188fd9b0880d18
 SHA1: da95eb14ab0f680d50bfaa752533d94bc0ba3b1a
 SHA256: fc11c2e979eae44105c0aa4f101c02a129db662f2684c7527f0d3e48a89c877f
 icon: https://sini921.github.io/repo/sileodepiction/icon/eneko.png
 
 Package: com.sini.trollpad
-Name: TrollPad中文版
+Name: TrollPad中文版【rootless】
 Description: 在iPhone上开启iPad台前调度、分屏、小窗和iPad样式的dock栏以及后台卡片样式，修复默认键盘下不能使用九宫格键盘的问题(思念变成海汉化)
 Maintainer: khanhduytran0
 Author: khanhduytran0
@@ -356,7 +356,7 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
 Architecture: iphoneos-arm64
 Version: 1.3
 Size: 40528
-Filename: ./debs/com.sini.trollpad_1.3_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.trollpad_1.3_iphoneos-arm64.deb
 MD5sum: a5eb35d6c18b0af24655ce34a4f6f630
 SHA1: 23c5a6d986d0991387c87f90d463996f0d15658d
 SHA256: 42f57a09fa3ef6ca38c1a18fe0107d05528c92db93031ebc6edc5131761e44e1
@@ -435,12 +435,12 @@ Author: 77Theme
 Priority: optional
 Maintainer: 77Theme
 Depends: firmware (>= 5.0), mobilesubstrate
-Name: 微信77Theme
+Name: 微信77Theme【rootless】
 Architecture: iphoneos-arm64
 Section: 微信插件
 Description: 微信主题插件
 Size: 3770444
-Filename: ./debs/com.sini.77theme_0.2.8-1_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.77theme_0.2.8-1_iphoneos-arm64.deb
 MD5sum: ea8f240f88df88000b4c8554b42330cd
 SHA1: 5bc355ab5ff63494fcbf9673318c8af9e97de264
 SHA256: d66bec02ab9a7a0e877e1029e8011f32c29882ee9cce6745b803ea8f76444f80
@@ -453,10 +453,10 @@ Maintainer: Soh Satoh
 Size: 6472
 Depends: mobilesubstrate (>= 0.9.5000)
 Author: Soh Satoh
-Name: FreePIP
+Name: FreePIP【rootless】
 Architecture: iphoneos-arm64
 Section: 越狱插件
-Filename: ./debs/FreePIP.0.0.3-1.deb
+Filename: ./rootless/FreePIP.0.0.3-1.deb
 icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 MD5sum: 2e1e20d1c08e0004d593985846f1a271
 SHA1: 0c495abce4fe5b68a05943ff34fadc397194dbdd
@@ -469,10 +469,10 @@ Maintainer: Miguelaka95 <miguelaka95@gmail.com>
 Size: 137556
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15)
 Author: Miguelaka95 
-Name: CustomizeCC中文版
+Name: CustomizeCC中文版【rootless】
 Architecture: iphoneos-arm64
 Section: 越狱插件
-Filename: ./debs/com.sini.customizecc_1.4.3_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.customizecc_1.4.3_iphoneos-arm64.deb
 MD5sum: 55ad5b701bca7bcdb27a358017d6b163
 SHA1: 30ad7f2272992f330c952cdc8f1674a36b072a81
 SHA256: 3122c015c93c7c59d0aa1bb675569c33952673b1bad3cf29dfeccf9911d7ec64
@@ -484,12 +484,12 @@ Description: 角标美化，OCD5中文版(简体中文来自刀刀源)
 Maintainer: b4db1r3 <nfive060@gmail.com>
 Version: 5.4.1.1
 Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis
-Name: OCD5中文版
+Name: OCD5中文版【rootless】
 Section: 越狱插件
 Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd5lite
 Package: com.sini.ocd5
 Size: 329112
-Filename: ./debs/com.sini.ocd5_5.4.1.1_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.ocd5_5.4.1.1_iphoneos-arm64.deb
 MD5sum: dd2f5213c8abbe274b40831b73fc0f38
 SHA1: 7dc9cab6c856bb04074e30d3cbfb5525506b436d
 SHA256: 895df623ef91a4e7f97ddfd1e62ed866a1cfb06de811c5b98fdb12672473c306
@@ -502,18 +502,18 @@ Maintainer: CyPwn
 Version: 1.3.4
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Section: 越狱插件
-Name: BatteryBuddy
+Name: BatteryBuddy【rootless】
 Conflicts: love.litten.batterybuddy
 Size: 37316
 Package: com.sini.batterybuddy
-Filename: ./debs/com.sini.batterybuddy_1.3.4_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.batterybuddy_1.3.4_iphoneos-arm64.deb
 MD5sum: 05cc53de4ebb161217d837564492fdcc
 SHA1: 6b06c98f57a9f6bafe178abe9cebdcad3db6ab57
 SHA256: b27294a4bf7b4997c3647f2b6082a0a28d3dee8afcd08ca64cdfd14beecf0127
 icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.colormebadges
-Name: ColorMeBadges(李开心专用)
+Name: ColorMeBadges(李开心专用)【rootless】
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), com.mrgcgamer.libgcuniversal (>= 1.7.0)
 Description: 为李开心上传备份
 Maintainer: MrGcGamer
@@ -522,7 +522,7 @@ Section: 越狱插件
 Architecture: iphoneos-arm64
 Version: 1.2.0
 Size: 83232
-Filename: ./debs/com.sini.colormebadges_1.2.0_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.colormebadges_1.2.0_iphoneos-arm64.deb
 MD5sum: 4dca2f4cd4e47990c4293db1f4970d12
 SHA1: 271c2497b1d66b112c8cfac00153fa73cd2e349a
 SHA256: d7e8c543ead5b0d6b3319df19989875bb6f7af4ae228cbf6bd75edcaf2b1afe9
@@ -534,11 +534,11 @@ Description: choicy自定义插件注入中文版(简体中文来自刀刀源)
 Maintainer: opa334 <opa334@protonmail.com>
 Version: 1.4.10-3
 Depends: mobilesubstrate, com.opa334.altlist (>= 1.0.4), preferenceloader
-Name: Choicy中文版
+Name: Choicy中文版【rootless】
 Section: 越狱插件
 Size: 107040
 Package: com.sini.choicy
-Filename: ./debs/com.sini.choicy_1.4.10-3_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.choicy_1.4.10-3_iphoneos-arm64.deb
 MD5sum: 04bd7162a3487d45f3156ce58bf79b92
 SHA1: db248704569474a33547947730bbb96fcea9439f
 SHA256: 09758fa025c8f3f15893b30b25f9d618d5bc4f6cfcdcf3801a2c003b8b916b8d
@@ -551,10 +551,10 @@ Maintainer: Nets
 Size: 1331108
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Author: Netskao
-Name: FLEXList
+Name: FLEXList【rootless】
 Architecture: iphoneos-arm64
 Section: 狗哥插件
-Filename: ./debs/com.sini.flexlist_1.4-2_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.flexlist_1.4-2_iphoneos-arm64.deb
 MD5sum: e79606f51d8b754e2e386b6ae1de4b0a
 SHA1: 2e7f0e91d2fde46bd598948a9374b7af5148b92a
 SHA256: 5bb23cd62fb8eb9ca72d4294b0d447d5b29fbe2a7e2ceb48ba7de21e44236dae
@@ -567,11 +567,11 @@ Maintainer: Carby <super.cat.sutuplus@gmail.com>
 Version: 5.8.3-2
 Depends: mobilesubstrate
 Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
-Name: 微信酸果
+Name: 微信酸果【rootless】
 Section: 微信插件
 Size: 428504
 Package: com.sini.sutuplus
-Filename: ./debs/com.sini.sutuplus_5.8.3-2_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.sutuplus_5.8.3-2_iphoneos-arm64.deb
 MD5sum: 67c79f8e0916b69ebd11ca1c5adc91a7
 SHA1: 3ba9412fc744662d5d6e6566ba729eaaf5532ff5
 SHA256: c1f76e0606b1150bc5145782e18bc73e866c8b0c280940d34387e8a9f1d7f143
@@ -584,19 +584,19 @@ Maintainer: MustangYM <MustangYM@yeah.net>
 Version: 3.0.8
 Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
 Depends: mobilesubstrate
-Name: 微信ThemePro
+Name: 微信ThemePro【rootless】
 Conflicts: themepro
 Package: com.sini.themepro
 Replaces: themepro
 Size: 6291608
-Filename: ./debs/com.sini.themepro_3.0.8_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.themepro_3.0.8_iphoneos-arm64.deb
 MD5sum: 4075cef032ec9a05245b0e8c02c3fe4b
 SHA1: 1db6f4d8079971446a73dad68d19624b66f3d902
 SHA256: e2bfa324c9106ef7bdd4106630a9121b188201877e78afa3c8a3db9a5201b377
 icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 
 Package: com.sini.themeManager
-Name: 微信猪咪
+Name: 微信猪咪【rootless】
 Version: 1.6.1
 Description: 微信主题插件
 Section: 微信插件
@@ -605,7 +605,7 @@ Architecture: iphoneos-arm64
 Author: zhumi
 Maintainer: zhumi
 Size: 1913980
-Filename: ./debs/ThemeManager_1.6.deb
+Filename: ./rootless/ThemeManager_1.6.deb
 MD5sum: 03f77cd9299e8d221c84b25cfda5abd0
 SHA1: a83ebfe8721f7730880363bb0f6c429515cb8fb9
 SHA256: def7738f6a331d652484b526a81b92d3fc2364d026f66548963f026ba7a6401d
@@ -617,11 +617,11 @@ Author: Mao
 Description: 微信腾讯游戏扫码登录，入口在"我"页面
 Priority: optional
 Depends: firmware (>= 5.0), mobilesubstrate
-Name: 微信游戏扫码登录
+Name: 微信游戏扫码登录【rootless】
 Section: 微信插件
 Architecture: iphoneos-arm64
 Size: 22944
-Filename: ./debs/com.sini.GameLogin_0.1-5_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.GameLogin_0.1-5_iphoneos-arm64.deb
 MD5sum: 02a637aa4b2be6653ed1818d33c167de
 SHA1: 42454f557f714c9a6b3f67134c6676275a346bc9
 SHA256: 3091e8104832f787224426bce013847fb5ac0532bd101bf3a7e76e25bdb1e883
@@ -633,18 +633,18 @@ Description: iOS终端应用程序
 Maintainer: D.F (MTAC) <mtac@mtac.app>
 Version: 1.6
 Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh, bzip2, xz-utils, zsh-autosuggestions, zsh-syntax-highlighting
-Name: MTerminal
+Name: MTerminal【rootless】
 Section: 越狱应用
 Size: 86472
 Package: mterminal
-Filename: ./debs/MTerminal.1.6.deb
+Filename: ./rootless/MTerminal.1.6.deb
 MD5sum: 765f7794784901690cdb499c7e94e176
 SHA1: f139c1be96eb5e15b7d03e3bcebf748fa6da216c
 SHA256: 8342ce4eab76b2810f479574579b3f4fca5cd129af62fbfdec561f54c2383a82
 icon: https://sini921.github.io/repo/sileodepiction/icon/terminal.png
 
 Package: com.sini.appku.wechat
-Name: 微信爱锋
+Name: 微信爱锋【rootless】
 Architecture: iphoneos-arm64
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间以及修改部分bug。
 Maintainer: appku
@@ -653,7 +653,7 @@ Section: 微信插件
 Depends: mobilesubstrate (>= 0.9.5000)
 Version: 1.6-3
 Size: 1687420
-Filename: ./debs/com.sini.appku.wechat_1.6-3_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.appku.wechat_1.6-3_iphoneos-arm64.deb
 MD5sum: 2710ae7e59b6f719e8395ef371027fd1
 SHA1: 7e83fb0779ffe6d6d5cf1193482b1db2dff3a5af
 SHA256: d8da543823adaad46ab795eeb59f67da1618831f15164c24e3e45d7a67b7db38
@@ -665,13 +665,13 @@ Description: 快捷打开App，侧面呼出菜单
 Maintainer: 思念变成海
 Version: 1.11.1
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Name: InstaLauncher 2
+Name: InstaLauncher 2【rootless】
 Section: 越狱插件
 Conflicts: com.jontelang.instalauncher2.beta
 Sponsor: 思念变成海
 Size: 205160
 Package: com.sini.instalauncher2
-Filename: ./debs/com.sini.instalauncher2_1.11.1_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.instalauncher2_1.11.1_iphoneos-arm64.deb
 MD5sum: 92b87212285f1a76a8651e44dbbb2815
 SHA1: b3e0666df605e087f5362a622505b32c9e6d2bdb
 SHA256: 1227daf233b93a21ebac5a14fc9edc041547dc96fa06b2f3a6b4a56c729a97eb
@@ -684,12 +684,12 @@ Maintainer: admin@25mao.com
 Version: 3.1-5
 Priority: optional
 Depends: firmware (>= 5.0)
-Name: 微信斗图
+Name: 微信斗图【rootless】
 Section: 微信插件
 Sponsor: admin@25mao.com
 Package: com.sini.doutu.rootless
 Size: 1210420
-Filename: ./debs/com.sini.doutu.rootless_3.1-5_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.doutu.rootless_3.1-5_iphoneos-arm64.deb
 MD5sum: 47c1441564c72d2292a8b588b67ead6e
 SHA1: 35b906b4a95d5c1f8b09427da3478789cb8873f0
 SHA256: 7dfa9fa9d4e711ec6e9238127bbef0fc946e655266283363f97f41614ef53c9f
@@ -701,11 +701,11 @@ Description: Zetsu1.5中文版(简体中文来自刀刀源)，此版本仅有小
 Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
 Version: 1.5
 Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.ccsupport
-Name: Zetsu中文版
+Name: Zetsu中文版【rootless】
 Section: 越狱插件
 Package: com.sini.zetsu
 Size: 9658528
-Filename: ./debs/com.sini.zetsu_1.5_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.zetsu_1.5_iphoneos-arm64.deb
 MD5sum: ba42ad3ccc8238d3aa38471869417d4b
 SHA1: a447ce881703aa3ab3fd8a0f7aa49e899157eb90
 SHA256: a30d456d40193ed6d462708bfce0c94c34b89466e2a9491ed7a5ed5d277bc32b
@@ -729,7 +729,7 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/shengming/js.json
 icon: https://sini921.github.io/repo/sileodepiction/icon/shengming.png
 
 Package: ws.hbang.newterm3
-Name: NewTerm 3 Beta
+Name: NewTerm 3 Beta【rootless】
 Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds, bzip2, xz-utils
 Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
 Conflicts: ws.hbang.newterm, ws.hbang.newterm2
@@ -741,7 +741,7 @@ Section: 越狱应用
 Architecture: iphoneos-arm64
 Version: 3.0~beta1-3+debug
 Size: 4849520
-Filename: ./debs/ws.hbang.newterm3_3.0~beta1-3+debug_iphoneos-arm64.deb
+Filename: ./rootless/ws.hbang.newterm3_3.0~beta1-3+debug_iphoneos-arm64.deb
 MD5sum: cbbeb22943eaee661e7089c8e6e5e542
 SHA1: 936d009f93e7b01e43bee9f90e21ce7ca481ce24
 SHA256: 7dadd4a0dc51618945407ae97b4137d9587fdb9615d9fb9e4d9b4539916451f5
@@ -753,18 +753,18 @@ Description: Apple的SF符号
 Maintainer: MTAC
 Version: 3.0
 Depends: firmware (>= 14.0)
-Name: Symbols
+Name: Symbols【rootless】
 Section: 越狱应用
 Size: 172304
 Package: com.sini.symbols
-Filename: ./debs/com.sini.symbols_3.0_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.symbols_3.0_iphoneos-arm64.deb
 MD5sum: 53f2f529a3810282ca0e53c11726ebf7
 SHA1: 82c880746c8d1d56b208241ecf1bc381031623aa
 SHA256: 5b31e4a9bc01c4ed9388c274234b92f19bcddadf8fbea2bb8f7942e15a20c17f
 icon: https://sini921.github.io/repo/sileodepiction/icon/sf.png
 
 Package: com.sini.wechatnotiavatar
-Name: WeChatNotiAvatar
+Name: WeChatNotiAvatar【rootless】
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
 Description: 微信通知显示头像
 Maintainer: Nets
@@ -773,14 +773,14 @@ Section: 狗哥插件
 Architecture: iphoneos-arm64
 Version: 1.2-5
 Size: 523384
-Filename: ./debs/com.sini.wechatnotiavatar_1.2-5_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.wechatnotiavatar_1.2-5_iphoneos-arm64.deb
 MD5sum: 104766006e9b55c4f2c41e77cdfc0e5d
 SHA1: 36f137ac634e9c637de01ca44a643db34a4b0360
 SHA256: 7584c6eb2992440965e2b60b1f0a495cb5ca1fe786ffcdf54c2d841d54221804
 icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.qqnotiavatar
-Name: QQNotiAvatar
+Name: QQNotiAvatar【rootless】
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
 Description: QQ通知显示头像
 Maintainer: Nets
@@ -789,7 +789,7 @@ Section: 狗哥插件
 Architecture: iphoneos-arm64
 Version: 1.2-2
 Size: 25412
-Filename: ./debs/com.sini.qqnotiavatar_1.2-2_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.qqnotiavatar_1.2-2_iphoneos-arm64.deb
 MD5sum: b78383518a9204d2e24fbc9744de67ea
 SHA1: c72420d21466f471df101d022a7c1e00805e5527
 SHA256: 2cb596d5f5f6648cbd047a31b3ee8e9ff851fab7a03927f62d311f554f746366
@@ -805,14 +805,14 @@ Section: 越狱应用
 Pre-Depends: firmware (>= 13.0), dpkg, uikittools
 Architecture: iphoneos-arm64
 Size: 3411676
-Filename: ./debs/com.sini.chromatic.rootless_3.0_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.chromatic.rootless_3.0_iphoneos-arm64.deb
 MD5sum: 218a4f389e8150c6672d3f25741aa579
 SHA1: da63ae84e6ace08ab0c68aa7093e571006998a27
 SHA256: af8e0681aaf7aa1d61afe4d667ee315fb66cbbd122e467834b5c7e5a87fbff13
 icon: https://sini921.github.io/repo/sileodepiction/icon/saily.png
 
 Package: com.sunshinesong.split-view-pro
-Name: split-view-pro
+Name: split-view-pro【rootless】
 Description: 已去除联网验证(网传删除node方法)，上传仅为自用学习交流测试备份，如安装以后出现异常与季伯工作室无关！
 Maintainer: sunshinesong
 Author: sunshinesong
@@ -822,14 +822,14 @@ TS: sp-sss
 Architecture: iphoneos-arm64
 Version: 1.3.7
 Size: 1537600
-Filename: ./debs/com.sunshinesong.split-view-pro_1.3.7_iphoneos-arm64.deb
+Filename: ./rootless/com.sunshinesong.split-view-pro_1.3.7_iphoneos-arm64.deb
 MD5sum: 61967870968c15dc26eba579bdae698d
 SHA1: a1db71fc4736be1722db05d98ac736df989f653e
 SHA256: ced887176c83735f568fa3ab80f2604534a97acd9f86bad9f6c85c205f637ae1
 icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
 
 Package: com.swing.padswitcher
-Name: PadSwitcher - iPad 多任务
+Name: PadSwitcher - iPad 多任务【rootless】
 Version: 1.1.0
 Architecture: iphoneos-arm64
 Size: 26416
@@ -839,7 +839,7 @@ Section: 越狱插件
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
 Description: 在 iPhone 上启用 iPad 风格的多任务界面和 Dock 栏。
 Depiction: https://repo.abox.plus/
-Filename: ./debs/PadSwitcher-iPad多任务.1.1.0.deb
+Filename: ./rootless/PadSwitcher-iPad多任务.1.1.0.deb
 MD5sum: 0aea545f5a882a85d0e247c50c8614f4
 SHA1: 7c2ef70c1c1aec70b17f5036f0c9d4ddb822e320
 SHA256: 2bd3301b2213d3e6303b600446f14d7f206a0c6e93133d707a3a1c903906f036
@@ -853,16 +853,16 @@ Author: Hitori <mikasa-san@outlook.jp>
 Section: 越狱插件
 Size: 302532
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Name: Misaki
+Name: Misaki【rootless】
 Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
-Filename: ./debs/com.hitori.misaki_2.1.7_iphoneos-arm64.deb
+Filename: ./rootless/com.hitori.misaki_2.1.7_iphoneos-arm64.deb
 MD5sum: 7e3b1f3bd25e6c1f1ae410e01235517e
 SHA1: 222e5ccca8d9e7c08d1475272e992a2c9cd9aacf
 SHA256: 0e225f5294a12a45de685e330d2c212b9ad567d12cfd750627bc2239f77e5085
 icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
 
 Package: com.sunshinesong.split-view-pro
-Name: split-view-pro
+Name: split-view-pro【rootless】
 Version: 1.1.5
 Architecture: iphoneos-arm64
 Description: 分屏，不必太复杂，一切从简即可。
@@ -871,14 +871,14 @@ Author: sunshinesong
 Section: 越狱插件
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
 Size: 3520200
-Filename: ./debs/split-view-pro.1.1.5.deb
+Filename: ./rootless/split-view-pro.1.1.5.deb
 MD5sum: 07235702c22f2288c44e776b235e6940
 SHA1: 2ca51292fec481501a89816abb86dfc68264ba31
 SHA256: 5593ff630f531ee936383593436322542f175324a75601149988ef4558b589dc
 icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
 
 Package: com.sunshinesong.split-view-pro
-Name: split-view-pro
+Name: split-view-pro【rootless】
 Description: 分屏，不必太复杂，一切从简即可。
 Maintainer: sunshinesong
 Author: sunshinesong
@@ -888,7 +888,7 @@ TS: sp-sss
 Architecture: iphoneos-arm64
 Version: 1.1.6
 Size: 5177798
-Filename: ./debs/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
+Filename: ./rootless/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
 MD5sum: 0633f6b017afdbbc2513ea5b24cf19de
 SHA1: 61c37fdc9ef8cc51d962d0cb329e5d99ecd5798c
 SHA256: 9c6622889ef922038863816b9a947caf5738a520f87f8e12245816faad58e44f
@@ -901,10 +901,10 @@ Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
 Architecture: iphoneos-arm64
 Size: 957496
-Name: CCPower-Rootless
+Name: CCPower【rootless】
 Author: Netskao
-Description: Control Center Quick Power Tool, Supports iOS11-iOS15
-Filename: ./debs/netskao.ccpower-rootless_1.9-4_iphoneos-arm64.deb
+Description: 控制中心电源快捷按钮
+Filename: ./rootless/netskao.ccpower-rootless_1.9-4_iphoneos-arm64.deb
 MD5sum: 7db69ec8af2e3553ab3bdf161c7d71d0
 SHA1: 1ac5989d144a078b8e54aa9a769a7884f0cbcf5d
 SHA256: e3e2cce7c2363354366945b756b50877c3cea17aff28989de51496127c1990ce
@@ -917,17 +917,17 @@ Maintainer: Nets
 Depends: mobilesubstrate, firmware (>= 15.0)
 Architecture: iphoneos-arm64
 Size: 17120
-Name: DeletePhotosCompletely-Rootless
+Name: DeletePhotosCompletely【rootless】
 Author: Netskao
 Description: 为相册添加彻底删除照片选项
-Filename: ./debs/netskao.deletephotoscompletely-rootless_1.2-2_iphoneos-arm64.deb
+Filename: ./rootless/netskao.deletephotoscompletely-rootless_1.2-2_iphoneos-arm64.deb
 MD5sum: 2462a16668bce692cae56d8272835cc5
 SHA1: e39efa4b086b75aaabd3d87d717a83177cf13d6e
 SHA256: f9a95af91aa14281e2b4b6ef76e7e4bdee2a88994b8d5f96ea7192f4d12031ed
 icon: https://sini921.github.io/repo/sileodepiction/icon/xiangce.png
 
 Package: com.netskao.classickeyboardxs
-Name: ClassicKeyboardXS
+Name: ClassicKeyboardXS【rootless】
 Version: 1.1-8
 Architecture: iphoneos-arm64
 Size: 233164
@@ -936,7 +936,7 @@ Author: Netskao
 Section: 狗哥插件
 Description: 键盘底部高度调整。
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.netskao.classickeyboardxs_1.1-8_iphoneos-arm64.deb
+Filename: ./rootless/com.netskao.classickeyboardxs_1.1-8_iphoneos-arm64.deb
 MD5sum: d456fe07144a27bad44415124392c2ba
 SHA1: 5b33803538ed004a2b6b918b5471131670b4cfbd
 SHA256: 4f437330a0f82aab9096cc5d9d0fd950ccb0e968623e894e4b373df43543b981
@@ -949,17 +949,17 @@ Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate
 Architecture: iphoneos-arm64
 Size: 3792
-Name: HideScreenshotPreview-Rootless
+Name: HideScreenshotPreview【rootless】
 Author: Netskao
 Description: 隐藏截图时左下角预览，保留闪屏无延迟
-Filename: ./debs/netskao.hidescreenshotpreview-rootless_1.2-1_iphoneos-arm64.deb
+Filename: ./rootless/netskao.hidescreenshotpreview-rootless_1.2-1_iphoneos-arm64.deb
 MD5sum: a9e3081541e5561041844f09f454acc1
 SHA1: 84a607335b56ed7fc1f6a9d82aa67e7b15e42208
 SHA256: acb753b0ba354483b01ef09276512ee0642dca8c9d211f05c3d7c603303cc8f8
 icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.netskao.appdata
-Name: AppData
+Name: AppData【rootless】
 Version: 1.4.2
 Architecture: iphoneos-arm64
 Maintainer: Nets
@@ -968,7 +968,7 @@ Section: 狗哥插件
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Size: 823820
 Description: 桌面图标上滑或下滑或3D长按菜单单选按钮可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化：增加单键降级应用，增加可选向下滑动唤出，增加查看应用加载动态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未自动刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据档案数据大小显示为包括程序组内文件夹共数据, 修改原版重置数据后未同步刷新缓存数据显示和权限/数量问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用下禁止)
-Filename: ./debs/com.netskao.appdata_1.4.2_iphoneos-arm64.deb
+Filename: ./rootless/com.netskao.appdata_1.4.2_iphoneos-arm64.deb
 MD5sum: 090451a77622a645950b9eb617ff0075
 SHA1: 080c3f5babb93c1d27ed2a608f3867862a3d6eab
 SHA256: 1b64374f4ab692101d3c1ab6563b73622c569908b29475f17e6b1b17e6f62f33
@@ -982,11 +982,11 @@ Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmwa
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader, com.hk.settingsrevamp.cn.rl
 Architecture: iphoneos-arm64
 Size: 96896
-Name: SettingsRevamp
+Name: SettingsRevamp【rootless】
 Author: SOPPPra
 Sponsor: 思念变成海
 Description: 设置美化，插件归类。
-Filename: ./debs/com.sini.settingsrevamp_2.1.1.deb
+Filename: ./rootless/com.sini.settingsrevamp_2.1.1.deb
 MD5sum: b71c0bc21a7acb51c416585900fe0083
 SHA1: bd1b9d2d3f7534d455347b0b4c4999d15848ae50
 SHA256: ed89b996d96f7d6e11a4a1faf1d77c00b4e06b79589e2cda0843ece83c36c2f6
@@ -999,11 +999,11 @@ Maintainer: 搬运工
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (>= 15.0), preferenceloader
 Architecture: iphoneos-arm64
 Size: 624116
-Name: DesktopLyrics桌面歌词
+Name: DesktopLyrics【rootless】
 Author: Brend0n
-Sponsor: 搬运工
-Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕。
-Filename: ./debs/com.sini.desktoplyrics_0.3.9~b1_iphoneos-arm64.deb
+Sponsor: sini921
+Description: 桌面歌词，支持qq音乐，其他自测
+Filename: ./rootless/com.sini.desktoplyrics_0.3.9~b1_iphoneos-arm64.deb
 MD5sum: f7d3cd3d254ca7e8e9e9695f84a37178
 SHA1: 359a81b86b6a2cbc064ee8728ed653b57db5b219
 SHA256: a151439ba9d234c7dce0014829a5c02d0377264335353ab3fda7bf9d950b25d5
@@ -1012,15 +1012,15 @@ icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 Package: com.sini.reachplayer-rootless
 Version: 2.6
 Section: 越狱插件
-Maintainer: 搬运工
+Maintainer: sini921
 Depends: firmware (>=13.0), mobilesubstrate
 Architecture: iphoneos-arm64
-Name: ReachPlayer 音乐窗口
+Name: ReachPlayer【rootless】
 Author: ETHN
-Sponsor: 搬运工
+Sponsor: sini921
 size: 117096
-Description: 屏幕底部下滑或者双击状态栏呼出窗口
-Filename: ./debs/com.sini.reachplayer-rootless_2.6_iphoneos-arm64.deb
+Description: 屏幕底部下滑或者双击状态栏呼出音乐控制窗口
+Filename: ./rootless/com.sini.reachplayer-rootless_2.6_iphoneos-arm64.deb
 MD5sum: 204dcd0557016cc9608256df139955e0
 SHA1: 867e9201957bdac7967a34d77f4ba02bd3583a79
 SHA256: b50ef328d64b9f540b845ce4119f8c0cfb0ef63caf47ff14d6d6b623ec36eaba
@@ -1029,15 +1029,15 @@ icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 Package: com.sini.storeswitcher2
 Version: 1.0.4
 Section: 越狱插件
-Maintainer: 搬运工
+Maintainer: sini921
 Depends: firmware (>= 11)
 Architecture: iphoneos-arm64
-Name: StoreSwitcher商店账号切换-Rootless
+Name: StoreSwitcher【rootless】
 size:17828
 Author: 0xkuj
-Sponsor: 搬运工
+Sponsor: sini921
 Description: 使用先前登录的多个Apple账户直接从Appstore切换！操作方法：打开Appstore，点击个人资料，点击导航栏上的切换账号，选择所需账户！
-Filename: ./debs/com.sini.storeswitcher2.rootless_1.0.4_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.storeswitcher2.rootless_1.0.4_iphoneos-arm64.deb
 MD5sum: ed9f6c4c7d31e988d3dcce8f21dcf36f
 SHA1: f8fa1edc61617f09bf6afe10b1941840ece7f46b
 SHA256: 7091c65d69924ca7b4ea2fbd6c6411d6e8162c6d4b70ce9ea45b122d984b3cbf
@@ -1049,12 +1049,12 @@ Description: 桌面布局美化(简体中文来自刀刀源)
 Maintainer: ren7995 
 Version: 1.4.1
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
-Name: Atria中文版
+Name: Atria中文版【rootless】
 Section: 越狱插件
 Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
 Size: 243204
 Package: com.sini.atria
-Filename: ./debs/com.sini.atria_1.4.1_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.atria_1.4.1_iphoneos-arm64.deb
 MD5sum: 795fcd24feef1fa3c7be0877952f75c7
 SHA1: 4d318df6d5a4adccd89c466dd803561c70c7017e
 SHA256: 38170a1b50104cbeb0c02364fe6c5c465249015b86a59d56c273479abc024cb9
@@ -1069,16 +1069,16 @@ Section: 微信插件
 Priority: optional
 Depends: firmware (>= 5.0)
 Author: mao
-Name: 微信消息屏蔽
+Name: 微信消息屏蔽【rootless】
 Size: 122240
-Filename: ./debs/com.sini.msgfilt.rootless_1.0-5.1_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.msgfilt.rootless_1.0-5.1_iphoneos-arm64.deb
 MD5sum: 392fd2d1d97763f563bc77c57dd9aaf5
 SHA1: 7cfcad0cbd61103a6057b2dfd47e1bcb0c275225
 SHA256: c2422f5d08d65da489d83a651ec285fa4e1c6516ae9c7aae4c2cb3b926ba0068
 icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 
 Package: com.sini.MisakaHelpre
-Name: 微信Misaka
+Name: 微信Misaka【rootless】
 Version: 2.1-0
 Architecture: iphoneos-arm64
 Author: Misaka
@@ -1089,16 +1089,16 @@ Depends: mobilesubstrate
 Conflicts: misakahelper
 Replaces: misakahelper
 Provides: misakahelper
-Description: 微信 Misaka 无需权限版
+Description: 微信 Misaka 无需授权版
 Size: 13177528
-Filename: ./debs/com.sini.MisakaHelpre_2.1-0_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.MisakaHelpre_2.1-0_iphoneos-arm64.deb
 MD5sum: ea20969ebd27cce003dad0519326af1b
 SHA1: c59e439079a111f805d5a80bc9cc4211da92e4b1
 SHA256: c53f99fc762c7ce5fb5cebeb3ea721eb31a9ade8d6fddfac74ee4c424f048eb9
 icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 
 Package: com.sini.hbwechathelper
-Name: 微信黄白
+Name: 微信黄白【rootless】
 Version: 1.7.4
 Architecture: iphoneos-arm64
 Maintainer: 思念变成海
@@ -1108,14 +1108,14 @@ Depends: mobilesubstrate
 Description: 微信黄白助手
 Author: HuangBai
 Size: 9274488
-Filename: ./debs/com.sini.hbwechathelper_1.7.4_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.hbwechathelper_1.7.4_iphoneos-arm64.deb
 MD5sum: 6fb31dbe2095d5ae075e052830f18368
 SHA1: 84d09da2def1b25a7604717832ff1c4dca918e0d
 SHA256: fc41c792ff02b200d0bd0d6bbcde764f844517cef61646c77cc1e45e8d7aaffa
 icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 
 Package: com.sini.miyou
-Name: 微信助手
+Name: 微信助手【rootless】
 Version: 3.8-0
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
@@ -1126,14 +1126,14 @@ Priority: optional
 Author: Mao
 Sponsor: admin@25mao.com
 Size:10164736
-Filename: ./debs/com.sini.miyou_3.8-0_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.miyou_3.8-0_iphoneos-arm64.deb
 MD5sum: 157dc1aa89460ce143d4f629962efef0
 SHA1: 434f9f67c74c541cc1beb04ac7647d244ce6d599
 SHA256: 3d57f83d9ec864e10169486b27115e7e60a90f303d9d6c050ed6d17abe7f599d
 icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 
 Package: com.sini.dumpapp.wechat-rootless
-Name: 微信锤子
+Name: 微信锤子【rootless】
 Version: 2.0.1
 Architecture: iphoneos-arm64
 Maintainer: WeChat
@@ -1142,14 +1142,14 @@ Section:微信插件
 Depends: mobilesubstrate, firmware (>= 12.0)
 Description: 微信锤子助手
 Size: 9336424
-Filename: ./debs/com.sini.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64.deb
 MD5sum: b4994ce4edf9e4f745bf4662c45ef2f8
 SHA1: da0dcd5e2397cd72de3676909ae6e20e03483004
 SHA256: bc7ff40976e216112b562783804f15dd4b16f2d3705ed8b2a487558bfdd01907
 icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 
 Package: com.sini.appku.wechat
-Name: 微信爱锋
+Name: 微信爱锋【rootless】
 Architecture: iphoneos-arm64
 Description: 抢红包, 推送小助手, 仿装计算器, 备注用户头像, 虚拟视频, 全局长按导航栏快捷功能, 等; 修复转账金额移动复原, 添加文字修改, 语言包, 一键已读, 多端登录设备隐藏, 新增朋友圈转发、修改聊天时间.
 Maintainer: appku
@@ -1158,7 +1158,7 @@ Section: 微信插件
 Depends: mobilesubstrate (>= 0.9.5000)
 Version: 1.6-2
 Size: 1672624
-Filename: ./debs/com.sini.appku.wechat_1.6-2_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.appku.wechat_1.6-2_iphoneos-arm64.deb
 MD5sum: 4c35cff8406f4a3959c5c39ff774dfb9
 SHA1: 16f13b331e61cc979ed9a98eb44206b69bc793b1
 SHA256: 776e9b5329fb1d118f681634683a1092f6f00fe845d0b39a94862c32d27f5cd8
@@ -1176,15 +1176,15 @@ Size: 19640
 Author: Mao
 Description: 微信插件收纳
 Sponsor: admin@25mao.com
-Name: 微信插件收纳
-Filename: ./debs/com.sini.wcplugins.rootless_0.1-3_iphoneos-arm64.deb
+Name: 微信插件收纳【rootless】
+Filename: ./rootless/com.sini.wcplugins.rootless_0.1-3_iphoneos-arm64.deb
 MD5sum: 3d3833c1c3bed82157aeeeee5a6d7ff3
 SHA1: 698bc3bfa4a4e2a6d87c3c47bdfb932fa3e1f097
 SHA256: 3682df7fdaab7bcc6339b09e5b0a3fd9ce8cc9bff238c9bf48d24dc46d6aa25c
 icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 
 Package: com.sini.pingfan.wechat
-Name: 微信虚拟视频
+Name: 微信虚拟视频【rootless】
 Version: 2.2-1
 Section: 微信插件
 Maintainer: 思念变成海
@@ -1194,7 +1194,7 @@ Description: 抢红包, 推送小助手, 伪装计算器, 备注用户头像, �
 Sponsor: 思念变成海
 Author: pingfan
 Size: 1688568
-Filename: ./debs/com.sini.pingfan.wechat_2.2-1_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.pingfan.wechat_2.2-1_iphoneos-arm64.deb
 MD5sum: a811a367856834129fed068ca662c3b9
 SHA1: ec0f63433ba98923ad032a9165855d2824527765
 SHA256: 61ec0fe8c0dd2d659718135876b3fac27f0cc825d4b4e46e17578d202e0b824e
@@ -1205,18 +1205,18 @@ Version: 3.1.1-9
 Architecture: iphoneos-arm64
 Maintainer: tangerine
 Depends: mobilesubstrate, com.sini.siriplus
-Name: EdgeSiri唤醒特效
+Name: EdgeSiri【rootless】
 Description: 模仿 iOS 18 唤醒 Siri 边框效果，无设置项。安装即生效------EdgeSiri 是一款为 iOS 设计的越狱插件，它能够在 Siri 激活时在屏幕周围显示彩色边框。这个边框不仅增加了视觉吸引力，还能在 Siri 被使用时提供更加直观的反馈。
 Section: 越狱插件
 Size: 15236
-Filename: ./debs/com.sini.edge.siri_3.1.1-9_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.edge.siri_3.1.1-9_iphoneos-arm64.deb
 MD5sum: 5676f6953daeb6e3681f00b2dfb23119
 SHA1: 1b7bb1c5874ec9a171626e95323d8d1c4923b86e
 SHA256: 07babe43e1aece68c36885ab115d36733a86fe13fefd0aa9cecabf8414b6e9f8
 icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.siriplus
-Name: SiriPlus智能Siri
+Name: SiriPlus【rootless】
 Maintainer: 夕颜
 Author: 夕颜
 Section: 越狱插件
@@ -1225,7 +1225,7 @@ Architecture: iphoneos-arm64
 Size: 272244
 Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0), com.sini.edge.siri
 Description: SiriPlus 是一款智能 Siri 应用，提供多种增强功能和优化。
-Filename: ./debs/com.sini.siriplus_1.3_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.siriplus_1.3_iphoneos-arm64.deb
 MD5sum: 7a147a8a8dc69758f796d737a6ac954a
 SHA1: bdd46201f3694852ed3346600e51bdd524154553
 SHA256: f1bb49b2db00ba1698ea158f46a1dae7408879264f31db3dba6895366fb32ef9
@@ -1240,27 +1240,26 @@ Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depends: firmware (>= 15.0)
 Conflicts: org.altervista.exilecom.icleaner
-Name: iCleaner Pro
+Name: iCleaner Pro【rootless】
 Depiction: 小扫把
 Size: 1000044
-Filename: ./debs/com.sini.icleanerprorl_7.10.0k_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.icleanerprorl_7.10.0k_iphoneos-arm64.deb
 MD5sum: 3dad85750261521b6742439f710ad15b
 SHA1: b6e6c4415528940045fb9fc6d63519f7cdac97d1
 SHA256: 5ff21a35c1e42ff44844faccc9d62dec17fff953da260070bc7c1175252f95cb
 icon: https://sini921.github.io/repo/sileodepiction/icon/icleanerpro.png
 
 Package: com.guozi.fuckads
-Name: 小果子通用去广告
+Name: 小果子通用去广告【rootless】
 Description: 通用去广告插件, 拿去看电影去吧, 通杀大部分第三方广告
 Maintainer: 小果子
 Author: 小果子
 Section: 应用破解
 Depends: mobilesubstrate (>= 0.9.5000)
-Sileodepiction: https://sileo.iosyyds.com/com.guozi.fuckads/js.json
 Architecture: iphoneos-arm64
 Version: 5.2.0
 Size: 1094012
-Filename: ./debs/com.guozi.fuckads_5.2.0_iphoneos-arm64.deb
+Filename: ./rootless/com.guozi.fuckads_5.2.0_iphoneos-arm64.deb
 MD5sum: 5100a2403af6d305f9ff91b471369fec
 SHA1: 51af2f05df5dcd76065c3b2a9dd0030ea3d82c1c
 SHA256: d6bd19ea142f4c6d0885e94e38d0979d17efa1fbf8c197acb191af3463c7b584
@@ -1272,19 +1271,19 @@ Section: 越狱插件
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Name: Touch-Viz 触摸轨迹
+Name: Touch-Viz 触摸轨迹【rootless】
 Description: 装上本插件以后，腰不酸了，腿不疼了，心脏也不跳了。
 Depiction: https://repo.cypwn.xyz/depiction/2728
 Author: Lessica
 Size: 708220
-Filename: ./debs/com.sini.touchvis_2.8.1k_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.touchvis_2.8.1k_iphoneos-arm64.deb
 MD5sum: 7ccbd861a2e6cb217cac15a9dfd8c8de
 SHA1: 61be9e0dc48751fd05f3f2c8897c76860b6e5687
 SHA256: ac925cf86769dabc0c4a88a35baeef58e3bebe5c22ce8947209e6c5b39a81275
 icon: https://sini921.github.io/repo/sileodepiction/icon/touch.png
 
 Package: com.sini.colorfulwallpaperx
-Name: ColorfulWallpaperX
+Name: ColorfulWallpaperX【rootless】
 Description: 动态光影壁纸免费版
 Maintainer: Lessica <82flex@gmail.com>
 Author: Lessica <82flex@gmail.com>
@@ -1293,14 +1292,14 @@ Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 2.1
 Size: 958860
-Filename: ./debs/com.sini.colorfulwallpaperx_2.1_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.colorfulwallpaperx_2.1_iphoneos-arm64.deb
 MD5sum: 1bcb32e9fe7822fd40140556200f4114
 SHA1: ba19067f0252b2a949c6a389138518654ea6db10
 SHA256: ef204b05e4d8e9eb878088b5158dc6b76dadae9bc9e7a637e30903b98fecf396
 icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.guozi.kuannoad
-Name: 酷安FuckAds
+Name: 酷安FuckAds【rootless】
 Version: 5.2.0
 Architecture: iphoneos-arm64
 Description: 去除广告
@@ -1308,14 +1307,14 @@ Maintainer: 小果子
 Depends: mobilesubstrate (>= 0.9.5000)
 Section: 应用破解
 Size: 1088892
-Filename: ./debs/酷安FuckAds.5.2.0.deb
+Filename: ./rootless/酷安FuckAds.5.2.0.deb
 MD5sum: 0a16ee2d962a140c7f9cf2ca69fd4e0e
 SHA1: 8f5578ea4079f364ff3ac15a00899dd1411515ef
 SHA256: 2d0d4f20234f579ae8211b096bd8bea7c50067e2c398bd090da2c59b5c6c2133
 icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.guozi.weifeng
-Name: 威锋FuckVIP-Ads
+Name: 威锋FuckVIP-Ads【rootless】
 Version: 7.0.3
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
@@ -1324,23 +1323,23 @@ Maintainer: 小果子
 Author: 小果子
 Size: 326548
 Description: 去除你能看到的所有广告，基于威锋7.0开发！干净体验！启用会员功能！点亮会员头像！
-Filename: ./debs/威锋703永久VIP+去广告无根.deb
+Filename: ./rootless/威锋703永久VIP+去广告无根.deb
 MD5sum: 327f8880c6e2b72fc9acf69d28387a24
 SHA1: 0a6efca323683bce0d8d20c944a9fb820c38cc18
 SHA256: fdc41458b749f4d48d2fda11871abf2625c3d765ab33c4e278193a72b1a45d81
 icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.CCJBmodular
-Name: CCJBmodular
+Name: CCJBmodular【rootless】
 Version: 1.0
 Architecture: iphoneos-arm64
 Description: 本插件基于刀刀源的CCBorder16、CCLess++、Netskao的CCPower。由三个插件整合，删除不用的模块，仅为方便自己用。
-Maintainer: 思念变成海
-Author: 妖刀&Netskao&思念变成海
+Maintainer: sini921
+Author: 妖刀&Netskao&sini921
 Section: 越狱插件
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Size: 1054576
-Filename: ./debs/com.sini.CCJBmodular_1.0_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.CCJBmodular_1.0_iphoneos-arm64.deb
 MD5sum: d5dc1ecb998ac19c898e366d15188d35
 SHA1: 15d60212f3e290546b903446301730f568fdcac3
 SHA256: 1708faf3ad1b2d1d6bef58a7d45cf7adf858fcb69f157f3157bf3c9728a27c1c
@@ -1348,7 +1347,7 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccjbmodular/js.jso
 icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.pkc.rootless
-Name: 微信 PKC
+Name: 微信 PKC【rootless】
 Version: 0.5-8
 Description: 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API（图、文本、视频）、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、群会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特特别表置顶群管理、按群员查找列表置顶群管理、群统计统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友申请、自动互删好友、拉加好友、皆含艾特等【提示：本项目旨在专为 iOS 逆向的同仁实验，不得用于商业和个人其他意图。若使用不当，均由个人承担。若有侵权，请联系我本人删除。】
 Section: 微信插件
@@ -1359,23 +1358,23 @@ Author: Curtin
 Homepage: https://github.com/curtinlv
 Maintainer: curtinlv@126.com
 Size: 548248
-Filename: ./debs/com.sini.pkc.rootless_0.5-8_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.pkc.rootless_0.5-8_iphoneos-arm64.deb
 MD5sum: 6742baeb705474fb2bad92de0e379e0f
 SHA1: c2002cc6cfd5b82ac2d1c2f72390105b11d39c1b
 SHA256: d5dbe7e67aa262bd1830475e53c25738be4b6ecf5b91195d9d8b5713c47f0b89
 icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 
 Package: com.sini.CCJBmodular
-Name: CCJBmodular
+Name: CCJBmodular【rootless】
 Version: 1.0-1
 Architecture: iphoneos-arm64
 Maintainer: 思念变成海
-Author: 妖刃&Netskao&思念变成海
+Author: 妖刃&Netskao&sini921
 Section: 越狱插件
 Description: 本插件基于刀刀源的CCBorder16、CCLess++、Netskao的CCPower。由三个插件整合，删除不使用的模块，仅为方便自己用。1.0-1更新:为烧杯群友季伯毅添加支付宝和微信的扫码和付款码模块。
 Depends: mobilesubstrate, firmware (>=16.0), ws.hbang.alderis
 Size: 1091500
-Filename: ./debs/com.sini.CCJBmodular_1.0-1_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.CCJBmodular_1.0-1_iphoneos-arm64.deb
 MD5sum: 91f9c9cd1163780d82d8445a135bf564
 SHA1: 3804b5ea299f0a844271f733d83a6bdcd2d1e9b8
 SHA256: e16cc8f7936696f7ccc43081de10658161ed9ce65dc01ea82b91c3ddd1f5a747
@@ -1388,12 +1387,12 @@ Description: Safari浏览器增强中文版(简体中文来自刀刀源)
 Maintainer: 0xkuj
 Author: 0xkuj
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Name: SafariX中文版
+Name: SafariX中文版【rootless】
 Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix
 Architecture: iphoneos-arm64
 Section: 越狱插件
 Size: 276568
-Filename: ./debs/com.sini.safarix_1.3.0_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.safarix_1.3.0_iphoneos-arm64.deb
 MD5sum: 113e9ead5fa26c40d040b1e49a518551
 SHA1: 3970c9aa1004db349910c85db91d029e898e5e0b
 SHA256: 5459d50c5ecb904ace41f0cfd0f3de029f55b55011eb04d6fb43654d83296357
@@ -1402,21 +1401,21 @@ icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
 Package: com.sini.kuku
 Maintainer: 思念变成海
 Architecture: iphoneos-arm64
-Name: KuKu Reborn
+Name: KuKu Reborn【rootless】
 Version: 1.5
 Description: 进度条样式的通知，源主最爱，上架备份。
 Author: b4db1r3
 Section: 越狱插件
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 1.17)
 Size: 254444
-Filename: ./debs/com.sini.kuku_1.5_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.kuku_1.5_iphoneos-arm64.deb
 MD5sum: 870ba6f916d16f1ff9eb6dc93c691b3c
 SHA1: a5c1b07c6cf7c7a601d8f52c5a8def5f352c2158
 SHA256: b4dc5562d1dab827239e87add99aa1aa19ac8cfcb9d29e00b8e23ac0ee569797
 icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: com.sini.baidunetdiskoutput
-Name: 百度网盘缓存文件导出
+Name: 百度网盘缓存文件导出【rootless】
 Author: lenglengyu
 Description: 为百度网盘的缓存文件添加导出按钮，免去每次进入路径寻找文件的繁琐方式。
 Depends: mobilesubstrate
@@ -1426,7 +1425,7 @@ Section: 应用破解
 Depiction: https://repo.lenglengyu.top/packageInfo/baidunetdiskoutput.html
 Version: 1.0.1K
 Size: 142080
-Filename: ./debs/com.sini.baidunetdiskoutput_1.0.1K_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.baidunetdiskoutput_1.0.1K_iphoneos-arm64.deb
 MD5sum: 2cce02c55a799a8b7b5c6e09e1286461
 SHA1: 63ebf6c9f253ee14c8f18a1df05cfdd5fc88d3c8
 SHA256: e67f338bdc0cdfb0cbebe58b4637ef4f8e2565fbc1729b6869e627c749d83105
@@ -1439,12 +1438,12 @@ Maintainer: 思念变成海
 Version: 1.0-6
 Priority: optional
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.4)
-Name: 左滑返回
+Name: 左滑返回【rootless】
 Section: 越狱插件
 Sponsor: 思念变成海
 Package: com.sini.leftpan.rootless
 Size: 44240
-Filename: ./debs/com.sini.leftpan.rootless_1.0-6_iphoneos-arm64.deb
+Filename: ./rootless/com.sini.leftpan.rootless_1.0-6_iphoneos-arm64.deb
 MD5sum: c9519e3b8147fd8395a26d0ba3707921
 SHA1: ec213ce1232d4c98280a56f04ba46cb38eaf8cd0
 SHA256: ea58a8d03711dbad3bf40a66edc6d7cb562a1be5a71878c5c4c5d776088542fc
