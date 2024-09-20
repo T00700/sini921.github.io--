@@ -179,7 +179,7 @@ Filename: ./rootless/com.sini.smoothcursorios13_0.0.1_iphoneos-arm64.deb
 MD5sum: df3ded1c5da67cf42e4efd9eec335008
 SHA1: 85867b30ef828fd068800472276d152dccc3794e
 SHA256: 322eb373e4a06f517bd28b1b01efe62652ed8542887678b3b943c466c13c82c1
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/office.png
 
 Package: com.sini.themepro
 Version: 3.1.0
@@ -1024,7 +1024,7 @@ Filename: ./rootless/com.sini.reachplayer-rootless_2.6_iphoneos-arm64.deb
 MD5sum: 204dcd0557016cc9608256df139955e0
 SHA1: 867e9201957bdac7967a34d77f4ba02bd3583a79
 SHA256: b50ef328d64b9f540b845ce4119f8c0cfb0ef63caf47ff14d6d6b623ec36eaba
-icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/music.png
 
 Package: com.sini.storeswitcher2
 Version: 1.0.4
