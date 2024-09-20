@@ -27,7 +27,7 @@
     <p class="legend">添加软件源到 Saily<span class="fa fa-hand-o-down"></span></p>
     <a href="apt-repo://source/https://sini921.github.io/repo" class="follow-button">添加</a>
     <p class="legend"></span></p>
-    <p class="legend">2008-2024©季伯腾<span class="fa fa-hand-o-down"></span></p>
+    <p class="legend">2008-2024©季伯腾</span></p>
 </form>
 		</br>
 		</br>
