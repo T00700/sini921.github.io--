@@ -1,6 +1,6 @@
 Author: Neo
 Architecture: iphoneos-arm64
-Description: Jump into an application 锁屏界面的手电筒相机按钮改成自己想要的功能或者多个功能
+Description: 锁屏界面的手电筒相机按钮改成自己想要的功能或者多个功能
 Maintainer: sini921
 Version: 3.1.0
 Depends: mobilesubstrate, firmware (>= 15.0)
@@ -8,7 +8,7 @@ Depiction: sini921
 Name: Jumper
 Section: 越狱插件
 Package: com.sini.jumper
-Icon: icon: https://sini921.github.io/repo/sileodepiction/icon/suoping.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/suoping.png
 Size: 256088
 Filename: ./debs/com.sini.jumper_3.1.0_iphoneos-arm64.deb
 MD5sum: 75bc428a0538ca1cea2613c4f4cfb748
