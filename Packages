@@ -7,7 +7,7 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
 Section: 越狱插件
 Name: Vaon【rootless】
 Package: com.sini.vaon
-Icon: icon: https://sini921.github.io/repo/sileodepiction/icon/vaon.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/vaon.png
 Size: 111772
 Filename: ./rootless/com.sini.vaon_1.2.0_iphoneos-arm64.deb
 MD5sum: b5c55d3516a9231abf6797171216bacd
