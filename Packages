@@ -8,11 +8,11 @@ Section: 越狱插件
 Name: Vaon【rootless】
 Package: com.sini.vaon
 Icon: https://sini921.github.io/repo/sileodepiction/icon/vaon.png
-Size: 111772
+Size: 111672
 Filename: ./rootless/com.sini.vaon_1.2.0_iphoneos-arm64.deb
-MD5sum: b5c55d3516a9231abf6797171216bacd
-SHA1: df35ed6ac6a566bfd29f23fc3118b2a558e01ac1
-SHA256: d2dd6b5d521f65ebbcfb79e1144f0fa8dc74ad25231a296c88e91682643cfc88
+MD5sum: 0ad8e176a2a1c2a28c8417466801eff2
+SHA1: 82b9e1ccb4c72a3570e6ace3f29d5aab4bb37636
+SHA256: 7b7aa15db8337f0b7f615259f8fdfee7494efb5be6b04320e5b34a8f8dd7a3c0
 
 Package: com.sini.77theme
 Version: 0.2.9Bate
