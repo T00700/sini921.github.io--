@@ -1,19 +1,3 @@
-Author: atar13, SingleKeycap
-Architecture: iphoneos-arm64
-Description: 应用程序切换器的下方显示蓝牙连接的设备的一些信息
-Maintainer: sini921
-Version: 1.2.0
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Section: 越狱插件
-Name: Vaon【rootless】
-Package: com.sini.vaon
-Icon: https://sini921.github.io/repo/sileodepiction/icon/vaon.png
-Size: 111672
-Filename: ./rootless/com.sini.vaon_1.2.0_iphoneos-arm64.deb
-MD5sum: 0ad8e176a2a1c2a28c8417466801eff2
-SHA1: 82b9e1ccb4c72a3570e6ace3f29d5aab4bb37636
-SHA256: 7b7aa15db8337f0b7f615259f8fdfee7494efb5be6b04320e5b34a8f8dd7a3c0
-
 Package: com.sini.77theme
 Version: 0.2.9Bate
 Author: 77Theme
@@ -291,7 +275,7 @@ Depends: firmware (>= 15.0), mobilesubstrate
 Author: Netskao
 Name: DumpDecrypter【rootless】
 Architecture: iphoneos-arm64
-Section: 狗哥插件
+Section: 越狱应用
 Filename: ./rootless/com.sini.dumpdecrypter_1.4-4_iphoneos-arm64.deb
 MD5sum: 4ef300eeafcf14e10e155e865bb97d61
 SHA1: 3441673d73220c65d4b3288a69272c1494f051e9
@@ -586,7 +570,7 @@ Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Author: Netskao
 Name: FLEXList【rootless】
 Architecture: iphoneos-arm64
-Section: 狗哥插件
+Section: 越狱插件
 Filename: ./rootless/com.sini.flexlist_1.4-2_iphoneos-arm64.deb
 MD5sum: e79606f51d8b754e2e386b6ae1de4b0a
 SHA1: 2e7f0e91d2fde46bd598948a9374b7af5148b92a
@@ -802,7 +786,7 @@ Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
 Description: 微信通知显示头像
 Maintainer: Nets
 Author: Netskao
-Section: 狗哥插件
+Section: 微信插件
 Architecture: iphoneos-arm64
 Version: 1.2-5
 Size: 523384
@@ -818,7 +802,7 @@ Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
 Description: QQ通知显示头像
 Maintainer: Nets
 Author: Netskao
-Section: 狗哥插件
+Section: 应用破解
 Architecture: iphoneos-arm64
 Version: 1.2-2
 Size: 25412
@@ -929,7 +913,7 @@ icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
 
 Package: netskao.ccpower-rootless
 Version: 1.9-4
-Section: 狗哥插件
+Section: 越狱插件
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
 Architecture: iphoneos-arm64
@@ -945,7 +929,7 @@ icon: https://sini921.github.io/repo/sileodepiction/icon/ccpower.png
 
 Package: netskao.deletephotoscompletely-rootless
 Version: 1.2-2
-Section: 狗哥插件
+Section: 越狱插件
 Maintainer: Nets
 Depends: mobilesubstrate, firmware (>= 15.0)
 Architecture: iphoneos-arm64
@@ -966,7 +950,7 @@ Architecture: iphoneos-arm64
 Size: 233164
 Maintainer: Nets
 Author: Netskao
-Section: 狗哥插件
+Section: 越狱插件
 Description: 键盘底部高度调整。
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./rootless/com.netskao.classickeyboardxs_1.1-8_iphoneos-arm64.deb
@@ -977,7 +961,7 @@ icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 
 Package: netskao.hidescreenshotpreview-rootless
 Version: 1.2-1
-Section: 狗哥插件
+Section: 越狱插件
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate
 Architecture: iphoneos-arm64
@@ -997,7 +981,7 @@ Version: 1.4.2
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Author: Fouad Raheb
-Section: 狗哥插件
+Section: 越狱插件
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Size: 823820
 Description: 桌面图标上滑或下滑或3D长按菜单单选按钮可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化：增加单键降级应用，增加可选向下滑动唤出，增加查看应用加载动态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未自动刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据档案数据大小显示为包括程序组内文件夹共数据, 修改原版重置数据后未同步刷新缓存数据显示和权限/数量问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用下禁止)
