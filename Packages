@@ -1,3 +1,19 @@
+Author: atar13, SingleKeycap
+Architecture: iphoneos-arm64
+Description: 应用程序切换器的下方显示蓝牙连接的设备的一些信息
+Maintainer: sini921
+Version: 1.2.0
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Section: 越狱插件
+Name: Vaon【rootless】
+Package: com.sini.vaon
+Icon: icon: https://sini921.github.io/repo/sileodepiction/icon/vaon.png
+Size: 111772
+Filename: ./rootless/com.sini.vaon_1.2.0_iphoneos-arm64.deb
+MD5sum: b5c55d3516a9231abf6797171216bacd
+SHA1: df35ed6ac6a566bfd29f23fc3118b2a558e01ac1
+SHA256: d2dd6b5d521f65ebbcfb79e1144f0fa8dc74ad25231a296c88e91682643cfc88
+
 Package: com.sini.77theme
 Version: 0.2.9Bate
 Author: 77Theme
