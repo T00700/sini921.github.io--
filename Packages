@@ -1,3 +1,21 @@
+Author: PoomSmart
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Provides: org.thebigboss.recordpause, com.spicat.recordpause
+Version: 2.0.3
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Description: 使用系统自带的相机拍摄视频时增加一个"暂停/恢复"按钮
+Section: 越狱插件
+Name: RecordPause【rootless】
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Package: com.sini.recordpause
+icon: https://sini921.github.io/repo/sileodepiction/icon/xiangji.png
+Size: 10164
+Filename: ./rootless/com.sini.recordpause_2.0.3_iphoneos-arm64.deb
+MD5sum: 1fa3b49c84568cfbc0c981e377e4e89b
+SHA1: b7e00c514f81368a9017f69789ee47eb7331273d
+SHA256: 424389e28c4ca62b426cb0c8653a8fe4b0bdc9edb10ff2dbfbf0ff879a0eb7ef
+
 Package: com.sini.77theme
 Version: 0.2.9Bate
 Author: 77Theme
