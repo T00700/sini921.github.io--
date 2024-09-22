@@ -1,3 +1,20 @@
+Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
+Architecture: iphoneos-arm64
+Description: 本插件安装包来自苏兔源
+Maintainer: Carby <super.cat.sutuplus@gmail.com>
+Version: 5.8.5-1
+Depends: mobilesubstrate
+Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
+Name: 微信酸果【rootless】
+Section: 微信插件
+Size: 429780
+Package: com.sini.sutuplus
+icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
+Filename: ./rootless/com.sini.sutuplus_5.8.5-1_iphoneos-arm64.deb
+MD5sum: d0462afac629e8179f99bbb4c85c2b25
+SHA1: 06d749eca66a0b0df2ffa6b8d486a96c8a12dee1
+SHA256: 7189c46e0c379c35c4aa29401e990d9057c4e67f9819f03a79157951bfa22c54
+
 Author: PoomSmart
 Architecture: iphoneos-arm64
 Maintainer: PoomSmart
