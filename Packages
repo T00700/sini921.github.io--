@@ -184,15 +184,16 @@ Version: 0.1-3
 Architecture: iphoneos-arm64
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: rootless/com.sini.Telegrammask_0.1-3_iphoneos-arm64.deb
-Size: 497736
-MD5sum: c02f9e6b45696f45dedb67fb5073fa9b
-SHA1: 06b91d52ca97cf1d041a5dc507963bca7d3423b3
-SHA256: 95f7a64b59dddc64f93a43b7a1ba6b34d6f4ef3468d5ad856fe65f102722b03b
-Section: System
+Size: 497964
+MD5sum: c6aad23f5d6fc89d76f9b69ff6026aaa
+SHA1: 68aa135f4f852d47930f04938caa36c2f1fc00a8
+SHA256: 6cec64c541780d79e9a75a1992181b772b18010b2ea887a63b450d3a7ae57e1a
+Section: 应用破解
 Priority: optional
 Description: TG伪装计算器插件，密码为当前时间，如13:14密码为1314，00：56密码为56，24小时制为准。三指双击可自定义密码。
 Author: iosrxwy
-Name: Telegrammask
+Icon: https://sini921.github.io/repo/sileodepiction/icon/tg.png
+Name: Telegrammask【rootless】
 
 Package: com.sini.airpodscompanion
 Version: 1.3
@@ -212,35 +213,20 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/airpods.png
 Name: AirpodsCompanion【rootless】
 
 Package: com.sini.appku.wechat
-Version: 1.6-2
-Architecture: iphoneos-arm64
-Maintainer: appku
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.appku.wechat_1.6-2_iphoneos-arm64.deb
-Size: 1673276
-MD5sum: a661b08a03bd05c28f01fbcf2c120918
-SHA1: 9ae722eb64d034f675a872c9c88ba080218c8213
-SHA256: b9f82268d43b58b084adf4a2073efeee70b892bfdd7951492c7153c5066702ac
-Section: 微信插件
-Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间。
-Author: appku
-Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
-Name: 微信爱锋助手【rootless】
-
-Package: com.sini.appku.wechat
 Version: 1.6-3
 Architecture: iphoneos-arm64
 Maintainer: appku
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini.appku.wechat_1.6-3_iphoneos-arm64.deb
-Size: 1687420
-MD5sum: 2710ae7e59b6f719e8395ef371027fd1
-SHA1: 7e83fb0779ffe6d6d5cf1193482b1db2dff3a5af
-SHA256: d8da543823adaad46ab795eeb59f67da1618831f15164c24e3e45d7a67b7db38
-Section: Wechat-Tweaks
+Size: 1666096
+MD5sum: 378e081ab0db31634e28b42b58913e78
+SHA1: 12c4e8948f400336c347338c4635850accacd013
+SHA256: 1a930dd49b1a4ca783b49f067779b5919b7bf1b1b67a27c4908613945306fde1
+Section: 微信插件
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间以及修改部分bug。
 Author: appku
-Name: 微信爱锋
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
+Name: 微信爱锋助手【rootless】
 
 Package: com.sini.atria
 Version: 1.4.1
@@ -582,6 +568,22 @@ Description: FLEX调试工具，由李开心提供完整汉化
 Author: Netskao
 Name: FLEXList【rootless】
 
+Package: com.sini.hidescreenshotpreview
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: rootless/com.sini.hidescreenshotpreview_1.2-1_iphoneos-arm64.deb
+Size: 3820
+MD5sum: 9eaf2e3431f0d01d0421df064f0de225
+SHA1: 40afbffa20a80ec876ce00b2ad429d69e93f980e
+SHA256: f0f19dcb73af834e0115db11a155eae0c1c2f77217ff580393e25940afd711aa
+Section: 越狱插件
+Description: 隐藏截图时左下角预览，保留闪屏无延迟
+Author: Netskao
+Name: HideScreenshotPreview【rootless】
+
 Package: com.sini.iboxhook
 Version: 1.0.9
 Architecture: iphoneos-arm64
@@ -779,15 +781,14 @@ Maintainer: SWING
 Installed-Size: 368
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
 Filename: rootless/com.sini.padswitcher_1.1.0_iphoneos-arm64.deb
-Size: 26404
-MD5sum: 7998f36b28d259ed1c6c92decebc0169
-SHA1: 4ad9668cb9b97fdd9d14159f3c256273b7f4014d
-SHA256: f9150e1222098d78dd869431777f83016c0a5551247e9f2a1811e44ef9070077
+Size: 26376
+MD5sum: a48ab8240e577846adb2b4e7246408f9
+SHA1: bd9544ea1ee34946eda6e7f589aa67c7f7a79be5
+SHA256: ab1bd35db5534510dc828fa05281058552796665ccbdee27b172c1dd56926b61
 Section: 越狱插件
 Description: 在iPhone上启用iPad风格的多任务界面和Dock栏。
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.padswitcher
-Icon: https://sini921.github.io/repo/sileodepiction/icon/jb.png
 Name: PadSwitcher【rootless】
 
 Package: com.sini.pkc.rootless
@@ -1315,22 +1316,6 @@ Description: 控制中心添加一个便捷电源按钮
 Author: Netskao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccpower.png
 Name: CCPower【rootless】
-
-Package: netskao.hidescreenshotpreview-rootless
-Version: 1.2-1
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 168
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: rootless/netskao.hidescreenshotpreview-rootless_1.2-1_iphoneos-arm64.deb
-Size: 3792
-MD5sum: a9e3081541e5561041844f09f454acc1
-SHA1: 84a607335b56ed7fc1f6a9d82aa67e7b15e42208
-SHA256: acb753b0ba354483b01ef09276512ee0642dca8c9d211f05c3d7c603303cc8f8
-Section: Netskao-Tweaks
-Description: 隐藏截图时左下角预览，保留闪屏无延迟
-Author: Netskao
-Name: HideScreenshotPreview-Rootless
 
 Package: shaobei
 Version: 9.9.9
