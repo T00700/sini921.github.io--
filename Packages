@@ -749,16 +749,16 @@ Architecture: iphoneos-arm64
 Maintainer: Curtin <curtinlv@126.com>
 Depends: firmware (>= 5.0)
 Filename: rootless/com.sini.pkc.rootless_0.5-9_iphoneos-arm64.deb
-Size: 571796
-MD5sum: 5c9efea650397299460410029b5f6b3f
-SHA1: bf589c701a95076c8a340814bab4d8ca2bd5eb38
-SHA256: 59916b913166897d8ab9d674f1b985652ac14b0168ad6d0a658587e562818075
+Size: 571976
+MD5sum: 91fb4228b63e12c99df865ef1ca9d979
+SHA1: c7d59033a7dff1d2c9656e6921a4d01ab799c710
+SHA256: 39b0adf575093d4f253bb3f992dac615f2686f16f3984103861d30565c83d7a9
 Section: 微信插件
 Priority: optional
 Homepage: https://github.com/curtinlv
 Author: Curtin <curtinlv@126.com>
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: 微信PKC
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
+Name: 微信PKC【rootless】
 Sponsor: Curtin <https://qr.alipay.com/2m612122dnnr9q6o488dgab>
 
 Package: com.sini.qqhook
