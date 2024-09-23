@@ -105,14 +105,15 @@ Conflicts: misakahelper
 Replaces: misakahelper
 Provides: misakahelper
 Filename: rootless/com.sini.MisakaHelpre_2.1-0_iphoneos-arm64.deb
-Size: 13178980
-MD5sum: 2b34c5bf47a54db7ecd40fe02ad35cd0
-SHA1: f4f72149ee629d805f7aaf3bf653e538dd2fd9f3
-SHA256: a8c0e66f2f3f72c40d30a942ae0c90dabb05d90672460193c588aab0f2b05334
+Size: 13178428
+MD5sum: 616e4a914c7778d0aff02682c2361943
+SHA1: 5b1c89a5d8c400d13a4317ad0d7a07ac232bb789
+SHA256: 481e297a02d39569e7c8865e0a3d6ebc4a2b1d8f666aa6e4317f31233ed42b4f
 Section: 微信插件
 Priority: optional
 Description: 微信Misaka无需授权版
 Author: Misaka
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: 微信Misaka助手【rootless】
 
 Package: com.sini.Telegrammask
@@ -225,14 +226,15 @@ Maintainer: opa334 <opa334@protonmail.com>
 Installed-Size: 884
 Depends: mobilesubstrate, com.opa334.altlist (>= 1.0.4), preferenceloader
 Filename: rootless/com.sini.choicy_1.4.10-3_iphoneos-arm64.deb
-Size: 107120
-MD5sum: 6bf6a67edc8c28b783bbc62808b63a13
-SHA1: d5bb73a656b98949c2b245d49c9e476d5df7de7e
-SHA256: a8a9972c409f5ad4ad2168718647c942f057d71c664207244c43effefc1bbcc0
+Size: 107036
+MD5sum: 0b6a39c51a76d7892e8e022bef673efd
+SHA1: 83b9991e8014a6be4800c4309b267815b366bb7c
+SHA256: 549ebd479da23be540b6f3679c0c6157924200ef8005ea33fa3c279c0c45655b
 Section: 越狱插件
 Description: choicy自定义插件注入中文版(简体中文来自刀刀源)
 Author: opa334 <opa334@protonmail.com>
 Depiction: https://opa334.github.io/depic/Choicy/index.html
+Icon: https://sini921.github.io/repo/sileodepiction/icon/choicy.png
 Name: Choicy【rootless】
 
 Package: com.sini.chromatic.rootless
@@ -341,13 +343,14 @@ Maintainer: sini921
 Installed-Size: 2748
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (>= 15.0), preferenceloader
 Filename: rootless/com.sini.desktoplyrics_0.3.9~b1_iphoneos-arm64.deb
-Size: 622692
-MD5sum: d79a54460b3c0f521472368a9d01594d
-SHA1: aa65c1b0ca85a50ed5f605c287c4763d0d552a7d
-SHA256: 0138b8e18fa4852bc77ce8147b0a8f1b24d7a86e8e83640f55a435448d661877
+Size: 623224
+MD5sum: 10466a7224421e2d9276fd8f8e774ceb
+SHA1: 35e8346ee06ce795d0b0d67470dc4d7c4cb0173d
+SHA256: a9dce9ba10f968007848f1ab22aa83148fa0697b32d4973132b9bcf3c341b2bd
 Section: 越狱插件
 Description: 桌面歌词，支持QQ音乐。
 Author: Brend0n
+Icon: https://sini921.github.io/repo/sileodepiction/icon/music.png
 Name: DesktopLyrics【rootless】
 Sponsor: sini921
 
@@ -664,14 +667,14 @@ Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1056
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
 Filename: rootless/com.sini.misaki_2.1.7_iphoneos-arm64.deb
-Size: 302588
-MD5sum: 7193fdf8cd9459229f9c3af5e5d9a955
-SHA1: d103a5a72b993022014e0144fb39bec6906f737b
-SHA256: 3d0c724187899d1453694365380dc25228fe4c5b7e939e8f0f2dfa920b474bc4
+Size: 302448
+MD5sum: c5315e2fb4e77bd6cc20937c60730c18
+SHA1: 8bbb6b8549c32bb6630ff4aae344b4d2991c3550
+SHA256: 2edc91271dd5d1a54cbca1c02e41805e234e1ea102a3a8308bb844da05ce1870
 Section: 越狱插件
 Description: 大杂烩，啥季伯功能有
 Author: Hitori <mikasa-san@outlook.jp>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
 Name: Misaki【rootless】
 
 Package: com.sini.miyou
@@ -762,35 +765,20 @@ Name: 微信PKC【rootless】
 Sponsor: Curtin <https://qr.alipay.com/2m612122dnnr9q6o488dgab>
 
 Package: com.sini.qqhook
-Version: 1.1.1-1
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 1600
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.qqhook_1.1.1-1_iphoneos-arm64.deb
-Size: 578148
-MD5sum: fabf029d71287edef0dcfe339cd6bdd7
-SHA1: 72e5cc21e60317832bd9b010cc61519758fa33f8
-SHA256: bacf44fe690c1444f71e9b0bfe3aa10f34288213ff5f79c66e98d37d6df0039b
-Section: Tweaks
-Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.sini.qqhook
 Version: 1.1.1-2
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 2280
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini.qqhook_1.1.1-2_iphoneos-arm64.deb
-Size: 785888
-MD5sum: 3fa055ab05aa5f272c08c128ce97ad08
-SHA1: 22258cea9819cb5907e5fb3e84487c68471c3d33
-SHA256: 8957403f6c2d96fb244bdc196e0b4365ba1ac60a3bb5085f8ea0356f58f2a7ca
+Size: 786212
+MD5sum: 29d36a1f840e3b2930dc7c183f3f520d
+SHA1: 78afb06e7741be56f246e7dcf0576e701cd2543c
+SHA256: 90160e0b044f833d6d0b28b82347d77b280857220dea7f1f97fa8b87236755cb
 Section: 应用破解
 Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
 Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/qq.png
 Name: QQ图层【rootless】
 
 Package: com.sini.qqnotiavatar
@@ -869,13 +857,14 @@ Installed-Size: 540
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader,com.hk.settingsrevamp.cn.rl
 Filename: rootless/com.sini.settingsrevamp_2.1.1_iphoneos-arm64.deb
-Size: 97348
-MD5sum: 59295f057d4edafbe067ca4ec7079f42
-SHA1: 7fbb20022a601123d24eb981ac9f8662d8b3847f
-SHA256: ea04267c196565317c0c75730c81a5a0e22efd67b6275888f4f5f51c4cb6a566
+Size: 97396
+MD5sum: b9db02e55a0e474e74e0b67dfff026bc
+SHA1: 280f39b48b81c9206a553c3598b73c0596276ec2
+SHA256: eccf0873e1ec32ddc8936eb1480d5f8414fa46bf06ce98fd0b914a6447124ec9
 Section: 越狱插件
 Description: 设置美化，插件归类。
 Author: SOPPPra
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sett.png
 Name: SettingsRevamp【rootless】
 Sponsor: 思念变成海
 
@@ -1004,13 +993,14 @@ Maintainer: MTAC
 Installed-Size: 400
 Depends: firmware (>= 14.0)
 Filename: rootless/com.sini.symbols_3.0_iphoneos-arm64.deb
-Size: 172260
-MD5sum: 73633d6fb5a53735692750088c59c333
-SHA1: f0315755eaa34a3549ed0c7b139ff24313d20f5f
-SHA256: febe10c0cc8b1d8c3d4db921e620cb7653770c35fe965541fd6590bf79e9def2
+Size: 172320
+MD5sum: 3865f23d2bcaf151afedbec456d9b750
+SHA1: fabd42d64a829028a95fcbd727aa4a1bf3f11ae0
+SHA256: 1a5b3275be4fb18433e21eacd74606478506ee8e995f84e701a42194299b6d6d
 Section: 越狱应用
 Description: Apple的SF符号
 Author: MTAC
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sf.png
 Name: Symbols【rootless】
 
 Package: com.sini.themeManager
