@@ -694,13 +694,12 @@ Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1056
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
 Filename: rootless/com.sini.misaki_2.1.7_iphoneos-arm64.deb
-Size: 302536
-MD5sum: 985bca239edb2cba0461fd1836f188f5
-SHA1: 84fd626ae37dbaf9c1c87887a89534c359834110
-SHA256: 271d3ebeb92cd4f1b67482cdc269f02adfdc2c5826023540b2bfb64a2f364a7c
+Size: 302588
+MD5sum: 7193fdf8cd9459229f9c3af5e5d9a955
+SHA1: d103a5a72b993022014e0144fb39bec6906f737b
+SHA256: 3d0c724187899d1453694365380dc25228fe4c5b7e939e8f0f2dfa920b474bc4
 Section: 越狱插件
 Description: 大杂烩，啥季伯功能有
-Tag: cydia::commercial, compatible_min::ios15.0
 Author: Hitori <mikasa-san@outlook.jp>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/.png
 Name: Misaki【rootless】
@@ -1206,12 +1205,12 @@ Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 13792
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Filename: rootless/split-view-pro.1.1.5.deb
-Size: 3520200
-MD5sum: 07235702c22f2288c44e776b235e6940
-SHA1: 2ca51292fec481501a89816abb86dfc68264ba31
-SHA256: 5593ff630f531ee936383593436322542f175324a75601149988ef4558b589dc
-Section: Tweaks
+Filename: rootless/com.sunshinesong.split-view-pro_1.1.5_iphoneos-arm64.deb
+Size: 3509368
+MD5sum: 510773b7c3377ffa52a3495e38e3c08a
+SHA1: 68510f9b5e2b11f4abb9d10653e763cc4d1a1612
+SHA256: 826cfa90832a42e5dbd15ba54a4d615e99811cfd3665c5e3b035218cf718fdb7
+Section: 越狱插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Name: split-view-pro
@@ -1224,11 +1223,11 @@ Maintainer: sunshinesong
 Installed-Size: 13648
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
 Filename: rootless/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
-Size: 5177798
-MD5sum: 0633f6b017afdbbc2513ea5b24cf19de
-SHA1: 61c37fdc9ef8cc51d962d0cb329e5d99ecd5798c
-SHA256: 9c6622889ef922038863816b9a947caf5738a520f87f8e12245816faad58e44f
-Section: Tweaks
+Size: 3467804
+MD5sum: 73676e2cdfe3561b6a54b659754bd710
+SHA1: e1fbf87735afac4a1a6f805ec6a61f08e038c8d5
+SHA256: ab5cc514b71023394c383e2210b4d44fee6349d5940b84b08e448c1b3f1cb8ec
+Section: 越狱插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Name: split-view-pro
@@ -1241,11 +1240,11 @@ Maintainer: sunshinesong
 Installed-Size: 5624
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
 Filename: rootless/com.sunshinesong.split-view-pro_1.3.7_iphoneos-arm64.deb
-Size: 1537600
-MD5sum: 61967870968c15dc26eba579bdae698d
-SHA1: a1db71fc4736be1722db05d98ac736df989f653e
-SHA256: ced887176c83735f568fa3ab80f2604534a97acd9f86bad9f6c85c205f637ae1
-Section: Tweaks
+Size: 1539016
+MD5sum: 358ad006073d982565f538ab779e3cd1
+SHA1: a82827ebc16fa8e90329d06e83266cb267da6c5a
+SHA256: 721f26cc562e2337eb743642f3f3c109a0493ad7326cf1796eea9dae987766e2
+Section: 越狱插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Name: split-view-pro
