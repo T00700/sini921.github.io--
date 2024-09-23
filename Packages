@@ -599,12 +599,12 @@ Architecture: iphoneos-arm64
 Maintainer: sini921
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: rootless/com.sini.jumper_3.1.0_iphoneos-arm64.deb
-Size: 256484
-MD5sum: 20499e7f4ff0411f67a6c10ca5a69dea
-SHA1: 4aa2a07207202627305de50834c9866282f49201
-SHA256: cfd427b46b637f1887820ccede9a183b77d076088f52e74c662ecbedb63f6bc5
+Size: 256564
+MD5sum: 4ace1702fde457d3dcdcfd9c5cf07aaf
+SHA1: fc1c78cbdc441255258dfa4a74438068f975ecca
+SHA256: f34fe94e7429f7f5e05d4d5572e01f24c100017d9421357a193cfa9b571af084
 Section: 越狱插件
-Description: Jump into an application 锁屏界面的手电筒相机按钮改成自己想要的功能或者多个功能
+Description: 锁屏界面的手电筒相机按钮改成自己想要的功能或者多个功能
 Author: Neo
 Depiction: sini921
 Icon: icon: https://sini921.github.io/repo/sileodepiction/icon/suoping.png
@@ -667,12 +667,12 @@ Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1056
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
 Filename: rootless/com.sini.misaki_2.1.7_iphoneos-arm64.deb
-Size: 302448
-MD5sum: c5315e2fb4e77bd6cc20937c60730c18
-SHA1: 8bbb6b8549c32bb6630ff4aae344b4d2991c3550
-SHA256: 2edc91271dd5d1a54cbca1c02e41805e234e1ea102a3a8308bb844da05ce1870
+Size: 302520
+MD5sum: c85a66b2ab722c5be2ca9ee138b2ce01
+SHA1: 1c3cea33f6c10f4018379385e7351bf67cafa3f3
+SHA256: 1916b8031d3e233a89d02d9d5f023e809d7f374e28c583e43688d5ad880dbbe4
 Section: 越狱插件
-Description: 大杂烩，啥季伯功能有
+Description: 大杂烩，啥季伯功能都有
 Author: Hitori <mikasa-san@outlook.jp>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
 Name: Misaki【rootless】
@@ -1217,12 +1217,12 @@ Maintainer: Soh Satoh
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/jp.soh.freepip_0.0.3-1_iphoneos-arm64.deb
-Size: 6512
-MD5sum: 0d03891a09024d7801f46cc939a440bd
-SHA1: 1bebfbd62c52b4efbf118677d64b9d7c4d8647d0
-SHA256: 6030333361f3e0ff0802c3b43b01b61b65b01b62be153362e7a6ed89237925cd
+Size: 6416
+MD5sum: d63f72a4623bd3dcd632041ea838ae80
+SHA1: d6f76761b458bef72f626c5970cff2c9e046617a
+SHA256: 9d515422a6b0304e1df8ed346a2a5881964f312df6b454ad48e7a0d0335549c2
 Section: 越狱插件
-Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly. Long Press PIP window to enable freepip mode. 解锁画中画的限制，可以放在任意位置和调整到任意大小。长按画中画窗口进入 FreePIP 模式进行调整。v0.0.3-1更新：改为默认是正常模式，略微美化FreePIP模式。
+Description: 解锁画中画的限制，可以放在任意位置和调整到任意大小。长按画中画窗口进入 FreePIP 模式进行调整。v0.0.3-1更新：改为默认是正常模式，略微美化FreePIP模式。
 Author: Soh Satoh
 Name: FreePIP【rootless】
 
