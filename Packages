@@ -1,37 +1,3 @@
-Package: com.guozi.fuckads
-Version: 5.2.0
-Architecture: iphoneos-arm64
-Maintainer: 小果子
-Installed-Size: 2532
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.guozi.fuckads_5.2.0_iphoneos-arm64.deb
-Size: 1094012
-MD5sum: 5100a2403af6d305f9ff91b471369fec
-SHA1: 51af2f05df5dcd76065c3b2a9dd0030ea3d82c1c
-SHA256: d6bd19ea142f4c6d0885e94e38d0979d17efa1fbf8c197acb191af3463c7b584
-Section: Tweaks
-Description: 通用去广告插件,拿去看电影去吧,通杀大部分第三方广告
-Author: 小果子
-Name: 小果子通用去广告
-Sileodepiction: https://sileo.iosyyds.com/com.guozi.fuckads/js.json
-
-Package: com.lclrc.hammerit
-Version: 1.7.0
-Architecture: iphoneos-arm64
-Maintainer: lclrc(SquidForce)
-Installed-Size: 3808
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
-Filename: rootless/HammerIt.1.7.0.deb
-Size: 1022240
-MD5sum: 8f99d72fa49e876a351bee1b4299206e
-SHA1: da6a6d2a4dea5396a4ea1d42489e5b5fbf0f763c
-SHA256: 95cc239070bde19e244ca3eea88683b2e24af3719995e0fb93b307b43b996537
-Section: Tweaks
-Description: Control your text or translate as you wish.
-Author: lclrc(SquidForce)
-Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
-Name: Hammer It
-
 Package: com.netskao.appdata
 Version: 1.4.2
 Architecture: iphoneos-arm64
@@ -145,16 +111,16 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: 微信游戏扫码登录【rootless】
 
 Package: com.sini.HBWechatHelper
-Version: 1.7.4.2
+Version: 1.7.4
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: rootless/com.sini.HBWechatHelper_1.7.4.2_iphoneos-arm64.deb
-Size: 9450648
-MD5sum: 1ac64f72e518d198deb19ee632e85980
-SHA1: 8e46b4c0394f601cd21c3b24ac144e8aa7f28c46
-SHA256: 869adcac06643dc5fa03184ebc3a4a6963574cc1d2ab8df63043a4087bc192fb
-Section: Mao
+Filename: rootless/com.sini.HBWechatHelper_1.7.4_iphoneos-arm64.deb
+Size: 9450428
+MD5sum: 725ac9f540d98ef17914174788d8be96
+SHA1: 703f4f92a5ebe8b29f0dc718ed0895d43271f955
+SHA256: e32676664aa311650a5eb41d2909c6e9cb01b42aaed6f6b00ab62b04c2bb141d
+Section: 微信插件
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
@@ -289,15 +255,15 @@ Maintainer: opa334 <opa334@protonmail.com>
 Installed-Size: 884
 Depends: mobilesubstrate, com.opa334.altlist (>= 1.0.4), preferenceloader
 Filename: rootless/com.sini.choicy_1.4.10-3_iphoneos-arm64.deb
-Size: 107040
-MD5sum: 04bd7162a3487d45f3156ce58bf79b92
-SHA1: db248704569474a33547947730bbb96fcea9439f
-SHA256: 09758fa025c8f3f15893b30b25f9d618d5bc4f6cfcdcf3801a2c003b8b916b8d
-Section: Tweaks
+Size: 107120
+MD5sum: 6bf6a67edc8c28b783bbc62808b63a13
+SHA1: d5bb73a656b98949c2b245d49c9e476d5df7de7e
+SHA256: a8a9972c409f5ad4ad2168718647c942f057d71c664207244c43effefc1bbcc0
+Section: 越狱插件
 Description: choicy自定义插件注入中文版(简体中文来自刀刀源)
 Author: opa334 <opa334@protonmail.com>
 Depiction: https://opa334.github.io/depic/Choicy/index.html
-Name: Choicy中文版
+Name: Choicy【rootless】
 
 Package: com.sini.chromatic.rootless
 Version: 3.0
@@ -372,14 +338,14 @@ Maintainer: Miguelaka95 <miguelaka95@gmail.com>
 Installed-Size: 880
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15)
 Filename: rootless/com.sini.customizecc_1.4.3_iphoneos-arm64.deb
-Size: 137556
-MD5sum: 55ad5b701bca7bcdb27a358017d6b163
-SHA1: 30ad7f2272992f330c952cdc8f1674a36b072a81
-SHA256: 3122c015c93c7c59d0aa1bb675569c33952673b1bad3cf29dfeccf9911d7ec64
-Section: Tweaks
+Size: 137324
+MD5sum: b6eba52281e54c5e9c5947c55253a7bb
+SHA1: 68c8052074a4bdbe99ae1ee5df2203f2049a7488
+SHA256: 090cfd13681f44f60bf63c769f6d260e03e8a88f3cea352ebb50e3034f4efccd
+Section: 越狱插件
 Description: 自定义控制中心
 Author: Miguelaka95 <miguelaka95@gmail.com>
-Name: CustomizeCC中文版
+Name: CustomizeCC【rootless】
 
 Package: com.sini.deletephotoscompletely-rootless
 Version: 1.2-2
@@ -568,6 +534,22 @@ Description: FLEX调试工具，由李开心提供完整汉化
 Author: Netskao
 Name: FLEXList【rootless】
 
+Package: com.sini.fuckads
+Version: 5.2.0
+Architecture: iphoneos-arm64
+Maintainer: 小果子
+Installed-Size: 2532
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.fuckads_5.2.0_iphoneos-arm64.deb
+Size: 1093892
+MD5sum: 7878acf673e0d737dbc451fd62e32c9e
+SHA1: d5a9a13282a526eb0935bf52dbaad1bb391f93c4
+SHA256: 70915ece3834aaea1c0e19dda207f5f66e8e8d6976728c20f6774df60bf4ebc6
+Section: 越狱插件
+Description: 通用去广告插件,拿去看电影去吧,通杀大部分第三方广告
+Author: 小果子
+Name: 通用去广告【rootless】
+
 Package: com.sini.hidescreenshotpreview
 Version: 1.2-1
 Architecture: iphoneos-arm64
@@ -622,20 +604,21 @@ Name: iCleaner Pro【rootless】
 Package: com.sini.instalauncher2
 Version: 1.11.1
 Architecture: iphoneos-arm64
-Maintainer: 思念变成海
+Maintainer: sini921
 Installed-Size: 1188
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.jontelang.instalauncher2.beta
 Filename: rootless/com.sini.instalauncher2_1.11.1_iphoneos-arm64.deb
-Size: 205160
-MD5sum: 92b87212285f1a76a8651e44dbbb2815
-SHA1: b3e0666df605e087f5362a622505b32c9e6d2bdb
-SHA256: 1227daf233b93a21ebac5a14fc9edc041547dc96fa06b2f3a6b4a56c729a97eb
-Section: Tweaks
+Size: 204712
+MD5sum: 35debe7048f2bab89f39b2d93ed13188
+SHA1: 924d7be9a33b546545d73cdba384a573e745a438
+SHA256: fa96ce3e63f6f64c1e24c5a2641265f6439dde5ea83643f0678b2f205cd0eb81
+Section: 越狱插件
 Description: 快捷打开App，侧面呼出菜单
 Author: Jonathan Winger
-Name: InstaLauncher 2
-Sponsor: 思念变成海
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cebian.png
+Name: InstaLauncher 2【rootless】
+Sponsor: sini921
 
 Package: com.sini.jumper
 Version: 3.1.0
@@ -1013,18 +996,19 @@ Name: StepUp【rootless】
 Package: com.sini.storeswitcher2
 Version: 1.0.4
 Architecture: iphoneos-arm64
-Maintainer: 搬运工
+Maintainer: sini921
 Depends: firmware (>= 11)
-Filename: rootless/com.sini.storeswitcher2.rootless_1.0.4_iphoneos-arm64.deb
-Size: 17828
-MD5sum: ed9f6c4c7d31e988d3dcce8f21dcf36f
-SHA1: f8fa1edc61617f09bf6afe10b1941840ece7f46b
-SHA256: 7091c65d69924ca7b4ea2fbd6c6411d6e8162c6d4b70ce9ea45b122d984b3cbf
-Section: Tweaks
+Filename: rootless/com.sini.storeswitcher2_1.0.4_iphoneos-arm64.deb
+Size: 17880
+MD5sum: 4e31f82a0084482c994c78bfeb0398d7
+SHA1: a5205bf0ec21b12e46a132ccdf756c8deb06a113
+SHA256: bc2165d79f67ef70ebf52175c66a78db8d3aa212b3b0a38dde6c343a52d52a72
+Section: 应用破解
 Description: 使用先前登录的多个 Apple 账户直接从 Appstore 切换！操作方法：打开 Appstore，点击个人资料，点击导航栏上的切换账号，选择所需账户！
 Author: 0xkuj
-Name: StoreSwitcher商店账号切换-Rootless
-Sponsor: 搬运工
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appstore.png
+Name: StoreSwitcher【rootless】
+Sponsor: sini921
 
 Package: com.sini.sutuplus
 Version: 5.8.5-1
@@ -1206,14 +1190,15 @@ Architecture: iphoneos-arm64
 Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
 Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.ccsupport
 Filename: rootless/com.sini.zetsu_1.5_iphoneos-arm64.deb
-Size: 9658528
-MD5sum: ba42ad3ccc8238d3aa38471869417d4b
-SHA1: a447ce881703aa3ab3fd8a0f7aa49e899157eb90
-SHA256: a30d456d40193ed6d462708bfce0c94c34b89466e2a9491ed7a5ed5d277bc32b
-Section: Tweaks
+Size: 9658076
+MD5sum: 7f4384de23056bd2a1beb135d8fd1952
+SHA1: f2885a8981bca9c8a4fd9cb7aaa30a1b0165f619
+SHA256: dbe266b1fb1aaf678dd5317cdbbf8e3b2b2875938855473b95bd0ba5e3367575
+Section: 越狱插件
 Description: Zetsu1.5中文版(简体中文来自刀刀源)，此版本仅有小窗模式，不会提示更新，为不需要原作者后续新出的功能的人上传备份。
 Author: Dcsyhi
-Name: Zetsu
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
+Name: Zetsu【rootless】
 
 Package: com.sunshinesong.split-view-pro
 Version: 1.1.5
@@ -1282,24 +1267,6 @@ Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Pict
 Author: Soh Satoh
 Name: FreePIP【rootless】
 
-Package: mterminal
-Version: 1.6
-Architecture: iphoneos-arm64
-Maintainer: D.F (MTAC) <mtac@mtac.app>
-Installed-Size: 272
-Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
-Filename: rootless/MTerminal.1.6.deb
-Size: 86472
-MD5sum: 765f7794784901690cdb499c7e94e176
-SHA1: f139c1be96eb5e15b7d03e3bcebf748fa6da216c
-SHA256: 8342ce4eab76b2810f479574579b3f4fca5cd129af62fbfdec561f54c2383a82
-Section: Utilities
-Description: A MobileTerminal fork
-Author: lordscotland <admin@officialscheduler.com>
-Icon: https://mtac.app/repo/assets/com.officialscheduler.mterminal/icon-rounded.png
-Name: MTerminal
-Sileodepiction: https://mtac.app/repo/depiction/native/com.officialscheduler.mterminal.json
-
 Package: netskao.ccpower-rootless
 Version: 1.9-4
 Architecture: iphoneos-arm64
@@ -1331,27 +1298,4 @@ Section: Tweaks
 Description: 本源仅为搬运一些自己常用的插件方便自己用以及备份一些插件！
 Author: 思念变成海
 Name: AAAA此为空包仅用作声明！
-
-Package: ws.hbang.newterm3
-Version: 3.0~beta1-3+debug
-Architecture: iphoneos-arm64
-Maintainer: HASHBANG Productions <support@hbang.ws>
-Installed-Size: 24244
-Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
-Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
-Conflicts: ws.hbang.newterm, ws.hbang.newterm2
-Replaces: ws.hbang.newterm, ws.hbang.newterm2
-Filename: rootless/ws.hbang.newterm3_3.0~beta1-3+debug_iphoneos-arm64.deb
-Size: 4849520
-MD5sum: cbbeb22943eaee661e7089c8e6e5e542
-SHA1: 936d009f93e7b01e43bee9f90e21ce7ca481ce24
-SHA256: 7dadd4a0dc51618945407ae97b4137d9587fdb9615d9fb9e4d9b4539916451f5
-Section: Terminal Support
-Description: Powerful terminal app for iOS
-Tag: compatible_min::ios14.0
-Author: HASHBANG Productions <support@hbang.ws>
-Depiction: https://chariz.com/get/newterm-beta
-Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
-Name: NewTerm 3 Beta
-Support: https://hashbang.productions/support/
 
