@@ -1256,10 +1256,10 @@ MD5sum: 358ad006073d982565f538ab779e3cd1
 SHA1: a82827ebc16fa8e90329d06e83266cb267da6c5a
 SHA256: 721f26cc562e2337eb743642f3f3c109a0493ad7326cf1796eea9dae987766e2
 Section: 越狱插件
-Description: 分屏，不必太复杂，一切从简即可。
+Description: 已去除联网验证(网传删除node方法)，上传仅为自用学习交流备份，如果安装以后出现异常，与本源无关！
 Author: sunshinesong
 Name: split-view-pro
-Ts: sp-sss
+icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
 
 Package: jp.soh.freepip
 Version: 0.0.3-1
