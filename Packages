@@ -1,4 +1,20 @@
 Package: com.sini.HBWechatHelper
+Version: 1.7.4.2
+Section: 微信插件
+Architecture: iphoneos-arm64
+Maintainer: HuangBai 
+Depends: mobilesubstrate
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Name: 微信黄白助手【rootless】
+Author: HuangBai 
+icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
+Size: 9450648
+Filename: ./rootless/com.sini.HBWechatHelper_1.7.4.2_iphoneos-arm64.deb
+MD5sum: 1ac64f72e518d198deb19ee632e85980
+SHA1: 8e46b4c0394f601cd21c3b24ac144e8aa7f28c46
+SHA256: 869adcac06643dc5fa03184ebc3a4a6963574cc1d2ab8df63043a4087bc192fb
+
+Package: com.sini.HBWechatHelper
 Version: 1.7.4.1
 Section: 微信插件
 Architecture: iphoneos-arm64
