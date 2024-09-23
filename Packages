@@ -64,36 +64,6 @@ Author: 77Theme
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: 77Theme【rootless】
 
-Package: com.sini.CCJBmodular
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 思念变成海
-Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
-Filename: rootless/com.sini.CCJBmodular_1.0_iphoneos-arm64.deb
-Size: 1054576
-MD5sum: d5dc1ecb998ac19c898e366d15188d35
-SHA1: 15d60212f3e290546b903446301730f568fdcac3
-SHA256: 1708faf3ad1b2d1d6bef58a7d45cf7adf858fcb69f157f3157bf3c9728a27c1c
-Section: Tweaks
-Description: 本插件基于刀刀源的CCBorder16、CCLess++，Netskao的CCPower。由三个插件整合，删除不用的模块，仅为方便自己用。
-Author: 妖刀&Netskao&思念变成海
-Name: CCJBmodular
-
-Package: com.sini.CCJBmodular
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: sini921
-Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
-Filename: rootless/com.sini.CCJBmodular_1.0-1_iphoneos-arm64.deb
-Size: 1091192
-MD5sum: 846152825f5060edd6129729cc3d8d5c
-SHA1: fe6a74ef183506f65b4264b77cf2b789e52405f2
-SHA256: 857bdc7f5cf425bbf4e729ac8da8a29278db7e042582e224a658d16c38e4d0d3
-Section: 越狱插件
-Description: 本插件基于刀刀源的CCBorder16、CCLess++，Netskao的CCPower。由三个插件整合，删除不用的模块，仅为方便自己用。
-Author: 妖刀&Netskao&sini921
-Name: CCJBmodular【rootless】
-
 Package: com.sini.GameLogin
 Version: 0.1-5
 Architecture: iphoneos-arm64
@@ -1286,15 +1256,17 @@ Name: CCPower【rootless】
 Package: shaobei
 Version: 9.9.9
 Architecture: iphoneos-arm64
-Maintainer: 思念变成海
+Maintainer: sini921
 Depends: mobilesubstrate, firmware (>= 16.0)
 Filename: rootless/shaobei_9.9.9_iphoneos-arm64.deb
-Size: 816
-MD5sum: ffb0b99392a5689d66ecdf1d795bb239
-SHA1: c8fae1df558fb10dcbe1811410391c6aff5272af
-SHA256: 8fe63c78e1b4aead90cdcdb09841573c44d21e62cd6cd6d52946b840eb91a5f4
-Section: Tweaks
+Size: 4696
+MD5sum: 6736d57b148bde22cfadc68d76938030
+SHA1: 805fd959e7fe803f7602be51e0602f467acd3f3c
+SHA256: 3a6a5aa82147bc2d99d70ca3d4c8d8ff5474472431123eaef19aaf74b4752264
+Section: AAA声明
 Description: 本源仅为搬运一些自己常用的插件方便自己用以及备份一些插件！
-Author: 思念变成海
+Author: sini921
+Icon: https://sini921.github.io/repo/sileodepiction/icon/shengming.png
 Name: AAAA此为空包仅用作声明！
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/shengming/js.json
 
