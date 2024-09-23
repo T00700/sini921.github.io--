@@ -1256,10 +1256,10 @@ MD5sum: 358ad006073d982565f538ab779e3cd1
 SHA1: a82827ebc16fa8e90329d06e83266cb267da6c5a
 SHA256: 721f26cc562e2337eb743642f3f3c109a0493ad7326cf1796eea9dae987766e2
 Section: 越狱插件
-Description: 已去除联网验证(网传删除node方法)，上传仅为自用学习交流备份，如果安装以后出现异常，与本源无关！
+Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Name: split-view-pro
-icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
+Ts: sp-sss
 
 Package: jp.soh.freepip
 Version: 0.0.3-1
@@ -1293,4 +1293,20 @@ Author: sini921
 Icon: https://sini921.github.io/repo/sileodepiction/icon/shengming.png
 Name: AAAA此为空包仅用作声明！
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/shengming/js.json
+
+Package: com.sini.cc
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring,  com.skypain.ccvpn, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, com.ichitaso.ringertoggle, com.mtac.uptime
+Filename: roothide/com.sini.cc_1.0.1_iphoneos-arm64e.deb
+Size: 160620
+MD5sum: e18d37a0cf242f5541e6b4ac394cb720
+SHA1: 998da363b0e513132f8e562cf2b4684048710be9
+SHA256: 8b830cc36821f5e560fb4cfedc75d63099652c573ff1a61ef5f298ed3d8cfd5b
+Section: 越狱插件
+Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、系统运行时间、静音等。感谢Skypain、ichitaso、MTAC等各位大佬！！！
+Author: 妖刀
+Name: CCHide++【roothide】
 
