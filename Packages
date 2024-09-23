@@ -227,15 +227,15 @@ Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
 Filename: rootless/com.sini.ccborder_1.1.8_iphoneos-arm64.deb
-Size: 39752
-MD5sum: ff99aa05f2ef564580d6f12cb9049d71
-SHA1: 97098a028bdf6fb79caf4e8498403e03e0503871
-SHA256: 09d58aa089b58f922b2a87773124b1d1159dd0190112fca034a4fb87e29d684f
+Size: 39780
+MD5sum: 1951896d7e9f6c47f0d7c5a2de55661a
+SHA1: c69fe82cdc49297d9e774002e73c155c2cb9aa5f
+SHA256: 324d01778f25dd4868138991a35a6080f9cebaed67f7b68908da3f3b4d2184c3
 Section: 越狱插件
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
-Name: CCBorder16(rootless)
+Name: CCBorder16【rootless】
 
 Package: com.sini.ccpower
 Version: 1.9-4
