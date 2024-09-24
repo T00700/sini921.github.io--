@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://sini921.github.io/repo/images/ccjbmodular.png",
+    "headerImage": "https://sini921.github.io/repo/*/*.png",
     "tintColor": "#FF1493",
     "minVersion": "0.3",
     "tabs": [
@@ -11,7 +11,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "本插件基于刀刀源的CCBorder16、CCLess++，Netskao的CCPower。由三个插件整合，删除不使用的模块，仅为方便自己用。",
+                    "markdown": "介绍
                     "useRawFormat": true,
                 },
                 {
@@ -21,15 +21,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://sini921.github.io/repo/sileodepiction/ccjbmodular/Screenshot_01.png"
+                            "url": "https://sini921.github.io/repo/sileodepiction/*/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://sini921.github.io/repo/sileodepiction/ccjbmodular/Screenshot_02.png"
+                            "url": "https://sini921.github.io/repo/sileodepiction/*/Screenshot_02.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://sini921.github.io/repo/sileodepiction/ccjbmodular/Screenshot_03.png"
+                            "url": "https://sini921.github.io/repo/sileodepiction/*/Screenshot_03.png"
                         }
                     ]
                 },
@@ -67,25 +67,15 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.0-1",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "为烧杯群友季伯毅添加支付宝和微信的扫码与付款码模块",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
                     "title": "1.0",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "发布",
-                    "useRawFormat": true
+                    "markdown": "*",
+                    "useRawFormat": true,
+
                 }
             ]
         }
