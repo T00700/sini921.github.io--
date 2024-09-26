@@ -696,6 +696,22 @@ Description: 隐藏截图时左下角预览，保留闪屏无延迟
 Author: Netskao
 Name: HideScreenshotPreview【rootless】
 
+Package: com.sini.hikari
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: sini921
+Depends: mobilesubstrate
+Filename: rootless/com.sini.hikari_1.0.8_iphoneos-arm64.deb
+Size: 1194704
+MD5sum: 2bec897cad66007693ff023f26c0d63e
+SHA1: 059fba6e2d91ed3266e8e08ec91449d5332d1865
+SHA256: 3025173981cad21db116dbc858ff75142e6c9b1006a82e7e51c48f2ae9ac1c88
+Section: 越狱插件
+Description: 更改各种音效
+Author: Hitori
+Icon: https://sini921.github.io/repo/sileodepiction/icon/hikari.png
+Name: Hikari【rootless】
+
 Package: com.sini.hongguo
 Version: 0.1-1
 Architecture: iphoneos-arm64
@@ -1571,6 +1587,22 @@ Author: Lillie & arichornlover
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ytb.png
 Name: YouTube Reborn【rootless】
 
+Package: com.sini.zeppelinreborn
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: sini921
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Filename: rootless/com.sini.zeppelinreborn_1.4.2_iphoneos-arm64.deb
+Size: 2980948
+MD5sum: c125dd50d3c0d1c7614ea4fc08b7f843
+SHA1: 4ca19401d22d82db242636e437b5c578175563be
+SHA256: 3b14fc5c0fd82f749b945927ef9090b4422c2f2ce8ff30882248e4101dc41ef2
+Section: 越狱插件
+Description: 在左上角时间旁边添加图像或GIF!
+Author: Hitori
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zeppe.png
+Name: Zeppelin Reborn【rootless】
+
 Package: com.sini.zetsu
 Version: 1.5
 Architecture: iphoneos-arm64
@@ -1601,7 +1633,7 @@ SHA256: 826cfa90832a42e5dbd15ba54a4d615e99811cfd3665c5e3b035218cf718fdb7
 Section: 越狱插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
-Name: split-view-pro【rootless】
+Name: split-view-pro
 Ts: sp-sss
 
 Package: com.sunshinesong.split-view-pro
@@ -1618,7 +1650,7 @@ SHA256: ab5cc514b71023394c383e2210b4d44fee6349d5940b84b08e448c1b3f1cb8ec
 Section: 越狱插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
-Name: split-view-pro【rootless】
+Name: split-view-pro
 Ts: sp-sss
 
 Package: com.sunshinesong.split-view-pro
@@ -1635,9 +1667,8 @@ SHA256: 721f26cc562e2337eb743642f3f3c109a0493ad7326cf1796eea9dae987766e2
 Section: 越狱插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
-Name: split-view-pro【rootless】
+Name: split-view-pro
 Ts: sp-sss
-icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
 
 Package: jp.soh.freepip
 Version: 0.0.3-1
