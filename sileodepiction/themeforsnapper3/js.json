@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://sini921.github.io/repo/images/jiboxin.png",
-    "tintColor": "#1DBBFF",
+    "tintColor": "#FF1493",
     "minVersion": "0.3",
     "tabs": [
         {
