@@ -6,12 +6,12 @@
     "tabs": [
         {
             "class": "DepictionStackView",
-            "tabname": "插件介绍",
+            "tabname": "插件详情",
             "views": [
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "需要先安装正版snapper3+BioShot+Hammer IT以后在装此插件,
+                    "markdown": "需提前装好正版snapper3+BioShot+Hammer IT以后在装此插件",
                     "useRawFormat": true,
                 },
                 {
@@ -42,7 +42,7 @@
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "插件详情",
+                    "title": "其他信息",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -55,15 +55,14 @@
                     "text": "15.0-16.5",
                     "title": "支持的系统范围"
                 }
-            ]
-        },
-        {
+
+                {
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.0",
+                    "title": "插件版本：1.0",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
