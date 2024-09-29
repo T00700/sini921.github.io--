@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://sini921.github.io/repo/images/likaixin.png",
+    "headerImage": "https://sini921.github.io/repo/images/jiboxin.png",
     "tintColor": "#FF1493",
     "minVersion": "0.3",
     "tabs": [
@@ -21,11 +21,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://sini921.github.io/repo/sileodepiction/shengming/Screenshot_01.png"
+                            "url": "https://sini921.github.io/repo/sileodepiction/themeforsnapper3/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://sini921.github.io/repo/sileodepiction/shengming/Screenshot_02.png"
+                            "url": "https://sini921.github.io/repo/sileodepiction/themeforsnapper3/Screenshot_02.png"
                         }
                     ]
                 },
