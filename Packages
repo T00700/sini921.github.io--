@@ -625,7 +625,7 @@ Size: 6428
 MD5sum: b1004ace56da49a8d00684dd9c0f41ff
 SHA1: fdc4d9d1772520a74dcef3c1f5164d810339092d
 SHA256: 6d376c3b49de52ce10eff6e1da27d8a268101c71419981e0305735877362e541
-Section: 插件汉化
+Section: 汉化插件
 Description: DynamicStage 简体中文包。
 Author: 妖刀
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dynamic.png
@@ -1482,7 +1482,7 @@ Size: 15392
 MD5sum: 696d6755380065677dbf6c1e790713ac
 SHA1: c427801a56e81faa4b7ff805a958ec3fb32bb274
 SHA256: 08ecf5ccecc49a40a221d929e35d5cf0eeec37f7d397e3102dafb512cdda118c
-Section: 插件汉化
+Section: 汉化插件
 Description: TrollStore 和 TrollStore Lite 的简体中文包。
 Author: 妖刀
 Icon: https://sini921.github.io/repo/sileodepiction/icon/trollstore.png
