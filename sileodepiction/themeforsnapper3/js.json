@@ -55,7 +55,31 @@
                     "text": "iOS15.0-16.5",
                     "title": "支持的系统版本"
                 }
+            {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "version: 1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "自用备份",
+                    "useRawFormat": true
+                }
             ]
         }
     ],
-}
+            
+        
+    
+
