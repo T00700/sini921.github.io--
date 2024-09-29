@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "自用备份。需提前安装正版snapper3+bigshot+hammer it才可装此插件。",
+                    "markdown": "把snapper3的按钮变成文字，自用备份。需提前安装正版snapper3+bigshot+hammer it才可装此插件。",
                     "useRawFormat": true,
                 },
                 {
@@ -20,11 +20,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://sini921.github.io/repo/sileodepiction/themeforsnapper3/Screenshot_01.png"
+                            "url": "https://sini921.github.io/repo/sileodepiction/textforsnapper3/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://sini921.github.io/repo/sileodepiction/themeforsnapper3/Screenshot_02.png"
+                            "url": "https://sini921.github.io/repo/sileodepiction/textforsnapper3/Screenshot_02.png"
                         }
                     ]
                 },
