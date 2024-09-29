@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://sini921.github.io/repo/images/*.png",
+    "headerImage": "https://sini921.github.io/repo/images/jiboxin.png",
     "tintColor": "#FF1493",
     "minVersion": "0.3",
     "tabs": [
@@ -11,7 +11,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "介绍
+                    "markdown": "需要先安装正版snapper3+BioShot+Hammer IT以后在装此插件
                     "useRawFormat": true,
                 },
                 {
@@ -21,15 +21,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://sini921.github.io/repo/sileodepiction/*/Screenshot_01.png"
+                            "url": "https://sini921.github.io/repo/sileodepiction/snapper3theme/js1.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://sini921.github.io/repo/sileodepiction/*/Screenshot_02.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://sini921.github.io/repo/sileodepiction/*/Screenshot_03.png"
+                            "url": "https://sini921.github.io/repo/sileodepiction/snapper3theme/js2.png"
                         }
                     ]
                 },
@@ -46,7 +42,7 @@
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "详情",
+                    "title": "插件详情",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -56,7 +52,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "16.0-16.6.1",
+                    "text": "15.0-16.5",
                     "title": "支持的系统范围"
                 }
             ]
@@ -73,7 +69,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "*",
+                    "markdown": "自用",
                     "useRawFormat": true,
 
                 }
