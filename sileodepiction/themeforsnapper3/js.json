@@ -1,17 +1,16 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://sini921.github.io/repo/images/jiboxin.png",
-    "tintColor": "#FF1493",
+    "tintColor": "#1DBBFF",
     "minVersion": "0.3",
     "tabs": [
         {
             "class": "DepictionStackView",
             "tabname": "插件介绍",
             "views": [
-                
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "需提前安装正版snapper3+BioShot+Hammer IT才可装此插件，其他的看图",
+                    "markdown": "需提前安装正版snapper3+bigshot+hammer it才可装此插件。",
                     "useRawFormat": true,
                 },
                 {
@@ -52,10 +51,10 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS15.0-16.5",
+                    "text": "iOS15.0-16.6.1",
                     "title": "支持的系统版本"
-                }
-            {
+                },
+                {
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 }
@@ -67,19 +66,16 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "version: 1.0",
+                    "title": "Version: 1.0",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "自用备份",
+                    "markdown": "自用备份。",
                     "useRawFormat": true
                 }
             ]
         }
     ],
-            
-        
-    
-
+}
