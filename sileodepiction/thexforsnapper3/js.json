@@ -47,6 +47,11 @@
                 },
                 {
                     "class": "DepictionTableTextView",
+                    "text": "theX（季伯仰）",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
                     "text": "iOS15.0-16.6.1",
                     "title": "支持的系统版本"
                 },
