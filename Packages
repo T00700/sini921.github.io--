@@ -727,10 +727,10 @@ Maintainer: alias20
 Installed-Size: 364
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: rootless/com.sini.fakesignalbar_0.1_iphoneos-arm64.deb
-Size: 15420
-MD5sum: 830c1abd9fd51eff1c2b304b6040d5cb
-SHA1: 880d4cc3d7a5d3175c396b0d326d86622a919b3e
-SHA256: 1eb731670e2886308db76f67ebfef4d37e1ebf1e232732f18d9f06b74f449c7e
+Size: 15436
+MD5sum: 60a348772d48471f2ee0fa5998eb1200
+SHA1: 464e11b52938e45c4bad057f1720126a681cb8bb
+SHA256: ac3a7e02bbc6a0e530be4df4d940fee2c9e75d0b1b61b1204015cbbc1e8f7104
 Section: 越狱插件
 Description: 为没有使用双卡的双卡机型添加虚假副卡
 Author: alias20
@@ -2853,10 +2853,10 @@ Maintainer: alias20
 Installed-Size: 364
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: rootless/com.sini.fakesignalbar_0.1_iphoneos-arm64.deb
-Size: 15420
-MD5sum: 830c1abd9fd51eff1c2b304b6040d5cb
-SHA1: 880d4cc3d7a5d3175c396b0d326d86622a919b3e
-SHA256: 1eb731670e2886308db76f67ebfef4d37e1ebf1e232732f18d9f06b74f449c7e
+Size: 15436
+MD5sum: 60a348772d48471f2ee0fa5998eb1200
+SHA1: 464e11b52938e45c4bad057f1720126a681cb8bb
+SHA256: ac3a7e02bbc6a0e530be4df4d940fee2c9e75d0b1b61b1204015cbbc1e8f7104
 Section: 越狱插件
 Description: 为没有使用双卡的双卡机型添加虚假副卡
 Author: alias20
