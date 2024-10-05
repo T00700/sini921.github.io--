@@ -171,22 +171,6 @@ Author: Ethan Whited
 Icon: https://sini921.github.io/repo/sileodepiction/icon/airpods.png
 Name: AirpodsCompanion【rootless】
 
-Package: com.sini.akara
-Version: 2.0.2k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>= 15.0)
-Filename: rootless/com.sini.akara_2.0.2k_iphoneos-arm64.deb
-Size: 618500
-MD5sum: b01fd0c6f23a1014ac953eab1bd0150a
-SHA1: 8c03dd4f54fdf70b98914b55fde541b7c782a421
-SHA256: fff41434cb7691f1c93da4cc18d2275728568743ef155a10de22bbd5cf218893
-Section: 越狱插件
-Description: 控制中心美化
-Author: Tr1Fecta & Kennyroo
-Icon: https://sini921.github.io/repo/sileodepiction/icon/akara.png
-Name: Akara【rootless】
-
 Package: com.sini.appdata
 Version: 1.4.2
 Architecture: iphoneos-arm64
@@ -542,23 +526,6 @@ Section: 越狱插件
 Description: 自定义控制中心
 Author: Miguelaka95 <miguelaka95@gmail.com>
 Name: CustomizeCC【rootless】
-
-Package: com.sini.deletephotoscompletely-rootless
-Version: 1.2-2
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 184
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: rootless/com.sini.deletephotoscompletely-rootless_1.2-2_iphoneos-arm64.deb
-Size: 17116
-MD5sum: 08585f609645132d7ea0dc6113f364e7
-SHA1: 0b6fdc014380417fcd56d0f2793b16297948bda1
-SHA256: 2d3a7afe8e81af19c0cd1970708f91da44c07b6a559ef509cc0b42cf92ecef58
-Section: 越狱插件
-Description: 为相册添加彻底删除照片选项
-Author: Netskao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/xiangce.png
-Name: DeletePhotosCompletely【rootless】
 
 Package: com.sini.desktoplyrics
 Version: 0.3.9~b1
