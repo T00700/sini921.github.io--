@@ -3,8 +3,6 @@
 dpkg-scanpackages --multiversion rootless >> Packages
 dpkg-scanpackages --multiversion roothide >> Packages
 
-rm Packages.bz2 Packages.xz
-
 #cat Packages | xz > Packages.xz
 #cat Packages | bzip2 > Packages.bz2
 #cat Packages | gzip > Packages.gz
