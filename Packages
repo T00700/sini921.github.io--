@@ -29,13 +29,12 @@ Size: 302774
 MD5sum: fd990687c774717b4d2372de22ea8a24
 SHA1: 075818b8b84d9d04f11318f59910c2ce1ef58bcf
 SHA256: 558273e02a8dfe693ef9bac54509c1d518ddef8f9a88e112713e06f21a83da06
-Section: Tweaks
-Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
-Tag: cydia::commercial, compatible_min::ios15.0
+Section: 越狱插件
+Description: 大杂烩，啥季伯功能都有
 Author: Hitori <mikasa-san@outlook.jp>
 Depiction: https://chariz.com/buy/misaki
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
-Name: Misaki
+icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
+Name: Misaki【rootless】
 
 Package: com.sini.77theme
 Version: 0.2.9Bate
@@ -2237,7 +2236,7 @@ SHA256: 826cfa90832a42e5dbd15ba54a4d615e99811cfd3665c5e3b035218cf718fdb7
 Section: 越狱插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
-Name: split-view-pro
+Name: split-view-pro【rootless】
 Ts: sp-sss
 
 Package: com.sunshinesong.split-view-pro
@@ -2254,7 +2253,7 @@ SHA256: ab5cc514b71023394c383e2210b4d44fee6349d5940b84b08e448c1b3f1cb8ec
 Section: 越狱插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
-Name: split-view-pro
+Name: split-view-pro【rootless】
 Ts: sp-sss
 
 Package: com.sunshinesong.split-view-pro
@@ -2269,9 +2268,10 @@ MD5sum: 358ad006073d982565f538ab779e3cd1
 SHA1: a82827ebc16fa8e90329d06e83266cb267da6c5a
 SHA256: 721f26cc562e2337eb743642f3f3c109a0493ad7326cf1796eea9dae987766e2
 Section: 越狱插件
-Description: 分屏，不必太复杂，一切从简即可。
+Description: 已去除联网验证(网传删除node方法)，上传仅为自用学习交流备份，如果安装以后出现异常，与本源无关！
+icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
 Author: sunshinesong
-Name: split-view-pro
+Name: split-view-pro【rootless】
 Ts: sp-sss
 
 Package: com.thex.thexforsnapper3
