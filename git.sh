@@ -1,5 +1,4 @@
 #!/bin/sh
-
 #dpkg-scanpackages --multiversion rootful > Packages
 #dpkg-scanpackages --multiversion rootless >> Packages
 #dpkg-scanpackages --multiversion roothide >> Packages

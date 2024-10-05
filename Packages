@@ -1563,13 +1563,14 @@ Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 168
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: rootless/com.sini.singlevpn_1.0_iphoneos-arm64.deb
-Size: 5928
-MD5sum: f62f0727c0849a07008d5ebd131ba31e
-SHA1: 7e062ff81c38316a3b0161964f367b73261826ac
-SHA256: 09da5fb474bea8e2161a30205ae7ed9d9a246cf1f5af44a17c9742d76242b195
+Size: 5980
+MD5sum: 1e874f4cbb30b7ab2b7dd97e183f8383
+SHA1: 7d5b0bbd8209bc4e402711053e4f36bbdda4720a
+SHA256: 3b69c5b164ddf98152e7730b8a2fc89f0d6c1a0acc7f40bef0ef1f4845516e21
 Section: 越狱插件
 Description: 以颜色来显示vpn的开关状态
 Author: 82Flex <82flex@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/vpn.png
 Name: Single VPN【rootless】
 
 Package: com.sini.siriplus
