@@ -1,4 +1,6 @@
 #!/bin/sh
+rm Packages.xz Packages.bz2
+
 #dpkg-scanpackages --multiversion rootful > Packages
 dpkg-scanpackages --multiversion rootless >> Packages
 dpkg-scanpackages --multiversion roothide >> Packages
