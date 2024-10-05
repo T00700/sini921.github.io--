@@ -1,4 +1,5 @@
 #!/bin/sh
+
 rm Packages Packages.bz2 Packages.xz
 
 #dpkg-scanpackages --multiversion rootful > Packages
