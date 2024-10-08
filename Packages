@@ -603,11 +603,11 @@ Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: rootless/com.sini.colorfulwallpaperx_4.5k_iphoneos-arm64.deb
-Size: 1232072
-MD5sum: 7dda2188c013889b085a4d1b8601b1fc
-SHA1: c210170ae2d6085bbf79d41232249c7a60fd6401
-SHA256: 7e9bc4ed129b27acddca05ebe6c568331a97c73e9eac49812dba0e0ba4269c2a
-Section: 越狱插件
+Size: 1230716
+MD5sum: ebc7791625686f0a6245c977de5f25a8
+SHA1: e1fd615ad67aed067a578095f823fd9542a5d6e4
+SHA256: 8aec90a6ef633463326053d32165c621c71415ee72d0df7befc4a6dbf50589ea
+Section: 越狱应用
 Description: CBZ破解
 Author: Lessica
 Depiction: https://repo.cypwn.xyz/depiction/2822
@@ -1371,11 +1371,11 @@ Maintainer: sini921
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini.photos_0.0.1_iphoneos-arm64.deb
-Size: 4016
-MD5sum: 67164f40868cde62fae0326d29ce4bef
-SHA1: cfc719a510cb76b6d69683265b064f47f2fcd561
-SHA256: 6a6693a22bc0d66ba3ee9030c01af88a2ccf3d2e394f1a6857236d3ff3aa2220
-Section: 应用破解
+Size: 4012
+MD5sum: 347e559c23a6d701f4d83642f02e1f47
+SHA1: 368181c26d99d26d8b721a0bd5a96c7296875f15
+SHA256: 3853a7563a469bb8a7a27743468c7c6694718583bca7ecad51e388abd4c4431b
+Section: 越狱插件
 Description: 自用备份。
 Author: sini921
 Icon: https://sini921.github.io/repo/sileodepiction/icon/xiangce.png
@@ -1948,11 +1948,11 @@ Architecture: iphoneos-arm64
 Maintainer: sini921
 Depends: firmware (>= 11)
 Filename: rootless/com.sini.storeswitcher2_1.0.4_iphoneos-arm64.deb
-Size: 17880
-MD5sum: 4e31f82a0084482c994c78bfeb0398d7
-SHA1: a5205bf0ec21b12e46a132ccdf756c8deb06a113
-SHA256: bc2165d79f67ef70ebf52175c66a78db8d3aa212b3b0a38dde6c343a52d52a72
-Section: 应用破解
+Size: 17872
+MD5sum: 2cc1aa575412241b1db87833f7c01223
+SHA1: f3cf4a80f49a2104b17c6e46fdccb70ba5b8dd4a
+SHA256: 29d3c47dd166cca8878baebf58330e70c87cb46e9b34d4d0236b9c4b6aecf91c
+Section: 越狱插件
 Description: 使用先前登录的多个 Apple 账户直接从 Appstore 切换！操作方法：打开 Appstore，点击个人资料，点击导航栏上的切换账号，选择所需账户！
 Author: 0xkuj
 Icon: https://sini921.github.io/repo/sileodepiction/icon/appstore.png
