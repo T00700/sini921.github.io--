@@ -32,6 +32,7 @@ SHA256: 558273e02a8dfe693ef9bac54509c1d518ddef8f9a88e112713e06f21a83da06
 Section: 越狱插件
 Description: 大杂烩，啥季伯功能都有
 Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
 icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
 Name: Misaki【rootless】
 
@@ -1251,14 +1252,14 @@ Maintainer: SWING
 Installed-Size: 368
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
 Filename: rootless/com.sini.padswitcher_1.1.0_iphoneos-arm64.deb
-Size: 26376
-MD5sum: a48ab8240e577846adb2b4e7246408f9
-SHA1: bd9544ea1ee34946eda6e7f589aa67c7f7a79be5
-SHA256: ab1bd35db5534510dc828fa05281058552796665ccbdee27b172c1dd56926b61
+Size: 26380
+MD5sum: 060f28c4ea5677cf8c8c0ddb7c21ca68
+SHA1: 8ba4a1a9745fd0d256c6c1d70ac9614ccb90dbab
+SHA256: c5956ed53b5baa2177d37706dccb2be810085a169c0f13d9c8a09de24e299eb7
 Section: 越狱插件
 Description: 在iPhone上启用iPad风格的多任务界面和Dock栏。
 Author: SWING
-Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.padswitcher
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pad.png
 Name: PadSwitcher【rootless】
 
 Package: com.sini.photos
@@ -1419,13 +1420,14 @@ Architecture: iphoneos-arm64
 Maintainer: sini921
 Depends: firmware (>=13.0), mobilesubstrate
 Filename: rootless/com.sini.reachplayer-rootless_2.6_iphoneos-arm64.deb
-Size: 117248
-MD5sum: 5ebe60a852a5471ab6c4fedc326b15fb
-SHA1: 4d05facf27136360ed38964f80238833eb7a1d19
-SHA256: 08206830d63da780009a9ecc3d2cdd7adc680e5cee1670af63211d29e2252f69
+Size: 117240
+MD5sum: 25c2871d5739ed6635e23192e68dfaed
+SHA1: 800abe1db3f5a80a0266278960267bde3efc4d4c
+SHA256: 0e1973667ede6552b0b07df89464c64578f37019a828f29bdf5f757c67287ff1
 Section: 越狱插件
 Description: 一个好看的音乐窗口
 Author: ETHN
+Icon: https://sini921.github.io/repo/sileodepiction/icon/play.png
 Name: ReachPlayer【rootless】
 Sponsor: sini921
 
