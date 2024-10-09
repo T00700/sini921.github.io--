@@ -5,22 +5,47 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="assets/main.css" />
+    <style>
+      @keyframes rotate {
+        from {
+          transform: rotate(0deg);
+        }
+        to {
+          transform: rotate(360deg);
+        }
+      }
+
+      .rotating-image {
+        animation: rotate 4s linear infinite; 
+        width: 150px; 
+        height: auto;
+      }
+    </style>
+    <style>
+      .gradient-text {
+        font-size: 36px; 
+        font-weight: bold;
+        background: linear-gradient(90deg, #64c466, #f7b311, #eb4d3d, #285ff4); 
+        -webkit-background-clip: text; 
+        color: transparent; 
+      }
+    </style>
 </head>
 <body>
     <div class="header">
-        <div style="height: 170px" class="inner-header flex">
-				<h1>季伯之家源</h1>
+        <div style="height: 100px" class="inner-header flex">
+				<h1 class="gradient-text">季伯之家源</h1>
 			</div>
-    <div style="margin-top: -50px;"> 
-					<img src="assets/lkx.png" loading="lazy" alt="Add to Saily" data-was-processed="true"> 
-    <div style="margin-top: 20px;">
+    <div style="margin-top: -10px;"> 
+					<img src="assets/lkx.png"  class="rotating-image" loading="lazy" alt="Add to Saily" data-was-processed="true"> 
+    <div style="margin-top: 10px;">
  					<p>点击播放李开心自我介绍</p> 
           <audio controls autoplay style="width: 40px; height: 40px;">
             <source src="assets/jntm.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
 			<div>
-    <div style="margin-top: 30px;">
+    <div style="margin-top: 10px;">
 				<a rel="nofollow noopener" href="sileo://source/https://sini921.github.io/repo/">
 					<img src="assets/sileo.png" loading="lazy" alt="Add to Sileo" data-was-processed="true">
  					<p>添加到 Sileo</p>
