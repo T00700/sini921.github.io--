@@ -5,14 +5,14 @@ Maintainer: 0xkuj
 Installed-Size: 748
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: rootless/com.0xkuj.safarix_1.6.1_iphoneos-arm64.deb
-Size: 278560
-MD5sum: e929e471a94ed73eebb3528c9c417027
-SHA1: 62cb838c4254c9b2033a18bfe2230648d18d7b29
-SHA256: 13c3e253dd286c7a45ebc4efece2706cb53e8283dd994b77c73f6acc63a77efa
+Size: 278500
+MD5sum: fc5a17040a7c7054c4d42ad9e8f26014
+SHA1: eb2c843b7a4b6bb790dd32c5e7760d429e71518d
+SHA256: 41c75dcd6bf28f0cb98890783ccb0eba08a368468abe9b98305504754366bc8a
 Section: 越狱插件
 Description: Safari浏览器增强(简体中文来自刀刀源)
 Author: 0xkuj
-Icon: https://sini921.github.io/repo/sileodepiction/icon/safari.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
 Name: SafariX【rootless】
 
 Package: com.creaturecoding.libcspreferences
