@@ -221,22 +221,6 @@ Author: Fouad Raheb
 Icon: https://sini921.github.io/repo/sileodepiction/icon/appdata.png
 Name: AppData【rootless】
 
-Package: com.sini.appku.wechat
-Version: 1.6-3
-Architecture: iphoneos-arm64
-Maintainer: appku
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.appku.wechat_1.6-3_iphoneos-arm64.deb
-Size: 1666096
-MD5sum: 378e081ab0db31634e28b42b58913e78
-SHA1: 12c4e8948f400336c347338c4635850accacd013
-SHA256: 1a930dd49b1a4ca783b49f067779b5919b7bf1b1b67a27c4908613945306fde1
-Section: 微信插件
-Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间以及修改部分bug。
-Author: appku
-Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
-Name: 微信爱锋助手【rootless】
-
 Package: com.sini.atria
 Version: 1.4.1
 Architecture: iphoneos-arm64
@@ -2026,23 +2010,6 @@ Author: Mao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: 微信插件收纳【rootless】
 Sponsor: admin@25mao.com
-
-Package: com.sini.wechat
-Version: 2.2-1
-Architecture: iphoneos-arm64
-Maintainer: sini921
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.wechat_2.2-1_iphoneos-arm64.deb
-Size: 1671188
-MD5sum: adc648c6a1804f81576ba93d12d9b19d
-SHA1: 27162e9703bbaaf1672116f1f4c6d6993f128352
-SHA256: b08dc2ec1aceacf5fafbab36e9540ae136b0fb43d083e4aa577a3eb50f44ad8d
-Section: 微信插件
-Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，右滑快速备注，全局长按导航栏快捷功能,证书有效期查询,语音包，一键已读消息等。木笛默认密码113113。不显示请缷载微信插件收纳！
-Author: pingfan
-Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
-Name: 微信虚拟视频【rootless】
-Sponsor: sino921
 
 Package: com.sini.wechatnotiavatar
 Version: 1.2-5
