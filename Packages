@@ -37,14 +37,13 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 2332
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Filename: rootless/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64.deb
-Size: 333860
-MD5sum: ba13e649f72c4c077322262ea8f88955
-SHA1: c3d5347c8259b772567edb544c6202f8b5289690
-SHA256: 9a2da0491294143917c9bab08cf9b3ef2caa278ec182f5048dc9243ccd43dd66
+Size: 333740
+MD5sum: 5a4968d78ca179937b85721b11f63fc5
+SHA1: 8f0904ec6fb90d315209b2f61530f759661242e0
+SHA256: c33219a78f15c4b2e3090d12c5c90dfbe27442d86fb352fcf4f099de46374084
 Section: 插件依赖
 Homepage: https://creaturecoding.com/
 Description: shuffle插件需要的依赖
-Tag: compatible_min::iOS9
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
@@ -65,7 +64,7 @@ Section: 越狱插件
 Description: 大杂烩，啥季伯功能都有
 Author: Hitori <mikasa-san@outlook.jp>
 Depiction: https://chariz.com/buy/misaki
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
 Name: Misaki【rootless】
 
 Package: com.sini.77theme
