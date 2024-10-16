@@ -62,7 +62,7 @@ Section: 越狱插件
 Description: 大杂烩插件，啥季伯功能都有
 Author: Hitori <mikasa-san@outlook.jp>
 Depiction: https://chariz.com/buy/misaki
-icon: https://sini921.github.io/repo/sileodepiction/icon/misaka.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
 Name: Misaki【rootless】
 
 Package: com.sini.77theme
@@ -184,34 +184,18 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/airpods.png
 Name: AirpodsCompanion【rootless】
 
 Package: com.sini.appcardlite
-Version: 2.2.7
+Version: 2.3FT
 Architecture: iphoneos-arm64
 Maintainer: Crassna
-Installed-Size: 940
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: rootless/com.sini.appcardlite_2.2.7_iphoneos-arm64.deb
-Size: 189684
-MD5sum: 358b8d805b4c0c989c2cdfdda884c6df
-SHA1: 79a0105d8a49d5c2b9af510b2fcd501209ce776d
-SHA256: d9de108704efb389f7d68d943c5320e4c6c0cb1be512b60725e9a8026e5d0666
+Installed-Size: 972
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: rootless/com.sini.appcardlite_2.3FT_iphoneos-arm64.deb
+Size: 194096
+MD5sum: 27a6703dbfba73e8b061ee0464aeff91
+SHA1: 44d7053257f2c9d9d53d1fa2c7ea6156b8347718
+SHA256: 5a613cec67e2cccbee6c30e68b149e1c283b8c7efb0592f027ee795ecda1e660
 Section: 越狱插件
-Description: 分屏测试版，防丢备份。
-Author: Crassna
-Name: App Lecard【rootless】
-
-Package: com.sini.appcardlite
-Version: 2.2.9
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 940
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: rootless/com.sini.appcardlite_2.2.9_iphoneos-arm64.deb
-Size: 185788
-MD5sum: f8b9acb4546e8dea8b7c0cac336e4e77
-SHA1: 2fb94fd3a1f69e71d5e11e182c090f3ac5abec27
-SHA256: 96870264a8c04b49c1e9cf6e3fe1f3c2ae59da0b3aa37c06db6a6d69957aef45
-Section: 越狱插件
-Description: 新分屏测试版，备份防丢
+Description: 分屏测试版，防丢备份
 Author: Crassna
 Name: App Lecard【rootless】
 
