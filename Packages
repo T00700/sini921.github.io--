@@ -65,7 +65,7 @@ Section: 越狱插件
 Description: 大杂烩，啥季伯功能都有
 Author: Hitori <mikasa-san@outlook.jp>
 Depiction: https://chariz.com/buy/misaki
-icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
 Name: Misaki【rootless】
 
 Package: com.sini.77theme
@@ -2363,23 +2363,17 @@ Package: org.thebigboss.libcolorpicker
 Version: 1.6.9.1
 Architecture: iphoneos-arm64
 Maintainer: Bailey Seymour
-Installed-Size: 392
 Depends: firmware (>= 6.0)
-Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
-Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
 Filename: rootless/org.thebigboss.libcolorpicker_1.6.9.1_iphoneos-arm64.deb
-Size: 71152
-MD5sum: 36e12c1d60b66609ed88d0dd0aac918d
-SHA1: a06b9ee83fe4f9350c0fa81c9e1b6f21e3190624
-SHA256: 2f9e6f5e08bb24cc5700de2ce69f1637d13313aabca9b9d77277b992c1b78f77
+Size: 71160
+MD5sum: 37f7fef22b1eb1799a353d733fdf0839
+SHA1: 86089915ce8a8f5ee1a81b65b3cec74ae919c1cf
+SHA256: fcda21e1642a559483c24053f4f466f8f6a57a520a1729206de0f3119ab1b207
 Section: 插件依赖
 Description: ChromaHomeBarx插件需要的依赖
-Tag: role::developer
 Author: Bailey Seymour
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=org.thebigboss.libcolorpicker
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: libcolorpicker (Unofficial)【rootless】
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/org.thebigboss.libcolorpicker.json
 
 Package: shengming
 Version: 9.9.9
