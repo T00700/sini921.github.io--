@@ -1,19 +1,3 @@
-Package: cn.sini.pts
-Version: 0.2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: rootless/cn.sini.pts_0.2_iphoneos-arm64.deb
-Size: 10684
-MD5sum: 52a18ad70b97bb954924e16dbde32cb2
-SHA1: be344d532a8c849b578faa1ec4ced0d498fea301
-SHA256: eafd3306c52b8682b0ec4bf8e9d4ab68b9e5a84972d25bb83a46b0d95d9b60f0
-Section: 越狱插件
-Description: 可注入可越狱使用，免费。补充iOS原生的不足，给多个网页类型的应用或场景（比如：各种浏览器Safari，或Ai工具Copilot，拼多多评价区，QQ我的收藏编辑框等），在原工具栏的基础上增加功能按钮(撤销，重做，全选，复制，粘贴，剪切板，换行)，顺便也解决我个人插件PT没有对这方面的行为处理.240915:修正粘贴问题
-Author: 来了老弟
-Name: PTs【rootless】
-
 Package: cn.sini.wxx
 Version: 1.0.6-1
 Architecture: iphoneos-arm64
@@ -76,7 +60,7 @@ MD5sum: fd990687c774717b4d2372de22ea8a24
 SHA1: 075818b8b84d9d04f11318f59910c2ce1ef58bcf
 SHA256: 558273e02a8dfe693ef9bac54509c1d518ddef8f9a88e112713e06f21a83da06
 Section: 越狱插件
-Description: 大杂烩插件，啥季伯功能都有
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
 Author: Hitori <mikasa-san@outlook.jp>
 Depiction: https://chariz.com/buy/misaki
 Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
