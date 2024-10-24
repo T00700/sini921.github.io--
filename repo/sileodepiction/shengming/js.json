@@ -9,7 +9,7 @@
             "tabname": "声明",
             "views": [
                 {
-                    "text": "点此加入我们",
+                    "text": "点此加入我们的Telegram装逼撩骚群",
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
