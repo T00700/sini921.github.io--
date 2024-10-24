@@ -8,7 +8,12 @@
             "class": "DepictionStackView",
             "tabname": "声明",
             "views": [
-                
+                {
+                    "text": "点此加入我们",
+                    "action": "https://t.me/banyunjituan",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "本源仅为搬运一些自己常用的插件方便自己用以及学习交流测试备份！源内插件均来自互联网，安装以后请于24小时内删除！如果安装以后出现异常与本源无关！如有冒犯，请联系我指定下架某个插件！------------------------------------------------季伯奥迪哥",
