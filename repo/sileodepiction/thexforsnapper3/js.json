@@ -26,6 +26,12 @@
                     "spacing": 1
                 },
                 {
+                    "class": "DepictionHeaderView",
+                    "title": "描述",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "季伯仰自用备份",
                     "useRawFormat": true,
@@ -35,6 +41,12 @@
                     "itemCornerRadius": 6,
                     "itemSize": "{160, 346.4533333333333}",
                     "screenshots": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "截图",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://sini921.github.io/repo/sileodepiction/thexforsnapper3/Screenshot_01.png"
