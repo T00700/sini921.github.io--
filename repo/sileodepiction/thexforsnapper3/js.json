@@ -37,16 +37,27 @@
                     "useRawFormat": true,
                 },
                 {
-                    "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
-                    "screenshots": [
+                    "class": "DepictionSpacerView",
+                    "spacing": 1
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 1
+                },
                 {
                     "class": "DepictionHeaderView",
                     "title": "截图",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://sini921.github.io/repo/sileodepiction/thexforsnapper3/Screenshot_01.png"
