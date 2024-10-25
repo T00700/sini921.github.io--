@@ -9,6 +9,23 @@
             "tabname": "插件介绍",
             "views": [
                 {
+                    "text": "点此加入我们的Telegram装逼撩骚群",
+                    "action": "https://t.me/banyunjituan",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 1
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 1
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "季伯仰自用备份",
                     "useRawFormat": true,
