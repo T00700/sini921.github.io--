@@ -33,7 +33,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "季伯仰自用备份",
+                    "markdown": "季伯仰自用备份，仅支持正版snapper3",
                     "useRawFormat": true,
                 },
                 {
@@ -77,7 +77,7 @@
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "其他信息",
+                    "title": "其他",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },

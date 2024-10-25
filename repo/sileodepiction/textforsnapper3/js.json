@@ -26,9 +26,32 @@
                     "spacing": 1
                 },
                 {
+                    "class": "DepictionHeaderView",
+                    "title": "描述",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "把snapper3的按钮变成文字，自用备份。需提前安装正版snapper3+bigshot+hammer it才可装此插件。",
                     "useRawFormat": true,
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 1
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 1
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "截图",
+                    "useBoldText": true,
+                    "useBottomMargin": false
                 },
                 {
                     "class": "DepictionScreenshotsView",
