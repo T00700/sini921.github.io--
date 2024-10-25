@@ -81,7 +81,7 @@
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "其他信息",
+                    "title": "其他",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
