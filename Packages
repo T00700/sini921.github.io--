@@ -959,10 +959,10 @@ Architecture: iphoneos-arm64
 Maintainer: CydiaGeek <lucaluca86@aol.com>
 Depends: mobilesubstrate
 Filename: rootless/com.sini.fakedualsim_1.0.1_iphoneos-arm64.deb
-Size: 4104
-MD5sum: 2878d24583134743bb1d5a3de3f558b0
-SHA1: 256c5d18fe3532d3be0c7e9f1057aa0e21a8ce71
-SHA256: e583af3285df6dcdc6fc43c5546b91016dc3279ca95530875a803c186fa02395
+Size: 4096
+MD5sum: 86c75e0a90e0d8b25fdd394853f7d560
+SHA1: df24b7a93cde6edfa948ecdb02019ce0106ea228
+SHA256: 0e9d6ed724248f898ba87340a0062761815b77d5c825fbbb06fbbd2a4861ca29
 Section: 越狱插件
 Description: 添加虚假副卡
 Author: CydiaGeek <lucaluca86@aol.com>
