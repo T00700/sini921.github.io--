@@ -6,10 +6,10 @@
     "tabs": [
         {
             "class": "DepictionStackView",
-            "tabname": "声明",
+            "tabname": "季伯之家源公告",
             "views": [
                 {
-                    "text": "点此加入我们的Telegram装逼撩骚群",
+                    "text": "点此加入我们的装逼撩骚群",
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"

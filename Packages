@@ -63,7 +63,7 @@ Section: 越狱插件
 Description: 大杂烩，啥季伯功能都有
 Author: Hitori <mikasa-san@outlook.jp>
 Depiction: https://chariz.com/buy/misaki
-icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
 Name: Misaki【rootless】
 
 Package: com.sini.77theme
@@ -1015,6 +1015,24 @@ Description: 自用 功能默认开启 | 去除启动广告 首页一些无用�
 Author: x✨
 Icon: https://sini921.github.io/repo/sileodepiction/icon/gddt.png
 Name: 高德地图优化【rootless】
+
+Package: com.sini.gonggao
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 季伯腾
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Filename: rootless/com.sini.gonggao_1.0_iphoneos-arm64.deb
+Size: 868
+MD5sum: 4ba6ca51bf41e0e31a76bdd56a04a19f
+SHA1: 245240e102a4f7c0371b0bd69f1d77bf059750db
+SHA256: 3c659606c9700899d4dcb02f26cc64e6e4bd901d0bb1d761eb6abd894a0645df
+Section: 越狱插件
+Description: 公告
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: 季伯腾
+Icon: https://sini921.github.io/repo/sileodepiction/icon/gonggao.png
+Name: 🇨🇳季伯之家源公告🇨🇳
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/gonggao/js.json
 
 Package: com.sini.griddy
 Version: 1.0.3-3
@@ -2781,24 +2799,6 @@ Description: ChromaHomeBarx插件需要的依赖
 Author: Bailey Seymour
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: libcolorpicker (Unofficial)【rootless】
-
-Package: shengming
-Version: 9.9.9
-Architecture: iphoneos-arm64
-Maintainer: shengming
-Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: rootless/shengming_9.9.9_iphoneos-arm64.deb
-Size: 1064
-MD5sum: ae75fd366341bb6ec36d6a1beee0f9cc
-SHA1: c45dca62c46ad26d8d0145bec439fd79b143e752
-SHA256: 3dd3978aabe1f217a6110a9f60cafc6d184c3778d2565fb299e2ad400bf9de90
-Section: 越狱插件
-Description: 本源仅为搬运一些自己常用的插件方便自己用以及学习交流测试备份！源内插件均来自互联网，安装以后请于24小时内删除！如果安装以后出现异常与本源无关！如有冒犯，请联系我指定下架某个插件！------------------------------------------------季伯奥迪哥
-Tag: cydia::commercial, compatible_min::ios15.0
-Author: shengming
-Icon: https://sini921.github.io/repo/sileodepiction/icon/shengming.png
-Name: 1此为空包仅用作声明！
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/shengming/js.json
 
 Package: com.sini.cc
 Version: 1.0.1

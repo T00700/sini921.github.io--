@@ -106,7 +106,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Version: 1.0",
+                    "title": "版本: 1.0.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
