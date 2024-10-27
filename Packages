@@ -60,7 +60,7 @@ MD5sum: fd990687c774717b4d2372de22ea8a24
 SHA1: 075818b8b84d9d04f11318f59910c2ce1ef58bcf
 SHA256: 558273e02a8dfe693ef9bac54509c1d518ddef8f9a88e112713e06f21a83da06
 Section: 越狱插件
-Description: 大杂烩，啥季伯功能都有
+Description: 大杂烩插件，啥季伯功能都有
 Author: Hitori <mikasa-san@outlook.jp>
 Depiction: https://chariz.com/buy/misaki
 Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
@@ -1022,16 +1022,16 @@ Architecture: iphoneos-arm64
 Maintainer: 季伯腾
 Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
 Filename: rootless/com.sini.gonggao_1.0_iphoneos-arm64.deb
-Size: 868
-MD5sum: 4ba6ca51bf41e0e31a76bdd56a04a19f
-SHA1: 245240e102a4f7c0371b0bd69f1d77bf059750db
-SHA256: 3c659606c9700899d4dcb02f26cc64e6e4bd901d0bb1d761eb6abd894a0645df
+Size: 1072
+MD5sum: 015ccd400f84dd4bc0fbedd6768a4351
+SHA1: b2b1e3e1122f28a32ef40e188e75a9a5a0689aab
+SHA256: 500bdc7eef91c82d26c4aca14a12d3b10dd2c2c7270cb350f8c7d2cfe35be5c3
 Section: 越狱插件
-Description: 公告
+Description: 本源仅为搬运一些自己常用的插件方便自己用以及学习交流测试备份！源内插件均来自互联网，安装以后请于24小时内删除！如果安装以后出现异常与本源无关！如有冒犯，请联系我指定下架某个插件！------------------------------------------------季伯奥迪哥
 Tag: cydia::commercial, compatible_min::ios15.0
 Author: 季伯腾
 Icon: https://sini921.github.io/repo/sileodepiction/icon/gonggao.png
-Name: 🇨🇳季伯之家源公告🇨🇳
+Name: - 季伯之家源公告
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/gonggao/js.json
 
 Package: com.sini.griddy
