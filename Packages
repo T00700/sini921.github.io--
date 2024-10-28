@@ -60,9 +60,8 @@ MD5sum: fd990687c774717b4d2372de22ea8a24
 SHA1: 075818b8b84d9d04f11318f59910c2ce1ef58bcf
 SHA256: 558273e02a8dfe693ef9bac54509c1d518ddef8f9a88e112713e06f21a83da06
 Section: 越狱插件
-Description: 大杂烩，啥季伯功能都有
+Description: 大杂烩
 Author: Hitori <mikasa-san@outlook.jp>
-Depiction: https://chariz.com/buy/misaki
 Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
 Name: Misaki【rootless】
 
@@ -2825,13 +2824,14 @@ Architecture: iphoneos-arm64
 Maintainer: udevs
 Installed-Size: 2068
 Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
 Filename: rootless/com.udevs.dockx_2.6.2_865856.deb
 Size: 421324
 MD5sum: 8171e4c2e0c183339702549d8d922736
 SHA1: c13175b8cc7cab09bf930986b5fdee6eea999d02
 SHA256: a8030df0d19128ee6e010396327f5dcabe0d31885615fab9234580398f46b826
 Section: 越狱插件
-Description: 键盘下方空白处添加自定义功能
+Description: 键盘下面的空白处添加快捷功能的按钮
 Author: udevs
 icon: https://sini921.github.io/repo/sileodepiction/icon/dockx.png
 Name: DockX【rootless】
