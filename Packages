@@ -2819,6 +2819,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sn3.png
 Name: snapper3霓虹蓝发光效果主题【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/thexforsnapper3/js.json
 
+Package: com.udevs.dockx
+Version: 2.6.2
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 2068
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Filename: rootless/com.udevs.dockx_2.6.2_865856.deb
+Size: 421324
+MD5sum: 8171e4c2e0c183339702549d8d922736
+SHA1: c13175b8cc7cab09bf930986b5fdee6eea999d02
+SHA256: a8030df0d19128ee6e010396327f5dcabe0d31885615fab9234580398f46b826
+Section: 越狱插件
+Description: 键盘下方空白处添加自定义功能
+Author: udevs
+icon: https://sini921.github.io/repo/sileodepiction/icon/dockx.png
+Name: DockX【rootless】
+
 Package: jp.soh.freepip
 Version: 0.0.3-1
 Architecture: iphoneos-arm64
