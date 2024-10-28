@@ -207,13 +207,13 @@ Maintainer: 季伯之家
 Installed-Size: 1897
 Depends: mobilesubstrate (>= 0.9.6100), firmware (>= 14.0)
 Filename: rootless/com.sini.advertisement_2.0_iphoneos-arm64.deb
-Size: 199408
-MD5sum: 21f9e4bed4e6762b55ee49b9f1ccf86e
-SHA1: d42f39f164c5471457300f3d46dd98d4e0082630
-SHA256: fcf3a69522d7f9cbe6d50add06c936236fb1df6ed8aa7bc1781398670afae0e9
+Size: 199512
+MD5sum: 92466322f5fd82ba9bd7c292a6003326
+SHA1: 1050e17ede929c9d4df274471e04bea670d58223
+SHA256: 1bc5f326ea9d723f51bebb05ce3095e2812db08588857aa82ebf1119799b1c50
 Section: 应用破解
-Description: 由iOSign,Netskao,SWING 提供组合精选自用广告和破解，美团和外卖_三大运营商_四大影视_闲鱼_红果_京东_美颜相机_淘宝_酷狗概念_酷狗_百度_百度地图_高德地图_
-Author: 机车主&来了老弟&iOSign
+Description: 由iOSign,Netskao,SWING 提供组合精选自用广告和破解，美团和外卖_三大运营商_四大影视_闲鱼_红果_京东_美颜相机_淘宝_酷狗概念_酷狗_百度_百度地图_高德地图。由季伯腾重新整合打包。
+Author: 季伯腾
 Icon: https://sini921.github.io/repo/sileodepiction/icon/gg.png
 Name: 广告杀手【rootless】
 Sponsor: 季伯腾
