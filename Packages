@@ -2870,7 +2870,6 @@ Architecture: iphoneos-arm64
 Maintainer: udevs
 Installed-Size: 2068
 Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
-Conflicts: com.restiveconch.actionbar
 Filename: rootless/com.udevs.dockx_2.6.2_865856.deb
 Size: 421324
 MD5sum: 8171e4c2e0c183339702549d8d922736
