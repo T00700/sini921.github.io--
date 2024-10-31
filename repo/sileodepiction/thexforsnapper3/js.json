@@ -117,6 +117,23 @@
                     "useRawFormat": true
                 }
             ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "本源公告",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "季伯之家:",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                              {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "本源仅为搬运一些自己常用的插件方便自己用以及学习交流测试备份！源内插件均来自互联网，安装以后请于24小时内删除！如果安装以后出现异常与本源无关！如有冒犯，请联系我指定下架某个插件！------------------------------------------------季伯奥迪哥",
+                    "useRawFormat": true,
+                }
+            ]
         }
     ],
 }
