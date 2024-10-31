@@ -105,6 +105,23 @@
             "tabname": "更新日志",
             "views": [
                 {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/banyunjituan",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 1
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 1
+                },
+                {
                     "class": "DepictionSubheaderView",
                     "title": "版本: 1.0.1",
                     "useBoldText": true,
@@ -121,6 +138,23 @@
             "class": "DepictionStackView",
             "tabname": "本源公告",
             "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/banyunjituan",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 1
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 1
+                },
                 {
                     "class": "DepictionHeaderView",
                     "title": "季伯之家:",
