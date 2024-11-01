@@ -59,6 +59,24 @@ Size: 302774
 MD5sum: fd990687c774717b4d2372de22ea8a24
 SHA1: 075818b8b84d9d04f11318f59910c2ce1ef58bcf
 SHA256: 558273e02a8dfe693ef9bac54509c1d518ddef8f9a88e112713e06f21a83da06
+Section: Tweaks
+Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
+Author: Hitori <mikasa-san@outlook.jp>
+Depiction: https://chariz.com/buy/misaki
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+Name: Misaki
+
+Package: com.hitori.misaki
+Version: 2.1.9
+Architecture: iphoneos-arm64
+Maintainer: Hitori <mikasa-san@outlook.jp>
+Installed-Size: 1064
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Filename: rootless/com.hitori.misaki_2.1.9_iphoneos-arm64.deb
+Size: 305066
+MD5sum: f2818903368de47139f3d9e2921f97f9
+SHA1: 4dfd4c6b1f324eaf022b2005ccb21fdbad543903
+SHA256: c84c227b8bd2af995a3c75ace773f2365beea74733a5c082aeddff45ad7f561e
 Section: 越狱插件
 Description: 大杂烩
 Author: Hitori <mikasa-san@outlook.jp>
@@ -1599,6 +1617,24 @@ Description: 锁屏界面的通知以角标的形式显示通知数量
 Author: 0xkuj
 Icon: https://sini921.github.io/repo/sileodepiction/icon/noti.png
 Name: NotificationsGroupCount【rootless】
+
+Package: com.sini.notificationsgroupcount
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.notificationsgroupcount_1.0.2_iphoneos-arm64.deb
+Size: 80044
+MD5sum: 721617902edc545b9426b4c3e04682d3
+SHA1: d4f66793f9307c905432b0aac53e5cac079990fa
+SHA256: 0f81667ad80e0bfb79db63a4d3c1b3f982f8fa0e40998342db70df4ab267df8b
+Section: 越狱插件
+Description: 锁屏界面通知堆叠以后以角标显示通知数量
+Author: 0xkuj
+Icon: https://sini921.github.io/repo/sileodepiction/icon/noti.png
+Name: NotificationsGroupCount【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/noti/js.json
 
 Package: com.sini.ocd5
 Version: 5.4.1.1
