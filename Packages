@@ -63,7 +63,7 @@ Section: 越狱插件
 Description: 大杂烩
 Author: Hitori <mikasa-san@outlook.jp>
 Depiction: https://chariz.com/buy/misaki
-Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
 Name: Misaki【rootless】
 
 Package: com.sini.77theme
@@ -1237,22 +1237,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ind.png
 Name: Indicators【rootless】
 
 Package: com.sini.instalauncher2
-Version: 1.11.1
+Version: 1.11.0
 Architecture: iphoneos-arm64
 Maintainer: sini921
 Installed-Size: 1188
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.jontelang.instalauncher2.beta
-Filename: rootless/com.sini.instalauncher2_1.11.1_iphoneos-arm64.deb
-Size: 204712
-MD5sum: 35debe7048f2bab89f39b2d93ed13188
-SHA1: 924d7be9a33b546545d73cdba384a573e745a438
-SHA256: fa96ce3e63f6f64c1e24c5a2641265f6439dde5ea83643f0678b2f205cd0eb81
+Filename: rootless/com.sini.instalauncher2_1.11.0_iphoneos-arm64.deb
+Size: 204584
+MD5sum: c006e1332d508dd0f31e141d4e2a5798
+SHA1: 200baa8f2d9e670b6fc020c13f44844ef9703788
+SHA256: b76177f9b5d90cea33f25d45e82885fb1c4a2c4f6c1791b1d17dfe87faeabc84
 Section: 越狱插件
 Description: 快捷打开App，侧面呼出菜单
 Author: Jonathan Winger
 Icon: https://sini921.github.io/repo/sileodepiction/icon/cebian.png
 Name: InstaLauncher 2【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cebian/js.json
 Sponsor: sini921
 
 Package: com.sini.jade
@@ -2577,15 +2578,16 @@ Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: rootless/com.sini.verxina_1.2_iphoneos-arm64.deb
-Size: 7482520
-MD5sum: 7805f0924d947b8bd5c79cbdf61c5bd5
-SHA1: f98569f833f57b6f60f2d38b3c183ddfe7047a3e
-SHA256: 0e275b3e2b3431d8d0e53c5ad049c94a1c3d6ceeea102a4b1b5efc8c2f3542be
+Size: 7481588
+MD5sum: 946c1c33b65861560a05a04967528def
+SHA1: 90c4e429c7b015cf4f586e24696c5aa69ebe4319
+SHA256: 557a1d651eecb8a225e771cb2b65cd5eb0beed3ff98fcadbe5e61d9a6aab8db2
 Section: 越狱插件
-Description: 小日本做的dock栏插件，CBZ破解。
+Description: dock栏插件，CBZ破解。
 Author: uz.ra
 Icon: https://sini921.github.io/repo/sileodepiction/icon/verxina.png
 Name: Verxina【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/verxina/js.json
 
 Package: com.sini.visibleisland
 Version: 2.0
@@ -2922,10 +2924,27 @@ MD5sum: 8171e4c2e0c183339702549d8d922736
 SHA1: c13175b8cc7cab09bf930986b5fdee6eea999d02
 SHA256: a8030df0d19128ee6e010396327f5dcabe0d31885615fab9234580398f46b826
 Section: 越狱插件
-Description: 键盘增强!
+Description: 键盘增强
 Author: udevs
 icon: https://sini921.github.io/repo/sileodepiction/icon/dockx.png
 Name: DockX【rootless】
+
+Package: con.sini.instantcamera
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Sini921
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0), com.ginsu.comet
+Filename: rootless/con.sini.instantcamera_1.1.1_iphoneos-arm64.deb
+Size: 47132
+MD5sum: f69109ae52352769fa665d699158ab9e
+SHA1: 3a5317ee8732b7e2d3b88b12882dfb1966e1dae9
+SHA256: 15c8f9282dc9c340e071d01898bfb1afba6ebc1c0dba8d098c9de827b94f83f5
+Section: 越狱插件
+Description: 点击锁屏界面的相机按钮立即打开相机并拍照
+Author: sourcelocation
+Icon: https://sini921.github.io/repo/sileodepiction/icon/spxj.png
+Name: InstantCamera【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/spxj/js.json
 
 Package: jp.soh.freepip
 Version: 0.0.3-1
