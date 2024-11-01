@@ -310,10 +310,10 @@ Installed-Size: 886
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
 Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
 Filename: rootless/com.sini.atria_1.4.1_iphoneos-arm64.deb
-Size: 243092
-MD5sum: 71eb2849a1590137728e207e820992ee
-SHA1: 03bad30211fd83651dfdf178ba23b71b7392fe80
-SHA256: 279227a2155cac62ca1488ec501f75caf833db49da4510d41b706750fbf5e799
+Size: 243060
+MD5sum: bed1ef852299df556ac49e44e153762d
+SHA1: bb918ecb0f723db59aa8f88c9e5acee22b2fef4d
+SHA256: 0cfb6c7c65731584d36fde8b9614a2eb522061b09c7846b6257f749485e80fff
 Section: 越狱插件
 Description: 桌面布局美化完整汉化版(简体中文来自刀刀源)
 Tag: compatible_min::ios13.0
@@ -321,6 +321,7 @@ Author: ren7995 <lau7995ren@gmail.com>
 Depiction: https://chariz.com/get/atria
 Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
 Name: Atria【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/atria/js.json
 
 Package: com.sini.autoscroll15
 Version: 1.0.0
@@ -1330,15 +1331,16 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 936
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: rootless/com.sini.kayoko_2.7_iphoneos-arm64.deb
-Size: 123900
-MD5sum: 9a5128af368c8186be343339428b8c0e
-SHA1: 27c4acbf4beb18104812d4710307d0792ea45c14
-SHA256: 4745ceb3dc01117d9688a6243678ff48f62580a28a410645e7ec26f7390a4b66
+Size: 123892
+MD5sum: 626f1b529e41b4d72e7995a37f3d96f5
+SHA1: c5c862f73e0e2013dbc6f0c561820f4d707f4738
+SHA256: 59e5bf3a6eac456637c89a1ea0cd72d4a08523d158924e3d1513cf7a23c2eb58
 Section: 越狱插件
 Description: 82flex修复支持iOS16
 Author: Alexandra Aurora Göttlicher
 Icon: https://sini921.github.io/repo/sileodepiction/icon/kayoko.png
 Name: Kayoko【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayoko/js.json
 
 Package: com.sini.kshook
 Version: 1.0.6-3
@@ -2861,8 +2863,8 @@ SHA1: a82827ebc16fa8e90329d06e83266cb267da6c5a
 SHA256: 721f26cc562e2337eb743642f3f3c109a0493ad7326cf1796eea9dae987766e2
 Section: 越狱插件
 Description: 已去除联网验证(网传删除node方法)，上传仅为自用学习交流备份，如果安装以后出现异常，与本源无关！
-icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/svp/js.json
+icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
 Author: sunshinesong
 Name: split-view-pro【rootless】
 Ts: sp-sss
@@ -2992,15 +2994,16 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 936
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: roothide/com.sini.kayoko_2.7_iphoneos-arm64e.deb
-Size: 123932
-MD5sum: fd4531bf84a72831795cfa858cbc6f51
-SHA1: 20e6c32675b99c1736ce7c44f2ae4ed7df8f00f9
-SHA256: 9d0f478eac2f1c4cda1db346d8f2fe950435c4d67354f4b276e782bad8a12da4
+Size: 123884
+MD5sum: 37cdc426d0ceec5b98978112102396c3
+SHA1: 01994182a7da18f2324c9269274695fb3c9b5525
+SHA256: 444ffc754d4b4e5d56d11c2e91050d60cb91d226b7448063fc5a7609e0537b9b
 Section: 越狱插件
 Description: 82flex修复支持iOS16
 Author: Alexandra Aurora Göttlicher
 Icon: https://sini921.github.io/repo/sileodepiction/icon/kayoko.png
 Name: Kayoko【roothide】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayoko/js.json
 
 Package: com.sini.noredirect
 Version: 1.10
