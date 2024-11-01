@@ -336,23 +336,6 @@ Author: pxcex
 Icon: https://sini921.github.io/repo/sileodepiction/icon/auto.png
 Name: AutoScroll【rootless】
 
-Package: com.sini.aweme
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Link
-Installed-Size: 456
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.aweme_1.0.0_iphoneos-arm64.deb
-Size: 67692
-MD5sum: d85af4e48df13a0406454bfd402a2c7c
-SHA1: d6f976f41c2b706449a7b8472f952a42c311c61f
-SHA256: 99a6966d16b2874c5f48531faf064be013456671446e902e7e70a4cfe38b206d
-Section: 应用破解
-Description: 一键纯净模式以及一些其他小功能
-Author: Link
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dy.png
-Name: 抖音增强【rootless】
-
 Package: com.sini.awemeclearlikes
 Version: 1.1-2
 Architecture: iphoneos-arm64
