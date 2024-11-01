@@ -148,6 +148,17 @@
                     "useRawFormat": true
                 },
                 {
+                    "class": "DepictionSpacerView",
+                    "spacing": 1
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 1
+                },
+                {
                     "class": "DepictionSubheaderView",
                     "title": "版本: 1.1.6",
                     "useBoldText": true,
@@ -157,6 +168,17 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "懒得写更新了啥",
                     "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 1
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 1
                 },
                 {
                     "class": "DepictionSubheaderView",
