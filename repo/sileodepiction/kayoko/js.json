@@ -33,7 +33,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "懒得写介绍，看图吧。",
+                    "markdown": "剪贴板插件，82flex修复支持iOS16。",
                     "useRawFormat": true,
                 },
                 {
