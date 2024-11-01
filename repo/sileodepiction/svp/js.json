@@ -146,7 +146,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "懒得写更新了啥",
                     "useRawFormat": true
-                }
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "版本: 1.1.6",
@@ -157,7 +157,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "懒得写更新了啥",
                     "useRawFormat": true
-                }
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "版本: 1.1.5",
