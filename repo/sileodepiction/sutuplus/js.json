@@ -154,6 +154,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "新增了一些可能有用的功能，移除部分旧逻辑（为保障旧版以及特别旧的设备能正常使用的逻辑)，流畅度略有提升,推荐依旧在使用旧版的更新至最新，由于各种因素和运维成本考虑，近期将会直接关闭比较旧的版本的服务器，希望各位理解。",
                     "useRawFormat": true
+                },
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 16
@@ -183,6 +184,10 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "本源仅为搬运一些自己常用的插件方便自己用以及学习交流测试备份！源内插件均来自互联网，安装以后请于24小时内删除！如果安装以后出现异常与本源无关！如有冒犯，请联系我指定下架某个插件！------------------------------------------------季伯奥迪哥",
                     "useRawFormat": true,
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
                 }
             ]
         }
