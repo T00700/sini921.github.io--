@@ -1111,15 +1111,16 @@ Maintainer: mikifp
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: rootless/com.sini.griddy_1.0.4_iphoneos-arm64.deb
-Size: 19868
-MD5sum: 8bf0fd07ec7b1d18b5f37c90559e6729
-SHA1: 336d65f5c80bf1bed244fde87ee4b208be3216a3
-SHA256: 2b5d0b614a628b5c44a55066b2679e42759e0da0cc22b0a29b2facfdc151761e
+Size: 19884
+MD5sum: 1ff36e98be498dbc1968b4bbcbc70ac5
+SHA1: b6bd798606104a533abb0babe444ee8ed1c0aa83
+SHA256: 80838d0ba2fa1e3a21de2cf6f32bd801f0c974cfeb324e3da589e8864bf23e38
 Section: 越狱插件
 Description: 桌面图标瞎季伯摆
 Author: mikifp
 Icon: https://sini921.github.io/repo/sileodepiction/icon/griddy.png
 Name: Griddy【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
 Package: com.sini.hidescreenshotpreview
 Version: 1.2-1
@@ -2013,15 +2014,16 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 384
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
 Filename: rootless/com.sini.removewidgetbg_1.7_iphoneos-arm64.deb
-Size: 29796
-MD5sum: 009c78648b36b6894ca4be306048f4ba
-SHA1: 99b03389a3ca7b8f25a6a978ef7983e77cca5732
-SHA256: 8631d84daaf02151e81054dc77f4e3e66c6eaf2d22952419eb3f112b37c00205
+Size: 29816
+MD5sum: 6eeeb40cc6117a0af2713bfb385f8251
+SHA1: a31fc1ade47fbbd3b1868fb9f34bfc3ef9884c2a
+SHA256: af7133c404d50dbc0fb9402833138c684acb9f043f9c928648a4a767c35f7a69
 Section: 越狱插件
 Description: 删除主屏幕上小部件的背景。
 Author: Lessica <82flex@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/remo.png
 Name: Remove Widget Background【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/removewidgetbg/js.json
 
 Package: com.sini.replaced
 Version: 1.0
@@ -2290,15 +2292,16 @@ Architecture: iphoneos-arm64
 Maintainer: 思念变成海
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 13.0), ws.hbang.common (>= 1.2)
 Filename: rootless/com.sini.stella_1.0.4_iphoneos-arm64.deb
-Size: 664648
-MD5sum: 0ee163dade1619857c95f0919fd27e38
-SHA1: a590b07b6d5d16d09d8fc75dbe7ec6aa04dde30c
-SHA256: 62be8ada93e9f1adde40e8b522bb61c5d6a503efe55ed8df59d440e6f52ea7f9
+Size: 664644
+MD5sum: 099626c649cb49b839de3bedf7b9c8fb
+SHA1: 8eb48c6c27c441670085ae39b6886c80c9a106a3
+SHA256: 250b94118abdb5d5cb0f8f0b40c625eae8e655113f0bbfaee2489d6aef15ffc7
 Section: 越狱插件
 Description: 2002年的第一场雪，比以往来的稍季伯晚了亿些
 Author: yan
 Icon: https://sini921.github.io/repo/sileodepiction/icon/stella.png
 Name: Stella【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/stella/js.json
 
 Package: com.sini.stepup
 Version: 1.2
@@ -2814,15 +2817,16 @@ Architecture: iphoneos-arm64
 Maintainer: sini921
 Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
 Filename: rootless/com.sini.zeppelinreborn_1.4.2_iphoneos-arm64.deb
-Size: 2980948
-MD5sum: c125dd50d3c0d1c7614ea4fc08b7f843
-SHA1: 4ca19401d22d82db242636e437b5c578175563be
-SHA256: 3b14fc5c0fd82f749b945927ef9090b4422c2f2ce8ff30882248e4101dc41ef2
+Size: 2980832
+MD5sum: d68f58313d33a5e4370d0e4f0353f441
+SHA1: 092798362fb7a2c1f76492d0837bb3059056d511
+SHA256: 76af912d2d82a1df5e5e47066d85b7f9cedec4bf95ea176d1f1b390827bbc7b8
 Section: 越狱插件
 Description: 在左上角时间旁边添加图像或GIF!
 Author: Hitori
 Icon: https://sini921.github.io/repo/sileodepiction/icon/zeppe.png
 Name: Zeppelin Reborn【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/zeppelinreborn/js.json
 
 Package: com.sini.zetsu
 Version: 1.5
@@ -2926,7 +2930,7 @@ SHA256: a8030df0d19128ee6e010396327f5dcabe0d31885615fab9234580398f46b826
 Section: 越狱插件
 Description: 键盘增强
 Author: udevs
-icon: https://sini921.github.io/repo/sileodepiction/icon/dockx.png
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 Name: DockX【rootless】
 
 Package: con.sini.instantcamera
