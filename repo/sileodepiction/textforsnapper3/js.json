@@ -15,15 +15,7 @@
                     "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 1
-                },
-                {
                     "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 1
                 },
                 {
                     "class": "DepictionHeaderView",
@@ -37,15 +29,7 @@
                     "useRawFormat": true,
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 1
-                },
-                {
                     "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 1
                 },
                 {
                     "class": "DepictionHeaderView",
@@ -69,15 +53,7 @@
                     ]
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
                 },
                 {
                     "class": "DepictionHeaderView",
@@ -93,10 +69,6 @@
                     "class": "DepictionTableTextView",
                     "text": "iOS15.0-16.6.1",
                     "title": "支持的系统版本"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
                 }
             ]
         },
@@ -111,15 +83,7 @@
                     "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 1
-                },
-                {
                     "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 1
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -145,15 +109,7 @@
                     "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 1
-                },
-                {
                     "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 1
                 },
                 {
                     "class": "DepictionHeaderView",

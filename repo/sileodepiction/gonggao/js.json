@@ -15,15 +15,7 @@
                     "class": "DepictionButtonView"
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 1
-                },
-                {
                     "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 1
                 },
                 {
                     "class": "DepictionMarkdownView",
@@ -46,15 +38,7 @@
                     ]
                 },
                 {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
                     "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
                 },
                 {
                     "class": "DepictionHeaderView",
