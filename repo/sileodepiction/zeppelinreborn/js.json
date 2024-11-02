@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://sini921.github.io/repo/images/zeppelinreborn.png",
-    "tintColor": "#FF1493",
+    "tintColor": "#6E00C9",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -18,15 +18,9 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionHeaderView",
-                    "title": "描述",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "在左上角时间旁边添加图像或GIF!。",
-                    "useRawFormat": true,
+                    "markdown": "## 描述\n- 在左上角时间旁边添加图像或GIF",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -39,7 +33,7 @@
                 },
                 {
                     "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
+                    "itemCornerRadius": 0,
                     "itemSize": "{160, 346.4533333333333}",
                     "screenshots": [
                         {
@@ -48,7 +42,7 @@
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://sini921.github.io/repo/sileodepiction/zeppelinreborn/Screenshot_02.png"
+                            "url": "https://sini921.github.io/repo/sileodepiction/zeppelinreborn/Screenshot_02.png" 
                         }
                     ]
                 },
@@ -82,8 +76,8 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS15.0-16.6.1",
-                    "title": "支持的系统版本"
+                    "text": "iOS15.0-iOS16.6.1",
+                    "title": "支持的系统"
                 }
             ]
         },
@@ -101,15 +95,9 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "版本: 1.4.2",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "懒得写更新了啥",
-                    "useRawFormat": true
+                    "markdown": "#### 版本: 1.4.2\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 }
             ]
         },
@@ -127,15 +115,9 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionHeaderView",
-                    "title": "季伯之家:",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "· 本源仅为搬运一些自已常用的插件方便自用</br> · 以及学习交流测试备份</br> · 源内插件均来自互联网</br> · 安装以后请于24小时内删除</br> · 安装以后出现异常与本源无关</br> · 如有冒犯，请联系我指定下架某个插件</br> · ----------------------季伯奥迪哥",
-                    "useRawFormat": true,
+                    "markdown": "## 季伯之家源:\n- 本源仅为搬运一些自已常用的插件方便自用以及学习交流测试备份\n- 源内插件均来自互联网\n- 安装以后请于24小时内删除\n- 安装以后出现异常与本源无关\n- 如有冒犯，请联系我指定下架某个插件\n- 季伯奥迪哥",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 }
             ]
         }
