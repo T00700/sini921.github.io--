@@ -63,7 +63,7 @@ Section: 越狱插件
 Description: 大杂烩
 Author: Hitori <mikasa-san@outlook.jp>
 Depiction: https://chariz.com/buy/misaki
-icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
 Name: Misaki【rootless】
 
 Package: com.sini.77theme
@@ -115,22 +115,6 @@ Author: Beanbuns
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dy.png
 Name: 豆包助手【rootless】
 
-Package: com.sini.GameLogin
-Version: 0.1-5
-Architecture: iphoneos-arm64
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.GameLogin_0.1-5_iphoneos-arm64.deb
-Size: 23008
-MD5sum: 193fbb010252a5e3a4bc025f095462e3
-SHA1: 4bcf0908a92ca40050f643dadda27932ee810a0c
-SHA256: 342f8dba7a281736a60371a7177f84da5d60d184d805c6f75e495e3713e4d143
-Section: 微信插件
-Priority: optional
-Description: 微信腾讯游戏扫码登录，入口在"我"页面
-Author: Mao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
-Name: 微信游戏扫码登录【rootless】
-
 Package: com.sini.HBWechatHelper
 Version: 1.7-7
 Architecture: iphoneos-arm64
@@ -146,26 +130,6 @@ Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控
 Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: 微信黄白助手【rootless】
-
-Package: com.sini.MisakaHelpre
-Version: 2.1-0
-Architecture: iphoneos-arm64
-Maintainer: Misaka
-Depends: mobilesubstrate
-Conflicts: misakahelper
-Replaces: misakahelper
-Provides: misakahelper
-Filename: rootless/com.sini.MisakaHelpre_2.1-0_iphoneos-arm64.deb
-Size: 13178428
-MD5sum: 616e4a914c7778d0aff02682c2361943
-SHA1: 5b1c89a5d8c400d13a4317ad0d7a07ac232bb789
-SHA256: 481e297a02d39569e7c8865e0a3d6ebc4a2b1d8f666aa6e4317f31233ed42b4f
-Section: 微信插件
-Priority: optional
-Description: 微信Misaka无需授权版
-Author: Misaka
-Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
-Name: 微信Misaka助手【rootless】
 
 Package: com.sini.QQMusicNoAds
 Version: 0.1-2
@@ -1070,6 +1034,23 @@ Description: 通用去广告插件,拿去看电影去吧,通杀大部分第三�
 Author: 小果子
 Name: 通用去广告【rootless】
 
+Package: com.sini.gamelogin
+Version: 0.1-5
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.gamelogin_0.1-5_iphoneos-arm64.deb
+Size: 22948
+MD5sum: 4a10ee40c0a4cd51cbcb29150d59858f
+SHA1: 65eda37ee7c19fe6bfb7d6f8add295440bfc566a
+SHA256: d61e48d7258635efc49abb651763a9aa8987abfcedacb3060488118e379f9130
+Section: 微信插件
+Priority: optional
+Description: 微信腾讯游戏扫码登录，入口在"我"页面
+Author: Mao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
+Name: 微信游戏扫码登录【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/gamelogin/js.json
+
 Package: com.sini.gaodehook
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -1517,22 +1498,44 @@ Author: 预言小猫
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ketty.png
 Name: MeowTimeMachine【rootless】
 
+Package: com.sini.misakahelper
+Version: 2.1-0
+Architecture: iphoneos-arm64
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: misakahelper
+Replaces: misakahelper
+Provides: misakahelper
+Filename: rootless/com.sini.misakahelper_2.1-0_iphoneos-arm64.deb
+Size: 13177956
+MD5sum: 5dc3687288adc678e45211e9e631b604
+SHA1: 3bda8f21db96fb7e9d953e784099504009584914
+SHA256: ef80b11027b36b13268a58f1603d341154e5eaa6a73b2bb4ab7d07b6cb1275d5
+Section: 微信插件
+Priority: optional
+Description: 微信Misaka无需授权版
+Author: Misaka
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
+Name: 微信Misaka助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/misakahelper/js.json
+
 Package: com.sini.miyou
 Version: 3.8-0
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Filename: rootless/com.sini.miyou_3.8-0_iphoneos-arm64.deb
-Size: 10163472
-MD5sum: e42d3646cf110edce477f244327fa628
-SHA1: b36c505b47ba2b230594bde664157846edf0f8b3
-SHA256: bd3a7cce7333db457693dc1d6650e16359067f2818cf024a2d99782dfc13564a
+Size: 10164704
+MD5sum: 2e2f5c456b549dfb099bebf0380c0be1
+SHA1: 63041e6c54c85714400a75f75fe8c18e2836a9e6
+SHA256: a8aae891b389d6b0b1ea859e2a6b6e3be3321d7c9b2d3c96fd28c81446cdf140
 Section: 微信插件
 Priority: optional
 Description: 微信助手
 Author: Mao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: 微信助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/miyou/js.json
 Sponsor: admin@25mao.com
 
 Package: com.sini.msgfilt.rootless
@@ -2650,16 +2653,17 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Filename: rootless/com.sini.wcplugins.rootless_0.1-3_iphoneos-arm64.deb
-Size: 19680
-MD5sum: 84f6d6c8ab15fa7106480bbf8468bd49
-SHA1: 9f5b38977dc7685d37d83bf34b6a7c6d692afcf9
-SHA256: 04aa5b89014cbb4995c8f9dc75bba4d7ae17910b52dd7475a73c1eab3adac359
+Size: 19696
+MD5sum: 76063ab057f2e32109ef3516dfc89744
+SHA1: 7ece2e4c226f7c8ccf50e26162d90ea65c247ccc
+SHA256: 1f23a74e17fdc1fee33242a8919478abd255e027d980dc670881bc315f799c70
 Section: 微信插件
 Priority: optional
 Description: 微信插件收纳
 Author: Mao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: 微信插件收纳【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcplugins/js.json
 Sponsor: admin@25mao.com
 
 Package: com.sini.wechat.xuanzhuan
@@ -2879,7 +2883,7 @@ SHA256: 826cfa90832a42e5dbd15ba54a4d615e99811cfd3665c5e3b035218cf718fdb7
 Section: 越狱插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
-Name: split-view-pro【rootless】
+Name: split-view-pro
 Ts: sp-sss
 
 Package: com.sunshinesong.split-view-pro
@@ -2896,7 +2900,7 @@ SHA256: ab5cc514b71023394c383e2210b4d44fee6349d5940b84b08e448c1b3f1cb8ec
 Section: 越狱插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
-Name: split-view-pro【rootless】
+Name: split-view-pro
 Ts: sp-sss
 
 Package: com.sunshinesong.split-view-pro
@@ -2942,6 +2946,7 @@ Architecture: iphoneos-arm64
 Maintainer: udevs
 Installed-Size: 2068
 Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
 Filename: rootless/com.udevs.dockx_2.6.2_865856.deb
 Size: 421324
 MD5sum: 8171e4c2e0c183339702549d8d922736
