@@ -63,7 +63,7 @@ Section: 越狱插件
 Description: 大杂烩
 Author: Hitori <mikasa-san@outlook.jp>
 Depiction: https://chariz.com/buy/misaki
-icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
+Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
 Name: Misaki【rootless】
 
 Package: com.sini.77theme
@@ -1733,18 +1733,19 @@ Name: 微信PKC【rootless】
 Package: com.sini.plampycc
 Version: 1.0.2
 Architecture: iphoneos-arm64
-Maintainer: CyPwn
+Maintainer: Sini921
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: rootless/com.sini.plampycc_1.0.2_iphoneos-arm64.deb
-Size: 1577620
-MD5sum: c23dba711af57b05651d79e7854d8ca5
-SHA1: ac43f11bc5e5255ba9d610cfdc65cc21c04066d3
-SHA256: d63044e84ab05bd99b83b62c43a102d66fecd7c89a962657b2aca97f27001c6c
+Size: 1577696
+MD5sum: a7ffc5c39edc70eee9978b056718b3fd
+SHA1: 62930f8a3294dd3728f470ce3518134344b97145
+SHA256: bb99f1a1f99bcf5064ae413857ca83fba64332f71ee1fbf66d9f46ee8dc57cb2
 Section: 越狱插件
 Description: 控制中心UI美化，自定义背景图
 Author: sugiuta
 Icon: https://sini921.github.io/repo/sileodepiction/icon/plam.png
 Name: PlampyCC【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/plampycc/js.json
 
 Package: com.sini.podsgrant
 Version: 0.4.0~prerelease1
@@ -2057,10 +2058,10 @@ Maintainer: SOPPPra
 Installed-Size: 540
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Filename: rootless/com.sini.settingsrevamp_2.1.1_iphoneos-arm64.deb
-Size: 97220
-MD5sum: 3ca9dc3cf9b4063793a0f9b14e3f9efb
-SHA1: c37618685f58194ca164d03a149980f3cdf1d8e8
-SHA256: a35afe18255ddabeb559076b21957c3c7d078c6d09c51018e23f1b3b1f93a5b5
+Size: 97188
+MD5sum: 8cc2df116e2ff188686d03d6a1832db4
+SHA1: 0922ec4dba3ccbec2ff782c184e554fe85d23f73
+SHA256: 7917dbad2b2f357673198342120623e7697b7dc5a2f3867a3de7c2423320f56c
 Section: 越狱插件
 Description: 设置美化，插件归类。
 Author: SOPPPra
@@ -2869,7 +2870,7 @@ SHA256: 826cfa90832a42e5dbd15ba54a4d615e99811cfd3665c5e3b035218cf718fdb7
 Section: 越狱插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
-Name: split-view-pro【rootless】
+Name: split-view-pro
 Ts: sp-sss
 
 Package: com.sunshinesong.split-view-pro
@@ -2886,7 +2887,7 @@ SHA256: ab5cc514b71023394c383e2210b4d44fee6349d5940b84b08e448c1b3f1cb8ec
 Section: 越狱插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
-Name: split-view-pro【rootless】
+Name: split-view-pro
 Ts: sp-sss
 
 Package: com.sunshinesong.split-view-pro
@@ -2901,7 +2902,7 @@ MD5sum: 74c64ad270a34a003a48857021152f9e
 SHA1: cbf50d12dc51036b71f7ec8c1fa2863f895926d6
 SHA256: 54463ebca25759fe66948b97fe21432ee775fd51521956a265a031836ccc173f
 Section: 越狱插件
-Description: 已去除联网验证(网传删除node方法)，上传仅为自用学习交流备份，如果安装以后出现异常，与本源无关！
+Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
 Name: split-view-pro【rootless】
