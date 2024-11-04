@@ -2935,7 +2935,7 @@ SHA256: 826cfa90832a42e5dbd15ba54a4d615e99811cfd3665c5e3b035218cf718fdb7
 Section: 越狱插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
-Name: split-view-pro
+Name: split-view-pro【rootless】
 Ts: sp-sss
 
 Package: com.sunshinesong.split-view-pro
@@ -2952,7 +2952,7 @@ SHA256: ab5cc514b71023394c383e2210b4d44fee6349d5940b84b08e448c1b3f1cb8ec
 Section: 越狱插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
-Name: split-view-pro
+Name: split-view-pro【rootless】
 Ts: sp-sss
 
 Package: com.sunshinesong.split-view-pro
@@ -2967,7 +2967,7 @@ MD5sum: 74c64ad270a34a003a48857021152f9e
 SHA1: cbf50d12dc51036b71f7ec8c1fa2863f895926d6
 SHA256: 54463ebca25759fe66948b97fe21432ee775fd51521956a265a031836ccc173f
 Section: 越狱插件
-Description: 分屏，不必太复杂，一切从简即可。
+Description: 已去除联网验证(网传删除node方法)，上传仅为自用学习交流备份，如果安装以后出现异常，与本源无关！
 Author: sunshinesong
 Icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
 Name: split-view-pro【rootless】
@@ -3077,21 +3077,23 @@ Author: Bailey Seymour
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: libcolorpicker (Unofficial)【rootless】
 
-Package: com.sini.cc
+Package: com.sini.cchide
 Version: 1.0.1
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring,  com.skypain.ccvpn, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, com.ichitaso.ringertoggle, com.mtac.uptime
-Filename: roothide/com.sini.cc_1.0.1_iphoneos-arm64e.deb
-Size: 160620
-MD5sum: e18d37a0cf242f5541e6b4ac394cb720
-SHA1: 998da363b0e513132f8e562cf2b4684048710be9
-SHA256: 8b830cc36821f5e560fb4cfedc75d63099652c573ff1a61ef5f298ed3d8cfd5b
+Filename: roothide/com.sini.cchide_1.0.1_iphoneos-arm64e.deb
+Size: 160656
+MD5sum: 251aba94e015a3ab5744ff246ed79586
+SHA1: b4e2f4616abfdb302116ec22abfc629a9c1b88b5
+SHA256: 2578206b47d64fe632b6b12a8ba88c2df70df8c8e02d8a56e99425befb000a2e
 Section: 越狱插件
 Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、系统运行时间、静音等。感谢Skypain、ichitaso、MTAC等各位大佬！！！
 Author: 妖刀
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: CCHide++【roothide】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cchide/js.json
 
 Package: com.sini.iconrestore
 Version: 1.7
