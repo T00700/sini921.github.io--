@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- \n- 在iPhone上开启iPad功能\n- 如台前调度、分屏、小窗和iPad样式的dock栏以及后台卡片样式\n- 去除悬浮键盘以修复原生键盘下不能使用九宫格键盘的问题",
+                    "markdown": "## 描述\n- 在iPhone上开启iPad功能\n- 如台前调度、分屏、小窗和iPad样式的dock栏以及后台卡片样式\n- 去除悬浮键盘以修复原生键盘下不能使用九宫格键盘的问题",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
