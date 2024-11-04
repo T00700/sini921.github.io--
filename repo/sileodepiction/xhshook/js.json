@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 小红书增强\- 去除烦人的按钮\- 下载无水印图片等",
+                    "markdown": "## 描述\n- 小红书增强\n- 去除烦人的按钮\n- 下载无水印图片等",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
