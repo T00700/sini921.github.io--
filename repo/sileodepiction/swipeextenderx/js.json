@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 自定义原生键盘的每个按钮的功能\n- 推荐原生键盘用户安装",
+                    "markdown": "## 描述\n- 自定义原生键盘的每个按钮的功能\n- 推荐原生键盘用户安装\n- 加入来了老弟汉化",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },

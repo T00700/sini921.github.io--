@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 桌面布局美化\n- 自定义桌面图标大小\n- 自定义图标排列数量\n- 自定义小组件大小",
+                    "markdown": "## 描述\n- 桌面布局美化\n- 自定义桌面图标大小\n- 自定义图标排列数量\n- 自定义小组件大小\n- 加入刀刀源汉化",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
