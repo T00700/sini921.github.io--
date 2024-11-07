@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 抖音增强插件\n- 禁用顶部/底部/右侧选项卡按钮\n- 仅在30.3.0及以上版本上测试",
+                    "markdown": "## 描述\n- 抖音全屏显示\n- 仅在31.9.0版本上测试",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-6",
+                    "text": "1.2-3",
                     "title": "版本"
                 },
                 {
@@ -95,15 +95,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 1.1-6\n- 现在选择禁用底部按钮将立即应用",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "markdown": "#### 版本: 1.1-5\n- 这个源主很懒\n- 懒得写更新日志",
+                    "markdown": "#### 版本: 1.2-3\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
