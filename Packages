@@ -1466,24 +1466,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: 修改系统键盘圆角【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/jpyj/js.json
 
-Package: com.sini.jumper
-Version: 3.1.0
-Architecture: iphoneos-arm64
-Maintainer: sini921
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: rootless/com.sini.jumper_3.1.0_iphoneos-arm64.deb
-Size: 256284
-MD5sum: c3eaa528f05d90f2de020473251ebb0a
-SHA1: b438c3546b493508d9d50cc324b8346d2a6fbe36
-SHA256: ae81e4032ed603ae9738522e5e4a1a54448f513bd9e86b463b936d99151e05cc
-Section: 越狱插件
-Description: 锁屏界面的手电筒相机按钮改成自己想要的功能或者多个功能
-Author: Neo
-Depiction: sini921
-Icon: https://sini921.github.io/repo/sileodepiction/icon/jumper.png
-Name: Jumper【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/jumper/js.json
-
 Package: com.sini.kayoko
 Version: 2.7
 Architecture: iphoneos-arm64
