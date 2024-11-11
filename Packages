@@ -190,10 +190,10 @@ Maintainer: Sini921
 Installed-Size: 2476
 Depends: mobilesubstrate, preferenceloader
 Filename: rootless/com.sini.a-font_1.10.1_iphoneos-arm64.deb
-Size: 9184688
-MD5sum: 8d3b9fcd343ca4a43894103ed3f0e8d6
-SHA1: d064d2bf0505f59282b544a9cdbaeda1cf219ddf
-SHA256: 717c135f79c857019a131debf1838e86ad47d21d7e482d935fd095813c06df8f
+Size: 9184768
+MD5sum: 6539c09aec5ff1c125ab9cfc339dc5ab
+SHA1: 39cc232db9572cecdc2c1644c4d6f3ecc66e3be8
+SHA256: 7d413bea0fbe972bf823b86089417ec23fe044a07e4ffff42fcb19b9ccb2cdc5
 Section: 越狱插件
 Description: 换字体插件，二改内置了一个杀马特彩色字体。
 Author: Baw Appie
