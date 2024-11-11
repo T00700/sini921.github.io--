@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 一键换字体工具\n- 内置了一些字体可直接用\n- 也可以自己找ttf格式的字体放到指定路径后启用",
+                    "markdown": "## 描述\n- 一键换字体工具\n- 二改内置了彩色字体可直接用\n- 也可以自己找ttf格式的字体放到指定路径后启用",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
