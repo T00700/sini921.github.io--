@@ -81,7 +81,7 @@ Section: 越狱插件
 Description: 大杂烩
 Author: Hitori <mikasa-san@outlook.jp>
 Depiction: https://chariz.com/buy/misaki
-icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/mosaki.png
 Name: Misaki【rootless】
 
 Package: com.lclrc.hammerit
@@ -621,6 +621,24 @@ Size: 94040
 MD5sum: 38d4827f0b1eef4daab523a2d51b4172
 SHA1: 98f62fb108cbe8d5dab9f62899bfefdec3052b81
 SHA256: a46f5e93387e263fdc737b8dd2392d3dfc0b7c136185488b077bd4c4b466896b
+Section: 应用破解
+Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
+Author: raul saeed & 刀刀
+Icon: https://sini921.github.io/repo/sileodepiction/icon/bhtiktok++.png
+Name: BHTikTok++【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/bhtiktok++/js.json
+
+Package: com.sini.bhtiktok++
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: raul saeed & 刀刀
+Installed-Size: 616
+Depends: mobilesubstrate
+Filename: rootless/com.sini.bhtiktok++_1.7.1_iphoneos-arm64.deb
+Size: 102840
+MD5sum: dee5d3bb515d90e0b0bd30493e3a336d
+SHA1: ce23c9dc0e3f4c11a250f6187a4b1b31896e26d5
+SHA256: d774466066708b567a11f70b54f8ad08e68eec8d8ee9169da9a3b804940e9a9f
 Section: 应用破解
 Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
 Author: raul saeed & 刀刀
@@ -3588,15 +3606,15 @@ Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 392
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: roothide/com.sini.singlemute_1.5_iphoneos-arm64e.deb
-Size: 27572
-MD5sum: ab1858b83b70795ab9d037775d9e1c84
-SHA1: 34b1d319e334d081b4501be8529fd82862c2a24f
-SHA256: ef11b2fe936e7d493fdc0a7a0b4347e038962a64e695edc0d008e6819f67cab9
+Size: 27588
+MD5sum: 4c581198bd88077fe8e97df9673948b1
+SHA1: b6297d040fd6285ff573609db0b0fb445757b19f
+SHA256: e3d52d0f240dcda268e3b2aed22df5e86ca5fc1dc2b011bdebe69545494a547c
 Section: 越狱插件
 Description: 启用静音模式时左上角时间旁显示一个静音图标.
 Author: 82Flex <82flex@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sing.png
-Name: Single Mute【rootless】
+Name: Single Mute【roothide】
 
 Package: com.sini.singlevpn
 Version: 1.4
