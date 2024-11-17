@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 设置内插件归类\n- 自定义背景图、顶图、单元格",
+                    "markdown": "## 描述\n- 设置内插件归类\n- 自定义背景图、顶图、单元格等\n- 加入刀刀源汉化",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -66,12 +66,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.1.1",
+                    "text": "3.0.0",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2023年6月26日",
+                    "text": "2024年11月17日",
                     "title": "更新日期"
                 },
                 {
@@ -90,6 +90,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 3.0.0\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
