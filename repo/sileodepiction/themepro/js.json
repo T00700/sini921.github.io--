@@ -95,7 +95,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 3.1.6\n- 这个源主很懒\n- 懒得写更新日志",
+                    "markdown": "#### 版本: 3.1.6\n- 修复宝盒之门切换布局按钮失效问题\n- 适配8.0.54新版本图标加载",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
