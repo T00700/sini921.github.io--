@@ -2469,17 +2469,17 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/settingsrevamp/js.
 Sponsor: 思念变成海
 
 Package: com.sini.settingsrevamp
-Version: 3.0.0
+Version: 3.0.1
 Architecture: iphoneos-arm64
 Maintainer: SOPPPra
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Filename: rootless/com.sini.settingsrevamp_3.0.0_iphoneos-arm64.deb
-Size: 255724
-MD5sum: 2ccb892d9f69bdeee465fa3935f7c180
-SHA1: de51f7c43978dd57912e546da54cc5a00f76e4e9
-SHA256: 504f9c76e86adf076abe8981bb2385715b23178f06b523a512e07e11ef44e01b
+Filename: rootless/com.sini.settingsrevamp_3.0.1_iphoneos-arm64.deb
+Size: 269132
+MD5sum: b28a255ecc61c7ceebe3e864cc3fd141
+SHA1: 07ba6dc82c1bb8173bebce3e8d1ee3bacc84ba74
+SHA256: 6d867eac42556f0cd7c332ff0a41dbdea94551a665059b2f7f8ba91300d5dcba
 Section: 越狱插件
-Description: 设置内归类插件
+Description: 设置归类
 Author: SOPPPra
 Icon: https://sini921.github.io/repo/sileodepiction/icon/settingsrevamp.png
 Name: SettingsRevamp【rootless】
