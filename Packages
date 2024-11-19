@@ -792,25 +792,6 @@ Depiction: https://opa334.github.io/depic/Choicy/index.html
 Icon: https://sini921.github.io/repo/sileodepiction/icon/choicy.png
 Name: Choicy【rootless】
 
-Package: com.sini.chromahomebarx
-Version: 0.4
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 642
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: rootless/com.sini.chromahomebarx_0.4_iphoneos-arm64.deb
-Size: 117488
-MD5sum: a3747fea6f890385acc5e0bc0c03aa96
-SHA1: 3c15804783230795e3c5298a42233f8c53075931
-SHA256: f4e939294118f2adadff60d588fe4a5b0d0fdead9439cc790076980e11ef6a13
-Section: 越狱插件
-Priority: optional
-Description: 底部手势横条动态颜色
-Author: Afnan Ahmad <afnanahmaddd@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/homebar.png
-Name: ChromaHomeBarX【rootless】
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.sini.chromatic.rootless
 Version: 3.0
 Architecture: iphoneos-arm64
@@ -1558,22 +1539,6 @@ Author: sergy
 Icon: https://sini921.github.io/repo/sileodepiction/icon/immortalizer.png
 Name: Immortalizer【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/immortalizer/js.json
-
-Package: com.sini.indicators
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: Sini921
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis
-Filename: rootless/com.sini.indicators_1.2_iphoneos-arm64.deb
-Size: 13248
-MD5sum: 812f5d149c2d48ae4e02a522975ff76a
-SHA1: 5b8bcac90ada7db08d45ea2f1dc842d0d4e6ab40
-SHA256: adb83be11142d97d791299656954690458977bc68c52b293428afb10bf7d1c6e
-Section: 越狱插件
-Description: 启用手电筒、VPN、勿扰模式时，右上角显示对应的指示灯。自用二改，去除设置项。
-Author: LacertosusDeus
-Icon: https://sini921.github.io/repo/sileodepiction/icon/ind.png
-Name: Indicators【rootless】
 
 Package: com.sini.instalauncher2
 Version: 1.11.0
