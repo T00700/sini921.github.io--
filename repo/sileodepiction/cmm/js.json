@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 系统电话增强插件\n- 点击收藏列表和通话记录列表里的号码时弹出确认拨打电话的弹窗\n- 长按底栏弹出设置页面\n- 妈妈再也不用担心我不小心打电话了\n- 根据开源代码重新编译，修改了一点细节并汉化",
+                    "markdown": "## 描述\n- 系统电话增强插件\n- 点击收藏列表和通话记录列表里的号码时弹出确认拨打电话的弹窗\n- 长按底栏弹出设置页面\n- 妈妈再也不用担心我不小心打电话了\n- 已汉化",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "dvntm&Sini921",
+                    "text": "dvntm",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.1-2",
+                    "text": "1.0.1-1",
                     "title": "版本"
                 },
                 {
@@ -99,7 +99,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 1.0.1-2\n- 这个源主很懒\n- 懒得写更新日志",
+                    "markdown": "#### 版本: 1.0.1-1\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
