@@ -1650,24 +1650,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
 Name: LazyCursor【rootless】
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.sini.lecard
-Version: 1.1.7
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 5168
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
-Filename: rootless/com.sini.lecard_1.1.7_iphoneos-arm64.deb
-Size: 1052552
-MD5sum: dfd5ba2968f4e6dc77ccc3ccb1720910
-SHA1: 029fda977d7e7cbf05aaf1a470b66f1c9f6f79cf
-SHA256: a807e867d73b3b6d1f7cfcfe02d5e6ac2ad8973980b92ea35c4772f35ee68d7c
-Section: 越狱插件
-Description: 分屏
-Author: Crassna
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: App Lecard【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/lecard/js.json
-
 Package: com.sini.leftpan.rootless
 Version: 1.0-6
 Architecture: iphoneos-arm64
