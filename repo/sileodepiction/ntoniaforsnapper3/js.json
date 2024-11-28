@@ -66,12 +66,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.3",
+                    "text": "1.0.4",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024年11月27日",
+                    "text": "2024年11月28日",
                     "title": "更新日期"
                 },
                 {
