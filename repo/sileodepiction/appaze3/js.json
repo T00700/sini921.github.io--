@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 长按桌面图标或者在设置内为每个App自定义一些功能\n- 加入刀刀源汉化\n- 加入Cypwn去除盗版弹窗",
+                    "markdown": "## 描述\n- 长按桌面图标或者在设置内为每个App自定义一些功能\n- 加入刀刀源汉化\n- 会有盗版弹窗，不影响正常使用",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },

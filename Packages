@@ -297,10 +297,10 @@ Architecture: iphoneos-arm64
 Maintainer: AnthoPak
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
 Filename: rootless/com.sini.appaze3_1.0.1_iphoneos-arm64.deb
-Size: 870128
-MD5sum: d60a93a5afa303ce847db410386027f5
-SHA1: f31f30518f28bba0f45c79c9d1147fe0d8760728
-SHA256: 3d48b5422cf9270bc3c971e97e88140f958fe0c0f4aa3aa5d560189d4ccb3d87
+Size: 868368
+MD5sum: cfdeb2a2241d24c5df27d840e5b7c11d
+SHA1: 2e33001eb9080ed9221974f4f742e07867cf765c
+SHA256: e972916420044b03766106a06ee51e77a6005302f3194c0cf892a05ce425450b
 Section: 越狱插件
 Description: 为应用单独自定义各种功能设置
 Author: AnthoPak
