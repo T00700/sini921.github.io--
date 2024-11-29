@@ -221,25 +221,6 @@ Author: iosrxwy
 Icon: https://sini921.github.io/repo/sileodepiction/icon/tg.png
 Name: Telegrammask【rootless】
 
-Package: com.sini.a-font
-Version: 1.10.1
-Architecture: iphoneos-arm64
-Maintainer: Sini921
-Installed-Size: 2476
-Depends: mobilesubstrate, preferenceloader
-Filename: rootless/com.sini.a-font_1.10.1_iphoneos-arm64.deb
-Size: 9184768
-MD5sum: 6539c09aec5ff1c125ab9cfc339dc5ab
-SHA1: 39cc232db9572cecdc2c1644c4d6f3ecc66e3be8
-SHA256: 7d413bea0fbe972bf823b86089417ec23fe044a07e4ffff42fcb19b9ccb2cdc5
-Section: 越狱插件
-Description: 换字体插件，二改内置了一个杀马特彩色字体。
-Author: Baw Appie
-Icon: https://sini921.github.io/repo/sileodepiction/icon/a-font.png
-Name: A-Font【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/a-font/js.json
-Sponsor: Sini921
-
 Package: com.sini.actionbarreborn
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -828,23 +809,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: ClassicKeyboardXS【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/classickeyboardxs/js.json
 
-Package: com.sini.closeall
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Ethan Whited
-Installed-Size: 208
-Filename: rootless/com.sini.closeall_1.0_iphoneos-arm64.deb
-Size: 21828
-MD5sum: 1d4d9537db90fcc6e1b75fa17ac77444
-SHA1: f07b14bb8d40e2d3467c846682ca701c4343ad01
-SHA256: 370d8dd103c6852375e022133ce8a53cd0ae619659804598883fa4c836486f50
-Section: 越狱插件
-Description: 后台切换界面右上角增加一个关闭全部应用的按钮
-Author: Ethan Whited
-Icon: https://sini921.github.io/repo/sileodepiction/icon/closeall.png
-Name: CloseAll【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/closeall/js.json
-
 Package: com.sini.cmm
 Version: 1.0.1-2
 Architecture: iphoneos-arm64
@@ -1214,24 +1178,6 @@ Author: Traurige
 Icon: https://sini921.github.io/repo/sileodepiction/icon/eneko.png
 Name: Eneko【rootless】
 
-Package: com.sini.ersatz
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: Skitty
-Installed-Size: 504
-Depends: mobilesubstrate, preferenceloader
-Filename: rootless/com.sini.ersatz_1.0.1_iphoneos-arm64.deb
-Size: 49144
-MD5sum: d7354023e5dbb7efb03894e77ba49982
-SHA1: d8aa7a3db3d24d0e5eea98feb5b71406b363f005
-SHA256: 4d3e882d601a59e894795eb58b47736792b6c77aec73d5340197a95fd6e33dbb
-Section: 越狱插件
-Description: 破文字瞎季伯替换
-Author: Skitty
-Icon: https://sini921.github.io/repo/sileodepiction/icon/ersatz.png
-Name: Ersatz【rootless】
-Sponsor: Skitty
-
 Package: com.sini.fakedualsim
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -1272,12 +1218,12 @@ Maintainer: Nets
 Installed-Size: 5020
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: rootless/com.sini.flexlist_1.4-2_iphoneos-arm64.deb
-Size: 1330748
-MD5sum: 90e14d5ec168604fff6e810d804517bc
-SHA1: 57fd4f9dd30bcdefcf7279234592e498908cc529
-SHA256: 059d89734fb03a2fc5dd05aa091ed9a1d07b1b2d52dec8492ee6e1ddda6acb12
+Size: 1330304
+MD5sum: 54268ed581ad3771797794921f5eee96
+SHA1: 44c8c4ba83ff729b5fe95e4f8c549242b0be9d04
+SHA256: 5d3cc2b285f32a94f00e73bfbb6f466987d56b7c6db691b00473deee73e1799c
 Section: 越狱插件
-Description: FLEX调试工具，由李开心提供完整汉化
+Description: FLEX调试工具
 Author: Netskao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: FLEXList【rootless】
@@ -1407,39 +1353,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: HideScreenshotPreview【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/hidescreenshotpreview/js.json
 
-Package: com.sini.hikari
-Version: 1.0.8
-Architecture: iphoneos-arm64
-Maintainer: sini921
-Depends: mobilesubstrate
-Filename: rootless/com.sini.hikari_1.0.8_iphoneos-arm64.deb
-Size: 1194704
-MD5sum: 2bec897cad66007693ff023f26c0d63e
-SHA1: 059fba6e2d91ed3266e8e08ec91449d5332d1865
-SHA256: 3025173981cad21db116dbc858ff75142e6c9b1006a82e7e51c48f2ae9ac1c88
-Section: 越狱插件
-Description: 更改各种音效
-Author: Hitori
-Icon: https://sini921.github.io/repo/sileodepiction/icon/hikari.png
-Name: Hikari【rootless】
-
-Package: com.sini.hydra
-Version: 2.1
-Architecture: iphoneos-arm64
-Maintainer: MTAC
-Installed-Size: 1184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.hydra_2.1_iphoneos-arm64.deb
-Size: 688376
-MD5sum: d06a38c90d35b9d2372576381ac32aae
-SHA1: e55ec838b787792eba17867ffa6fdbc0f9640da0
-SHA256: 7f3a7143bb1e6053585d867099b77e4964f683137e1ddf7e12935121f21f355e
-Section: 越狱插件
-Description: 桌面图标长按有惊喜
-Author: MTAC
-Icon: https://sini921.github.io/repo/sileodepiction/icon/hydra.png
-Name: Hydra【rootless】
-
 Package: com.sini.iapstore
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -1472,23 +1385,6 @@ Description: 破解版iOS系统清理工具，默认简体中文。
 Author: Ivano Bilenchi
 Icon: https://sini921.github.io/repo/sileodepiction/icon/icleanerpro.png
 Name: iCleaner Pro【rootless】
-
-Package: com.sini.iconrestore
-Version: 1.7
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 444
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: rootless/com.sini.iconrestore_1.7_iphoneos-arm64.deb
-Size: 32076
-MD5sum: 4fe71578aa752146a99c8802de6d608b
-SHA1: 0d91bdbe9eb477b086db22dbd105a864f7bc5b53
-SHA256: 50bddce2fa8f7b5b1b4c1c450a4851976595e3f94581c155e14d7c4a18e73595
-Section: 越狱插件
-Description: 可以保存多个桌面图标的布局随时一键切换
-Author: Lessica <82flex@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/icon.png
-Name: Icon Restore【rootless】
 
 Package: com.sini.immortalizer
 Version: 2.0.0-1
@@ -1870,25 +1766,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/mterminal.png
 Name: MTerminal【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/mterminal/js.json
 
-Package: com.sini.noappthinning
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: Netskao
-Installed-Size: 168
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: it.ned.noappthinning
-Filename: rootless/com.sini.noappthinning_1.4_iphoneos-arm64.deb
-Size: 4384
-MD5sum: 4817402481292c4cdc128f5299c70acc
-SHA1: 41c8047f9a3615e61d9433274c4711d5c03071b7
-SHA256: 81a3c96914d093af81e285ca71c5f03f235cd45d23a1b9c6c0f97ebbd13ec29e
-Section: 越狱插件
-Description: 安装以后在苹果商店下载的软件为全量包
-Author: Netskao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/appstore.png
-Name: NoAppThinning【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/noappthinning/js.json
-
 Package: com.sini.noredirect
 Version: 1.10
 Architecture: iphoneos-arm64
@@ -1977,24 +1854,6 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: Oh My Insets【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ohmyinsets/js.json
-
-Package: com.sini.oledkeyboard
-Version: 0.0.3
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.oledkeyboard_0.0.3_iphoneos-arm64.deb
-Size: 4788
-MD5sum: 89fb2f569b7285698be62924db8c52c7
-SHA1: 7dcbf6372fdc12a42735a7f55d2d053c90c61481
-SHA256: 97e533fe6a8c77908ff66aad0115f45b9b4a8db894a860c62c1d2f806e974fee
-Section: 越狱插件
-Description: 很季伯黑的键盘
-Author: dvntm
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: OledKeyboard【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/oledkeyboard/js.json
 
 Package: com.sini.onesettings
 Version: 2.2
@@ -2137,24 +1996,6 @@ Author: XsF1re
 Icon: https://sini921.github.io/repo/sileodepiction/icon/reboot.png
 Name: Power4Options Reborn【rootless】
 
-Package: com.sini.pts
-Version: 0.3
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: rootless/com.sini.pts_0.3_iphoneos-arm64.deb
-Size: 11304
-MD5sum: 749c69fb9215c7e36c324bc1dbd722c6
-SHA1: e525ae37efd76942e965177a3ec9f1eec0487211
-SHA256: 414911529b50b1bf2f94deafcf5b6075019ec4d16dc2afdef61810c76baaaa44
-Section: 越狱插件
-Description: 可注入可越狱使用，免费。补充iOS原生的不足，给多个网页类型的应用或场景（比如：各种浏览器Safari，或Ai工具Copilot，拼多多评价区，QQ我的收藏编辑框等），在原工具栏的基础上增加功能按钮(撤销，重做，全选，复制，粘贴，剪切板，换行)，顺便也解决我个人插件PT没有对这方面的行为处理.240915:修正粘贴问题,241018:加入修改的kayoko支持
-Author: 来了老弟
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: PTs【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/pts/js.json
-
 Package: com.sini.pullclearnc-rootless
 Version: 1.1-8
 Architecture: iphoneos-arm64
@@ -2190,57 +2031,6 @@ Author: c1d3r
 Icon: https://sini921.github.io/repo/sileodepiction/icon/pull.png
 Name: PullOver Pro【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/pulloverpro/js.json
-
-Package: com.sini.qmxshook
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 300
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.qmxshook_1.0.2_iphoneos-arm64.deb
-Size: 66392
-MD5sum: cf73a37fb874bd285d174f1c5bdce0bd
-SHA1: 7a6404a1b450f95d15b711d749841ef2ff4772fa
-SHA256: be5a987aad05f425b88ce6763278337acb6db0ef002e73581532770cbeb99db2
-Section: 应用破解
-Description: 自用 | 去除启动广告以及部分广告 | 全部小说阅读内无广告 可用VIP字体 VIP背景 可全本下载 | 部分小说开通免广告权益可用部分会员功能 | 激励视频秒过 | 段评视图增加一个长按关闭手势 | 底部移除福利与分类 | 仅适配7.40版本 | 仅越狱使用 && 1.0.2：移除阅读时出现的文字判断广告
-Author: x✨
-Icon: https://sini921.github.io/repo/sileodepiction/icon/7cat.png
-Name: 七猫小说Hook【rootless】
-
-Package: com.sini.qqhook
-Version: 1.1.1-2
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 2280
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.qqhook_1.1.1-2_iphoneos-arm64.deb
-Size: 786212
-MD5sum: 29d36a1f840e3b2930dc7c183f3f520d
-SHA1: 78afb06e7741be56f246e7dcf0576e701cd2543c
-SHA256: 90160e0b044f833d6d0b28b82347d77b280857220dea7f1f97fa8b87236755cb
-Section: 应用破解
-Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
-Author: x✨
-Icon: https://sini921.github.io/repo/sileodepiction/icon/qq.png
-Name: QQ图层【rootless】
-
-Package: com.sini.qqipadmodelogin
-Version: 1.1-1
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 72
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: rootless/com.sini.qqipadmodelogin_1.1-1_iphoneos-arm64.deb
-Size: 2380
-MD5sum: 8aa42eb0c19317a5b9ee004e89ca605c
-SHA1: a3fe751f6c24bef92355b544a03f2adbd5cd2985
-SHA256: 46a8c74b54c915aaa29147ddf533f7fe20b3622abcc68347dd9684e11a005e84
-Section: 应用破解
-Description: QQ模拟iPad模式登录
-Author: Netskao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/qq.png
-Name: QQiPadModeLogin【rootless】
 
 Package: com.sini.qqnotiavatar
 Version: 1.2-2
@@ -2890,24 +2680,6 @@ Depiction: https://repo.cypwn.xyz/depiction/2728
 Icon: https://sini921.github.io/repo/sileodepiction/icon/touch.png
 Name: Touch-Viz【rootless】
 
-Package: com.sini.translucent3dmenus
-Version: 2.0
-Architecture: iphoneos-arm64
-Maintainer: iCraze
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.translucent3dmenus_2.0_iphoneos-arm64.deb
-Size: 4508
-MD5sum: afaba85ab06329628eedd7ec831002b2
-SHA1: 0e66eb9c2962f775707d6def0a5fcf41aff473c4
-SHA256: 55e0647465fa411eaa3cf5fb215b80672d76c96ba52b7e52571f972474a02c83
-Section: 越狱插件
-Description: 桌面上长按图标的菜单变为半透明效果
-Author: iCraze
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: Translucent3DMenus【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/translucent3dmenus/js.json
-
 Package: com.sini.trollpad
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -2979,23 +2751,6 @@ Author: NoisyFlake
 Icon: https://sini921.github.io/repo/sileodepiction/icon/velvet.png
 Name: Velvet 2 【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/velvet/js.json
-
-Package: com.sini.verxina
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: rootless/com.sini.verxina_1.2_iphoneos-arm64.deb
-Size: 7481588
-MD5sum: 946c1c33b65861560a05a04967528def
-SHA1: 90c4e429c7b015cf4f586e24696c5aa69ebe4319
-SHA256: 557a1d651eecb8a225e771cb2b65cd5eb0beed3ff98fcadbe5e61d9a6aab8db2
-Section: 越狱插件
-Description: dock栏插件，CBZ破解。
-Author: uz.ra
-Icon: https://sini921.github.io/repo/sileodepiction/icon/verxina.png
-Name: Verxina【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/verxina/js.json
 
 Package: com.sini.visibleisland
 Version: 2.0
@@ -3241,23 +2996,6 @@ Author: Lillie & arichornlover
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ytb.png
 Name: YouTube Reborn【rootless】
 
-Package: com.sini.zeppelinreborn
-Version: 1.4.2
-Architecture: iphoneos-arm64
-Maintainer: sini921
-Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
-Filename: rootless/com.sini.zeppelinreborn_1.4.2_iphoneos-arm64.deb
-Size: 2980832
-MD5sum: d68f58313d33a5e4370d0e4f0353f441
-SHA1: 092798362fb7a2c1f76492d0837bb3059056d511
-SHA256: 76af912d2d82a1df5e5e47066d85b7f9cedec4bf95ea176d1f1b390827bbc7b8
-Section: 越狱插件
-Description: 在左上角时间旁边添加图像或GIF!
-Author: Hitori
-Icon: https://sini921.github.io/repo/sileodepiction/icon/zeppe.png
-Name: Zeppelin Reborn【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/zeppelinreborn/js.json
-
 Package: com.sini.zetsu
 Version: 1.5
 Architecture: iphoneos-arm64
@@ -3274,23 +3012,6 @@ Author: Dcsyhi
 Icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
 Name: Zetsu【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zetsu/js.json
-
-Package: com.sini921.addtofolder
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common (>= 1.14)
-Filename: rootless/com.sini921.addtofolder_1.4_iphoneos-arm64.deb
-Size: 112636
-MD5sum: 5657b3fd3783a43c36251b08f248c78e
-SHA1: 45178b739fc383669170df20b5e6d9e424225dd7
-SHA256: d93eac6d00a048d6da58ce2e0961c6f194f7002a57296ddc8fab67408a7276a6
-Section: 越狱插件
-Description: 长按桌面图标添加到指定文件夹
-Author: AnthoPak <anthopakdev@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/addtofolder.png
-Name: AddToFolder【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/addtofolder/js.json
 
 Package: com.sini921.betteruiswitch
 Version: 1.1
@@ -3309,43 +3030,6 @@ Author: TiaoTiao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: BetterUISwitch【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/betteruiswitch/js.json
-
-Package: com.sini921.canna
-Version: 0.9.0
-Architecture: iphoneos-arm64
-Maintainer: Sini921
-Installed-Size: 288
-Depends: mobilesubstrate
-Filename: rootless/com.sini921.canna_0.9.0_iphoneos-arm64.deb
-Size: 37280
-MD5sum: 795c8a8ff37630d07aaebffaee6ecb7e
-SHA1: f63b6c077543a9aee05fb83a5289b787cb4f4ea6
-SHA256: ccf30b3f1a8afe918de8de1c7ff8fc5c5459a21804888ab09b269f5847ecf4e4
-Section: 越狱插件
-Description: 自定义锁屏和充电提示音。var/jb/Library/Tweak Support/Canna路径下替换自己喜欢的声音文件。
-Author: Luki
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: Canna【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/canna/js.json
-Sponsor: Sini921
-
-Package: com.sini921.infuseplus
-Version: 1.3.2
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Installed-Size: 836
-Depends: mobilesubstrate
-Filename: rootless/com.sini921.infuseplus_1.3.2_iphoneos-arm64.deb
-Size: 220704
-MD5sum: d9b580b6e2e72da98b5bbbaa7762d303
-SHA1: 15e071fa46e68caca7084255405378c01ca72fd2
-SHA256: cf82a4ca910a28a6e3164516ad5727ac398d87224f71a9f2063b922f964135dd
-Section: 应用破解
-Description: Infuse应用程序的增强功能
-Author: dvntm
-Icon: https://sini921.github.io/repo/sileodepiction/icon/infuseplus.png
-Name: Infuse Plus【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/infuseplus/js.json
 
 Package: com.sini921.pancake
 Version: 2.2
@@ -3770,23 +3454,6 @@ Author: udevs
 icon: https://sini921.github.io/repo/sileodepiction/icon/dockx.png
 Name: DockX【rootless】
 
-Package: con.sini.instantcamera
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: Sini921
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0), com.ginsu.comet
-Filename: rootless/con.sini.instantcamera_1.1.1_iphoneos-arm64.deb
-Size: 47132
-MD5sum: f69109ae52352769fa665d699158ab9e
-SHA1: 3a5317ee8732b7e2d3b88b12882dfb1966e1dae9
-SHA256: 15c8f9282dc9c340e071d01898bfb1afba6ebc1c0dba8d098c9de827b94f83f5
-Section: 越狱插件
-Description: 点击锁屏界面的相机按钮立即打开相机并拍照
-Author: sourcelocation
-Icon: https://sini921.github.io/repo/sileodepiction/icon/spxj.png
-Name: InstantCamera【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/spxj/js.json
-
 Package: jp.soh.freepip
 Version: 0.0.3-1
 Architecture: iphoneos-arm64
@@ -3855,23 +3522,6 @@ Author: 妖刀
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: CCHide++【roothide】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cchide/js.json
-
-Package: com.sini.iconrestore
-Version: 1.7
-Architecture: iphoneos-arm64e
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 412
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: roothide/com.sini.iconrestore_1.7_iphoneos-arm64e.deb
-Size: 29792
-MD5sum: 4f1af1137bbe1c20515f774aabce7205
-SHA1: 857e50caac7c12f3db68ca2ebc3a939d4f749997
-SHA256: da8ba6cb0a24e799a0bdf83a84be3fd89cd906f3399c4b949811cfd57dbfaf18
-Section: 越狱插件
-Description: 保存并恢复图标的布局。
-Author: Lessica <82flex@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/icon.png
-Name: Icon Restore【roothide】
 
 Package: com.sini.kayoko
 Version: 2.7
@@ -3976,22 +3626,4 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: Lessica
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yuyin.png
 Name: 语音转文字免跳转【roothide】
-
-Package: com.sini921.infuseplus
-Version: 1.3.2
-Architecture: iphoneos-arm64e
-Maintainer: dvntm
-Installed-Size: 836
-Depends: mobilesubstrate
-Filename: roothide/com.sini921.infuseplus_1.3.2_iphoneos-arm64e.deb
-Size: 219900
-MD5sum: 158adc1d736b6832a32a666f14d1db32
-SHA1: aad244a4cfc4a39877ae3e0cc74ed88f318a9c26
-SHA256: 1e7ebed0ebd39a44aa8276bb04c9d2c381d4585f9e2f41c9f96a6a283206f6b2
-Section: 应用破解
-Description: Infuse应用程序的增强功能
-Author: dvntm
-Icon: https://sini921.github.io/repo/sileodepiction/icon/infuseplus.png
-Name: Infuse Plus【roothide】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/infuseplus/js.json
 
