@@ -66,12 +66,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.9.1-1",
+                    "text": "5.9.2-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024年11月15日",
+                    "text": "2024年12月2日",
                     "title": "更新日期"
                 },
                 {
@@ -90,6 +90,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 5.9.2-1\n- 新增使用动态底栏图标开关\n- 新增启用原始红点素材设置开关\n- 新增主题列表下滑定位到在用的\n- 修复标题/昵称/备注色值部分位置失效 的问题\n- 修复小店订单与卡包图标失效问题\n- 新增部分映射\n- 修复部分机型顶栏可能存在异色缝隙",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
