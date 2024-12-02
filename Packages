@@ -82,7 +82,8 @@ SHA256: 541973ff6c9099deae095555627ee2d6c04d405e39ffff5e75a9751d22636cc2
 Section: 越狱插件
 Description: 分词，翻译。
 Author: lclrc(SquidForce)
-Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+icon: https://sini921.github.io/repo/sileodepiction/icon/hammerit.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/hammerit/js.json
 Name: Hammer It【rootless】
 
 Package: com.sini.3dnetworkfixer
