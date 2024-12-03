@@ -668,18 +668,18 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
 Name: CCBorder16【rootless】
 
 Package: com.sini.ccless
-Version: 2.0.5.5
+Version: 2.0.6
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake, com.kdt.caperfhudmodule, com.kingpuffdaddi.control-center.ccvibration
-Filename: rootless/com.sini.ccless_2.0.5.5_iphoneos-arm64.deb
-Size: 507800
-MD5sum: 68dc576934dec9833b5a16734e7f721d
-SHA1: 4dd3361e2e029fab75afb243711e04b0ca4db647
-SHA256: 5ffa1adb6f90c6a38de9ee8d8ae383df78a8c75660713a915d36faf9518e42a4
+Filename: rootless/com.sini.ccless_2.0.6_iphoneos-arm64.deb
+Size: 515064
+MD5sum: d3025a9501d0bcc75a36c5f82a45abbd
+SHA1: 4540b2d2c1edfafb957c92e060aa473a3f82eea1
+SHA256: f0656518d810c306d27fa8bac1820fc1cef602360a185d3c0928b724efff1779
 Section: 越狱插件
-Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2、微信/支付宝付款码、抬起唤醒等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks、真皮等各位大佬！！！
+Description: 超级控制中心模块集合！
 Author: 妖刀
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: CCLess++【rootless】
