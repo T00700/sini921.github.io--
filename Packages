@@ -757,24 +757,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/saily.png
 Name: Saily【rootless】
 
 Package: com.sini.classicfolders3
-Version: 3.0.5.7
-Architecture: iphoneos-arm64
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4360
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootless/com.sini.classicfolders3_3.0.5.7_iphoneos-arm64.deb
-Size: 3282920
-MD5sum: 85e6c62465b20b10877584c34f72bf6b
-SHA1: 22b34274495aff2e2a9a65f12d22a14b6f5e20ee
-SHA256: 6edeef55cff067f22039e4c3e4ee6850b57a29450f9dcf34fa84d7679da00b22
-Section: 越狱插件
-Description: CoolStar的经典文件夹3
-Author: CoolStar & Lizynz
-Icon: https://sini921.github.io/repo/sileodepiction/icon/class.png
-Name: ClassicFolders 3【rootless】
-
-Package: com.sini.classicfolders3
 Version: 3.0.5.8
 Architecture: iphoneos-arm64
 Maintainer: CoolStar & Lizynz & 妖刀
@@ -3016,6 +2998,24 @@ Author: TiaoTiao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: BetterUISwitch【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/betteruiswitch/js.json
+
+Package: com.sini921.lecard
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: rootless/com.sini921.lecard_0.1_iphoneos-arm64.deb
+Size: 408712
+MD5sum: a1aa8a977cbd3919d15a60f82e30e899
+SHA1: 2efb57c5a36b5b5960216fa3907ef77e08841881
+SHA256: 0e9a1f51fa23909d714275ba85e733884191823e894824c48c5498aa8e5b2ec2
+Section: 越狱插件
+Description: 分屏
+Author: Crassna
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: lecard【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lecard/js.json
 
 Package: com.sini921.pancake
 Version: 2.2
