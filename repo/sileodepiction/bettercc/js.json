@@ -66,12 +66,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.6",
+                    "text": "0.0.6-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024年11月11日",
+                    "text": "2024年12月9日",
                     "title": "更新日期"
                 },
                 {
@@ -95,7 +95,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 0.0.6\n- 这个源主很懒\n- 懒得写更新日志",
+                    "markdown": "#### 版本: 0.0.6-1\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }

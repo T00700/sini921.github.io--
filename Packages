@@ -523,15 +523,15 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/betteralarm/js.jso
 Sponsor: Sini921
 
 Package: com.sini.bettercc
-Version: 0.0.6
+Version: 0.0.6-1
 Architecture: iphoneos-arm64
 Maintainer: Sini921
 Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
-Filename: rootless/com.sini.bettercc_0.0.6_iphoneos-arm64.deb
-Size: 48172
-MD5sum: 759f830bf19ca25115cd09abbc7549df
-SHA1: 990e8d19a0f72f5e06eefa46327e213253e44e87
-SHA256: b5d1e4e0bc205fdf0dfacdf03c339b533e2fd0b7fb5a83e6f2d99a6d6590eeab
+Filename: rootless/com.sini.bettercc_0.0.6-1_iphoneos-arm64.deb
+Size: 48580
+MD5sum: 64a7bbeb18b38c3724b0d8cca23722af
+SHA1: d6b907462465df60d4dc80678d4c10b11cb20ab4
+SHA256: a7d9b552a28351f8955ab378ff1519d1cd98bd5db7debdcb71454d5ddaf4c996
 Section: 越狱插件
 Description: 控制中心模块大小调整
 Author: Miguelaka95
