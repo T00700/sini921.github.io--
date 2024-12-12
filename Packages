@@ -110,14 +110,15 @@ Architecture: iphoneos-arm64
 Maintainer: 77Theme
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: rootless/com.sini.77theme_0.3.2_iphoneos-arm64.deb
-Size: 3836648
-MD5sum: b15f9bbf838d2c583523b50cba9044ea
-SHA1: 2df482a9a395983f2bf4700253a5089964e0d0e4
-SHA256: dd01f827587a54543a15ea32d836a612f375be16ca3b4cf2b5735696f29ae7d4
-Section: 微信插件icon: https://sini921.github.io/repo/sileodepiction/icon/77theme.png
+Size: 3834740
+MD5sum: 6ecf53a707eac3d63b53e64024e1156b
+SHA1: df58b3d076f75ce61b74b1be55e9e2793438478e
+SHA256: fa872d003f369184062df4117f4560c1575436ed3875fabfd4099fe055ae7038
+Section: 微信插件
 Priority: optional
 Description: 微信主题美化，插件免费，主题需付费
 Author: 77Theme
+Icon: https://sini921.github.io/repo/sileodepiction/icon/77theme.png
 Name: 77Theme【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/77theme/js.json
 
