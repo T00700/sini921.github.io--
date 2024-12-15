@@ -612,25 +612,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/cjt.png
 Name: BigShot【rootless】
 Sponsor: sini921
 
-Package: com.sini.camelapsedplus
-Version: 1.0.0-1
-Architecture: iphoneos-arm64
-Installed-Size: 164
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
-Conflicts: org.thebigboss.camelapsedplus
-Replaces: org.thebigboss.camelapsedplus
-Provides: org.thebigboss.camelapsedplus
-Filename: rootless/com.sini.camelapsedplus_1.0.0-1_iphoneos-arm64.deb
-Size: 20180
-MD5sum: f1f1415273214f09cbfd242710168482
-SHA1: 1e039aed8900b6e851a04cf728ea9aedb0e4b861
-SHA256: c4687d37c961dadc85991c3d34bac7e081dec1356601d5853eb27ff3204195e8
-Section: 越狱插件
-Description: 在相机应用程序中录制视频时，录制时间增加亚秒。
-Author: PoomSmart
-Icon: https://sini921.github.io/repo/sileodepiction/icon/came.png
-Name: CamElapsed+【rootless】
-
 Package: com.sini.cc18
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -3017,6 +2998,24 @@ Author: TiaoTiao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: BetterUISwitch【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/betteruiswitch/js.json
+
+Package: com.sini921.camelapsedplus
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 196
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Filename: rootless/com.sini921.camelapsedplus_1.0.1_iphoneos-arm64.deb
+Size: 20024
+MD5sum: b49ce36ba3acb64869196c9a44863b2f
+SHA1: 47663b114d4e4d788a60943a4e398035c6ac0527
+SHA256: 86ae84ca2fbab17fdce38c9d6ea7efcaa263fe6a002238b496f35494e5cd5f99
+Section: 越狱插件
+Description: 在 iOS 相机应用程序中录制视频时，录制时间增加亚秒
+Author: PoomSmart
+Icon: https://sini921.github.io/repo/sileodepiction/icon/camelapsedplus.png
+Name: CamElapsed+【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/camelapsedplus/js.json
 
 Package: com.sini921.centra
 Version: 1.0
