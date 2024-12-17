@@ -3278,16 +3278,16 @@ Name: WCHideChatAvatars【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wchidechatavatars/js.json
 
 Package: com.sini921.wcmypageinfocenter
-Version: 1.1-6
+Version: 1.1-7
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 188
 Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: rootless/com.sini921.wcmypageinfocenter_1.1-6_iphoneos-arm64.deb
-Size: 53056
-MD5sum: 8d7ec59004b518bb4cd383199417c873
-SHA1: d9918198d91a3990f318981059a9224c39c0626d
-SHA256: 852be0c01588bfe7eadc65b51ed45e21844de336d0530ef33cee028d961828d3
+Filename: rootless/com.sini921.wcmypageinfocenter_1.1-7_iphoneos-arm64.deb
+Size: 52624
+MD5sum: 17bc06ed04bb36c4ce2d16c34e299322
+SHA1: 7d08a9a0728a424ecf6c21c44fe8739a6354e85d
+SHA256: 325bdfc2b3e1b5afcbc0756e11e07e2a1d7cb4c7abd6737b80f0cff0071771ac
 Section: 微信插件
 Description: 微信我的页面资料居中
 Author: Netskao
