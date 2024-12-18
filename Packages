@@ -3227,24 +3227,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: 主题盒子【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/themebox/js.json
 
-Package: com.sini921.varclean
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: m1337
-Installed-Size: 876
-Depends: firmware (>= 15.0)
-Filename: rootless/com.sini921.varclean_1.1_iphoneos-arm64.deb
-Size: 721288
-MD5sum: d25e3b8db93b74c4f6c734e91a420c63
-SHA1: 70ce10748785c27256bd9be1cab8e183b98986a0
-SHA256: 1c99618a5a1dcc602a90cc2f85ce6fcffaf2b8d91ac00d8ad249d320b02ea515
-Section: 越狱应用
-Description: var清理rootless版
-Author: m1337
-Icon: https://sini921.github.io/repo/sileodepiction/icon/varclean.png
-Name: varClean【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/varclean/js.json
-
 Package: com.sini921.visionos
 Version: 3.2
 Architecture: iphoneos-arm64
