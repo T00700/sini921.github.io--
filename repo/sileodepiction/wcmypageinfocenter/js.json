@@ -99,7 +99,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 1.1-8\n- 支持昵称修改\n- 支持换行,
+                    "markdown": "#### 版本: 1.1-8\n- 支持昵称修改\n- 支持换行",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
