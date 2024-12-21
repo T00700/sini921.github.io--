@@ -3263,6 +3263,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: 主题盒子【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/themebox/js.json
 
+Package: com.sini921.themebox
+Version: 1.0.5-2
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 4848
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.themebox_1.0.5-2_iphoneos-arm64.deb
+Size: 2182668
+MD5sum: 262c4d303004a62580fd58c7690854d2
+SHA1: e771261e0612fad7fb7124277466a9d352220f0d
+SHA256: 829c8db20be26fca94ef0b0e7c5bf5882b5471b60d0ba10b1d014fd80fb60984
+Section: 微信插件
+Description: 微信主题盒子，需购买主题后启用主题才能使用插件的其他功能
+Author: WeChat
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
+Name: 主题盒子【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/themebox/js.json
+
 Package: com.sini921.visionos
 Version: 3.2
 Architecture: iphoneos-arm64
