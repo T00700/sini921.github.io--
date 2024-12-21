@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 群管理Pro、标签Pro\n- 显示群友真名字、群管标识\n- 艾特提醒、动态群昵称\n- 自定义API(图、文本、视频)、消息统计、加密对话\n- Bark消息推送、定时问候、JD自动签到\n- 好友分析、会话分析、每天60s新闻快报\n- 防撤回、退群监控、步数定时修改、朋友圈特别关注\n- 自动更新微信状态、长头像\n- 消息二次确认、拍一拍二次确认\n- 艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计\n- 关键词自动回复、转账自动收款、收款自动回复\n- 批量退群、批量修改群昵称\n- 自动通过好友请求、自动互删好友、id加好友、匿名艾特等\n- 本项目旨在学习 iOS 逆向的一点实践\n- 不可使用于商业和个人其他意图\n- 若使用不当，均由个人承担\n- 如有侵权，请联系本人删除",
+                    "markdown": "## 描述\n- 群管理Pro、标签Pro\n- 显示群友真名字、群管标识\n- 艾特提醒、动态群昵称\n- 自定义API(图、文本、视频)、消息统计、加密对话\n- Bark消息推送、定时问候、JD自动签到\n- 好友分析、会话分析、每天60s新闻快报\n- 防撤回、退群监控、步数定时修改、朋友圈特别关注\n- 自动更新微信状态、长头像\n- 消息二次确认、拍一拍二次确认\n- 艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计\n- 关键词自动回复、转账自动收款、收款自动回复\n- 批量退群、批量修改群昵称\n- 自动通过好友请求、自动互删好友、id加好友、匿名艾特等",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -66,12 +66,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.6-5",
+                    "text": "0.6-7",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024年11月21日",
+                    "text": "2024年12月21日",
                     "title": "更新日期"
                 },
                 {
@@ -90,6 +90,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.6-7\n- 修复软件在8054一些问题，如群管理Pro二维码检测失效、文件警告失效、加密图转发失效、关键词回复聊天记录图失效等问题\n- [朋友圈特别关注]支持Live实况转发到本人窗口\n- [文转语]新增FV积分兑换字符按钮、查询剩余字符按钮\n- [个性签名复制]优化，点击自己签名设置则不触发复制",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
