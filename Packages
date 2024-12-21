@@ -1282,24 +1282,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/gonggao.png
 Name: - 季伯之家源公告
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/gonggao/js.json
 
-Package: com.sini.griddy
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: mikifp
-Installed-Size: 204
-Depends: mobilesubstrate
-Filename: rootless/com.sini.griddy_1.0.4_iphoneos-arm64.deb
-Size: 19884
-MD5sum: 1ff36e98be498dbc1968b4bbcbc70ac5
-SHA1: b6bd798606104a533abb0babe444ee8ed1c0aa83
-SHA256: 80838d0ba2fa1e3a21de2cf6f32bd801f0c974cfeb324e3da589e8864bf23e38
-Section: 越狱插件
-Description: 桌面图标瞎季伯摆
-Author: mikifp
-Icon: https://sini921.github.io/repo/sileodepiction/icon/griddy.png
-Name: Griddy【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
-
 Package: com.sini.hidescreenshotpreview
 Version: 1.2-1
 Architecture: iphoneos-arm64
@@ -2288,13 +2270,13 @@ Depends: mobilesubstrate, firmware (>= 6.0)
 Conflicts: org.thebigboss.smoothcursor
 Filename: rootless/com.sini.smoothcursorios13_0.0.1_iphoneos-arm64.deb
 Size: 3168
-MD5sum: 8d6e81a0953c78d7f5d19f5b1ea8b6ce
-SHA1: 006d2280f75aa2ec4cc738a6865f1f8cc08c5d38
-SHA256: afe759bd169169390a7c64a6a3612019c111e8675b832144ff4fe97608e3b42b
+MD5sum: fe7793eeb0aab5a38d7bbc594aae3fd3
+SHA1: b7dc713831144ded51624ece34c5ca40d2003f78
+SHA256: 3bceef13063ec059a63f2a1f7bc94631cfcb0015de1a6321437cc9017356798b
 Section: 越狱插件
 Description: Office 2013风格的光标动画
 Author: PoomSmart
-Icon: https://sini921.github.io/repo/sileodepiction/icon/office.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: SmoothCursor【rootless】
 
 Package: com.sini.smtforsnapper3
@@ -3031,6 +3013,24 @@ Author: Hitori
 Icon: https://sini921.github.io/repo/sileodepiction/icon/centra.png
 Name: Centra【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/centra/js.json
+
+Package: com.sini921.griddy
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: rootless/com.sini921.griddy_1.0.5_iphoneos-arm64.deb
+Size: 19072
+MD5sum: e4da698e30df8f7aee290f1712f20b16
+SHA1: f84237aaf300f3896aa6e4ac962a5fed282e6c82
+SHA256: e2d85c95a9f7690c9240e48569eab4d16198895ab8ab93633c1831cba62ad19f
+Section: 越狱插件
+Description: 桌面图标随意摆
+Author: mikifp
+Icon: https://sini921.github.io/repo/sileodepiction/icon/griddy.png
+Name: Griddy【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
 Package: com.sini921.lecard
 Version: 0.1
