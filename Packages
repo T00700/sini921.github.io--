@@ -3067,6 +3067,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/pancake.png
 Name: PanCake【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/pancake/js.json
 
+Package: com.sini921.qmxshook
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.qmxshook_1.0.3_iphoneos-arm64.deb
+Size: 114728
+MD5sum: 3098f734c306fa859d0730b22274120a
+SHA1: 96803f81d55a1a1dcbb27ca3feb71a260e3879a9
+SHA256: 5bcc431399fb1fcec5f71e80480da4c7c88949c4eb08ac329fb3303991580af9
+Section: 应用破解
+Description: 开通免广告权益 仅支持7.63.10版本
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/qmxshook.png
+Name: 七猫小说Hook【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/qmxshook/js.json
+
 Package: com.sini921.qqavatarrotation
 Version: 1.1.0-1
 Architecture: iphoneos-arm64
@@ -3913,4 +3931,22 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: Lessica
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yuyin.png
 Name: 语音转文字免跳转【roothide】
+
+Package: com.sini921.qqavatarrotation
+Version: 1.1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/com.sini921.qqavatarrotation_1.1.0-1_iphoneos-arm64e.deb
+Size: 3684
+MD5sum: 1849050df61b3c214378ea9c0c116462
+SHA1: 1a3242a5c03cae74a0c5009d7ae3fdaae94e8f28
+SHA256: f480f00e9e61f0e4d5b6b584ca1bb297af65656c37cb9670b8d08703e3d6efcc
+Section: 应用破解
+Description: QQ头像瞎季伯转，仅在9.1.25版本上测试。
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/qq.png
+Name: QQAvatarRotation【roothide】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/qqavatarrotation/js.json
 
