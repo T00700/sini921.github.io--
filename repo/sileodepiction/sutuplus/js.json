@@ -66,12 +66,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.9.2-1",
+                    "text": "5.9.3-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024年12月2日",
+                    "text": "2024年12月25日",
                     "title": "更新日期"
                 },
                 {
@@ -90,6 +90,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 5.9.3-1\n- 新增支持动态背景(仅聊天页,支持自适应黑白切换)\n- 新增悬浮底栏支持\n- 新增支持自定义拉伸气泡(如圆气泡、需主题po制作)\n- 重归类整理了主题应用设置页面\n- 再次兼容新的卡包图标",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
