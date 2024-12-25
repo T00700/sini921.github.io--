@@ -773,24 +773,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: ClassicKeyboardXS【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/classickeyboardxs/js.json
 
-Package: com.sini.cmm
-Version: 1.0.1-2
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Installed-Size: 296
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.cmm_1.0.1-2_iphoneos-arm64.deb
-Size: 67432
-MD5sum: 148b88b95010995ad0caced2361b1965
-SHA1: 5da24eed47eefe4d733e1005b4d416c4e1cb085b
-SHA256: 33810f672cb4db4decf85522f38dd4104d4a816c1aba9115ae3b6ae6e99e9ed9
-Section: 越狱插件
-Description: 系统电话应用的收藏列表和通话记录列表点击号码弹出拨号确认弹窗。长按底栏弹出设置。根据开源代码重新编译，修改了一些细节并汉化。
-Author: dvntm & Sini921
-Icon: https://sini921.github.io/repo/sileodepiction/icon/cmm.png
-Name: CallMeMaybe【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/cmm/js.json
-
 Package: com.sini.colorfulwallpaperx
 Version: 4.6k
 Architecture: iphoneos-arm64
@@ -3012,6 +2994,24 @@ Author: Hitori
 Icon: https://sini921.github.io/repo/sileodepiction/icon/centra.png
 Name: Centra【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/centra/js.json
+
+Package: com.sini921.cmm
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm & SINI
+Installed-Size: 300
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.cmm_1.0.1_iphoneos-arm64.deb
+Size: 71560
+MD5sum: 8be82beb013e59165fff0fba52e38b18
+SHA1: 454c8f086ffb24164167a5280e6c96295fad009d
+SHA256: 2644d19eaa1cef7b4bf5dd4b140e351b945b69d522e05275de16f6486e6ef795
+Section: 越狱插件
+Description: 系统电话应用程序的增强功能
+Author: dvntm & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cmm.png
+Name: CallMeMaybe【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cmm/js.json
 
 Package: com.sini921.griddy
 Version: 1.0.5
