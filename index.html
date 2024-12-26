@@ -14,27 +14,26 @@
     justify-content: flex-start;
     align-items: center;
     box-shadow: none;
-    overflow: hidden;
   }
 
   h1 {
     color: rgba(255, 255, 255, 0.8);
     font-size: 3em;
     font-family: Arial, sans-serif;
-    margin: 5px 0;
+    margin: 30px 0;
     text-shadow: 0 0 10px rgba(255, 255, 255, 0.5), 
                  0 0 20px rgba(255, 255, 255, 0.3);
     cursor: pointer;
   }
 
   .image-container {
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
     margin-top: 20px;
     position: relative;
     cursor: pointer;
     animation: spin 5s linear infinite;
-    margin-top: 20px;
+    margin-top: -10px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -77,7 +76,7 @@
     font-family: Arial, sans-serif;
     font-size: 0.6em;
     position: relative;
-    top: -10px;
+    top: -35px;
     text-shadow: 0 0 10px rgba(255, 255, 255, 0.6),
                  0 0 20px rgba(255, 255, 255, 0.4),
                  0 0 30px rgba(255, 255, 255, 0.2);
@@ -88,7 +87,7 @@
     font-family: Arial, sans-serif;
     font-size: 0.6em;
     position: relative;
-    top: -10px;
+    top: -35px;
     text-shadow: 0 0 10px rgba(255, 255, 255, 0.6),
                  0 0 20px rgba(255, 255, 255, 0.4),
                  0 0 30px rgba(255, 255, 255, 0.2);
@@ -202,8 +201,13 @@
     color: rgba(255, 255, 255, 0.6);
     font-size: 0.8em;
     text-align: center;
-    margin-top: 40px;
-  }
+    position: absolute;
+    bottom: 20px;
+    }
+    .infos{
+      position: absolute;
+      top: 25%;
+    }
 </style>
 </head>
 <body>
@@ -212,7 +216,8 @@
   <div class="time" id="current-time"></div>
   <div class="timestamp" id="timestamp"></div>
 
-  <div class="image-container" onclick="playAudio()">
+  <div class="infos">
+    <div class="image-container" onclick="playAudio()">
     <img src="repo/images/likaixin.png" alt="图片">
   </div>
   <audio id="audio">
@@ -235,6 +240,7 @@
       <img src="repo/images/esign.png" alt="轻松签">
       <div class="source-text">添加到轻松签</div>
     </div>
+  </div>  
   </div>
 
   <div class="overlay" id="modal-overlay">
