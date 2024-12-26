@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=0.8, maximum-scale=0.8, minimum-scale=0.8, user-scalable=no, minimal-ui">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
 <title>季伯之家源</title>
 <style>
   body {
@@ -27,13 +27,13 @@
   }
 
   .image-container {
-    width: 350px;
-    height: 350px;
-    margin-top: 20px;
+    width: 270px;
+    height: 270px;
+    margin-top: 0px;
     position: relative;
     cursor: pointer;
     animation: spin 5s linear infinite;
-    margin-top: 10px;
+    margin-top: -10px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -112,7 +112,8 @@
   .source-container img {
     width: 40px; 
     height: 40px;
-    border-radius: 15px;
+    margin-top: -10px;
+    border-radius: 10px;
     margin-bottom: 0px;
     box-shadow: 0 0 2px rgba(255, 255, 255, 0.5),
                 0 0 6px rgba(255, 255, 255, 0.5);
@@ -201,8 +202,13 @@
     color: rgba(255, 255, 255, 0.6);
     font-size: 0.8em;
     text-align: center;
-    margin-top: 40px;
-  }
+    position: absolute;
+    bottom: 20px;
+    }
+    .infos{
+      position: absolute;
+      top: 25%;
+    }
 </style>
 </head>
 <body>
@@ -211,7 +217,8 @@
   <div class="time" id="current-time"></div>
   <div class="timestamp" id="timestamp"></div>
 
-  <div class="image-container" onclick="playAudio()">
+  <div class="infos">
+    <div class="image-container" onclick="playAudio()">
     <img src="repo/images/likaixin.png" alt="图片">
   </div>
   <audio id="audio">
@@ -234,6 +241,7 @@
       <img src="repo/images/esign.png" alt="轻松签">
       <div class="source-text">添加到轻松签</div>
     </div>
+  </div>  
   </div>
 
   <div class="overlay" id="modal-overlay">
