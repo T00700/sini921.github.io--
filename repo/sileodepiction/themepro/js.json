@@ -66,12 +66,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.4.4",
+                    "text": "3.5.7",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024年12月15日",
+                    "text": "2024年12月26日",
                     "title": "更新日期"
                 },
                 {
@@ -90,6 +90,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 3.5.7\n- 新增Gif动图支持切换暗黑，且做了性能优化。\n- 新增全局心情动画。\n- 新增全局圆头像。\n- 新增资料页居中，水平，唱片/唱针，KTV歌词等玩法。\n- 修复聊天气泡防炸裂",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"

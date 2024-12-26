@@ -2538,17 +2538,17 @@ Name: textforsnapper3【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/textforsnapper3/js.json
 
 Package: com.sini.themepro
-Version: 3.4.4
+Version: 3.5.7
 Architecture: iphoneos-arm64
 Maintainer: MustangYM <MustangYM@yeah.net>
 Depends: mobilesubstrate
 Conflicts: ThemePro
 Replaces: ThemePro
-Filename: rootless/com.sini.themepro_3.4.4_iphoneos-arm64.deb
-Size: 7142380
-MD5sum: 19a954817f8b69e08c5a35d1b037f005
-SHA1: c12f48a48a0ef8d3c60ac9e8458db59560f41720
-SHA256: 4bf4575002008c33830c2c470d6f92fa59ee7936f3a98160b7a72a3973e8a229
+Filename: rootless/com.sini.themepro_3.5.7_iphoneos-arm64.deb
+Size: 5680672
+MD5sum: f6bbaad59e6b0a9e241d5108e1292c9c
+SHA1: c9058bdbbaaf0e6d95503bee821e6d0ca80f049f
+SHA256: baca04b670727354d713408872960dacf13e3a6e3f848448e45a8807a920da47
 Section: 微信插件
 Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
 Author: MustangYM <mm13299079785@gmail.com>
