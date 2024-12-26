@@ -18,9 +18,9 @@
 
   h1 {
     color: rgba(255, 255, 255, 0.8);
-    font-size: 3em;
+    font-size: 2em;
     font-family: Arial, sans-serif;
-    margin: 5px 0;
+    margin: 30px 0;
     text-shadow: 0 0 10px rgba(255, 255, 255, 0.5), 
                  0 0 20px rgba(255, 255, 255, 0.3);
     cursor: pointer;
@@ -33,7 +33,7 @@
     position: relative;
     cursor: pointer;
     animation: spin 5s linear infinite;
-    margin-top: 20px;
+    margin-top: 5px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -71,28 +71,6 @@
     margin-top: 15px;
   }
 
-  .time {
-    color: rgba(255, 255, 255, 0.8);
-    font-family: Arial, sans-serif;
-    font-size: 0.6em;
-    position: relative;
-    top: -10px;
-    text-shadow: 0 0 10px rgba(255, 255, 255, 0.6),
-                 0 0 20px rgba(255, 255, 255, 0.4),
-                 0 0 30px rgba(255, 255, 255, 0.2);
-  }
-
-  .timestamp {
-    color: rgba(255, 255, 255, 0.6);
-    font-family: Arial, sans-serif;
-    font-size: 0.6em;
-    position: relative;
-    top: -10px;
-    text-shadow: 0 0 10px rgba(255, 255, 255, 0.6),
-                 0 0 20px rgba(255, 255, 255, 0.4),
-                 0 0 30px rgba(255, 255, 255, 0.2);
-  }
-
   .source-row {
     display: flex;
     justify-content: center;
@@ -113,7 +91,7 @@
     width: 40px; 
     height: 40px;
     border-radius: 15px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     box-shadow: 0 0 2px rgba(255, 255, 255, 0.5),
                 0 0 6px rgba(255, 255, 255, 0.5);
     cursor: pointer;
@@ -207,10 +185,6 @@
 </head>
 <body>
   <h1 onclick="showModal()">季伯之家源</h1>
-
-  <div class="time" id="current-time"></div>
-  <div class="timestamp" id="timestamp"></div>
-
   <div class="image-container" onclick="playAudio()">
     <img src="repo/images/likaixin.png" alt="图片">
   </div>
@@ -245,8 +219,8 @@
   </div>
 
   <div class="footer">
-    <span style="text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.6), 0 0 30px rgba(255, 255, 255, 0.4);">
-      感谢「季伯麤」提供技术支持<br>本源由季伯之家「季伯奥迪哥<季伯橙>」独家冠名<br>季伯之家 © 2008~2024 季伯腾
+    <span style="text-shadow: 0 0 10px rgba(255, 255, 255, 0.6), 0 0 20px rgba(255, 255, 255, 0.4), 0 0 30px rgba(255, 255, 255, 0.2);">
+      本源由季伯之家「季伯奥迪哥<季伯橙>」独家冠名<br>季伯之家 © 2008~2024 季伯腾
     </span>
   </div>
 
@@ -275,29 +249,6 @@
         modal.classList.add('show');
       }, 10); 
     }
-
-    function updateTime() {
-      const timeElement = document.getElementById('current-time');
-      const timestampElement = document.getElementById('timestamp');
-
-      const now = new Date();
-      const options = { 
-        year: 'numeric', 
-        month: '2-digit', 
-        day: '2-digit', 
-        hour: '2-digit', 
-        minute: '2-digit', 
-        second: '2-digit', 
-        hour12: false, 
-        timeZone: 'Asia/Shanghai' 
-      };
-
-      timeElement.textContent = `北京时间: ${now.getFullYear()}年${(now.getMonth() + 1).toString().padStart(2, '0')}月${now.getDate().toString().padStart(2, '0')}日 ${now.getHours().toString().padStart(2, '0')}时${now.getMinutes().toString().padStart(2, '0')}分${now.getSeconds().toString().padStart(2, '0')}秒`;
-      timestampElement.textContent = `当前时间戳: ${Math.floor(now.getTime() / 1000)}`;
-    }
-
-    setInterval(updateTime, 1000);
-    updateTime();
   </script>
 </body>
 </html>
