@@ -239,16 +239,15 @@
       modal.classList.remove('show');
       setTimeout(() => {
         modal.style.display = 'none';
-      }, 300); // Delay the hiding to match the animation duration
+      }, 300); 
     }
 
-    // Show the modal by adding the 'show' class
     function showModal() {
       const modal = document.getElementById('modal-overlay');
       modal.style.display = 'flex';
       setTimeout(() => {
         modal.classList.add('show');
-      }, 10); // Small delay to allow for display change
+      }, 10); 
     }
   </script>
 </body>
