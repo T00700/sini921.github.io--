@@ -28,11 +28,11 @@
   .image-container {
     width: 350px;
     height: 350px;
-    margin-top: 20px;
+    margin-top: 10px;
     position: relative;
     cursor: pointer;
     animation: spin 5s linear infinite;
-    margin-top: 0px;
+    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -197,25 +197,26 @@
     position: absolute;
     pointer-events: none;
     z-index: 1000;
+    will-change: transform, opacity;
     animation: fall linear, rotate infinite;
   }
 
   @keyframes fall {
     0% {
-      top: -50px;
+        transform: translateY(-50px);
     }
     100% {
-      top: 100vh;
-      opacity: 0;
+        transform: translateY(100vh);
+        opacity: 0;
     }
   }
 
   @keyframes rotate {
     from {
-      transform: rotate(0deg);
+        transform: rotate(0deg);
     }
     to {
-      transform: rotate(360deg);
+        transform: rotate(360deg);
     }
   }
 </style>
@@ -289,26 +290,35 @@
     }
     setInterval(updateTime, 1000);
 
-    const emojis = ['🌺', '🌸', '🌼', '🍂', '🍁', '☘️', '🍀'];
+let emojiCount = 0;
+const maxEmojis = 50;
+const emojis = ['🌺', '🌸', '🌼', '🍀', '🍂', '☘️', '🍁'];
 
     function createEmoji() {
-      const emoji = document.createElement('div');
-      emoji.className = 'emoji';
-      emoji.textContent = emojis[Math.floor(Math.random() * emojis.length)];
-      emoji.style.left = Math.random() * 100 + 'vw';
-      emoji.style.fontSize = Math.random() * 5 + 20 + 'px';
-      emoji.style.opacity = Math.random() * 0.9 + 0.5;
-      emoji.style.animation = `fall ${Math.random() * 5 + 2}s linear, rotate ${Math.random() * 5 + 2}s linear`;
-      document.body.appendChild(emoji);
+       if (emojiCount >= maxEmojis) return;
 
-      emoji.addEventListener('animationend', () => emoji.remove());
-    }
+       const emoji = document.createElement('div');
+       emoji.className = 'emoji';
+       emoji.textContent = emojis[Math.floor(Math.random() * emojis.length)];
+       emoji.style.left = Math.random() * 100 + 'vw';
+       emoji.style.fontSize = Math.random() * 5 + 20 + 'px';
+       emoji.style.opacity = Math.random() * 1 + 0.5;
+       emoji.style.animation = `fall ${Math.random() * 5 + 2}s linear, rotate ${Math.random() * 5 + 2}s linear`;
+
+       document.body.appendChild(emoji);
+       emojiCount++;
+
+       emoji.addEventListener('animationend', () => {
+       emoji.remove();
+       emojiCount--;
+       });
+   }
 
     function startEmojiRain() {
-      setInterval(createEmoji, 200); 
-    }
+       setInterval(createEmoji, 100);
+   }
 
-    startEmojiRain(); 
+       startEmojiRain();
   </script>
 </body>
 </html>
