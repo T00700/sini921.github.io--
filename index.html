@@ -192,6 +192,32 @@
     margin-top: 40px;
     text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
   }
+
+  .emoji {
+    position: absolute;
+    pointer-events: none;
+    z-index: 1000;
+    animation: fall linear, rotate infinite;
+  }
+
+  @keyframes fall {
+    0% {
+      top: -50px;
+    }
+    100% {
+      top: 100vh;
+      opacity: 0;
+    }
+  }
+
+  @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
 </style>
 </head>
 <body>
@@ -262,6 +288,27 @@
       timestampElement.textContent = `时间戳: ${Math.floor(now.getTime() / 1000)}`;
     }
     setInterval(updateTime, 1000);
+
+    const emojis = ['🌺', '🌸', '🌼', '🍂', '🍁', '☘️', '🍀'];
+
+    function createEmoji() {
+      const emoji = document.createElement('div');
+      emoji.className = 'emoji';
+      emoji.textContent = emojis[Math.floor(Math.random() * emojis.length)];
+      emoji.style.left = Math.random() * 100 + 'vw';
+      emoji.style.fontSize = Math.random() * 5 + 20 + 'px';
+      emoji.style.opacity = Math.random() * 0.9 + 0.5;
+      emoji.style.animation = `fall ${Math.random() * 5 + 2}s linear, rotate ${Math.random() * 5 + 2}s linear`;
+      document.body.appendChild(emoji);
+
+      emoji.addEventListener('animationend', () => emoji.remove());
+    }
+
+    function startEmojiRain() {
+      setInterval(createEmoji, 200); 
+    }
+
+    startEmojiRain(); 
   </script>
 </body>
 </html>
