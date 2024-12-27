@@ -198,26 +198,18 @@
     pointer-events: none;
     z-index: 1000;
     will-change: transform, opacity;
-    animation: fall linear, rotate infinite;
+    animation: fall-rotate linear infinite;
   }
 
-  @keyframes fall {
+@keyframes fall-rotate {
     0% {
-        transform: translateY(-50px);
+        transform: translateY(-50px) rotate(0deg);
+        opacity: 1;
     }
     100% {
-        transform: translateY(130vh);
+        transform: translateY(110vh) rotate(720deg);
         opacity: 0;
     }
-  }
-
-  /*@keyframes rotate {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }*/
   }
 </style>
 </head>
@@ -290,35 +282,35 @@
     }
     setInterval(updateTime, 1000);
 
-let emojiCount = 0;
-const maxEmojis = 50;
-const emojis = ['🌺','🌸','🌼'];
+    let emojiCount = 0;
+    const maxEmojis = 50;
+    const emojis = ['🌺', '🌸', '🌼'];
 
     function createEmoji() {
-       if (emojiCount >= maxEmojis) return;
+        if (emojiCount >= maxEmojis) return;
 
-       const emoji = document.createElement('div');
-       emoji.className = 'emoji';
-       emoji.textContent = emojis[Math.floor(Math.random() * emojis.length)];
-       emoji.style.left = Math.random() * 100 + 'vw';
-       emoji.style.fontSize = Math.random() * 5 + 20 + 'px';
-       emoji.style.opacity = Math.random() * 0.7 + 0.3;
-       emoji.style.animation = `fall ${Math.random() * 4 + 2}s linear, rotate ${Math.random() * 4 + 2}s linear`;
+        const emoji = document.createElement('div');
+        emoji.className = 'emoji';
+        emoji.textContent = emojis[Math.floor(Math.random() * emojis.length)];
+        emoji.style.left = Math.random() * 100 + 'vw';
+        emoji.style.fontSize = Math.random() * 5 + 20 + 'px';
+        emoji.style.opacity = Math.random() * 1 + 0.1;
+        emoji.style.animationDuration = `${Math.random() * 7 + 2}s`;
 
-       document.body.appendChild(emoji);
-       emojiCount++;
+        document.body.appendChild(emoji);
+        emojiCount++;
 
-       emoji.addEventListener('animationend', () => {
-       emoji.remove();
-       emojiCount--;
-       });
-   }
+        emoji.addEventListener('animationend', () => {
+            emoji.remove();
+            emojiCount--;
+        });
+    }
 
     function startEmojiRain() {
-       setInterval(createEmoji, 100);
-   }
+        setInterval(createEmoji, 100);
+    }
 
-       startEmojiRain();
+    startEmojiRain();
   </script>
 </body>
 </html>
