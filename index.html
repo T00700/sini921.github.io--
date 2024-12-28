@@ -284,7 +284,7 @@
 
     let emojiCount = 0;
     const maxEmojis = 50;
-    const emojis = ['🌺', '🌸', '🌼'];
+    const emojis = ['🌺', '🌸', '🌼', '☘️', '🍀', '🍂', '🍁'];
 
     function createEmoji() {
         if (emojiCount >= maxEmojis) return;
@@ -293,7 +293,7 @@
         emoji.className = 'emoji';
         emoji.textContent = emojis[Math.floor(Math.random() * emojis.length)];
         emoji.style.left = Math.random() * 100 + 'vw';
-        emoji.style.fontSize = Math.random() * 5 + 20 + 'px';
+        emoji.style.fontSize = Math.random() * 5 + 12 + 'px';
         emoji.style.opacity = Math.random() * 1 + 0.1;
         emoji.style.animationDuration = `${Math.random() * 7 + 2}s`;
 
