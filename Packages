@@ -2366,23 +2366,6 @@ Author: Skitty & EvenDev
 Icon: https://sini921.github.io/repo/sileodepiction/icon/spec.png
 Name: Spectrum【rootless】
 
-Package: com.sini.stella
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: 思念变成海
-Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 13.0), ws.hbang.common (>= 1.2)
-Filename: rootless/com.sini.stella_1.0.4_iphoneos-arm64.deb
-Size: 664644
-MD5sum: 099626c649cb49b839de3bedf7b9c8fb
-SHA1: 8eb48c6c27c441670085ae39b6886c80c9a106a3
-SHA256: 250b94118abdb5d5cb0f8f0b40c625eae8e655113f0bbfaee2489d6aef15ffc7
-Section: 越狱插件
-Description: 2002年的第一场雪，比以往来的稍季伯晚了亿些
-Author: yan
-Icon: https://sini921.github.io/repo/sileodepiction/icon/stella.png
-Name: Stella【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/stella/js.json
-
 Package: com.sini.stepup
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -3775,6 +3758,24 @@ Description: 键盘增强
 Author: udevs
 icon: https://sini921.github.io/repo/sileodepiction/icon/dockx.png
 Name: DockX【rootless】
+
+Package: com.yan.stella
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: yan
+Installed-Size: 1268
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: rootless/com.yan.stella_1.1.1_iphoneos-arm64.deb
+Size: 356040
+MD5sum: 23b781693d25f80df4d92df0979c0492
+SHA1: 94ff8e797e0631c31229e4d56b5efbaf3992ceb1
+SHA256: 4dd1f2c5649224d694307f0e863d773c8aae633566b1524abec4ce266e9c4c77
+Section: 越狱插件
+Description: 2003年的第一场雪，比2002年来的稍季伯晚了一些
+Author: yan
+Icon: https://sini921.github.io/repo/sileodepiction/icon/stella.png
+Name: Stella【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/stella/js.json
 
 Package: jp.soh.freepip
 Version: 0.0.3-1
