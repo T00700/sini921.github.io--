@@ -1536,10 +1536,10 @@ Architecture: iphoneos-arm64
 Maintainer: sini921
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Filename: rootless/com.sini.lynxtwo_2.5.3_iphoneos-arm64.deb
-Size: 652964
-MD5sum: 79facc887da8c052f881c96595aa27a4
-SHA1: 25d11eb3b7c689dca5567a9571c941f11c6de45d
-SHA256: fb0152c80b850083e715321d9d795f2d9e50f180fe3f1ab9495a9be4cc644fdf
+Size: 652428
+MD5sum: a68ba7571120e9fbd4255470f89c4050
+SHA1: a36a3cebe6e9a5ed144a49c027126caa212cf60b
+SHA256: e0b8fb7c653333f5cc35588d56397c2e2e09b86825f0be92ff87cacdcc152577
 Section: 越狱插件
 Description: 大杂烩，啥季伯功能都有
 Author: MTAC
