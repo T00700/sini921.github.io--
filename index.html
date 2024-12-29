@@ -187,10 +187,7 @@
   .emoji {     
       position: fixed;
       top: -50px;
-      color: white;
-      font-size: 1rem;
       animation: fall linear infinite;
-      opacity: 0.9;
       pointer-events: none;
     }
 
@@ -272,7 +269,7 @@
     setInterval(updateTime, 1000);
 
     let emojiCount = 0;
-    const maxEmojis = 50;
+    const maxEmojis = 100;
     const emojis = ['🌺', '🌸', '🌼', '☘️', '🍀', '🍂', '🍁'];
 
     function createEmoji() {
@@ -296,7 +293,7 @@
     }
 
     function startEmojiRain() {
-        setInterval(createEmoji, 100);
+        setInterval(createEmoji, 10);
     }
 
     startEmojiRain();
