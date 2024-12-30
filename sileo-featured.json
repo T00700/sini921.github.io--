@@ -1,7 +1,7 @@
 {
     "class": "FeaturedBannersView",
-    "itemSize": "{300, 150}",
-    "itemCornerRadius":5,
+    "itemSize": "{270, 170}",
+    "itemCornerRadius":8,
     "banners": [
         {
             "url": "http://sini921.github.io/repo/images/jiboxin5.png",
