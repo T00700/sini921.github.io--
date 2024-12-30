@@ -2522,6 +2522,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: SpringAnimations【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/springanimations/js.json
 
+Package: com.sini.stella
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: rootless/com.sini.stella_1.1.3_iphoneos-arm64.deb
+Size: 365496
+MD5sum: f217a1235b7acf93d2f414128e8b9e63
+SHA1: 3771a76d54d282379e0f8a1ed1dabc0db1598eb5
+SHA256: 9ad87f072d857283ca8d350d79ffe6516d5fcfd692d0cc0b39c60218b27ac125
+Section: 越狱插件
+Description: 2003年的第一场雪，比2002年来的稍季伯晚了一些
+Author: yan
+Icon: https://sini921.github.io/repo/sileodepiction/icon/stella.png
+Name: Stella【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/stella/js.json
+
 Package: com.sini.stepup
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -3632,24 +3649,6 @@ Description: 键盘增强
 Author: udevs
 icon: https://sini921.github.io/repo/sileodepiction/icon/dockx.png
 Name: DockX【rootless】
-
-Package: com.yan.stella
-Version: 1.1.2
-Architecture: iphoneos-arm64
-Maintainer: yan
-Installed-Size: 1332
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
-Filename: rootless/com.yan.stella_1.1.2_iphoneos-arm64.deb
-Size: 364776
-MD5sum: 4797ef23219f8f6391d65bb097da94cb
-SHA1: dbd2e8a7dcf6dabbc70809571de7ee1e978c3942
-SHA256: 0911fa4ad4b8b46a8da7d80600f5022598c1b5613c4ff4fdc63230133b6c557e
-Section: 越狱插件
-Description: 2003年的第一场雪，比2002年来的稍季伯晚了一些。
-Author: yan
-Icon: https://sini921.github.io/repo/sileodepiction/icon/stella.png
-Name: Stella【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/stella/js.json
 
 Package: jp.soh.freepip
 Version: 0.0.3-1
