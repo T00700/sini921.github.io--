@@ -2976,18 +2976,18 @@ Name: WCIsOverSeaUser【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcisoverseauser/js.json
 
 Package: com.sini.wcmypageinfocenter
-Version: 1.1-8
+Version: 1.1-9
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 220
 Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: rootless/com.sini.wcmypageinfocenter_1.1-8_iphoneos-arm64.deb
-Size: 65264
-MD5sum: d8d3dcb2166f42028228d0547eec776f
-SHA1: 64c62c299bd06ae18b1a3a72c0c5376c85b4a233
-SHA256: 33ec97a74ee1f23a8daefe2e17064b13521f33d9c31f052089e75e98d60274cd
+Filename: rootless/com.sini.wcmypageinfocenter_1.1-9_iphoneos-arm64.deb
+Size: 67744
+MD5sum: a304f7744eb83d429243264994016aaf
+SHA1: 234601fffaff0903be87eee016ff5283d6031336
+SHA256: 6cbcd361501bae8c1702d46d0bfaaa6162f17a3cb7af5a05241cfa2fd7732003
 Section: 微信插件
-Description: 微信我的页面资料居中
+Description: 微信"我"的页面资料居中，自定义微信号
 Author: Netskao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: WCMyPageInfoCenter【rootless】
