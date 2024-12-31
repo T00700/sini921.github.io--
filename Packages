@@ -2676,16 +2676,16 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/tg.png
 Name: Telegram Return【rootless】
 
 Package: com.sini.themebox
-Version: 1.0.6-2
+Version: 1.0.7-1
 Architecture: iphoneos-arm64
 Maintainer: WeChat
-Installed-Size: 5172
+Installed-Size: 5856
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.themebox_1.0.6-2_iphoneos-arm64.deb
-Size: 2341780
-MD5sum: d9c8a872cdd4296cfa6d8cd1b691bbaf
-SHA1: 88c7a7603c31117d13555c7ad64ca95339afeb90
-SHA256: 0f442f6ae9a6a2938a0df5ef473667ec6f2b1eaa970e23c259c5183ddfa74685
+Filename: rootless/com.sini.themebox_1.0.7-1_iphoneos-arm64.deb
+Size: 2615448
+MD5sum: ad6c55f47fa28ab7fc419aab9ee14d93
+SHA1: 5f37966be5c2aebf7ec35a1807aef3c10a571002
+SHA256: 41cd4c2b00ee8a8ca46bc409329c898708a9a3b0821b2ebbfeadc9a6ed9746dd
 Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
@@ -2956,25 +2956,6 @@ Author: Netskao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: WCMyPageInfoCenter【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcmypageinfocenter/js.json
-
-Package: com.sini.wcplugins.rootless
-Version: 0.1-3
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: rootless/com.sini.wcplugins.rootless_0.1-3_iphoneos-arm64.deb
-Size: 19696
-MD5sum: 76063ab057f2e32109ef3516dfc89744
-SHA1: 7ece2e4c226f7c8ccf50e26162d90ea65c247ccc
-SHA256: 1f23a74e17fdc1fee33242a8919478abd255e027d980dc670881bc315f799c70
-Section: 微信插件
-Priority: optional
-Description: 微信插件收纳
-Author: Mao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
-Name: 微信插件收纳【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcplugins/js.json
-Sponsor: admin@25mao.com
 
 Package: com.sini.wcpluginsplus.rootless
 Version: 0.1-3
