@@ -2712,18 +2712,18 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/tg.png
 Name: Telegram Return【rootless】
 
 Package: com.sini.themebox
-Version: 1.0.7-1
+Version: 1.0.8-1
 Architecture: iphoneos-arm64
 Maintainer: WeChat
-Installed-Size: 5856
+Installed-Size: 5824
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.themebox_1.0.7-1_iphoneos-arm64.deb
-Size: 2615448
-MD5sum: ad6c55f47fa28ab7fc419aab9ee14d93
-SHA1: 5f37966be5c2aebf7ec35a1807aef3c10a571002
-SHA256: 41cd4c2b00ee8a8ca46bc409329c898708a9a3b0821b2ebbfeadc9a6ed9746dd
+Filename: rootless/com.sini.themebox_1.0.8-1_iphoneos-arm64.deb
+Size: 2595704
+MD5sum: 49a55e4d80e2ebe85cf83bd82d7b4c93
+SHA1: 11187cbb235d7f3ac3a510220d556bca32235e08
+SHA256: 1e9f076629f2596972374ff23922798b95a393470fc5966821b933d9fb89eb24
 Section: 微信插件
-Description: 微信主题盒子
+Description: 微信主题美化，插件免费，主题需付费
 Author: WeChat
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: 主题盒子【rootless】
