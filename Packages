@@ -1515,6 +1515,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/kayoko.png
 Name: Kayoko【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayoko/js.json
 
+Package: com.sini.krashkop
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: FoxfortMobile
+Installed-Size: 428
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: rootless/com.sini.krashkop_1.0.2_iphoneos-arm64.deb
+Size: 191180
+MD5sum: fa0c4ec74dee7aff0ca0065a77a1235f
+SHA1: 520280a1b55bf9851de6e96c7e193325f87b4e1a
+SHA256: c4835639d5a4e1d1f2ef1a5ed003d59a82fa85a6472ff19232a747fe26f044a4
+Section: 越狱应用
+Description: 用于查看崩溃日志
+Author: FoxfortMobile
+Icon: https://sini921.github.io/repo/sileodepiction/icon/krashkop.png
+Name: KrashKop【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/krashkop/js.json
+
 Package: com.sini.kshook
 Version: 1.0.6-3
 Architecture: iphoneos-arm64
