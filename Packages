@@ -2696,16 +2696,16 @@ Name: StoreSwitcher【rootless】
 Sponsor: sini921
 
 Package: com.sini.sutuplus
-Version: 5.9.3-5
+Version: 5.9.5-1
 Architecture: iphoneos-arm64
 Maintainer: Carby <super.cat.sutuplus@gmail.com>
 Installed-Size: 1816
 Depends: mobilesubstrate
-Filename: rootless/com.sini.sutuplus_5.9.3-5_iphoneos-arm64.deb
-Size: 505832
-MD5sum: 9fe197aa761daaac6f9185f8ba4d436a
-SHA1: 1bb0aae27502d7974ff52ce983a58d3025a03789
-SHA256: 8e2fcd79b9f1ed7a966fbba65ae7caa07ea4718b4a7bd0072169c3c6e9f614a1
+Filename: rootless/com.sini.sutuplus_5.9.5-1_iphoneos-arm64.deb
+Size: 505360
+MD5sum: dc86fe03b86e0af4c6aa13e49e93d075
+SHA1: a9faf6f203a9b284a67829363d00583d96c78416
+SHA256: 71332f19d8b401d3d46c86d9e48f4e658f2f03a091d1e83f3ee9ee016fe9381d
 Section: 微信插件
 Description: 微信主题美化，插件免费，主题需付费
 Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
