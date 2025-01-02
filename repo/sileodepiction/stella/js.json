@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 2002年的第一场雪\n- 比以往来的稍季伯晚了亿些",
+                    "markdown": "## 描述\n- 2003年的第一场雪，\n- 比2002年来的稍季伯晚了一些",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -120,6 +120,14 @@
                 },
                 {
                     "markdown": "#### 版本: 1.1.1\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.0.4\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }

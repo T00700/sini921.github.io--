@@ -2628,6 +2628,57 @@ Name: Stay Pro【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/staypro/js.json
 
 Package: com.sini.stella
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: yan
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 13.0), ws.hbang.common (>= 1.2)
+Filename: rootless/com.sini.stella_1.0.4_iphoneos-arm64.deb
+Size: 663732
+MD5sum: 5261a21d26c6cfa8a354095f804924b9
+SHA1: 73ed3d9dce79d91d1a56f713db7386f06d7269dc
+SHA256: fef8788306c683009bfca8625c41c23e75d27cc182dd46eeb48b1ccc6664c5a0
+Section: 越狱插件
+Description: 2003年的第一场雪，比2002年来的稍季伯晚了一些
+Author: yan
+Icon: https://sini921.github.io/repo/sileodepiction/icon/stella.png
+Name: Stella【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/stella/js.json
+
+Package: com.sini.stella
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: yan
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: rootless/com.sini.stella_1.1.1_iphoneos-arm64.deb
+Size: 356724
+MD5sum: 322a3833dfaafcb575ec7662ff8b4399
+SHA1: f579612bb376a7de372017ec8bd183da659dd9a6
+SHA256: 3a8315cecf371a482d9bd0cc5852acc2671e8cb6fb0e9779511b3652c0673414
+Section: 越狱插件
+Description: 2003年的第一场雪，比2002年来的稍季伯晚了一些
+Author: yan
+Icon: https://sini921.github.io/repo/sileodepiction/icon/stella.png
+Name: Stella【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/stella/js.json
+
+Package: com.sini.stella
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: yan
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: rootless/com.sini.stella_1.1.2_iphoneos-arm64.deb
+Size: 365344
+MD5sum: bc08af70973cae811be43a64ff8c9da6
+SHA1: 23855d99419fc13606e914259819f4408079ec29
+SHA256: c8f8df328b6ba7fd5ed005aec855ccbec63901c42f3bfa41a0ec2776af0bee6e
+Section: 越狱插件
+Description: 2003年的第一场雪，比2002年来的稍季伯晚了一些
+Author: yan
+Icon: https://sini921.github.io/repo/sileodepiction/icon/stella.png
+Name: Stella【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/stella/js.json
+
+Package: com.sini.stella
 Version: 1.1.3
 Architecture: iphoneos-arm64
 Maintainer: SINI
