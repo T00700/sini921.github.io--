@@ -1090,20 +1090,20 @@ Name: DumpDecrypter【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dumpdecrypter/js.json
 
 Package: com.sini.dyhook
-Version: 2.0.8+5-1
+Version: 2.0.8+6
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 9024
+Installed-Size: 8940
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.dyhook_2.0.8+5-1_iphoneos-arm64.deb
-Size: 2766304
-MD5sum: 213293fda6927b7054015ea36c5b3a4e
-SHA1: e02afeb4f95314a44da0aa22b1b07c4639cc6880
-SHA256: 1e3a772218299fc62a976fea3d541f67ec2d4d1e81e818326b130f7813a77c5b
+Filename: rootless/com.sini.dyhook_2.0.8+6_iphoneos-arm64.deb
+Size: 2725668
+MD5sum: bacd17b682267dbdd770ce73ce2d1247
+SHA1: e05426c098acdf8a771594b408d42c711395ec80
+SHA256: 7eb0c5c6f3a2e3f35d05a4aa89821a39e040e962448c73daa8b30efa114c5d16
 Section: 应用破解
 Description: 自用 越狱食用
 Author: x✨
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dy.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyhook.png
 Name: 抖音图层【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyhook/js.json
 
@@ -2745,6 +2745,24 @@ Author: 0xkuj
 Icon: https://sini921.github.io/repo/sileodepiction/icon/appstore.png
 Name: StoreSwitcher【rootless】
 Sponsor: sini921
+
+Package: com.sini.surgepro
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.surgepro_1.0.0_iphoneos-arm64.deb
+Size: 77292
+MD5sum: 2ba62cba8472c8e22cec3cb5911481b7
+SHA1: e7fe8be940d4a36ea86e48ce33e36926b928f6bb
+SHA256: 5fd77cdd601a7c6da8dab24db9eb47daeee356c1e837a716824233a7770c9ebc
+Section: 应用破解
+Description: Surge Pro 仅支持5.14.2版本
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/surgepro.png
+Name: Surge Pro【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/surgepro/js.json
 
 Package: com.sini.sutuplus
 Version: 5.9.5-1
