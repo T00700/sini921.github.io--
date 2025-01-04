@@ -1107,6 +1107,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dyhook.png
 Name: 抖音图层【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyhook/js.json
 
+Package: com.sini.dyhook
+Version: 2.0.8+8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 8652
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.dyhook_2.0.8+8_iphoneos-arm64.deb
+Size: 2667096
+MD5sum: 47674f40e6c55921b9deb9e7e74f8d6a
+SHA1: dc68013e287f65192856ab9a82834f416aaf4ddc
+SHA256: df88d8a6de2b9d9f86486e3a23daaf2e6a16080af10d62585364eb5830e0e4c0
+Section: 应用破解
+Description: 自用 越狱食用
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyhook.png
+Name: 抖音图层【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyhook/js.json
+
 Package: com.sini.dynamicstage.zhcn
 Version: 1.1
 Architecture: iphoneos-arm64
