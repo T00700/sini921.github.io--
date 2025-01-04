@@ -66,12 +66,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.5.3",
+                    "text": "2.5.4",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024年10月7日",
+                    "text": "2025年01月04日",
                     "title": "更新日期"
                 },
                 {
@@ -90,6 +90,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.5.4\n- 添加了选项，允许在低功耗模式下、启用Focus以及连接到CarPlay时始终显示(iPhone 14/15 Pro (Max))\n- 添加了在锁屏上隐藏计时器实时活动黑色背景的选项（iOS 16+）\n- 添加了设置CarPlay图标标签字体大小和系列的选项\n- 添加了在CarPlay中使用平均图标颜色作为徽章背景颜色的选项（iOS 16+）\n- 在主设置页面和每个部分添加了完全本地化的搜索功能。下拉显示搜索栏\n- 添加了当标题大小不适合屏幕时在CarPlay中设置滚动“正在播放”曲目标题的选项\n- 修复了锁定屏幕上禁用壁纸切换手势的问题（iOS 16）\n- 修复了小部件图标菜单上出现的锁定应用程序快捷方式\n- 修复了“设置”中的字体选择页面与父页面颜色不匹配的问题\n- 修复了“隐藏 VPN”在iOS16上不起作用的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"

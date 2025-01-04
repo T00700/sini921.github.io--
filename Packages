@@ -1673,6 +1673,24 @@ Name: Lynx 2【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/lynxtwo/js.json
 Sponsor: sini921
 
+Package: com.sini.lynxtwo
+Version: 2.5.4
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 2952
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: rootless/com.sini.lynxtwo_2.5.4_iphoneos-arm64.deb
+Size: 675980
+MD5sum: f72652cc6efb910a1fe8a353d534428b
+SHA1: 4619388cfbed7af2801b6d0ad44d255c3cf111f8
+SHA256: 72d2c241a4e9bf842986ab393cc40423a08b831e56cf93b6852511aa2a6679f5
+Section: 越狱插件
+Description: 大杂烩
+Author: MTAC
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lynxtwo.png
+Name: Lynx 2【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lynxtwo/js.json
+
 Package: com.sini.magsafe
 Version: 1.0.4
 Architecture: iphoneos-arm64
