@@ -3430,23 +3430,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
 Name: Zetsu【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zetsu/js.json
 
-Package: com.sini921.cmm
+Package: com.sini921.callmemaybe
 Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm & SINI
 Installed-Size: 300
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.cmm_1.0.1_iphoneos-arm64.deb
-Size: 71560
-MD5sum: 8be82beb013e59165fff0fba52e38b18
-SHA1: 454c8f086ffb24164167a5280e6c96295fad009d
-SHA256: 2644d19eaa1cef7b4bf5dd4b140e351b945b69d522e05275de16f6486e6ef795
+Filename: rootless/com.sini921.callmemaybe_1.0.1_iphoneos-arm64.deb
+Size: 71430
+MD5sum: 4e1302bdd4b850aaf2847b8b4d8f6fe4
+SHA1: 1a1f249b1166fe72dbfa8d4c2230987dee09fd3b
+SHA256: 74bef5f520523f29d67e807c6ab77dbc00cc871b8bb6c622a57fcb5db58b6cbe
 Section: 越狱插件
-Description: 系统电话应用程序的增强功能
+Description: 电话增强
 Author: dvntm & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/cmm.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/callmemaybe.png
 Name: CallMeMaybe【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/cmm/js.json
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/callmemaybe/js.json
 
 Package: com.sini921.griddy
 Version: 1.0.5
