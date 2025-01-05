@@ -3509,10 +3509,10 @@ Maintainer: dvntm & SINI
 Installed-Size: 484
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.showmytouches_1.2.0_iphoneos-arm64.deb
-Size: 75840
-MD5sum: a07dc92e17f8bdf7337c39755f645421
-SHA1: 1af0f15e326313962d19794e6fe096b50ba66eb2
-SHA256: 4ed4f19ecb7c7bc830bb9e0ac6b903f6ef2f2b167c0331d3af72ae8a4949e742
+Size: 75866
+MD5sum: 2837e36327a7a6f71027c479ff2def69
+SHA1: 6526e16b7cfa90a6eaa45db2e08e82bb1f7c4538
+SHA256: 5816dd98f609f9bb782c5b7abb3af54d14e2e7ec7be70ace2e2ea191c56af3dc
 Section: 越狱插件
 Description: 触摸轨迹，基于开源代码的基础上，增加滑动轨迹效果
 Author: dvntm & SINI
