@@ -1982,6 +1982,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/xiangce.png
 Name: Photos【rootless】
 Sponsor: sini921
 
+Package: com.sini.picsewpro
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.picsewpro_1.0.0_iphoneos-arm64.deb
+Size: 25184
+MD5sum: d3d3250aad58913d0ace16f7e93aee7c
+SHA1: 31ed04a9af446527c0b391b8ad322581100cc80f
+SHA256: 3184d8079f9e2ebda701da65d05bf270ad7c916585cb82b1cd7dce0952850d27
+Section: 应用破解
+Description: Picsew Pro 如无效重置或重进程序
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/picsewpro.png
+Name: PicsewPro【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/picsewpro/js.json
+
 Package: com.sini.pkc.rootless
 Version: 0.6-7
 Architecture: iphoneos-arm64
