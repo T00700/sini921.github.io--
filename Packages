@@ -3538,6 +3538,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
 Name: ShowMyTouches【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/showmytouches/js.json
 
+Package: com.sini921.showmytouches
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm & SINI
+Installed-Size: 492
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.showmytouches_1.2.1_iphoneos-arm64.deb
+Size: 82734
+MD5sum: 16ec8ca10b4dc4cdc9cbc609dde3ce3e
+SHA1: da09433e8b61455f9d1ce69fd99160ad14e5883c
+SHA256: 5468a81c11b8028d2046d00b2dfb5328a2feb543ccc75b82833f901f4d950365
+Section: 越狱插件
+Description: 触摸轨迹，基于开源代码的基础上，增加滑动轨迹效果
+Author: dvntm & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
+Name: ShowMyTouches【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/showmytouches/js.json
+
 Package: com.sini921.smtforsnapper3
 Version: 1.0.1
 Architecture: iphoneos-arm64
