@@ -3310,6 +3310,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: 微信头像旋转【rootless】
 Sponsor: Sini921
 
+Package: com.sini.wechatnoads
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Apple
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.wechatnoads_1.2.0_iphoneos-arm64.deb
+Size: 22276
+MD5sum: 721265840a97a9be2ba9427907245d30
+SHA1: 441c0d2cf15188b0d2e9454c9c38b7c58eec43ab
+SHA256: 339a91152b42aaa92e1c6b65461b21d96686cf891ce33ee2bcf61d381111166b
+Section: 微信插件
+Description: 插件开关已纳入微信插件管理页面。删除搜索页面的广告，删除公众号列表广告、快讯，删除公众号文章中间和底部的广告，删除朋友圈广告，删除小程序的广告，删除直播和视频号中的广告!  插件仅供本人测试使用，下载后请于24小时内删除!
+Author: Apple
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechatnoads.png
+Name: 微信广告净化助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechatnoads/js.json
+
 Package: com.sini.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64
