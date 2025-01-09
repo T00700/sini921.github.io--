@@ -2366,23 +2366,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sanfransyms.png
 Name: SanFranSyms【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/sanfransyms/js.json
 
-Package: com.sini.santanderfm
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: SINI
-Depends: firmware (>=14.0)
-Filename: rootless/com.sini.santanderfm_1.0_iphoneos-arm64.deb
-Size: 3484820
-MD5sum: 50bdf538a8d4be5b3730ca5d07224bf4
-SHA1: 110c174e0e5253a299614119f252b67fae220767
-SHA256: e727aa93cf09547ff0f5ea02b35cea8ae4b3afac57d88be5f835ddd3ba219850
-Section: 越狱应用
-Description: 可用于修改assets.car文件
-Author: serena
-Icon: https://sini921.github.io/repo/sileodepiction/icon/santanderfm.png
-Name: Santander【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/santanderfm/js.json
-
 Package: com.sini.senri
 Version: 1.1
 Architecture: iphoneos-arm64
