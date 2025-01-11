@@ -763,15 +763,16 @@ Installed-Size: 208
 Depends: mobilesubstrate, firmware (>= 13.0)
 Conflicts: com.spark.ccmusicartwork
 Filename: rootless/com.sini.ccmusicartwork_1.0.6_iphoneos-arm64.deb
-Size: 15200
-MD5sum: 4b4f44440321ba48c2d52cf361a34bca
-SHA1: 9b1bca8334cce41e0d9d47549819bbf284e1cc62
-SHA256: 833a2ff1b9602712a23807dd54022f36ae85b80728f0cccfbca4f269ffa5b824
+Size: 15240
+MD5sum: e74555535ce93ded8dc675258494b7a7
+SHA1: bc2e5f409b6a01aba0797e04488b0a0fde82ccce
+SHA256: eaac9392553297071320ca6b120c68eee50fba2c83530af1e17e1a213dcaf5be
 Section: 越狱插件
 Description: 播放音乐时控制中心的音乐模块背景显示为专辑信息
 Author: cole cabral
-Icon: https://sini921.github.io/repo/sileodepiction/icon/music.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: CCArtwork【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccmusicartwork/js.json
 Sponsor: sini921
 
 Package: com.sini.ccpower
@@ -1026,33 +1027,34 @@ Maintainer: Nets
 Installed-Size: 184
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: rootless/com.sini.deletephotoscompletely-rootless_1.2-2_iphoneos-arm64.deb
-Size: 17132
-MD5sum: ba4b718003c604c5d856679354f979e5
-SHA1: 586e3d8499275da2b3c18f67a425a6ff830c194e
-SHA256: fad73b4bc6f0be0a463b0da4d653c983d63a5e6a2a011589fbe25310f141ad97
+Size: 17120
+MD5sum: 3329337016692dcac33fc549d425dae6
+SHA1: af65c623e5192cd8c82ac27ef669a89547c8c545
+SHA256: bcd58c8522b5eeb7bf349946b02c2541b0e66095b0535e4503260fa271f1aec1
 Section: 越狱插件
 Description: 为相册添加彻底删除照片选项
 Author: Netskao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/xiangce.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: DeletePhotosCompletely【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/deletephotoscompletely/js.json
 
 Package: com.sini.desktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
-Maintainer: sini921
+Maintainer: Brend0n
 Installed-Size: 2748
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (>= 15.0), preferenceloader
 Filename: rootless/com.sini.desktoplyrics_0.3.9~b1_iphoneos-arm64.deb
-Size: 623224
-MD5sum: 10466a7224421e2d9276fd8f8e774ceb
-SHA1: 35e8346ee06ce795d0b0d67470dc4d7c4cb0173d
-SHA256: a9dce9ba10f968007848f1ab22aa83148fa0697b32d4973132b9bcf3c341b2bd
+Size: 623144
+MD5sum: fd555fa4363b520eff7c8e037564d97e
+SHA1: fdb678ba09426ddb91029816f704790e36f4fcab
+SHA256: e89a4d2408030c64f7779f5080a2454fbede1476fcac0a3d7f4c39da420a901f
 Section: 越狱插件
 Description: 桌面歌词，支持QQ音乐。
 Author: Brend0n
-Icon: https://sini921.github.io/repo/sileodepiction/icon/music.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/desktoplyrics.png
 Name: DesktopLyrics【rootless】
-Sponsor: sini921
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/desktoplyrics/js.json
 
 Package: com.sini.disablebottombarlrswipe
 Version: 1.1-2
@@ -2019,19 +2021,20 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/pancake/js.json
 Package: com.sini.photos
 Version: 0.0.1
 Architecture: iphoneos-arm64
-Maintainer: sini921
+Maintainer: SINI
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini.photos_0.0.1_iphoneos-arm64.deb
-Size: 4012
-MD5sum: 347e559c23a6d701f4d83642f02e1f47
-SHA1: 368181c26d99d26d8b721a0bd5a96c7296875f15
-SHA256: 3853a7563a469bb8a7a27743468c7c6694718583bca7ecad51e388abd4c4431b
+Size: 4040
+MD5sum: 257ea63116cbe486d8645342ef6431c9
+SHA1: 57caa09d43aa5add5164d3127938c5412694d4c8
+SHA256: f43534577b18229d102870c3318aa16116f2f3367af8e821516e2df57e26c914
 Section: 越狱插件
 Description: 自用备份。
-Author: sini921
-Icon: https://sini921.github.io/repo/sileodepiction/icon/xiangce.png
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: Photos【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/photos/js.json
 Sponsor: sini921
 
 Package: com.sini.picsewpro
