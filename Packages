@@ -631,40 +631,39 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: BetterUISwitch【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/betteruiswitch/js.json
 
-Package: com.sini.bhtiktok++
-Version: 1.7.1
+Package: com.sini.bhtkplus
+Version: 1.9.3
 Architecture: iphoneos-arm64
-Maintainer: raul saeed & 刀刀
-Installed-Size: 616
+Maintainer: raul saeed
 Depends: mobilesubstrate
-Filename: rootless/com.sini.bhtiktok++_1.7.1_iphoneos-arm64.deb
-Size: 102840
-MD5sum: dee5d3bb515d90e0b0bd30493e3a336d
-SHA1: ce23c9dc0e3f4c11a250f6187a4b1b31896e26d5
-SHA256: d774466066708b567a11f70b54f8ad08e68eec8d8ee9169da9a3b804940e9a9f
+Filename: rootless/com.sini.bhtkplus_1.9.3_iphoneos-arm64.deb
+Size: 198836
+MD5sum: b53afbb940e071edce00f2c07bf13e1e
+SHA1: 0d195bf7633dbc79b21be9db905e4e55b20990f7
+SHA256: 8368e6bbb815f1d1c68916aaecb6702ebfea5e0dc4298919d53d31233951d82b
 Section: 应用破解
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed & 刀刀
-Icon: https://sini921.github.io/repo/sileodepiction/icon/bhtiktok++.png
+Description: TikTok增强
+Author: raul saeed
+Icon: https://sini921.github.io/repo/sileodepiction/icon/bhtkplus.png
 Name: BHTikTok++【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/bhtiktok++/js.json
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/bhtkplus/js.json
 
 Package: com.sini.bhtwitter
 Version: 4.3-5
 Architecture: iphoneos-arm64
-Maintainer: sini921
+Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter
 Filename: rootless/com.sini.bhtwitter_4.3-5_iphoneos-arm64.deb
-Size: 1066296
-MD5sum: 2461f9a7f41fec811cd4407d5aa574e8
-SHA1: 8f8a5e4ad083dca5ab5b201b512cb166ab7d3ff2
-SHA256: ac4350ffc7dd2528bff99661eb89fce7621feb88da15d0e3803a6e9607206013
+Size: 7618072
+MD5sum: ae9d14d0d927e6a8ed4651e3361f69e0
+SHA1: e098752dd1e41b9bf7340410d80aa4ce3a974bb2
+SHA256: 5948185ccaab06386e700961766b6583c695e2d99e6bf8be2ed7a696d9554987
 Section: 应用破解
 Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
-Author: Bandar Alruwaili & nowesr1
-Icon: https://sini921.github.io/repo/sileodepiction/icon/x.png
+Author: Bandar Alruwaili
+Icon: https://sini921.github.io/repo/sileodepiction/icon/bhtwitter.png
 Name: BHTwitter【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/bhtwitter/js.json
 
 Package: com.sini.bigshot
 Version: 1.1
@@ -2341,15 +2340,16 @@ Maintainer: sini921
 Installed-Size: 152
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: rootless/com.sini.replaced_1.0_iphoneos-arm64.deb
-Size: 3356
-MD5sum: 840e995ace4fd601b523e5f656f36f9a
-SHA1: d4d0c48657b55153e3abfd485f99c8b5c00e53df
-SHA256: d2c22d96283950177116c94ad880c96080821f03a1b8e4719dab28700aa995af
+Size: 3380
+MD5sum: c5c901b44132df2388493f11b58681f7
+SHA1: d13743de1e36ba37e35aed3586c00221f083b692
+SHA256: a2e56159bfa45c6847a2fe6adbef422c6c78b50c77542fbd55900aa05a7dc73d
 Section: 越狱插件
 Description: 在“设置”的“关于”页面中删除有关“未知部件”或“部件和服务历史记录”的信息。
 Author: 34306
-Icon: https://sini921.github.io/repo/sileodepiction/icon/preference.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: Replaced【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/replaced/js.json
 Sponsor: sini921
 
 Package: com.sini.replyactions
@@ -2426,17 +2426,16 @@ Maintainer: SOPPPra
 Installed-Size: 540
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Filename: rootless/com.sini.settingsrevamp_2.1.1_iphoneos-arm64.deb
-Size: 97188
-MD5sum: 8cc2df116e2ff188686d03d6a1832db4
-SHA1: 0922ec4dba3ccbec2ff782c184e554fe85d23f73
-SHA256: 7917dbad2b2f357673198342120623e7697b7dc5a2f3867a3de7c2423320f56c
+Size: 97200
+MD5sum: 7715af6599e3370cbf30076247f79b51
+SHA1: 37ce9819866f361a91b111f1f0d9893c180364e3
+SHA256: 397e7bbb33a9f51b11779e4bfd0d7b5c0350a7d83dc0e441dbccafa993368771
 Section: 越狱插件
 Description: 设置美化，插件归类。
 Author: SOPPPra
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sett.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/settingsrevamp.png
 Name: SettingsRevamp【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/settingsrevamp/js.json
-Sponsor: 思念变成海
 
 Package: com.sini.settingsrevamp
 Version: 3.0.1
@@ -2635,20 +2634,20 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/sn3/js.json
 Package: com.sini.sneakycam
 Version: 2.0.7
 Architecture: iphoneos-arm64
-Maintainer: 思念变成海
+Maintainer: Spark
 Installed-Size: 560
 Depends: mobilesubstrate, preferenceloader, oldabi
 Filename: rootless/com.sini.sneakycam_2.0.7_iphoneos-arm64.deb
-Size: 104516
-MD5sum: 8afec1ec81465149778641ea3cb2ae0b
-SHA1: 6275e32029fcd6cc564fc34cfbd1508766d1d1c8
-SHA256: 81a092b6ba145e149c777c2dca708e6e13d9ce505f89e338e9645922a7cd60d3
+Size: 104524
+MD5sum: 7064f37ead1e763bb9f221b2ff26f0fe
+SHA1: fe81cf8415a4882d1088a5e7efabb55fe5409715
+SHA256: ca247149099d3217dcef6f3112a4fe0dcf5dfed380e773c0fb84171b29435d00
 Section: 越狱插件
-Description: 使用方法∶快速按两次音量上键开始录制视频，再次按两次停止录制，快速按两次音量下键拍摄照片。此插件为转插，有可能会出现黑屏，卡注销情况，谨慎使用，有问题请缷载！
+Description: 隐私相机插件，需要搭配pulloverpro或者svp来开启相机权限，此插件为转插，有可能会出现黑屏，卡注销情况，谨慎使用，有问题请缷载！
 Author: Spark
-Icon: https://sini921.github.io/repo/sileodepiction/icon/yinsixiangji.png
-Name: SneakyCam隐私相机【rootless】
-Sponsor: 思念变成海
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sneakycam.png
+Name: SneakyCam【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/sneakycam/js.json
 
 Package: com.sini.solstice
 Version: 3.0.0
