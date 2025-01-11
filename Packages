@@ -2298,6 +2298,24 @@ Author: PoomSmart
 Icon: https://sini921.github.io/repo/sileodepiction/icon/xiangji.png
 Name: RecordPause【rootless】
 
+Package: com.sini.recordpause
+Version: 2.0.4
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Filename: rootless/com.sini.recordpause_2.0.4_iphoneos-arm64.deb
+Size: 10148
+MD5sum: 55dd38788f21d6bc293826c6c53e7264
+SHA1: 631ab40b751b15ca7f4953fffc3ca55f9fa4f555
+SHA256: 089847d7a3f03820e9bb399b57d45972f0b4d8646dd9dfe74db86bc88cad8c55
+Section: 越狱插件
+Description: 在iOS相机应用程序中暂停/恢复视频录制。
+Author: PoomSmart
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: RecordPause【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/recordpause/js.json
+
 Package: com.sini.removewidgetbg
 Version: 1.7
 Architecture: iphoneos-arm64
