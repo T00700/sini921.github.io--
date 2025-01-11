@@ -37,18 +37,18 @@ Package: com.creaturecoding.libcspreferences
 Version: 1.5.8
 Architecture: iphoneos-arm64
 Maintainer: CreatureSurvive <support@creaturecoding.com>
-Installed-Size: 2332
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Filename: rootless/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64.deb
-Size: 334512
-MD5sum: c5f9d154596b6e81eca3b0c2e958b7d7
-SHA1: a4712ada80bd51793f0545f923d1aeb194e5b21c
-SHA256: 1ef746fece82398f646548bae0ca10b2504bed8736d03c6ffd8aacd6f4f3e50c
+Size: 334524
+MD5sum: d532b650dd59fc8b86eed037604c56c1
+SHA1: 1ad653eb40a4446ee244cc163c06d1b7b9870d72
+SHA256: 911b8cdc2e740a34cc6cb5ce1fbc13612c1e705ebd5721fc4aa1458d321ce3a0
 Section: 插件依赖
-Description: shuffle插件需要的依赖
+Description: 有些插件需要这个依赖
 Author: CreatureSurvive <support@creaturecoding.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: libCSPreferences【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/libcspreferences/js.json
 
 Package: com.hitori.misaki
 Version: 2.2
@@ -2845,33 +2845,33 @@ Maintainer: Nets
 Installed-Size: 460
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: rootless/com.sini.storeswitchaccounts_1.1-4_iphoneos-arm64.deb
-Size: 102508
-MD5sum: b6626131319d9d4a9ad1d62b160f71b6
-SHA1: a107d8b2add237e3d9381b3fa28db9f9fac7496d
-SHA256: b60feb6b1f965140984c5ebca986a52a083a29d28847a4470ed62419eacbae71
+Size: 102452
+MD5sum: dc771d9ab2a27f92ff41e020ffcd16c3
+SHA1: caaba5557edc15f1074ac1ccb36de880fc89af46
+SHA256: 62d066db142f61397594608e26b5a6198df80bc1d4f709deebf41daec4722353
 Section: 越狱插件
 Description: 方便地在登录帐户之间切换，长按桌面AppStore图标进行切换
 Author: Netskao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/appstore.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: StoreSwitchAccounts【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/storeswitchaccounts/js.json
 
 Package: com.sini.storeswitcher2
 Version: 1.0.4
 Architecture: iphoneos-arm64
-Maintainer: sini921
+Maintainer: 0xkuj
 Depends: firmware (>= 11)
 Filename: rootless/com.sini.storeswitcher2_1.0.4_iphoneos-arm64.deb
-Size: 17872
-MD5sum: 2cc1aa575412241b1db87833f7c01223
-SHA1: f3cf4a80f49a2104b17c6e46fdccb70ba5b8dd4a
-SHA256: 29d3c47dd166cca8878baebf58330e70c87cb46e9b34d4d0236b9c4b6aecf91c
+Size: 17716
+MD5sum: 9704e74e9be09eedc98c4be671c81965
+SHA1: f62bd34567c1d9e387cd89db910938d513d1497c
+SHA256: b126ab07c2b92426c3a12db2acde97d71991b74f2c7dc97d1022abd3bf0bdcd5
 Section: 越狱插件
-Description: 使用先前登录的多个 Apple 账户直接从 Appstore 切换！操作方法：打开 Appstore，点击个人资料，点击导航栏上的切换账号，选择所需账户！
+Description: 快速切换AppStore账号
 Author: 0xkuj
-Icon: https://sini921.github.io/repo/sileodepiction/icon/appstore.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: StoreSwitcher【rootless】
-Sponsor: sini921
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/storeswitcher2/js.json
 
 Package: com.sini.surgepro
 Version: 1.0.0
@@ -4080,18 +4080,17 @@ Package: libskittycolor
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Skitty
-Installed-Size: 260
 Filename: rootless/libskittycolor_1.0_iphoneos-arm64.deb
-Size: 26868
-MD5sum: b55fa2998818e010b8ce54c6f8ff8c15
-SHA1: d9831f3424a8e4aa2e6690d5ac3cfc0620723938
-SHA256: e2c6fde7e3a1d36629721b7b49a0e864533da34cde280fa01a4bf64e3ed5cf3b
+Size: 26920
+MD5sum: 3419c1e6bc66615de627b7d4ea56fba1
+SHA1: 1b2efe0c3739d7a40b7e37acc6e4d5d713b7cab6
+SHA256: 1dc1c6942613c69802bd32437e829f2a35889351936f10eb8f55e765d8953697
 Section: 插件依赖
-Description: Spectrum插件需要的依赖
-Tag: role::developer
+Description: 有些插件需要这个依赖
 Author: Skitty
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: libskittycolor【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/libskittycolor/js.json
 
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9.1
@@ -4099,15 +4098,16 @@ Architecture: iphoneos-arm64
 Maintainer: Bailey Seymour
 Depends: firmware (>= 6.0)
 Filename: rootless/org.thebigboss.libcolorpicker_1.6.9.1_iphoneos-arm64.deb
-Size: 71160
-MD5sum: 37f7fef22b1eb1799a353d733fdf0839
-SHA1: 86089915ce8a8f5ee1a81b65b3cec74ae919c1cf
-SHA256: fcda21e1642a559483c24053f4f466f8f6a57a520a1729206de0f3119ab1b207
+Size: 71020
+MD5sum: e287f498a25ebfd74f2c92ce16e8c6f1
+SHA1: c04362e2f36d3c561ab48faeab0c090297c0df8a
+SHA256: 79c64af39753b0c52592f06ffb6acaa73e85f60eee1e16c34b7047455320f600
 Section: 插件依赖
-Description: ChromaHomeBarx插件需要的依赖
+Description: 有些插件需要这个依赖
 Author: Bailey Seymour
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: libcolorpicker (Unofficial)【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/libcolorpicker/js.json
 
 Package: com.sini.cchide
 Version: 1.0.1
