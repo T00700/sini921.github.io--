@@ -1115,15 +1115,15 @@ Architecture: iphoneos-arm64
 Maintainer: DumpApp
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: rootless/com.sini.dumpapp.wechat-rootless_2.0.4_iphoneos-arm64.deb
-Size: 9229424
-MD5sum: 784b4fef3d9ce21d772f07c7fc821f58
-SHA1: b2d86cf1e66d930a0d53be8a473f255174547746
-SHA256: 4825a30bbe9bb34078358e975b160238f24a9cf12f63d41622ca8510e7fafedd
+Size: 9229344
+MD5sum: fa95e7ef7453332779eee40625732d7e
+SHA1: b726d605ad9a361e9511b1fb53b4a496e1957526
+SHA256: 83f9c482eeb0d90d7d61ad0b29d23a468e09b21b325c26de3c7529368189d745
 Section: 微信插件
 Description: 微信增强
 Author: DumpApp
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dumpapp.png
-Name: 微信锤子助手【rootless】
+Name: 锤子助手【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dumpapp/js.json
 
 Package: com.sini.dumpdecrypter
