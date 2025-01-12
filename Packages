@@ -2020,23 +2020,21 @@ Name: PanCake【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/pancake/js.json
 
 Package: com.sini.photos
-Version: 0.0.1
+Version: 0.0.6-2
 Architecture: iphoneos-arm64
-Maintainer: SINI
-Installed-Size: 168
+Maintainer: iOSign
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.photos_0.0.1_iphoneos-arm64.deb
-Size: 4040
-MD5sum: 257ea63116cbe486d8645342ef6431c9
-SHA1: 57caa09d43aa5add5164d3127938c5412694d4c8
-SHA256: f43534577b18229d102870c3318aa16116f2f3367af8e821516e2df57e26c914
+Filename: rootless/com.sini.photos_0.0.6-2_iphoneos-arm64.deb
+Size: 4028
+MD5sum: 9c9815e46c49a3639fff9acf87d58003
+SHA1: 553057271f7e7f42a198b4530cc1667db1df1083
+SHA256: 57819d854fd85f21efdf24eb3a677e087fdd0891a2a71d38a79998db87b0ae07
 Section: 越狱插件
 Description: 自用备份。
-Author: SINI
+Author: iOSign
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: Photos【rootless】
+Name: 相册增强【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/photos/js.json
-Sponsor: sini921
 
 Package: com.sini.picsewpro
 Version: 1.0.0
