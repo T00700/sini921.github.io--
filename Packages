@@ -33,6 +33,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
 Name: SafariX【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/safarix/js.json
 
+Package: com.0xkuj.safarix
+Version: 1.9.3
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: rootless/com.0xkuj.safarix_1.9.3_iphoneos-arm64.deb
+Size: 304480
+MD5sum: e7aaecc0dfb854d7c8aea933d0f09f5d
+SHA1: 7b7e59da90c4e77ec8df8e24b201a101608b95a4
+SHA256: 44c28c42265c02f55f26de63ca3f010a05840901a5f3b31ec38ee25d3dd086e7
+Section: 越狱插件
+Description: Safari浏览器增强，加入刀刀源汉化
+Author: 0xkuj
+Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
+Name: SafariX【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/safarix/js.json
+
 Package: com.creaturecoding.libcspreferences
 Version: 1.5.8
 Architecture: iphoneos-arm64
