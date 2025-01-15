@@ -3670,10 +3670,10 @@ Maintainer: 0xkuj & SINI
 Installed-Size: 528
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.notificationsgroupcount_1.0.6_iphoneos-arm64.deb
-Size: 88500
-MD5sum: 5e76158d75c35a20626da6b51f20b604
-SHA1: b45d3ff5cab7517b1c1dc7c50715ff1dfbc1f844
-SHA256: 65fe6e5671372e54c54e98316a5f0eaadd5a2f09bd8d0c538770a17868a8cf6c
+Size: 88476
+MD5sum: d88610b14305dacc40c47793cb68c24b
+SHA1: b4eb889e87adff5de51dd06f6519efa2133fbb01
+SHA256: 605a262bb80ba9d09c68dfbd602b25e78acb20cab01111dca5dec2fbf63e3908
 Section: 越狱插件
 Description: 锁屏界面的通知分组后以角标显示每组通知数量。使用开源代码编译并汉化
 Author: 0xkuj & SINI
