@@ -39,10 +39,10 @@ Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: rootless/com.0xkuj.safarix_1.9.3_iphoneos-arm64.deb
-Size: 304480
-MD5sum: e7aaecc0dfb854d7c8aea933d0f09f5d
-SHA1: 7b7e59da90c4e77ec8df8e24b201a101608b95a4
-SHA256: 44c28c42265c02f55f26de63ca3f010a05840901a5f3b31ec38ee25d3dd086e7
+Size: 304692
+MD5sum: c9adc6f1605bf556f473c28edcb1e601
+SHA1: ec8b0d6623036e2e7882845194042de83a71d972
+SHA256: 7ea72782e1e5fb849f9f6b5940b6ff8e857daacac69f03b305a1716971710fda
 Section: 越狱插件
 Description: Safari浏览器增强，加入刀刀源汉化
 Author: 0xkuj
