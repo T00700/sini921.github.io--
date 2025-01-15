@@ -3540,20 +3540,20 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wy.png
 Name: 网易云去广告净化【rootless】
 
 Package: com.sini.xhshook
-Version: 1.1.2
+Version: 1.1.3
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 3288
+Installed-Size: 2444
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.xhshook_1.1.2_iphoneos-arm64.deb
-Size: 1146240
-MD5sum: 0f5210abd4fdb1731df07b863140ac24
-SHA1: ae3626122502693030d9e1ef596b5d79568991da
-SHA256: 893505ac1a509818e50c96f0a60364daceca2e464d54490b22685545c9604966
+Filename: rootless/com.sini.xhshook_1.1.3_iphoneos-arm64.deb
+Size: 775600
+MD5sum: 1d5ce46b541e854ac1dd86f8dbd9cebc
+SHA1: 005ce89ffc445baaca570a99e9b6bf62f3733fd0
+SHA256: e023e83f255baf8afcb5be8240d9f0e6c2900712bedc6f65cfc6ab4dbec9717f
 Section: 应用破解
 Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
 Author: x✨
-Icon: https://sini921.github.io/repo/sileodepiction/icon/xhs.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
 Name: 小红薯【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/xhshook/js.json
 
