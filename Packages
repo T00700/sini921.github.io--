@@ -2838,6 +2838,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/stella.png
 Name: Stella【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/stella/js.json
 
+Package: com.sini.stella
+Version: 1.1.4.1
+Architecture: iphoneos-arm64
+Maintainer: yan & 刀刀
+Installed-Size: 1332
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Filename: rootless/com.sini.stella_1.1.4.1_iphoneos-arm64.deb
+Size: 400816
+MD5sum: 3532b99ecab7f719676701d7ac93711b
+SHA1: a822cf9620122542aa713c582f677339339a9048
+SHA256: c523546f8cb5c2c1b58f0d97d97abc528446c409dae55da65781d3b93d2ec5da
+Section: 越狱插件
+Description: 2003年的第一场雪,比2002年来的稍季伯晚了一些
+Author: yan
+Icon: https://sini921.github.io/repo/sileodepiction/icon/stella.png
+Name: Stella【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/stella/js.json
+
 Package: com.sini.stepup
 Version: 1.2
 Architecture: iphoneos-arm64

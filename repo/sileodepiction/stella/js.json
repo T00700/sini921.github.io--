@@ -74,12 +74,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.4",
+                    "text": "1.1.4.1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年01月08日",
+                    "text": "2025年01月15日",
                     "title": "更新日期"
                 },
                 {
@@ -98,6 +98,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.4.1\n- 刀刀编译的汉化版\n- 未下架原版，所以这个版本加了版本号以做区分",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
