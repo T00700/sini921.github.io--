@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 通知美化\n- 锁屏界面的通知分组后以角标形式显示每组的通知数量\n- 根据开源代码直接编译的中文版",
+                    "markdown": "## 描述\n- 通知美化\n- 锁屏界面的通知分组后以角标形式显示每组的通知数量\n- 使用开源代码编译并汉化",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0xkuj & Sini921",
+                    "text": "0xkuj & SINI",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.6-1",
+                    "text": "1.0.6",
                     "title": "版本"
                 },
                 {
@@ -95,7 +95,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 1.0.6-1\n- 更多的对齐修复\n- 这要归功于p2kdev",
+                    "markdown": "#### 版本: 1.0.6\n- 更多的对齐修复\n- 这要归功于p2kdev",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }

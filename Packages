@@ -1928,24 +1928,6 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/no.png
 Name: No Redirect【rootless】
 
-Package: com.sini.notificationsgroupcount
-Version: 1.0.6-1
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Installed-Size: 528
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.notificationsgroupcount_1.0.6-1_iphoneos-arm64.deb
-Size: 88448
-MD5sum: c23287d6a8dd3718acea059d25e2ff16
-SHA1: 56d379967841f9a655af5c122ed2751301b18c1f
-SHA256: 3be329268ec5bf02494268aa63afafbe1494f93b257f04d3d20d52b4ae55c388
-Section: 越狱插件
-Description: 锁屏界面的通知分组后以角标显示每组通知数量。根据开源代码直接编译的中文版
-Author: 0xkuj & Sini921
-Icon: https://sini921.github.io/repo/sileodepiction/icon/notificationsgroupcount.png
-Name: NotificationsGroupCount【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/notificationsgroupcount/js.json
-
 Package: com.sini.ocd5
 Version: 5.4.1.1
 Architecture: iphoneos-arm64
@@ -3645,6 +3627,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/callmemaybe.png
 Name: CallMeMaybe【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/callmemaybe/js.json
 
+Package: com.sini921.freepip
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh & SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.freepip_0.0.4_iphoneos-arm64.deb
+Size: 5048
+MD5sum: 27579a1a1e09a722fb2789de71bdc717
+SHA1: 9eb9130225bc6436fff2f575a7601012c1036384
+SHA256: d95e511e30dad317cece481168ab969941b15f81d79e385606aee0b737df972b
+Section: 越狱插件
+Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，优化了一些代码，改进了一些细节
+Author: Soh Satoh & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
+Name: FreePIP【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
+
 Package: com.sini921.griddy
 Version: 1.0.5
 Architecture: iphoneos-arm64
@@ -3662,6 +3662,24 @@ Author: mikifp
 Icon: https://sini921.github.io/repo/sileodepiction/icon/griddy.png
 Name: Griddy【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
+
+Package: com.sini921.notificationsgroupcount
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj & SINI
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.notificationsgroupcount_1.0.6_iphoneos-arm64.deb
+Size: 88500
+MD5sum: 5e76158d75c35a20626da6b51f20b604
+SHA1: b45d3ff5cab7517b1c1dc7c50715ff1dfbc1f844
+SHA256: 65fe6e5671372e54c54e98316a5f0eaadd5a2f09bd8d0c538770a17868a8cf6c
+Section: 越狱插件
+Description: 锁屏界面的通知分组后以角标显示每组通知数量。使用开源代码编译并汉化
+Author: 0xkuj & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/notificationsgroupcount.png
+Name: NotificationsGroupCount【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/notificationsgroupcount/js.json
 
 Package: com.sini921.ntoniaforsnapper3
 Version: 1.0.4
@@ -4109,24 +4127,6 @@ Description: 键盘增强
 Author: udevs
 icon: https://sini921.github.io/repo/sileodepiction/icon/dockx.png
 Name: DockX【rootless】
-
-Package: jp.soh.freepip
-Version: 0.0.3-1
-Architecture: iphoneos-arm64
-Maintainer: Soh Satoh
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/jp.soh.freepip_0.0.3-1_iphoneos-arm64.deb
-Size: 6500
-MD5sum: bcd7f29287459b4d4fd69157c9600cea
-SHA1: 7e887eb378e87a1e543b0baa88d4ea0b48048a72
-SHA256: 1dc89195d1b62c3a2e061065b1723207fcf1bcd50745b0bfd6cb9902bd77ef38
-Section: 越狱插件
-Description: 解锁画中画的限制，可以放在任意位置和调整到任意大小。长按画中画窗口进入 FreePIP 模式进行调整。v0.0.3-1更新：改为默认是正常模式，略微美化FreePIP模式。
-Author: Soh Satoh
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: FreePIP【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
 
 Package: libskittycolor
 Version: 1.0
