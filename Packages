@@ -4146,6 +4146,22 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: libcolorpicker (Unofficial)【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libcolorpicker/js.json
 
+Package: uncar
+Version: 0.0.1-6
+Architecture: iphoneos-arm64
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Filename: rootless/uncar_0.0.1-6_iphoneos-arm64.deb
+Size: 6608
+MD5sum: 3a2d69e8b54d57fac8985ccba9b03b6a
+SHA1: edfd030ca029c6d2312b791dc979c92f141b817d
+SHA256: ad3e0601f067d704bf6a400db57f0496d6bf85ca08735895b9b62d227cbcd5dd
+Section: 插件依赖
+Description: 命令行工具，用于提取Assets.car
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
+Name: uncar【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/uncar/js.json
+
 Package: com.sini.cchide
 Version: 1.0.1
 Architecture: iphoneos-arm64e
