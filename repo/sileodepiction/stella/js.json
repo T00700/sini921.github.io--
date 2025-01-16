@@ -74,12 +74,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.4.1",
+                    "text": "1.1.5",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年01月15日",
+                    "text": "2025年01月16日",
                     "title": "更新日期"
                 },
                 {
@@ -98,6 +98,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.5\n- 刀刀编译的汉化版\n- 修复设置中无法选择“快速”选项的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
