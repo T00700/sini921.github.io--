@@ -3654,10 +3654,10 @@ Maintainer: Soh Satoh & SINI
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.freepip_0.0.4_iphoneos-arm64.deb
-Size: 5048
-MD5sum: 27579a1a1e09a722fb2789de71bdc717
-SHA1: 9eb9130225bc6436fff2f575a7601012c1036384
-SHA256: d95e511e30dad317cece481168ab969941b15f81d79e385606aee0b737df972b
+Size: 4986
+MD5sum: b5b9b7f480bd30774d978e3ef4383587
+SHA1: 83bf4181cf966d739eb15957240687f96f935d3f
+SHA256: 96fe5e681254fe97165b97e58dace23a60a3f87b586a6b34c3c0ca3993e4d0de
 Section: 越狱插件
 Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，优化了一些代码，改进了一些细节
 Author: Soh Satoh & SINI
