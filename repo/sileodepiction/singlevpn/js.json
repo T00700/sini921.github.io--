@@ -95,7 +95,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 1.5\n- 新增个人热点图标变色",
+                    "markdown": "#### 版本: 1.5\n- 添加了对个人热点图标的支持。\n- 修复了蜂窝强度更新时颜色恢复的错误。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },

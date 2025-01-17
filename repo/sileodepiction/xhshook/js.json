@@ -95,7 +95,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 1.1.5\n- 这个源主很懒\n- 懒得写更新日志",
+                    "markdown": "#### 版本: 1.1.5\n- 优化移除广告逻辑\n- 修复热门界面无法下载视频问题\n- 新增移除板块出现直播\n- 新增评论区翻译（自备百度翻译）",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
