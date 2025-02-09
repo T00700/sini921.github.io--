@@ -1,0 +1,8 @@
+Origin: - 思念变成海
+Label: - 思念变成海
+Suite: stable
+Version: 1.0
+Codename: Sini921
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: 源内插件仅为自用备份。

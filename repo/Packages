@@ -1,0 +1,108 @@
+Package: com.sini921.callmemaybe
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm & SINI
+Installed-Size: 300
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: deb/com.sini921.callmemaybe_1.0.1_iphoneos-arm64.deb
+Size: 71430
+MD5sum: 4e1302bdd4b850aaf2847b8b4d8f6fe4
+SHA1: 1a1f249b1166fe72dbfa8d4c2230987dee09fd3b
+SHA256: 74bef5f520523f29d67e807c6ab77dbc00cc871b8bb6c622a57fcb5db58b6cbe
+Section: 越狱插件
+Description: 电话增强
+Author: dvntm & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/callmemaybe.png
+Name: CallMeMaybe【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/callmemaybe/js.json
+
+Package: com.sini921.freepip
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh & SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: deb/com.sini921.freepip_0.0.4_iphoneos-arm64.deb
+Size: 4986
+MD5sum: b5b9b7f480bd30774d978e3ef4383587
+SHA1: 83bf4181cf966d739eb15957240687f96f935d3f
+SHA256: 96fe5e681254fe97165b97e58dace23a60a3f87b586a6b34c3c0ca3993e4d0de
+Section: 越狱插件
+Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，优化了一些代码，改进了一些细节
+Author: Soh Satoh & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
+Name: FreePIP【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
+
+Package: com.sini921.griddy
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: deb/com.sini921.griddy_1.0.5_iphoneos-arm64.deb
+Size: 19072
+MD5sum: e4da698e30df8f7aee290f1712f20b16
+SHA1: f84237aaf300f3896aa6e4ac962a5fed282e6c82
+SHA256: e2d85c95a9f7690c9240e48569eab4d16198895ab8ab93633c1831cba62ad19f
+Section: 越狱插件
+Description: 桌面图标随意摆
+Author: mikifp
+Icon: https://sini921.github.io/repo/sileodepiction/icon/griddy.png
+Name: Griddy【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
+
+Package: com.sini921.notificationsgroupcount
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj & SINI
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: deb/com.sini921.notificationsgroupcount_1.0.6_iphoneos-arm64.deb
+Size: 88476
+MD5sum: d88610b14305dacc40c47793cb68c24b
+SHA1: b4eb889e87adff5de51dd06f6519efa2133fbb01
+SHA256: 605a262bb80ba9d09c68dfbd602b25e78acb20cab01111dca5dec2fbf63e3908
+Section: 越狱插件
+Description: 锁屏界面的通知分组后以角标显示每组通知数量。使用开源代码编译并汉化
+Author: 0xkuj & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/notificationsgroupcount.png
+Name: NotificationsGroupCount【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/notificationsgroupcount/js.json
+
+Package: com.sini921.qqavatarrotation
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: deb/com.sini921.qqavatarrotation_1.1.0-1_iphoneos-arm64.deb
+Size: 3672
+MD5sum: afaa9d7e6f415e18355ff8eee28ba254
+SHA1: 584b62522f134258afd22b4e5b8e08f4bec3a287
+SHA256: be42dc3f9019c2265a0df1b70cc3a78e454e2394be567e1d1158596de1cafba4
+Section: 应用破解
+Description: QQ头像瞎季伯转，仅在9.1.25版本上测试。
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/qq.png
+Name: QQAvatarRotation【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/qqavatarrotation/js.json
+
+Package: com.sini921.showmytouches
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm & SINI
+Installed-Size: 492
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: deb/com.sini921.showmytouches_1.2.1_iphoneos-arm64.deb
+Size: 82734
+MD5sum: 16ec8ca10b4dc4cdc9cbc609dde3ce3e
+SHA1: da09433e8b61455f9d1ce69fd99160ad14e5883c
+SHA256: 5468a81c11b8028d2046d00b2dfb5328a2feb543ccc75b82833f901f4d950365
+Section: 越狱插件
+Description: 触摸轨迹，基于开源代码的基础上，增加滑动轨迹效果
+Author: dvntm & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
+Name: ShowMyTouches【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/showmytouches/js.json
+
